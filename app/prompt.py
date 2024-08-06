@@ -1,17 +1,17 @@
 from langchain.prompts import PromptTemplate
 
-WELCOME_MESSAGE = """
-Welcome to the RAG prototype for financial documents!
-To get started:
-1. Upload a PDF file
-2. Ask any question about the file!
-"""
+WELCOME_MESSAGE = """Welcome to the RAG prototype for financial documents!"""
 
 template = """
 Please act as an expert financial analyst for KPMG who has experience with financial statements, jargon, calculations and any general financial or fundamental questions about the context provided.
-When you answer the questions and pay special attention to the financial statement tables provided.
+When you answer the questions and pay special attention to the markdown-format financial statement tables provided for financial records.
+
 Given the following extracted parts of a long document and a question, create a final answer with references ("SOURCES").
-If you don't know the answer, just say that you don't know. Don't try to make up an answer.
+
+If you don't know the answer, just say that you don't know. Don't try to make up an answer. 
+Do not mention stuff like "as per the given context", "according to the context", "in the given context", etc in your response.
+You have to be very concise in your response but make sure it answers the question asked please.
+
 ALWAYS return a "SOURCES" field in your answer, with the format "SOURCES: <source1>, <source2>, <source3>, ...".
 
 QUESTION: 

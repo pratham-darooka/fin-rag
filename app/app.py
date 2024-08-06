@@ -38,26 +38,37 @@ from llama_index.core import SimpleDirectoryReader
 from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS
 
 namespaces = set()
+
 KNOWLEDGE_DIRECTORY = 'knowledge'
 PERSIST_DIRECTORY = os.path.join(KNOWLEDGE_DIRECTORY, "db")
 
 def process_file() -> list:
     # Process and save data in the user session
     pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
+    
+    if (os.getenv('RESET_CHROMA') != 'FALSE') or (glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md')) == []):
+        logger.warning("Cache not found.")
+        # set up parser
+        parser = LlamaParse(
+            result_type="markdown",
+            parsing_instructions=PARSING_INSTRUCTIONS,
+        )
 
-    # set up parser
-    parser = LlamaParse(
-        result_type="markdown",  # "markdown" and "text" are available
-        parsing_instructions=PARSING_INSTRUCTIONS,
-    )
+        # use SimpleDirectoryReader to parse our file
+        file_extractor = {".pdf": parser}
+        documents = SimpleDirectoryReader(input_files=pdf_files, file_extractor=file_extractor).load_data()
 
-    # use SimpleDirectoryReader to parse our file
-    file_extractor = {".pdf": parser}
-    documents = SimpleDirectoryReader(input_files=pdf_files, file_extractor=file_extractor).load_data()
+        for document in documents:
+            with open(os.path.join(KNOWLEDGE_DIRECTORY, document.metadata['file_name'].split('.')[0] + '.md'), 'a') as md_file:
+                md_file.write(document.text + '\n\n')
+    else:
+        logger.success("Cache found.")
+        # use SimpleDirectoryReader to parse our file
+        documents = SimpleDirectoryReader(input_files=[f"{file.split('.')[0]}.md" for file in pdf_files]).load_data()
     
     all_docs = []
     for document in documents:
-        document.metadata['source'] = document.metadata['file_name']
+        document.metadata['source'] = document.metadata['file_name'].split('.')[0]
         all_docs.append(document.to_langchain_format())
 
     text_splitter = RecursiveCharacterTextSplitter(            
@@ -83,19 +94,15 @@ def create_search_engine() -> VectorStore:
     encoder = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     # Initialize Chromadb client and settings, reset to ensure we get a clean search engine    
-    client = chromadb.EphemeralClient()    
+    # client = chromadb.EphemeralClient()    
+    client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)  
     client_settings = Settings(        
         allow_reset=True,        
-        anonymized_telemetry=False    
-        )    
+        anonymized_telemetry=False,
+        is_persistent=True,
+    )    
 
-    if (not os.path.exists('db')) or (os.getenv('RESET_CHROMA') != 'FALSE'):        
-        search_engine = Chroma(        
-            client=client,       
-            client_settings=client_settings    
-            )    
-        search_engine._client.reset()
-
+    if (not os.path.exists(PERSIST_DIRECTORY)) or (os.getenv('RESET_CHROMA') != 'FALSE'):        
         # Create a list of unique ids for each document based on the content
         ids = [str(uuid.uuid5(uuid.NAMESPACE_DNS, doc.page_content)) for doc in docs]
         unique_ids = list(set(ids))
@@ -110,7 +117,6 @@ def create_search_engine() -> VectorStore:
             documents=unique_docs,        
             embedding=encoder,        
             client_settings=client_settings,
-            persist_directory=PERSIST_DIRECTORY,
             ids=unique_ids,
             )
     else:
@@ -120,7 +126,6 @@ def create_search_engine() -> VectorStore:
             client=client,
             client_settings=client_settings,
             )
-
     return search_engine
 
 @cl.on_chat_start
@@ -189,7 +194,8 @@ async def main(message: cl.Message):
     response = await chain.acall(message.content, callbacks=[cb])    
     
     answer = response["answer"]    
-    sources = response["sources"].strip()    
+    sources = response["sources"].strip()  
+
     source_elements = []
     
     # Get the documents from the user session   
@@ -201,14 +207,18 @@ async def main(message: cl.Message):
     if sources:        
         found_sources = []
         # Add the sources to the message        
-        for source in sources.split(","):            
-            source_name = source.strip()        
-    
+        for source in sources.split(","):      
+            source_name = source.strip().split('.')[0]             
+
             # Get the index of the source            
-            try:               
+            try:             
                 index = all_sources.index(source_name)    
-            except ValueError:                
+            except ValueError:     
+                logger.error("Source not found")     
+                logger.info(source_name)      
+                logger.info(all_sources)      
                 continue            
+
             text = docs[index].page_content            
             found_sources.append(source_name)            
             
@@ -216,10 +226,12 @@ async def main(message: cl.Message):
             source_elements.append(cl.Text(content=text, name=source_name))
         if found_sources:            
             answer += f"\nSources: {', '.join(found_sources)}"       
-        else:            
-            answer += "\nNo sources found"
+        else:
+            pass            
+            # answer += "\nError finding sources."
 
     await cl.Message(content=answer, elements=source_elements).send()
 
 if __name__ == "__main__":
-    store = create_search_engine()
+    # do process files, change env var reset chroma, do process files again and see difference in document parsing
+    pass
