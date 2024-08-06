@@ -3,10 +3,9 @@ chainlit==0.7.501
 tiktoken
 chromadb
 loguru
-# pysqlite3-binary
-ruff
+pysqlite3-binary
 pdfplumber
-unstructured[all-docs]
+unstructured[md]
 
 langchain
 langchain-community

@@ -1,0 +1,5 @@
+venv
+.chainlit
+.env
+knowledge/*.md
+app/__pycache__

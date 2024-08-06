@@ -1,3 +1,14 @@
+# next 3 lines for python <3.10
+__import__('pysqlite3')
+import sys
+
+import nltk.downloader
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
+#nltk
+import nltk
+nltk.download('averaged_perceptron_tagger')
+
 import os
 import glob
 from dotenv import load_dotenv
@@ -11,6 +22,7 @@ from chainlit.types import AskFileResponse
 from loguru import logger
 import chromadb
 from chromadb.config import Settings
+
 from langchain.chains import ConversationalRetrievalChain, RetrievalQAWithSourcesChain
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
@@ -21,69 +33,58 @@ from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain.memory import ConversationBufferMemory
 
 from llama_parse import LlamaParse
+from llama_index.core import SimpleDirectoryReader
+
 from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS
 
 namespaces = set()
 KNOWLEDGE_DIRECTORY = 'knowledge'
 
-def llama_parse_documents(directory, file):
-    logger.info("Preparing to parse:")
-    logger.info(file)
+def process_file() -> list:
+    # Process and save data in the user session
+    pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
 
-    src = os.path.join(file)
-    destination = os.path.join(file.split('.')[0] + '.txt')
+    # set up parser
+    parser = LlamaParse(
+        result_type="markdown",  # "markdown" and "text" are available
+        parsing_instructions=PARSING_INSTRUCTIONS,
+    )
 
-    logger.info(f'Parsing {src} into {destination} using LlamaParse')
-    if not os.path.exists(destination):
-        with open(destination, "w", encoding='utf-8') as text_file:
-            document = LlamaParse(
-                    result_type="markdown",
-                    parsing_instructions=PARSING_INSTRUCTIONS,
-                ).load_data(src)
-            parsed_text = "".join([i.text for i in document])
-            logger.info(f'LlamaParse has finished')
-            text_file.write(parsed_text)
-            logger.success(f'{destination} created.')
-
-def process_file(file_path) -> list:
-    logger.info(file_path)
-
-    if ('.pdf' not in file_path):        
-        raise TypeError("Only PDF files are supported")
+    # use SimpleDirectoryReader to parse our file
+    file_extractor = {".pdf": parser}
+    documents = SimpleDirectoryReader(input_files=pdf_files, file_extractor=file_extractor).load_data()
     
-    try:
-        llama_parse_documents(KNOWLEDGE_DIRECTORY, file_path)
-        parsed_content_file_path = os.path.join(file_path.split('.')[0] + '.txt')
-        loader = UnstructuredMarkdownLoader(parsed_content_file_path)
-    except Exception as e:
-        logger.error(f'!! Error: {e}')
-        loader = PDFPlumberLoader(os.path.join(file_path))
-
-    documents = loader.load()
+    all_docs = []
+    for document in documents:
+        document.metadata['source'] = document.metadata['file_name']
+        all_docs.append(document.to_langchain_format())
 
     text_splitter = RecursiveCharacterTextSplitter(            
         chunk_size=2048,            
         chunk_overlap=256       
         )
     
-    docs = text_splitter.split_documents(documents)
-
+    docs = text_splitter.split_documents(all_docs)
+    
     for i, doc in enumerate(docs):            
-        doc.metadata["source"] += f"_chunk_{i}"
+        doc.metadata["source"] = f"chunk_{i}::" + doc.metadata["source"]
 
     if not docs:            
             raise ValueError("PDF file parsing failed.")
+    
     return docs
 
 def create_search_engine() -> VectorStore:    
-    # Process and save data in the user session
-    pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
-    logger.info(pdf_files)
+    # # Process and save data in the user session
+    # pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
+    # logger.info(pdf_files)
     
-    docs = []
+    # docs = []
 
-    for file in pdf_files:
-        docs.extend(process_file(file))    
+    # for file in pdf_files:
+    #     docs.extend(process_file(file))    
+
+    docs = process_file()
 
     cl.user_session.set("docs", docs)
 
@@ -109,28 +110,11 @@ def create_search_engine() -> VectorStore:
     return search_engine
 
 @cl.on_chat_start
-async def start():   
-    # res = await cl.AskUserMessage(content="Enter Gemini API Key:", timeout=10).send()
-    # if res:       
-    #     await cl.Message(            
-    #         content=f"Your Gemini API Key is processed: {res['content']}",       
-    #         ).send()
-    
-    # files = None    
-    # while files is None:        
-    #     files = await cl.AskFileMessage(            
-    #         content=WELCOME_MESSAGE,           
-    #         accept=["application/pdf"],            
-    #         max_size_mb=5,        
-    #         ).send()
-    # file = files[0]    
-    # msg = cl.Message(content=f"Processing `{file.name}`...")    
-    # await msg.send()
-    
+async def start():           
     try:        
-        search_engine = await cl.make_async(create_search_engine)() 
         msg = cl.Message(content=f"Hello! Loading documents...")   
         await msg.send()
+        search_engine = await cl.make_async(create_search_engine)() 
     except Exception as e:
         await cl.Message(content=f"Error: {e}").send()        
         raise SystemError
@@ -160,7 +144,7 @@ async def start():
                 "document_prompt": EXAMPLE_PROMPT        
                 },    
         )
-    msg.content = f"Documents processed. You can now ask questions!"  
+    msg.content = f"Documents loaded! How can I help you?"  
 
     await msg.update()
     
@@ -206,3 +190,6 @@ async def main(message: cl.Message):
             answer += "\nNo sources found"
 
     await cl.Message(content=answer, elements=source_elements).send()
+
+if __name__ == "__main__":
+    store = create_search_engine()
