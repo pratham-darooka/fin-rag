@@ -18,6 +18,7 @@ from tempfile import NamedTemporaryFile
 
 import chainlit as cl
 from chainlit.types import AskFileResponse
+from chainlit.input_widget import Select, Switch, Slider
 from loguru import logger
 import chromadb
 from chromadb.config import Settings
@@ -131,6 +132,30 @@ def create_search_engine() -> VectorStore:
 
 @cl.on_chat_start
 async def start():           
+    settings = await cl.ChatSettings(
+        [
+            Select(
+                id="Model",
+                label="LLM Provider",
+                values=["Gemini", "Groq", "OpenAI", "Anthropic"],
+                initial_index=0,
+            ),
+            Switch(
+                id="Streaming", 
+                label="Stream Tokens", 
+                initial=True
+                ),
+            Slider(
+                id="Temperature",
+                label="Temperature",
+                initial=1,
+                min=0,
+                max=2,
+                step=0.1,
+            ),
+        ]
+    ).send()
+
     try:        
         msg = cl.Message(content=f"Hello! Loading documents...")   
         await msg.send()
