@@ -164,12 +164,21 @@ async def start():
         await cl.Message(content=f"Error: {e}").send()        
         raise SystemError
     
-    llm = ChatGoogleGenerativeAI(        
-        model='gemini-pro',        
-        temperature=0,        
-        streaming=True,        
-        convert_system_message_to_human=True    
-        )
+    if settings['Model'] == 'Gemini':
+        llm = ChatGoogleGenerativeAI(        
+            model='gemini-pro',        
+            temperature=settings['Temperature'],        
+            streaming=settings['Streaming'],        
+            convert_system_message_to_human=True    
+            )
+    else:
+        print("+++++++++MMEEEWOOOWWWWWW++++++++")
+        llm = ChatGoogleGenerativeAI(        
+            model='gemini-pro',        
+            temperature=settings['Temperature'],        
+            streaming=settings['Streaming'],        
+            convert_system_message_to_human=True    
+            )
     
     memory = ConversationBufferMemory(
         memory_key="chat_history",
@@ -210,8 +219,14 @@ async def start():
     
     cl.user_session.set("chain", chain)
 
+@cl.on_settings_update
+async def setup_agent(settings):
+    print("on_settings_update", settings)
+    logger.critical(settings)
+
 @cl.on_message
 async def main(message: cl.Message):    
+
     chain = cl.user_session.get("chain")  
         
     cb = cl.AsyncLangchainCallbackHandler()    
@@ -255,8 +270,13 @@ async def main(message: cl.Message):
             # answer += "\nError finding sources."
 
     logger.success(message_history.messages)
-    
-    await cl.Message(content=answer, elements=source_elements).send()
+
+    ans = cl.Message(content="")
+    for token in answer:
+        await ans.stream_token(token)
+
+    await ans.send()    
+    # await cl.Message(content=answer, elements=source_elements).send()
 
 if __name__ == "__main__":
     # do process files, change env var reset chroma, do process files again and see difference in document parsing
