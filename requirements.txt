@@ -5,7 +5,7 @@ chromadb
 loguru
 pdfplumber
 unstructured[md]
-
+pysqlite3-binary
 
 langchain
 langchain-community
