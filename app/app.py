@@ -38,6 +38,7 @@ from llama_index.core import SimpleDirectoryReader
 from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS
 
 namespaces = set()
+message_history = ChatMessageHistory()
 
 KNOWLEDGE_DIRECTORY = 'knowledge'
 PERSIST_DIRECTORY = os.path.join(KNOWLEDGE_DIRECTORY, "db")
@@ -145,7 +146,6 @@ async def start():
         convert_system_message_to_human=True    
         )
     
-    message_history = ChatMessageHistory()
     memory = ConversationBufferMemory(
         memory_key="chat_history",
         output_key="answer",
@@ -176,7 +176,7 @@ async def start():
         memory=memory,
         chain_type_kwargs={            
                 "prompt": PROMPT,            
-                "document_prompt": EXAMPLE_PROMPT        
+                "document_prompt": EXAMPLE_PROMPT
                 },    
         )
     msg.content = f"Documents loaded! How can I help you?"  
@@ -215,8 +215,7 @@ async def main(message: cl.Message):
                 index = all_sources.index(source_name)    
             except ValueError:     
                 logger.error("Source not found")     
-                logger.info(source_name)      
-                logger.info(all_sources)      
+                # logger.info(source_name)      
                 continue            
 
             text = docs[index].page_content            
@@ -230,6 +229,8 @@ async def main(message: cl.Message):
             pass            
             # answer += "\nError finding sources."
 
+    logger.success(message_history.messages)
+    
     await cl.Message(content=answer, elements=source_elements).send()
 
 if __name__ == "__main__":
