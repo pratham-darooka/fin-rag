@@ -1,11 +1,10 @@
 # next 3 lines for python <3.10
 __import__('pysqlite3')
 import sys
-
-import nltk.downloader
+import uuid
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
-#nltk
+#nltk data
 import nltk
 nltk.download('averaged_perceptron_tagger')
 
@@ -24,6 +23,7 @@ import chromadb
 from chromadb.config import Settings
 
 from langchain.chains import ConversationalRetrievalChain, RetrievalQAWithSourcesChain
+from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import PDFPlumberLoader, UnstructuredMarkdownLoader
@@ -39,6 +39,7 @@ from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS
 
 namespaces = set()
 KNOWLEDGE_DIRECTORY = 'knowledge'
+PERSIST_DIRECTORY = os.path.join(KNOWLEDGE_DIRECTORY, "db")
 
 def process_file() -> list:
     # Process and save data in the user session
@@ -75,17 +76,8 @@ def process_file() -> list:
     return docs
 
 def create_search_engine() -> VectorStore:    
-    # # Process and save data in the user session
-    # pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
-    # logger.info(pdf_files)
-    
-    # docs = []
-
-    # for file in pdf_files:
-    #     docs.extend(process_file(file))    
-
+    # Process and save data in the user session
     docs = process_file()
-
     cl.user_session.set("docs", docs)
 
     encoder = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
@@ -96,17 +88,39 @@ def create_search_engine() -> VectorStore:
         allow_reset=True,        
         anonymized_telemetry=False    
         )    
-    search_engine = Chroma(        
-        client=client,       
-        client_settings=client_settings    
-        )    
-    search_engine._client.reset()
-    search_engine = Chroma.from_documents(        
-        client=client,        
-        documents=docs,        
-        embedding=encoder,        
-        client_settings=client_settings    
-        )
+
+    if (not os.path.exists('db')) or (os.getenv('RESET_CHROMA') != 'FALSE'):        
+        search_engine = Chroma(        
+            client=client,       
+            client_settings=client_settings    
+            )    
+        search_engine._client.reset()
+
+        # Create a list of unique ids for each document based on the content
+        ids = [str(uuid.uuid5(uuid.NAMESPACE_DNS, doc.page_content)) for doc in docs]
+        unique_ids = list(set(ids))
+
+        # Ensure that only docs that correspond to unique ids are kept and that only one of the duplicate ids is kept
+        seen_ids = set()
+        unique_docs = [doc for doc, id in zip(docs, ids) if id not in seen_ids and (seen_ids.add(id) or True)]
+
+        # Add the unique documents to the database
+        search_engine = Chroma.from_documents(        
+            client=client,        
+            documents=unique_docs,        
+            embedding=encoder,        
+            client_settings=client_settings,
+            persist_directory=PERSIST_DIRECTORY,
+            ids=unique_ids,
+            )
+    else:
+        search_engine = Chroma(
+            persist_directory=PERSIST_DIRECTORY, 
+            embedding_function=encoder,
+            client=client,
+            client_settings=client_settings,
+            )
+
     return search_engine
 
 @cl.on_chat_start
@@ -134,10 +148,26 @@ async def start():
         return_messages=True,
     )
 
+    retriever_from_llm = MultiQueryRetriever.from_llm(
+            retriever=search_engine.as_retriever(
+                max_tokens_limit=4097,
+                search_type="similarity_score_threshold",
+                search_kwargs={
+                    "score_threshold": 0.5, 
+                    "k": 5
+                    },
+            ), llm=llm
+        )
+
     chain = RetrievalQAWithSourcesChain.from_chain_type(        
         llm=llm,        
         chain_type="stuff",        
-        retriever=search_engine.as_retriever(max_tokens_limit=4097),
+        # retriever=search_engine.as_retriever(
+        #     max_tokens_limit=4097,
+        #     search_type="similarity_score_threshold",
+        #     search_kwargs={"k": 5},
+        #     ),
+        retriever=retriever_from_llm,
         memory=memory,
         chain_type_kwargs={            
                 "prompt": PROMPT,            
