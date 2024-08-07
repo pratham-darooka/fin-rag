@@ -1,8 +1,7 @@
-# next 3 lines for python <3.10
-# __import__('pysqlite3')
-# import sys
-# import uuid
-# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# next 3 lines for python <3.10, else uncomment
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # nltk data
 # import nltk
@@ -14,21 +13,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from typing import List
-
 import chainlit as cl
-from chainlit.types import AskFileResponse
 from chainlit.input_widget import Select, Switch, Slider
+
 from loguru import logger
-import uuid
-import uuid
 import chromadb
 from chromadb.config import Settings
+import uuid
+from icecream import ic
 
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain_groq import ChatGroq
 from langchain_groq import ChatGroq
 from langchain_chroma import Chroma
 # from langchain_core.messages import AIMessage, HumanMessage, get_buffer_string
@@ -41,9 +37,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.base import VectorStore
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain.memory import ConversationBufferMemory
-from langchain_core.output_parsers import BaseOutputParser, StrOutputParser
-from langchain_core.prompts import PromptTemplate
-from langchain_core.pydantic_v1 import BaseModel, Field
 
 from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
@@ -62,8 +55,8 @@ def get_file_name_from_path(file_path: str) -> str:
 
 def process_file() -> list:
     # Process and save data in the user session
-    pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
-    md_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md'))
+    pdf_files = ic(glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf')))
+    md_files = ic(glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md')))
     
     logger.info(f"Parsing files: {pdf_files}")
 
@@ -75,8 +68,10 @@ def process_file() -> list:
 
     input_files = [k for k, v in cached.items() if not v]
     logger.info(f"Found new documents: {input_files}") if len(input_files) > 0 else logger.info("No new documents found")
+    
+    documents = []
 
-    if os.getenv('RESET_CHROMA') != 'False':
+    if ic(os.getenv('RESET_CHROMA') != 'False'):
         for md_file in md_files:
             os.remove(md_file)
 
@@ -91,13 +86,15 @@ def process_file() -> list:
         # use SimpleDirectoryReader to parse our file
         file_extractor = {".pdf": parser}
         documents = SimpleDirectoryReader(input_files=pdf_files, file_extractor=file_extractor).load_data()
+        
+        ic(len(documents))
 
         for document in documents:
             md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
 
             with open(md_file_path, 'a') as md_file:
                 md_file.write(document.text + '\n\n')
-    elif len(input_files) > 0:
+    elif ic(len(input_files) > 0):
         logger.warning("Running incremental parsing for new documents.")
         # set up parser
         parser = LlamaParse(
@@ -108,24 +105,35 @@ def process_file() -> list:
         # use SimpleDirectoryReader to parse our file
         file_extractor = {".pdf": parser}
         documents = SimpleDirectoryReader(
-            input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]
-            ).load_data().extend(
-                SimpleDirectoryReader(
-                    input_files=input_files,
-                    file_extractor=file_extractor
+                        input_files=input_files,
+                        file_extractor=file_extractor
                     ).load_data()
-                    )
+        
+        ic(len(documents))
 
         for document in documents:
             md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
             with open(md_file_path, 'a') as md_file:
                 md_file.write(document.text + '\n\n')
         
-        os.environ['INCREMENTAL_DB_UPDATE'] = True
+        updated_md_files = [os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]
+
+        existing_docs = SimpleDirectoryReader(
+                                input_files=ic(updated_md_files)
+                            ).load_data()
+        
+        ic(len(existing_docs))
+
+        documents.extend(existing_docs)
+        
+        os.environ['INCREMENTAL_DB_UPDATE'] = 'True'
     else:
+        logger.success("Cache found.")
         # use SimpleDirectoryReader to parse our file
         documents = SimpleDirectoryReader(input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]).load_data()
-    
+        
+        ic(len(documents))
+
     all_docs = []
     for document in documents:
         document.metadata['source'] = get_file_name_from_path(document.metadata['file_name'])
@@ -167,7 +175,7 @@ def create_search_engine() -> VectorStore:
         is_persistent=True,
     )    
 
-    if (not os.path.exists(PERSIST_DIRECTORY)) or (os.getenv('RESET_CHROMA') != 'False') or os.environ['INCREMENTAL_DB_UPDATE']:
+    if not ic(os.path.exists(PERSIST_DIRECTORY)) or ic(os.getenv('RESET_CHROMA') != 'False') or ic(os.getenv('INCREMENTAL_DB_UPDATE') != 'False'):
         logger.warning("Resetting Chroma DB.")
 
         # Create a list of unique ids for each document based on the content
@@ -190,6 +198,7 @@ def create_search_engine() -> VectorStore:
         logger.info("Search engine created.")
     else:
         logger.warning("Using persisted Chroma DB.")
+
         search_engine = Chroma(
             persist_directory=PERSIST_DIRECTORY, 
             embedding_function=encoder,
@@ -220,7 +229,6 @@ async def start():
                 id="Temperature",
                 label="Temperature",
                 initial=0,
-                initial=0,
                 min=0,
                 max=2,
                 step=0.1,
@@ -229,17 +237,16 @@ async def start():
     ).send()
 
     try:        
-        msg = cl.Message(content=f"Hello! Loading documents...")   
+        msg = cl.Message(content=f"### Loading documents...")   
         await msg.send()
         logger.info("Creating search engine")
         search_engine = await cl.make_async(create_search_engine)() 
-        logger.success("Chatbot ready!")
+        logger.success("### Chatbot ready!")
     except Exception as e:
         await cl.Message(content=f"Error: {e}").send()        
         raise SystemError
     
     if settings['Model'] == 'Gemini':
-        logger.info(f"Using {settings['Model']} with temperature = {settings['Temperature']}.")
         llm = ChatGoogleGenerativeAI(        
             model='gemini-pro',        
             temperature=settings['Temperature'],        
@@ -261,7 +268,6 @@ async def start():
         chat_memory=message_history,
         return_messages=True,
     )
-    # logger.critical(QUERY_PROMPT.format_prompt(chat_history=["meow"], question="{{question}}"))
 
     retriever = search_engine.as_retriever(
                 # max_tokens_limit=4097,
@@ -361,9 +367,7 @@ async def main(message: cl.Message):
             # answer += "\nError finding sources."
 
     logger.success(message_history.messages)
-    # logger.success(cl.chat_context.to_openai())
 
-    ans = cl.Message(content="", elements=source_elements)
     ans = cl.Message(content="", elements=source_elements)
     for token in answer:
         await ans.stream_token(token)
@@ -390,4 +394,4 @@ async def main(message: cl.Message):
 
 if __name__ == "__main__":
     # do process files, change env var reset chroma, do process files again and see difference in document parsing
-    process_file()
+    create_search_engine()

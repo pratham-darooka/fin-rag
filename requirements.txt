@@ -3,9 +3,9 @@ chainlit==0.7.501
 tiktoken
 chromadb
 loguru
-# pysqlite3-binary # uncomment if python < 3.10
+pysqlite3-binary # uncomment if python < 3.10
 pdfplumber
-unstructured[md]
+icecream
 
 langchain
 langchain-community
