@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from tempfile import NamedTemporaryFile
+# from tempfile import NamedTemporaryFile
 
 import chainlit as cl
 from chainlit.types import AskFileResponse
@@ -23,11 +23,11 @@ from loguru import logger
 import chromadb
 from chromadb.config import Settings
 
-from langchain.chains import ConversationalRetrievalChain, RetrievalQAWithSourcesChain
+from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import PDFPlumberLoader, UnstructuredMarkdownLoader
+# from langchain_community.document_loaders import PDFPlumberLoader, UnstructuredMarkdownLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.base import VectorStore
 from langchain_community.chat_message_histories import ChatMessageHistory
@@ -36,7 +36,7 @@ from langchain.memory import ConversationBufferMemory
 from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
 
-from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS
+from prompt import EXAMPLE_PROMPT, PROMPT, PARSING_INSTRUCTIONS
 
 namespaces = set()
 message_history = ChatMessageHistory()
@@ -44,12 +44,29 @@ message_history = ChatMessageHistory()
 KNOWLEDGE_DIRECTORY = 'knowledge'
 PERSIST_DIRECTORY = os.path.join(KNOWLEDGE_DIRECTORY, "db")
 
+def get_file_name_from_path(file_path: str) -> str:
+    return os.path.basename(file_path).split('.')[0]
+
 def process_file() -> list:
     # Process and save data in the user session
     pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
+    md_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md'))
     
-    if (os.getenv('RESET_CHROMA') != 'FALSE') or (glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md')) == []):
-        logger.warning("Cache not found.")
+    cached = {}
+    for kb in pdf_files:
+        cached[kb] = get_file_name_from_path(kb) in [get_file_name_from_path(cache) for cache in md_files]    
+    
+    logger.info(cached)
+
+    input_files = [k for k, v in cached.items() if not v]
+    logger.info(f"Found new documents: {input_files}") if len(input_files) > 0 else logger.info("No new documents found")
+
+    if os.getenv('RESET_CHROMA') != 'False':
+        for md_file in md_files:
+            os.remove(md_file)
+
+        logger.warning("Initializing DB")
+
         # set up parser
         parser = LlamaParse(
             result_type="markdown",
@@ -61,16 +78,43 @@ def process_file() -> list:
         documents = SimpleDirectoryReader(input_files=pdf_files, file_extractor=file_extractor).load_data()
 
         for document in documents:
-            with open(os.path.join(KNOWLEDGE_DIRECTORY, document.metadata['file_name'].split('.')[0] + '.md'), 'a') as md_file:
+            md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
+
+            with open(md_file_path, 'a') as md_file:
                 md_file.write(document.text + '\n\n')
+    elif len(input_files) > 0:
+        logger.warning("Running incremental parsing for new documents.")
+        # set up parser
+        parser = LlamaParse(
+            result_type="markdown",
+            parsing_instructions=PARSING_INSTRUCTIONS,
+        )
+
+        # use SimpleDirectoryReader to parse our file
+        file_extractor = {".pdf": parser}
+        documents = SimpleDirectoryReader(
+            input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]
+            ).load_data().extend(
+                SimpleDirectoryReader(
+                    input_files=input_files,
+                    file_extractor=file_extractor
+                    ).load_data()
+                    )
+
+        for document in documents:
+            md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
+            with open(md_file_path, 'a') as md_file:
+                md_file.write(document.text + '\n\n')
+        
+        os.environ['INCREMENTAL_DB_UPDATE'] = True
     else:
         logger.success("Cache found.")
         # use SimpleDirectoryReader to parse our file
-        documents = SimpleDirectoryReader(input_files=[f"{file.split('.')[0]}.md" for file in pdf_files]).load_data()
+        documents = SimpleDirectoryReader(input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]).load_data()
     
     all_docs = []
     for document in documents:
-        document.metadata['source'] = document.metadata['file_name'].split('.')[0]
+        document.metadata['source'] = get_file_name_from_path(document.metadata['file_name'])
         all_docs.append(document.to_langchain_format())
 
     text_splitter = RecursiveCharacterTextSplitter(            
@@ -91,6 +135,8 @@ def process_file() -> list:
 def create_search_engine() -> VectorStore:    
     # Process and save data in the user session
     docs = process_file()
+
+    logger.info("Creating search engine.")
     cl.user_session.set("docs", docs)
 
     encoder = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
@@ -104,7 +150,9 @@ def create_search_engine() -> VectorStore:
         is_persistent=True,
     )    
 
-    if (not os.path.exists(PERSIST_DIRECTORY)) or (os.getenv('RESET_CHROMA') != 'FALSE'):        
+    if (not os.path.exists(PERSIST_DIRECTORY)) or (os.getenv('RESET_CHROMA') != 'False') or os.environ['INCREMENTAL_DB_UPDATE']:
+        logger.warning("Resetting Chroma DB.")
+
         # Create a list of unique ids for each document based on the content
         ids = [str(uuid.uuid5(uuid.NAMESPACE_DNS, doc.page_content)) for doc in docs]
         unique_ids = list(set(ids))
@@ -121,13 +169,19 @@ def create_search_engine() -> VectorStore:
             client_settings=client_settings,
             ids=unique_ids,
             )
+        
+        logger.info("Search engine created.")
     else:
+        logger.warning("Using persisted Chroma DB.")
         search_engine = Chroma(
             persist_directory=PERSIST_DIRECTORY, 
             embedding_function=encoder,
             client=client,
             client_settings=client_settings,
             )
+        
+        logger.info("Search engine created from cache.")
+
     return search_engine
 
 @cl.on_chat_start
@@ -172,7 +226,6 @@ async def start():
             convert_system_message_to_human=True    
             )
     else:
-        print("+++++++++MMEEEWOOOWWWWWW++++++++")
         llm = ChatGoogleGenerativeAI(        
             model='gemini-pro',        
             temperature=settings['Temperature'],        
@@ -189,7 +242,7 @@ async def start():
 
     retriever_from_llm = MultiQueryRetriever.from_llm(
             retriever=search_engine.as_retriever(
-                max_tokens_limit=4097,
+                # max_tokens_limit=4097,
                 search_type="similarity_score_threshold",
                 search_kwargs={
                     "score_threshold": 0.5, 
@@ -248,7 +301,7 @@ async def main(message: cl.Message):
         found_sources = []
         # Add the sources to the message        
         for source in sources.split(","):      
-            source_name = source.strip().split('.')[0]             
+            source_name = get_file_name_from_path(source.strip())
 
             # Get the index of the source            
             try:             
@@ -271,7 +324,7 @@ async def main(message: cl.Message):
 
     logger.success(message_history.messages)
 
-    ans = cl.Message(content="")
+    ans = cl.Message(content="", elements=source_elements)
     for token in answer:
         await ans.stream_token(token)
 
@@ -280,4 +333,4 @@ async def main(message: cl.Message):
 
 if __name__ == "__main__":
     # do process files, change env var reset chroma, do process files again and see difference in document parsing
-    pass
+    process_file()
