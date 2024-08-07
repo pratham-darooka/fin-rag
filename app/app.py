@@ -14,20 +14,27 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# from tempfile import NamedTemporaryFile
+from typing import List
 
 import chainlit as cl
 from chainlit.types import AskFileResponse
 from chainlit.input_widget import Select, Switch, Slider
 from loguru import logger
+import uuid
 import chromadb
 from chromadb.config import Settings
 
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_groq import ChatGroq
 from langchain_chroma import Chroma
-# from langchain_community.document_loaders import PDFPlumberLoader, UnstructuredMarkdownLoader
+# from langchain_core.messages import AIMessage, HumanMessage, get_buffer_string
+# from langchain_core.prompts import format_document
+# from langchain_core.runnables import RunnableParallel, RunnablePassthrough, RunnableLambda
+# from langchain_core.output_parsers import BaseOutputParser, StrOutputParser
+# from langchain_core.prompts import PromptTemplate
+# from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.base import VectorStore
 from langchain_community.chat_message_histories import ChatMessageHistory
@@ -37,6 +44,7 @@ from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
 
 from prompt import EXAMPLE_PROMPT, PROMPT, PARSING_INSTRUCTIONS
+# from prompt import EXAMPLE_PROMPT, PROMPT, WELCOME_MESSAGE, PARSING_INSTRUCTIONS, QUERY_PROMPT, CONDENSE_QUESTION_PROMPT
 
 namespaces = set()
 message_history = ChatMessageHistory()
@@ -52,6 +60,8 @@ def process_file() -> list:
     pdf_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.pdf'))
     md_files = glob.glob(os.path.join(KNOWLEDGE_DIRECTORY, '*.md'))
     
+    logger.info(f"Parsing files: {pdf_files}")
+
     cached = {}
     for kb in pdf_files:
         cached[kb] = get_file_name_from_path(kb) in [get_file_name_from_path(cache) for cache in md_files]    
@@ -124,7 +134,10 @@ def process_file() -> list:
     
     docs = text_splitter.split_documents(all_docs)
     
+    logger.success('Documents splitting completed.')
+
     for i, doc in enumerate(docs):            
+        # TODO: issue - inconsistency between cached and non-cached document sources    
         doc.metadata["source"] = f"chunk_{i}::" + doc.metadata["source"]
 
     if not docs:            
@@ -202,7 +215,7 @@ async def start():
             Slider(
                 id="Temperature",
                 label="Temperature",
-                initial=1,
+                initial=0,
                 min=0,
                 max=2,
                 step=0.1,
@@ -214,6 +227,7 @@ async def start():
         msg = cl.Message(content=f"Hello! Loading documents...")   
         await msg.send()
         search_engine = await cl.make_async(create_search_engine)() 
+        logger.success("Chatbot ready!")
     except Exception as e:
         await cl.Message(content=f"Error: {e}").send()        
         raise SystemError
@@ -226,12 +240,13 @@ async def start():
             convert_system_message_to_human=True    
             )
     else:
-        llm = ChatGoogleGenerativeAI(        
-            model='gemini-pro',        
+        llm = ChatGroq(        
+            model="mixtral-8x7b-32768",        
             temperature=settings['Temperature'],        
             streaming=settings['Streaming'],        
-            convert_system_message_to_human=True    
             )
+    
+    logger.info(f"Using {settings['Model']} with temperature = {settings['Temperature']}.")
     
     memory = ConversationBufferMemory(
         memory_key="chat_history",
@@ -240,25 +255,39 @@ async def start():
         return_messages=True,
     )
 
-    retriever_from_llm = MultiQueryRetriever.from_llm(
-            retriever=search_engine.as_retriever(
+    retriever = search_engine.as_retriever(
                 # max_tokens_limit=4097,
                 search_type="similarity_score_threshold",
                 search_kwargs={
                     "score_threshold": 0.5, 
                     "k": 5
                     },
-            ), llm=llm
+            )
+
+    # logger.critical(QUERY_PROMPT.format_prompt(chat_history=["meow"], question="{{question}}"))
+
+    # Define the chain components
+    # _inputs = RunnableParallel(
+    #     standalone_question=RunnablePassthrough.assign(
+    #         chat_history=lambda x: message_history.messages
+    #     )
+    #     | CONDENSE_QUESTION_PROMPT
+    #     | llm
+    #     | StrOutputParser(),
+    # )
+
+    # logger.critical(_inputs.invoke("question"))
+
+    retriever_from_llm = MultiQueryRetriever.from_llm(
+            retriever=retriever,
+            # prompt=QUERY_PROMPT.format(chat_history=message_history.messages, question="{question}"),
+            llm=llm,
+            include_original=True
         )
 
     chain = RetrievalQAWithSourcesChain.from_chain_type(        
         llm=llm,        
         chain_type="stuff",        
-        # retriever=search_engine.as_retriever(
-        #     max_tokens_limit=4097,
-        #     search_type="similarity_score_threshold",
-        #     search_kwargs={"k": 5},
-        #     ),
         retriever=retriever_from_llm,
         memory=memory,
         chain_type_kwargs={            
@@ -275,11 +304,11 @@ async def start():
 @cl.on_settings_update
 async def setup_agent(settings):
     print("on_settings_update", settings)
+    cl.user_session.set("settings", settings)
     logger.critical(settings)
 
 @cl.on_message
 async def main(message: cl.Message):    
-
     chain = cl.user_session.get("chain")  
         
     cb = cl.AsyncLangchainCallbackHandler()    
@@ -329,7 +358,24 @@ async def main(message: cl.Message):
         await ans.stream_token(token)
 
     await ans.send()    
-    # await cl.Message(content=answer, elements=source_elements).send()
+
+# @cl.set_starters
+# async def set_starters():
+#     return [
+#         cl.Starter(
+#             label="Microsoft's Operating Margin",
+#             message="What is Microsoft's Operating Margin in 2023?",
+#             ),
+#         cl.Starter(
+#             label="Apple's Net iPhone Sales",
+#             message="What is the latest net sales for Apple's iphones?",
+#             ),
+#         cl.Starter(
+#             label="Uber's CEO",
+#             message="Who is Uber's CEO?",
+#             ),
+#         ]
+
 
 if __name__ == "__main__":
     # do process files, change env var reset chroma, do process files again and see difference in document parsing
