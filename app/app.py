@@ -1,12 +1,12 @@
 # next 3 lines for python <3.10
-__import__('pysqlite3')
-import sys
-import uuid
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# import uuid
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
-#nltk data
-import nltk
-nltk.download('averaged_perceptron_tagger')
+# nltk data
+# import nltk
+# nltk.download('averaged_perceptron_tagger')
 
 import os
 import glob
@@ -21,12 +21,14 @@ from chainlit.types import AskFileResponse
 from chainlit.input_widget import Select, Switch, Slider
 from loguru import logger
 import uuid
+import uuid
 import chromadb
 from chromadb.config import Settings
 
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
+from langchain_groq import ChatGroq
 from langchain_groq import ChatGroq
 from langchain_chroma import Chroma
 # from langchain_core.messages import AIMessage, HumanMessage, get_buffer_string
@@ -39,6 +41,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.base import VectorStore
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain.memory import ConversationBufferMemory
+from langchain_core.output_parsers import BaseOutputParser, StrOutputParser
+from langchain_core.prompts import PromptTemplate
+from langchain_core.pydantic_v1 import BaseModel, Field
 
 from llama_parse import LlamaParse
 from llama_index.core import SimpleDirectoryReader
@@ -118,7 +123,6 @@ def process_file() -> list:
         
         os.environ['INCREMENTAL_DB_UPDATE'] = True
     else:
-        logger.success("Cache found.")
         # use SimpleDirectoryReader to parse our file
         documents = SimpleDirectoryReader(input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]).load_data()
     
@@ -141,7 +145,7 @@ def process_file() -> list:
         doc.metadata["source"] = f"chunk_{i}::" + doc.metadata["source"]
 
     if not docs:            
-            raise ValueError("PDF file parsing failed.")
+        raise ValueError("PDF file parsing failed.")
     
     return docs
 
@@ -154,8 +158,8 @@ def create_search_engine() -> VectorStore:
 
     encoder = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
+    logger.info("Setting up vector store")
     # Initialize Chromadb client and settings, reset to ensure we get a clean search engine    
-    # client = chromadb.EphemeralClient()    
     client = chromadb.PersistentClient(path=PERSIST_DIRECTORY)  
     client_settings = Settings(        
         allow_reset=True,        
@@ -216,6 +220,7 @@ async def start():
                 id="Temperature",
                 label="Temperature",
                 initial=0,
+                initial=0,
                 min=0,
                 max=2,
                 step=0.1,
@@ -226,6 +231,7 @@ async def start():
     try:        
         msg = cl.Message(content=f"Hello! Loading documents...")   
         await msg.send()
+        logger.info("Creating search engine")
         search_engine = await cl.make_async(create_search_engine)() 
         logger.success("Chatbot ready!")
     except Exception as e:
@@ -233,6 +239,7 @@ async def start():
         raise SystemError
     
     if settings['Model'] == 'Gemini':
+        logger.info(f"Using {settings['Model']} with temperature = {settings['Temperature']}.")
         llm = ChatGoogleGenerativeAI(        
             model='gemini-pro',        
             temperature=settings['Temperature'],        
@@ -254,6 +261,7 @@ async def start():
         chat_memory=message_history,
         return_messages=True,
     )
+    # logger.critical(QUERY_PROMPT.format_prompt(chat_history=["meow"], question="{{question}}"))
 
     retriever = search_engine.as_retriever(
                 # max_tokens_limit=4097,
@@ -286,7 +294,7 @@ async def start():
         )
 
     chain = RetrievalQAWithSourcesChain.from_chain_type(        
-        llm=llm,        
+        llm=llm,
         chain_type="stuff",        
         retriever=retriever_from_llm,
         memory=memory,
@@ -295,6 +303,7 @@ async def start():
                 "document_prompt": EXAMPLE_PROMPT
                 },    
         )
+
     msg.content = f"Documents loaded! How can I help you?"  
 
     await msg.update()
@@ -352,7 +361,9 @@ async def main(message: cl.Message):
             # answer += "\nError finding sources."
 
     logger.success(message_history.messages)
+    # logger.success(cl.chat_context.to_openai())
 
+    ans = cl.Message(content="", elements=source_elements)
     ans = cl.Message(content="", elements=source_elements)
     for token in answer:
         await ans.stream_token(token)
