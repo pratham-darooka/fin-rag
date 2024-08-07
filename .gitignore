@@ -1,5 +1,5 @@
 venv
 .chainlit
 .env
-knowledge/*.md
 app/__pycache__
+fin-rag-venv
