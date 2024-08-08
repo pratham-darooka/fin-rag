@@ -112,7 +112,7 @@ def process_file() -> list:
                         file_extractor=file_extractor
                     ).load_data()
         
-        ic(len(documents))
+        logger.info(len(documents))
 
         for document in documents:
             md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
@@ -125,7 +125,7 @@ def process_file() -> list:
                                 input_files=ic(updated_md_files)
                             ).load_data()
         
-        ic(len(existing_docs))
+        logger.info(len(existing_docs))
 
         documents.extend(existing_docs)
         
@@ -135,7 +135,7 @@ def process_file() -> list:
         # use SimpleDirectoryReader to parse our file
         documents = SimpleDirectoryReader(input_files=[os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]).load_data()
         
-        ic(len(documents))
+        logger.info(len(documents))
 
     all_docs = []
     for document in documents:
@@ -405,11 +405,34 @@ async def main(message: cl.Message):
 
 
 if __name__ == "__main__":
-    # do process files, change env var reset chroma, do process files again and see difference in document parsing
-    with open('test-1.txt', 'w') as text_file1:
-        text_file1.write(process_file())
+    # set up parser
+    parser = LlamaParse(
+        result_type="markdown",
+        parsing_instructions=PARSING_INSTRUCTIONS,
+    )
 
-    os.environ['RESET_CHROMA'] = 'True'
+    # use SimpleDirectoryReader to parse our file
+    file_extractor = {".pdf": parser}
+    documents = SimpleDirectoryReader(
+                    input_files=['knowledge/apple_10k_nov_2023.pdf'],
+                    file_extractor=file_extractor
+                ).load_data()
     
-    with open('test-2.txt', 'w') as text_file2:
-        text_file2.write(process_file())
+    print(len(documents))
+
+    # from langchain_community.document_loaders import TextLoader, DirectoryLoader
+
+    # loader = DirectoryLoader('knowledge', use_multithreading=True, show_progress=True, glob="**/*.md")
+    # docs = loader.load()
+
+    # print(len(docs))
+    # print(docs[0])
+
+    # # do process files, change env var reset chroma, do process files again and see difference in document parsing
+    # with open('test-1.txt', encoding='utf-8', mode='w') as text_file1:
+    #     text_file1.write(str(process_file()))
+
+    # os.environ['RESET_CHROMA'] = 'True'
+    
+    # with open('test-2.txt', encoding='utf-8', mode='w') as text_file2:
+    #     text_file2.write(str(process_file()))

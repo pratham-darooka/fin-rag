@@ -4,8 +4,10 @@ tiktoken
 chromadb
 loguru
 pysqlite3-binary # uncomment if python < 3.10
+python-magic-bin==0.4.14
 pdfplumber
 icecream
+unstructured[md]
 
 langchain
 langchain-community
