@@ -15,6 +15,7 @@ from prompt import EXAMPLE_PROMPT, PROMPT
 
 namespaces = set()
 message_history = ChatMessageHistory()
+cl.user_session.set('search_engine_created', False)
 
 @cl.on_chat_start
 async def start():           
@@ -42,16 +43,17 @@ async def start():
         ]
     ).send()
 
-    try:        
-        logger.info("Creating search engine")
-        
-        search_engine = await cl.make_async(create_search_engine)() 
-        cl.user_session.set("search_engine", search_engine)
+    if cl.user_session.get('search_engine_created'):
+        try:        
+            logger.info("Creating search engine")
+            search_engine = await cl.make_async(create_search_engine)() 
+            cl.user_session.set("search_engine", search_engine)
 
-        logger.success("### Chatbot ready!")
-    except Exception as e:
-        await cl.Message(content=f"Error: {e}").send()        
-        raise SystemError
+        except Exception as e:
+            await cl.Message(content=f"Error: {e}").send()        
+            raise SystemError
+
+    logger.success("### Chatbot ready!")
     
     await setup_agent(settings)  
     
