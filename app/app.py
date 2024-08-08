@@ -13,9 +13,7 @@ from langchain.memory import ConversationBufferMemory
 
 from prompt import EXAMPLE_PROMPT, PROMPT
 
-namespaces = set()
 message_history = ChatMessageHistory()
-cl.user_session.set('search_engine_created', False)
 
 @cl.on_chat_start
 async def start():           
@@ -42,18 +40,17 @@ async def start():
             ),
         ]
     ).send()
+        
+    try:        
+        logger.info("Creating search engine")
+        search_engine = await cl.make_async(create_search_engine)() 
+        
+        cl.user_session.set("search_engine", search_engine)
+        logger.success("Chatbot ready!")
 
-    if cl.user_session.get('search_engine_created'):
-        try:        
-            logger.info("Creating search engine")
-            search_engine = await cl.make_async(create_search_engine)() 
-            cl.user_session.set("search_engine", search_engine)
-
-        except Exception as e:
-            await cl.Message(content=f"Error: {e}").send()        
-            raise SystemError
-
-    logger.success("### Chatbot ready!")
+    except Exception as e:
+        await cl.Message(content=f"Error: {e}").send()        
+        raise SystemError
     
     await setup_agent(settings)  
     
@@ -91,7 +88,7 @@ async def setup_agent(settings):
                 search_type="similarity_score_threshold",
                 search_kwargs={
                     "score_threshold": 0.5, 
-                    "k": 5
+                    "k": 3
                     },
             )
     
@@ -189,21 +186,4 @@ except:
     logger.warning("Please upgrade chainlit version.")
 
 if __name__ == "__main__":
-    # from langchain_community.document_loaders import TextLoader, DirectoryLoader
-
-    # loader = DirectoryLoader('knowledge', use_multithreading=True, show_progress=True, glob="**/*.md")
-    # docs = loader.load()
-    
-    # docs[0].metadata['source'] = get_file_name_from_path(docs[0].metadata['source'])
-    # print(docs[0].metadata['source'])
-    # print(docs[1].metadata['source'])
-
-    # do process files, change env var reset chroma, do process files again and see difference in document parsing
-    # with open('test-11.txt', encoding='utf-8', mode='w') as text_file1:
-    #     text_file1.write(str(process_file()))
-
-    # os.environ['RESET_CHROMA'] = 'True'
-    
-    # with open('test-21.txt', encoding='utf-8', mode='w') as text_file2:
-    #     text_file2.write(str(process_file()))
     pass
