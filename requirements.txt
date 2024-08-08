@@ -1,5 +1,6 @@
 nltk
-chainlit==0.7.501
+# chainlit==0.7.501
+chainlit
 tiktoken
 chromadb
 loguru

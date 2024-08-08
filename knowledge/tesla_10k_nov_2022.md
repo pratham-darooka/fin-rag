@@ -72,7 +72,6 @@ As of January 25, 2023, there were 3,164,102,701 shares of the registrant’s co
 DOCUMENTS INCORPORATED BY REFERENCE
 
 Portions of the registrant’s Proxy Statement for the 2023 Annual Meeting of Stockholders are incorporated herein by reference in Part III of this Annual Report on Form 10-K to the extent stated herein. Such proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant’s fiscal year ended December 31, 2022.
-
 # TESLA, INC.
 
 # ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2022
@@ -122,11 +121,9 @@ Portions of the registrant’s Proxy Statement for the 2023 Annual Meeting of St
 Signatures
 
 107
-
 # Forward-Looking Statements
 
 The discussions in this Annual Report on Form 10-K contain forward-looking statements reflecting our current expectations that involve risks and uncertainties. These forward-looking statements include, but are not limited to, statements concerning any potential future impact of the coronavirus disease (“COVID-19”) pandemic on our business, supply chain constraints, our strategy, competition, future operations and production capacity, future financial position, future revenues, projected costs, profitability, expected cost reductions, capital adequacy, expectations regarding demand and acceptance for our technologies, growth opportunities and trends in the markets in which we operate, prospects and plans and objectives of management. The words “anticipates,” “believes,” “could,” “estimates,” “expects,” “intends,” “may,” “plans,” “projects,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements that we make. These forward-looking statements involve risks and uncertainties that could cause our actual results to differ materially from those in the forward-looking statements, including, without limitation, the risks set forth in Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K and in our other filings with the Securities and Exchange Commission (the “SEC”). We do not assume any obligation to update any forward-looking statements.
-
 # PART I
 
 # ITEM 1. BUSINESS
@@ -164,7 +161,6 @@ Solar Energy Offerings
 We sell retrofit solar energy systems to customers and channel partners and also make them available through power purchase agreement (“PPA”) arrangements. We purchase most of the components for our retrofit solar energy systems from multiple sources to ensure competitive pricing and adequate supply. We also design and manufacture certain components for our solar energy products.
 
 We sell our Solar Roof, which combines premium glass roof tiles with energy generation, directly to customers, as well as through channel customers. We continue to improve our installation capability and efficiency, including through collaboration with real estate developers and builders on new homes.
-
 # Technology
 
 # Automotive
@@ -198,7 +194,6 @@ We leverage many of the component-level technologies from our vehicles in our en
 Solar Energy Systems
 
 We have engineered Solar Roof over numerous iterations to combine aesthetic appeal and durability with power generation. The efficiency of our solar energy products is aided by our own solar inverter, which incorporates our power electronics technologies. We designed both products to integrate with Powerwall.
-
 # Design and Engineering
 
 Automotive
@@ -232,7 +227,6 @@ Public Charging
 We have a growing global network of Tesla Superchargers, which are our industrial-grade, high-speed vehicle chargers. Where possible, we co-locate Superchargers with our solar and energy storage systems to reduce costs and promote renewable power. Supercharger stations are typically placed along well-traveled routes and in and around dense city centers to allow vehicle owners the ability to enjoy quick, reliable charging along an extensive network with convenient stops. Use of the Supercharger network either requires payment of a fee or is free under certain sales programs. In November 2021, we began to offer Supercharger access to non-Tesla vehicles in certain locations in support of our mission to accelerate the world’s transition to sustainable energy.
 
 We also work with a wide variety of hospitality, retail and public destinations, as well as businesses with commuting employees, to offer additional charging options for our customers, as well as single-family homeowners and multi-family residential entities, to deploy home charging solutions.
-
 # In-App Upgrades
 
 As our vehicles are capable of being updated remotely over-the-air, our customers may purchase additional paid options and features through the Tesla app or through the in-vehicle user interface. We expect that this functionality will also allow us to offer certain options and features on a subscription basis in the future.
@@ -272,7 +266,6 @@ We offer leasing and/or loan financing arrangements for our vehicles in certain 
 Insurance
 
 In 2021, we launched our insurance product using real-time driving behavior in select states, which offers rates that are often better than other alternatives and promotes safer driving. Our insurance products are currently available in 12 states and we plan to expand the markets in which we offer insurance products, as part of our ongoing effort to decrease the total cost of ownership for our customers.
-
 # Energy Generation and Storage
 
 We offer certain financing options to our solar customers, which enable the customer to purchase and own a solar energy system, Solar Roof or integrated solar and Powerwall system. Our solar PPAs, offered primarily to commercial customers, charge a fee per kilowatt-hour based on the amount of electricity produced by our solar energy systems.
@@ -306,7 +299,6 @@ On August 16, 2022, the Inflation Reduction Act of 2022 (“IRA”) was enacted 
 Automotive Regulatory Credits
 
 We earn tradable credits in the operation of our business under various regulations related to zero-emission vehicles (“ZEVs”), greenhouse gas, fuel economy and clean fuel. We sell these credits to other regulated entities who can use the credits to comply with emission standards and other regulatory requirements. Sales of these credits are recognized within automotive regulatory credits revenue in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
-
 # Energy Storage System Incentives and Policies
 
 While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage.
@@ -334,7 +326,6 @@ Our vehicles sold outside of the U.S. are subject to similar foreign compliance,
 # Self-Driving Vehicles
 
 Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop. While there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads. Certain U.S. states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them. This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U.S.
-
 In markets that follow the regulations of the United Nations Economic Commission for Europe, some requirements restrict the design of advanced driver-assistance or self-driving features, which can compromise or prevent their use entirely. Other applicable laws, both current and proposed, may hinder the path and timeline to introducing self-driving vehicles for sale and use in the markets where they apply.
 
 Other key markets, including China, continue to consider self-driving regulation. Any implemented regulations may differ materially from those in the U.S. and Europe, which may further increase the legal complexity of self-driving vehicles and limit or prevent certain features.
@@ -362,7 +353,6 @@ Most states in the U.S. make net energy metering, or net metering, available to 
 Competition Automotive
 
 The worldwide automotive market is highly competitive and we expect it will become even more competitive in the future as we introduce additional vehicles in a broader cross-section of the passenger and commercial vehicle market and expand our vehicles’ capabilities.
-
 We believe that our vehicles compete in the market based on both their traditional segment classification as well as their propulsion technology. For example, Model S and Model X compete primarily with premium sedans and premium SUVs and Model 3 and Model Y compete with small to medium-sized sedans and compact SUVs, which are extremely competitive markets. Competing products typically include internal combustion vehicles from more established automobile manufacturers; however, many established and new automobile manufacturers have entered or have announced plans to enter the market for electric and other alternative fuel vehicles. Overall, we believe these announcements and vehicle introductions, including the introduction of electric vehicles into rental car company fleets, promote the development of the electric vehicle market by highlighting the attractiveness of electric vehicles relative to the internal combustion vehicle. Many major automobile manufacturers have electric vehicles available today in major markets including the U.S., China and Europe, and other current and prospective automobile manufacturers are also developing electric vehicles. In addition, several manufacturers offer hybrid vehicles, including plug-in versions.
 
 We believe that there is also increasing competition for our vehicle offerings as a platform for delivering self-driving technologies, charging solutions and other features and services, and we expect to compete in this developing market through continued progress on our Autopilot, FSD and neural network capabilities, Supercharger network and our infotainment offerings.
@@ -386,7 +376,6 @@ We place a strong emphasis on our innovative approach and proprietary designs wh
 # ESG
 
 The very purpose of Tesla's existence is to accelerate the world's transition to sustainable energy. We believe the world cannot reduce carbon emissions without addressing both energy generation and consumption, and we are designing and manufacturing a complete energy and transportation ecosystem to achieve this goal. As we expand, we are building each new factory to be more efficient and sustainably designed than the previous one, including with respect to per-unit waste reduction and resource consumption, including water and energy usage. We are focused on further enhancing sustainability of operations outside of our direct control, including reducing the carbon footprint of our supply chain.
-
 # We are committed to responsible sourcing
 
 We are committed to sourcing only responsibly produced materials, and our suppliers are required to provide evidence of management systems that ensure social, environmental and sustainability best practices in their own operations, as well as to demonstrate a commitment to responsible sourcing into their supply chains. We have a zero-tolerance policy when it comes to child or forced labor and human trafficking by our suppliers and we look to the Organization for Economic Co-operation and Development Due Diligence Guidelines to inform our process and use feedback from our internal and external stakeholders to find ways to continually improve. We are also driving safety in our own factories by focusing on worker engagement. Our incidents per vehicle continue to drop even as our production volumes increase. We also strive to be an employer of choice by offering compelling, impactful jobs with best in-industry benefits.
@@ -408,7 +397,6 @@ To ensure this, anti-harassment training is conducted on day one of new hire ori
 Through our See Something, Say Something program, employees are encouraged to speak up both in regard to misconduct and safety concerns. They can do so by contacting the integrity line, submitting concerns through our Take Charge process, or notifying their HR Partner or any member of management. Concerns are reviewed in accordance with established protocols by investigators with expertise, who also review for trends and outcomes for remediation and appropriate controls.
 
 Responding to questions timely is key so we implemented HR Answer Bars in the factories where employees can easily access and speak with an HR representative immediately regarding career advice, benefits or any concerns the employee may have. We have also implemented an HR Chatbot for 24x7 answers to team members’ questions.
-
 # To continue innovating and changing the world for the better, we must ensure we have a talented and engaged workforce with ample opportunity to contribute to our mission and grow professionally. We are focused on intentionally creating pathways to career opportunities across Tesla through strategic initiatives such as:
 
 - Internships and Apprenticeships - Over 3,000 university and community college students from around the world are hired into internship and apprenticeship opportunities at Tesla annually. We recruit from over 100 collegiate institutions and diverse student organizations, attracting top talent passionate about accelerating the world’s transition to sustainable energy.
@@ -420,7 +408,6 @@ At Tesla, our employees show up passionate about making a difference in the worl
 # Available Information
 
 We file or furnish periodic reports and amendments thereto, including our Annual Reports on Form 10-K, our Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, proxy statements and other information with the SEC. In addition, the SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically. Our website is located at www.tesla.com, and our reports, amendments thereto, proxy statements and other information are also made available, free of charge, on our investor relations website at ir.tesla.com as soon as reasonably practicable after we electronically file or furnish such information with the SEC. The information posted on our website is not incorporated by reference into this Annual Report on Form 10-K.
-
 # ITEM 1A. RISK FACTORS
 
 You should carefully consider the risks described below together with the other information set forth in this report, which could materially affect our business, financial condition and future results. The risks described below are not the only risks facing our company. Risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and operating results.
@@ -434,7 +421,6 @@ For example, pandemic-related issues have exacerbated port congestion and interm
 We cannot predict the duration or direction of current global trends or their sustained impact. Ultimately, we continue to monitor macroeconomic conditions to remain flexible and to optimize and evolve our business as appropriate, and attempt to accurately project demand and infrastructure requirements globally and deploy our production, workforce and other resources accordingly. Lastly, rising interest rates may lead to consumers to increasingly pull back spending, including on our products, which may harm our demand, business and operating results. If we experience unfavorable global market conditions, or if we cannot or do not maintain operations at a scope that is commensurate with such conditions or are later required to or choose to suspend such operations again, our business, prospects, financial condition and operating results may be harmed.
 
 We may experience delays in launching and ramping the production of our products and features, or we may be unable to control our manufacturing costs. We have previously experienced and may in the future experience launch and production ramp delays for new products and features. For example, we encountered unanticipated supplier issues that led to delays during the initial ramp of our first Model X and experienced challenges with a supplier and with ramping full automation for certain of our initial Model 3 manufacturing processes.
-
 In particular, our future business depends in large part on increasing the production of mass-market vehicles including Model 3 and Model Y. In order to be successful, we will need to implement, maintain and ramp efficient and cost-effective manufacturing capabilities, processes and supply chains and achieve the design tolerances, high quality and output rates we have planned at our manufacturing facilities in California, Nevada, Texas, China, Germany and any future sites. We will also need to hire, train and compensate skilled employees to operate these facilities. Bottlenecks and other unexpected challenges such as those we experienced in the past may arise during our production ramps, and we must address them promptly while continuing to improve manufacturing processes and reducing costs. If we are not successful in achieving these goals, we could face delays in establishing and/or sustaining our Model 3 and Model Y ramps or be unable to meet our related cost and profitability targets.
 
 We have experienced, and may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants; new vehicles; and future features and services based on artificial intelligence. Likewise, we may encounter delays with the design, construction and regulatory or other approvals necessary to build and bring online future manufacturing facilities and products.
@@ -444,7 +430,6 @@ Any delay or other complication in ramping the production of our current product
 Our suppliers may fail to deliver components according to schedules, prices, quality and volumes that are acceptable to us, or we may be unable to manage these components effectively. Our products contain thousands of parts purchased globally from hundreds of suppliers, including single-source direct suppliers, which exposes us to multiple potential sources of component shortages. Unexpected changes in business conditions, materials pricing, including inflation of raw material costs, labor issues, wars, trade policies, natural disasters, health epidemics such as the global COVID-19 pandemic, trade and shipping disruptions, port congestions and other factors beyond our or our suppliers’ control could also affect these suppliers’ ability to deliver components to us or to remain solvent and operational. For example, a global shortage of semiconductors has been reported since early 2021 and has caused challenges in the manufacturing industry and impacted our supply chain and production. In addition, a spike in COVID-19 cases in Shanghai in early 2022 led to temporary manufacturing shutdowns of certain of our suppliers. We have used alternative parts and programmed software to mitigate certain challenges caused by these shortages, but there is no guarantee we may be able to continually do so as we scale production to meet our growth targets. Additionally, if our suppliers do not accurately forecast and effectively allocate production or if they are not willing to allocate sufficient production to us, it may reduce our access to components and require us to search for new suppliers. The unavailability of any component or supplier could result in production delays, idle manufacturing facilities, product design changes and loss of access to important technology and tools for producing and supporting our products, as well as impact our capacity expansion and our ability to fulfill our obligations under customer contracts. Moreover, significant increases in our production, such as for Model 3 and Model Y, or product design changes by us have required and may in the future require us to procure additional components in a short amount of time. We have faced in the past, and may face suppliers who are unwilling or unable to sustainably meet our timelines or our cost, quality and volume needs, or to do so may cost us more, which may require us to replace them with other sources. Finally, we have limited vehicle manufacturing experience outside of the Fremont Factory and Gigafactory Shanghai and we may experience issues increasing the level of localized procurement at Gigafactory Berlin-Brandenburg and Gigafactory Texas. While we believe that we will be able to secure additional or alternate sources or develop our own replacements for most of our components, there is no assurance that we will be able to do so quickly or at all. Additionally, we may be unsuccessful in our continuous efforts to negotiate with existing suppliers to obtain cost reductions and avoid unfavorable changes to terms, source less expensive suppliers for certain parts and redesign certain parts to make them less expensive to produce, especially in light of the increases in materials pricing. Any of these occurrences may harm our business, prospects, financial condition and operating results.
 
 As the scale of our vehicle production increases, we will also need to accurately forecast, purchase, warehouse and transport components at high volumes to our manufacturing facilities and servicing locations internationally. If we are unable to accurately match the timing and quantities of component purchases to our actual needs or successfully implement automation, inventory
-
 management and other systems to accommodate the increased complexity in our supply chain and parts management, we may incur unexpected production disruption, storage, transportation and write-off costs, which may harm our business and operating results.
 
 We may be unable to meet our projected construction timelines, costs and production ramps at new factories, or we may experience difficulties in generating and maintaining demand for products manufactured there. Our ability to increase production of our vehicles on a sustained basis, make them affordable globally by accessing local supply chains and workforces and streamline delivery logistics is dependent on the construction and ramp of our current and future factories. The construction of and commencement and ramp of production at these factories are subject to a number of uncertainties inherent in all new manufacturing operations, including ongoing compliance with regulatory requirements, procurement and maintenance of construction, environmental and operational licenses and approvals for additional expansion, supply chain constraints, hiring, training and retention of qualified employees and the pace of bringing production equipment and processes online with the capability to manufacture high-quality units at scale. Moreover, we will have to establish and ramp production of our proprietary battery cells and packs at our new factories, and we additionally intend to incorporate sequential design and manufacturing changes into vehicles manufactured at each new factory. If we experience any issues or delays in meeting our projected timelines, costs, capital efficiency and production capacity for our new factories, expanding and managing teams to implement iterative design and production changes there, maintaining and complying with the terms of any debt financing that we obtain to fund them or generating and maintaining demand for the vehicles we manufacture there, our business, prospects, operating results and financial condition may be harmed.
@@ -458,7 +443,6 @@ Moreover, because of our unique expertise with our vehicles, we recommend that o
 There is no assurance that we will be able to ramp our business to meet our sales, delivery, installation, servicing and vehicle charging targets globally, that our projections on which such targets are based will prove accurate or that the pace of growth or coverage of our customer infrastructure network will meet customer expectations. These plans require significant cash investments and management resources and there is no guarantee that they will generate additional sales or installations of our products, or that we will be able to avoid cost overruns or be able to hire additional personnel to support them. As we expand, we will also need to ensure our compliance with regulatory requirements in various jurisdictions applicable to the sale, installation and servicing of our products, the sale or dispatch of electricity related to our energy products and the operation of Superchargers. If we fail to manage our growth effectively, it may harm our brand, business, prospects, financial condition and operating results.
 
 We will need to maintain and significantly grow our access to battery cells, including through the development and manufacture of our own cells, and control our related costs. We are dependent on the continued supply of lithium-ion battery cells for our vehicles and energy storage products, and we will require substantially more cells to grow our business according to our plans. Currently, we rely on suppliers such as Panasonic and Contemporary Amperex Technology Co. Limited (CATL) for these cells. We have to date fully qualified only a very limited number of such suppliers and have limited flexibility in changing suppliers. Any disruption in the supply of battery cells from our suppliers could limit production of our vehicles and energy storage products. In the long term, we intend to supplement cells from our suppliers with cells manufactured by us, which we believe will be more efficient, manufacturable at greater volumes and more cost-effective
-
 than currently available cells. However, our efforts to develop and manufacture such battery cells have required, and may continue to require, significant investments, and there can be no assurance that we will be able to achieve these targets in the timeframes that we have planned or at all. If we are unable to do so, we may have to curtail our planned vehicle and energy storage product production or procure additional cells from suppliers at potentially greater costs, either of which may harm our business and operating results.
 
 In addition, the cost and mass production of battery cells, whether manufactured by our suppliers or by us, depends in part upon the prices and availability of raw materials such as lithium, nickel, cobalt and/or other metals. The prices for these materials fluctuate and their available supply may be unstable, depending on market conditions and global demand for these materials. For example, as a result of increased global production of electric vehicles and energy storage products, suppliers of these raw materials may be unable to meet our volume needs. Additionally, our suppliers may not be willing or able to reliably meet our timelines or our cost and quality needs, which may require us to replace them with other sources. Any reduced availability of these materials may impact our access to cells and our growth, and any increases in their prices may reduce our profitability if we cannot recoup such costs through increased prices. Moreover, our inability to meet demand and any product price increases may harm our brand, growth, prospects and operating results.
@@ -481,7 +465,6 @@ We face strong competition for our products and services from a growing list of 
 We also face competition in our energy generation and storage business from other manufacturers, developers, installers and service providers of competing energy technologies, as well as from large utilities. Decreases in the retail or wholesale prices of electricity from utilities or other renewable energy sources could make our products less attractive to customers and lead to an increased rate of customer defaults.
 
 17
-
 # Risks Related to Our Operations
 
 We may experience issues with lithium-ion cells or other components manufactured at our Gigafactories, which may harm the production and profitability of our vehicle and energy storage products. Our plan to grow the volume and profitability of our vehicles and energy storage products depends on significant lithium-ion battery cell production, including by our partner Panasonic at Gigafactory Nevada. We also produce several vehicle components at our Gigafactories, such as battery modules and packs and drive units, and manufacture energy storage products. In the past, some of the manufacturing lines for certain product components took longer than anticipated to ramp to their full capacity, and additional bottlenecks may arise in the future as we continue to increase the production rate and introduce new lines. In addition, as the IRA provides new incentives for domestic energy production and manufacturing, we may face increasing competition from other automobile manufacturers as well as suppliers for the resources and capacity to build additional factories and expand our operations domestically. If we are unable to or otherwise do not maintain and grow our respective operations, or if we are unable to do so cost-effectively or hire and retain highly-skilled personnel there, our ability to manufacture our products profitably would be limited, which may harm our business and operating results.
@@ -501,7 +484,6 @@ Our products are also highly dependent on software, which is inherently complex 
 # Product Liability Risks
 
 We may be required to defend or insure against product liability claims. The automobile industry generally experiences significant product liability claims, and as such we face the risk of such claims in the event our vehicles do not perform or are claimed to not have performed as expected. As is true for other automakers, our vehicles have been involved and we expect in the future will be involved in accidents resulting in death or personal injury, and such accidents where Autopilot, Enhanced Autopilot or FSD Capability features are engaged are the subject of significant public attention, especially in light of NHTSA’s Standing General Order requiring reports regarding crashes involving vehicles with advanced driver assistance systems. We have experienced, and we expect to continue to face, claims and regulatory scrutiny arising from or related to misuse or claimed failures or alleged misrepresentations of such new technologies that we are pioneering. In addition, the battery packs that we produce make use of lithium-ion cells. On rare occasions, lithium-ion cells can rapidly release the energy they contain by venting.
-
 smoke and flames in a manner that can ignite nearby materials as well as other lithium-ion cells. While we have designed our battery packs to passively contain any single cell’s release of energy without spreading to neighboring cells, there can be no assurance that a field or testing failure of our vehicles or other battery packs that we produce will not occur, in particular due to a high-speed crash. Likewise, as our solar energy systems and energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property. Any product liability claim may subject us to lawsuits and substantial monetary damages, product recalls or redesign efforts, and even a meritless claim may require us to defend it, all of which may generate negative publicity and be expensive and time-consuming. In most jurisdictions, we generally self-insure against the risk of product liability claims for vehicle exposure, meaning that any product liability claims will likely have to be paid from company funds and not by insurance.
 
 We will need to maintain public credibility and confidence in our long-term business prospects in order to succeed. In order to maintain and grow our business, we must maintain credibility and confidence among customers, suppliers, analysts, investors, ratings agencies and other parties in our long-term financial viability and business prospects. Maintaining such confidence may be challenging due to our limited operating history relative to established competitors; customer unfamiliarity with our products; any delays we may experience in scaling manufacturing, delivery and service operations to meet demand; competition and uncertainty regarding the future of electric vehicles or our other products and services; our quarterly production and sales performance compared with market expectations; and other factors including those over which we have no control. In particular, Tesla’s products, business, results of operations, and statements and actions of Tesla and its management are well-publicized by a range of third parties. Such attention can include criticism, which may be exaggerated or unfounded, such as speculation regarding the sufficiency or stability of our management team. Any such negative perceptions, whether caused by us or not, may harm our business and make it more difficult to raise additional funds if needed.
@@ -513,7 +495,6 @@ The profitability of any directly-leased vehicles returned to us at the end of t
 Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts. However, actual resale values are subject to fluctuations over the term of the financing arrangements, such as from the vehicle pricing changes discussed above. If the actual resale values of any vehicles resold or returned to us pursuant to these programs are materially lower than the pre-determined amounts we have offered, our financial condition and operating results may be harmed.
 
 Finally, our vehicle and solar energy system financing programs and our energy storage sales programs also expose us to customer credit risk. In the event of a widespread economic downturn or other catastrophic event, our customers may be unable or unwilling to satisfy their payment obligations to us on a timely basis or at all. If a significant number of our customers default, we may incur substantial credit losses and/or impairment charges with respect to the underlying assets.
-
 # We must manage ongoing obligations under our agreement with the Research Foundation for the State University of New York relating to our Gigafactory New York.
 
 We are party to an operating lease and a research and development agreement through the State University of New York (the “SUNY Foundation”). These agreements provide for the construction and use of our Gigafactory New York, which we have primarily used for the development and production of our Solar Roof and other solar products and components, energy storage components and Supercharger components, and for other lessor-approved functions. Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during a period that was initially 10 years beginning April 30, 2018. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo. While we expect to have and grow significant operations at Gigafactory New York and the surrounding Buffalo area, any failure by us in any year over the course of the term of the agreement to meet all applicable future obligations may result in our obligation to pay a “program payment” of $41 million to the SUNY Foundation for such year, the termination of our lease at Gigafactory New York which may require us to pay additional penalties, and/or the need to adjust certain of our operations, in particular our production ramp of the Solar Roof or other components. Any of the foregoing events may harm our business, financial condition and operating results.
@@ -533,7 +514,6 @@ We periodically seek and obtain approval from our stockholders for future increa
 # We are highly dependent on the services of Elon Musk, Technoking of Tesla and our Chief Executive Officer.
 
 We are highly dependent on the services of Elon Musk, Technoking of Tesla and our Chief Executive Officer. Although Mr. Musk spends significant time with Tesla and is highly active in our management, he does not devote his full time and attention to Tesla. Mr. Musk also currently serves as Chief Executive Officer and Chief Technical Officer of Space Exploration Technologies Corp., a developer and manufacturer of space launch vehicles, Chief Executive Officer of Twitter, Inc., a social media company, and is involved in other emerging technology ventures.
-
 Our information technology systems or data, or those of our service providers or customers or users could be subject to cyber-attacks or other security incidents, which could result in data breaches, intellectual property theft, claims, litigation, regulatory investigations, significant liability, reputational damage and other adverse consequences.
 
 We continue to expand our information technology systems as our operations grow, such as product data management, procurement, inventory management, production planning and execution, sales, service and logistics, dealer management, financial, tax and regulatory compliance systems. This includes the implementation of new internally developed systems and the deployment of such systems in the U.S. and abroad. While, we maintain information technology measures designed to protect us against intellectual property theft, data breaches, sabotage and other external or internal cyber-attacks or misappropriation, our systems and those of our service providers are potentially vulnerable to malware, ransomware, viruses, denial-of-service attacks, phishing attacks, social engineering, computer hacking, unauthorized access, exploitation of bugs, defects and vulnerabilities, breakdowns, damage, interruptions, system malfunctions, power outages, terrorism, acts of vandalism, security breaches, security incidents, inadvertent or intentional actions by employees or other third parties, and other cyber-attacks.
@@ -549,7 +529,6 @@ Moreover, if we do not successfully implement, maintain or expand these systems 
 Any unauthorized control or manipulation of our products’ systems could result in loss of confidence in us and our products. Our products contain complex information technology systems. For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality. While we have implemented security measures intended to prevent unauthorized access to our information technology networks, our products and their systems, malicious entities have reportedly attempted, and may attempt in the future, to gain unauthorized access to modify, alter and use such networks, products and systems to gain control of, or to change, our products’ functionality, user interface and performance characteristics or to gain access to data stored in or generated by our products. We encourage reporting of potential vulnerabilities in the security of our products through our security vulnerability reporting policy, and we aim to remedy any reported and verified vulnerability. However, there can be no assurance that any vulnerabilities will not be exploited before they can be identified, or that our remediation efforts are or will be successful.
 
 Any unauthorized access to or control of our products or their systems or any loss of data could result in legal claims or government investigations. In addition, regardless of their veracity, reports of unauthorized access to our products, their systems or data, as well as other factors that may result in the perception that our products, their systems or data are capable of being hacked, may harm our brand, prospects and operating results. We have been the subject of such reports in the past.
-
 # Our business may be adversely affected by any disruptions caused by union activities.
 
 It is not uncommon for employees of certain trades at companies such as ours to belong to a union, which can result in higher employee costs and increased risk of work stoppages. Moreover, regulations in some jurisdictions outside of the U.S. mandate employee participation in industrial collective bargaining agreements and work councils with certain consultation rights with respect to the relevant companies’ operations. Although we work diligently to provide the best possible work environment for our employees, they may still decide to join or seek recognition to form a labor union, or we may be required to become a union signatory. From time to time, labor unions have engaged in campaigns to organize certain of our operations, as part of which such unions have filed unfair labor practice charges against us with the National Labor Relations Board (the “NLRB”), and they may do so in the future. In September 2019, an administrative law judge issued a recommended decision for Tesla on certain issues and against us on certain others. In March 2021, the NLRB adopted a portion of the recommendation and overturned others. Tesla appealed the decision to the United States Circuit Court for the Fifth Circuit, which is currently pending. Any unfavorable ultimate outcome for Tesla may have a negative impact on the perception of Tesla’s treatment of our employees. Furthermore, we are directly or indirectly dependent upon companies with unionized work forces, such as suppliers and trucking and freight companies. Any work stoppages or strikes organized by such unions could delay the manufacture and sale of our products and may harm our business and operating results.
@@ -567,7 +546,6 @@ If our warranty reserves are inadequate to cover future warranty claims on our p
 # Our insurance coverage strategy may not be adequate to protect us from all business risks.
 
 We may be subject, in the ordinary course of business, to losses resulting from products liability, accidents, acts of God and other claims against us, for which we may have no insurance coverage. As a general matter, we do not maintain as much insurance coverage as many other companies do, and in some cases, we do not maintain any at all. Additionally, the policies that we do have may include significant deductibles or self-insured retentions, policy limitations and exclusions, and we cannot be certain that our insurance coverage will be sufficient to cover all future losses or claims against us. A loss that is uninsured or which exceeds policy limits may require us to pay substantial amounts, which may harm our financial condition and operating results.
-
 # Our debt agreements
 
 contain covenant restrictions that may limit our ability to operate our business. The terms of certain of our debt facilities contain, and any of our other future debt agreements may contain, covenant restrictions that may limit our ability to operate our business, including restrictions on our and/or our subsidiaries’ ability to, among other things, incur additional debt or create liens. In addition, under certain circumstances we are required to comply with a fixed charge coverage ratio. As a result of these covenants, our ability to respond to changes in business and economic conditions and engage in beneficial transactions, including to obtain additional financing as needed, may be restricted. Furthermore, our failure to comply with our debt covenants could result in a default under our debt agreements, which could permit the holders to accelerate our obligation to repay the debt. If any of our debt is accelerated, we may not have sufficient funds available to repay it.
@@ -587,7 +565,6 @@ There is no guarantee that we will have sufficient cash flow from our business t
 # Payment obligations and refinancing
 
 Our ability to make scheduled payments of the principal and interest on our indebtedness when due, to make payments upon conversion or repurchase demands with respect to our convertible senior notes or to refinance our indebtedness as we may need or desire, depends on our future performance, which is subject to economic, financial, competitive and other factors beyond our control. Our business may not continue to generate cash flow from operations in the future sufficient to satisfy our obligations under our existing indebtedness and any future indebtedness we may incur, and to make necessary capital expenditures. If we are unable to generate such cash flow, we may be required to adopt one or more alternatives, such as reducing or delaying investments or capital expenditures, selling assets, refinancing or obtaining additional equity capital on terms that may be onerous or highly dilutive. Our ability to refinance existing or future indebtedness will depend on the capital markets and our financial condition at such time. In addition, our ability to make payments may be limited by law, by regulatory authority or by agreements governing our future indebtedness. We may not be able to engage in these activities on desirable terms or at all, which may result in a default on our existing or future indebtedness and harm our financial condition and operating results.
-
 # We are exposed to fluctuations in currency exchange rates.
 
 We transact business globally in multiple currencies and have foreign currency risks related to our revenue, costs of revenue, operating expenses and localized subsidiary debt denominated in currencies other than the U.S. dollar, currently primarily the Chinese yuan, euro, pound sterling and Norwegian krone. To the extent we have significant revenues denominated in such foreign currencies, any strengthening of the U.S. dollar would tend to reduce our revenues as measured in U.S. dollars, as we have historically experienced, and are currently experiencing. In addition, a portion of our costs and expenses have been, and we anticipate will continue to be, denominated in foreign currencies, including the Chinese yuan and Japanese yen. If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer. Moreover, while we undertake limited hedging activities intended to offset the impact of currency translation exposure, it is impossible to predict or eliminate such impact. As a result, our operating results may be harmed.
@@ -603,7 +580,6 @@ Companies across many industries are facing increasing scrutiny related to their
 # Our operations could be adversely affected by events outside of our control, such as natural disasters, wars or health epidemics.
 
 We may be impacted by natural disasters, wars, health epidemics, weather conditions, the long-term effects of climate change, power outages or other events outside of our control. For example, our Fremont Factory and Gigafactory Nevada are located in seismically active regions in Northern California and Nevada, and our Gigafactory Shanghai is located in a flood-prone area. Moreover, the area in which our Gigafactory Texas is located experienced severe winter storms in the first quarter of 2021 that had a widespread impact on utilities and transportation. If major disasters such as earthquakes, floods or other climate-related events occur, or our information system or communication breaks down or operates improperly, our headquarters and production facilities may be seriously damaged, or we may have to stop or delay production and shipment of our products. In addition, the global COVID-19 pandemic has impacted economic markets, manufacturing operations, supply chains, employment and consumer behavior in nearly every geographic region and industry across the world, and we have been, and may in the future be, adversely affected as a result. Also, the broader consequences in the current conflict between Russia and Ukraine, which may include further embargoes, regional instability and geopolitical shifts; airspace bans relating to certain routes, or strategic decisions to alter certain routes; and potential retaliatory action by the Russian government against companies, and the extent of the conflict on our business and operating results cannot be predicted. We may incur expenses or delays relating to such events outside of our control, which could have a material adverse impact on our business, operating results and financial condition.
-
 # Risks Related to Government Laws and Regulations
 
 Demand for our products and services may be impacted by the status of government and economic incentives supporting the development and adoption of such products. Government and economic incentives that support the development and adoption of electric vehicles in the U.S. and abroad, including certain tax exemptions, tax credits and rebates, may be reduced, eliminated or exhausted from time to time. For example, previously available incentives favoring electric vehicles in areas including Ontario, Canada, Netherlands, Italy, Hong Kong and California have expired or were cancelled or temporarily unavailable, and in some cases were not eventually replaced or reinstituted, which may have negatively impacted sales. Certain government and economic incentives, similar to the IRA, may also be implemented that provide benefits to manufacturers who assemble domestically, have local suppliers or have other characteristics that may not apply to Tesla. Such developments could negatively impact demand for our vehicles, and we and our customers may have to adjust to them, including through pricing modifications.
@@ -619,7 +595,6 @@ As we grow our manufacturing operations in additional regions, we are or will be
 In particular, we offer in our vehicles in certain markets Autopilot and FSD Capability features that today assist drivers with certain tedious and potentially dangerous aspects of road travel, but which currently require drivers to remain fully engaged in the driving operation. We are continuing to develop our Autopilot and FSD Capability technology. There are a variety of international, federal and state regulations that may apply to, and may adversely affect, the design and performance, sale, registration and operation of Autopilot and FSD Capability, and future capability, including full self-driving vehicles that may not be operated by a human driver. This includes many existing vehicle standards that were not originally intended to apply to vehicles that may not be operated by a human driver. Such regulations continue to rapidly change, which increases the likelihood of a patchwork of complex or conflicting regulations, or may delay, restrict or prohibit the availability of certain functionalities and vehicle designs, which could adversely affect our business.
 
 Finally, as a manufacturer, installer and service provider with respect to solar generation and energy storage systems, a supplier of electricity generated and stored by certain of the solar energy and energy storage systems we install for customers, and a provider of
-
 grid services through virtual power plant models, we are impacted by federal, state and local regulations and policies concerning the import or export of components, electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems. If regulations and policies are introduced that adversely impact the import or export of components, or the interconnection, maintenance or use of our solar and energy storage systems, they could deter potential customers from purchasing our solar and energy storage products and services, threaten the economics of our existing contracts and cause us to cease solar and energy storage system sales and services in the relevant jurisdictions, which may harm our business, financial condition and operating results.
 
 Any failure by us to comply with a variety of U.S. and international privacy and consumer protection laws may harm us. Any failure by us or our vendor or other business partners to comply with our public privacy notice or with federal, state or international privacy, data protection or security laws or regulations relating to the processing, collection, use, retention, security and transfer of personally identifiable information could result in regulatory or litigation-related actions against us, legal liability, fines, damages, ongoing audit requirements and other significant costs. Substantial expenses and operational changes may be required in connection with maintaining compliance with such laws, and even an unsuccessful challenge by customers or regulatory authorities of our activities could result in adverse publicity and could require a costly response from and defense by us. In addition, certain emerging privacy laws are still subject to a high degree of uncertainty as to their interpretation, application and impact, and may require extensive system and operational changes, be difficult to implement, increase our operating costs, adversely impact the cost or attractiveness of the products or services we offer, or result in adverse publicity and harm our reputation. For example, the General Data Protection Regulation applies to the processing of personal information collected from individuals located in the European Union, and has created new compliance obligations and significantly increased fines for noncompliance. Similarly, the California Consumer Privacy Act imposes certain legal obligations on our use and processing of personal information related to California residents. Finally, new privacy and cybersecurity laws have come into effect in China. In addition to the risks related to general privacy regulation, we may also be subject to specific vehicle manufacturer obligations relating to cybersecurity, data privacy and data localization requirements which place additional risks to our international operations. Risks and penalties could include ongoing audit requirements, data protection authority investigations, legal proceedings by international governmental entities or others resulting in mandated disclosure of sensitive data or other commercially unfavorable terms. Notwithstanding our efforts to protect the security and integrity of our customers’ personal information, we may be required to expend significant resources to comply with data breach requirements if, for example, third parties improperly obtain and use the personal information of our customers or we otherwise experience a data loss with respect to customers’ personal information. A major breach of our network security and systems may result in fines, penalties and damages and harm our brand, prospects and operating results.
@@ -627,7 +602,6 @@ Any failure by us to comply with a variety of U.S. and international privacy and
 We could be subject to liability, penalties and other restrictive sanctions and adverse consequences arising out of certain governmental investigations and proceedings. We are cooperating with certain government investigations as discussed in Note 15, Commitments and Contingencies, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. To our knowledge, no government agency in any such ongoing investigation has concluded that any wrongdoing occurred. However, we cannot predict the outcome or impact of any such ongoing matters, and there exists the possibility that we could be subject to liability, penalties and other restrictive sanctions and adverse consequences if the SEC, the U.S. Department of Justice or any other government agency were to pursue legal action in the future. Moreover, we expect to incur costs in responding to related requests for information and subpoenas, and if instituted, in defending against any governmental proceedings.
 
 For example, on October 16, 2018, the U.S. District Court for the Southern District of New York entered a final judgment approving the terms of a settlement filed with the Court on September 29, 2018, in connection with the actions taken by the SEC relating to Mr. Musk’s statement on August 7, 2018 that he was considering taking Tesla private. Pursuant to the settlement, we, among other things, paid a civil penalty of $20 million, appointed an independent director as the chair of our board of directors, appointed two additional independent directors to our board of directors and made further enhancements to our disclosure controls and other corporate governance-related matters. On April 26, 2019, this settlement was amended to clarify certain of the previously-agreed disclosure procedures, which was subsequently approved by the Court. All other terms of the prior settlement were reaffirmed without modification. Although we intend to continue to comply with the terms and requirements of the settlement, if there is a lack of compliance or an alleged lack of compliance, additional enforcement actions or other legal proceedings may be instituted against us.
-
 # We may face regulatory challenges to or limitations on our ability to sell vehicles directly.
 
 While we intend to continue to leverage our most effective sales strategies, including sales through our website, we may not be able to sell our vehicles through our own stores in certain states in the U.S. with laws that may be interpreted to impose limitations on this direct-to-consumer sales model. It has also been asserted that the laws in some states limit our ability to obtain dealer licenses from state motor vehicle regulators, and such assertions persist. In certain locations, decisions by regulators permitting us to sell vehicles have been, and may be, challenged by dealer associations and others as to whether such decisions comply with applicable state motor vehicle industry laws. We have prevailed in many of these lawsuits and such results have reinforced our continuing belief that state franchise laws were not intended to apply to a manufacturer that does not have franchise dealers anywhere in the world. In some states, there have also been regulatory and legislative efforts by dealer associations to propose laws that, if enacted, would prevent us from obtaining dealer licenses in their states given our current sales model. A few states have passed legislation that clarifies our ability to operate, but at the same time limits the number of dealer licenses we can obtain or stores that we can operate. The application of state laws applicable to our operations continues to be difficult to predict.
@@ -647,7 +621,6 @@ We expect our period-to-period financial results to vary based on our operating 
 # We may fail to meet our publicly announced guidance or other expectations about our business, which could cause our stock price to decline.
 
 We may provide from time to time guidance regarding our expected financial and business performance. Correctly identifying key factors affecting business conditions and predicting future events is inherently an uncertain process, and our guidance may not ultimately be accurate and has in the past been inaccurate in certain respects, such as the timing of new product manufacturing ramps. Our guidance is based on certain assumptions such as those relating to anticipated production and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions. If our guidance varies from actual results, such as due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
-
 # If Elon Musk were forced to sell shares of our common stock
 
 either that he has pledged to secure certain personal loan obligations, or in satisfaction of other obligations, such sales could cause our stock price to decline.
@@ -659,7 +632,6 @@ our Chief Executive Officer, a portion of which was used to purchase shares of c
 # Anti-takeover provisions contained in our governing documents
 
 applicable laws and our convertible senior notes could impair a takeover attempt. Our certificate of incorporation and bylaws afford certain rights and powers to our board of directors that may facilitate the delay or prevention of an acquisition that it deems undesirable. We are also subject to Section 203 of the Delaware General Corporation Law and other provisions of Delaware law that limit the ability of stockholders in certain situations to effect certain business combinations. In addition, the terms of our convertible senior notes may require us to repurchase such notes in the event of a fundamental change, including a takeover of our company. Any of the foregoing provisions and terms that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to receive a premium for their shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock.
-
 # ITEM 1B. UNRESOLVED STAFF COMMENTS
 
 None.
@@ -693,7 +665,6 @@ District attorneys in certain California counties are conducting an investigatio
 # ITEM 4. MINE SAFETY DISCLOSURES
 
 Not applicable.
-
 # PART II
 
 # ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
@@ -749,7 +720,6 @@ The following graph shows a comparison, from January 1, 2018 through December 31
 |1|1|1|7|
 |3|1|1|1|
 |1|1|1|3|
-
 # Unregistered Sales of Equity Securities and Use of Proceeds
 
 None
@@ -761,7 +731,6 @@ None.
 # ITEM 6. [RESERVED]
 
 31
-
 # ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
 The following discussion and analysis should be read in conjunction with the consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. For further discussion of our products and services, technology and competitive strengths, refer to Item 1- Business. For discussion related to changes in financial condition and the results of operations for fiscal year 2021-related items, refer to Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal year 2021, which was filed with the Securities and Exchange Commission on February 7, 2022.
@@ -797,7 +766,6 @@ The following is a summary of the status of production of each of our announced 
 |Gigafactory Nevada|Tesla Semi|Pilot production|
 |TBD|Tesla Roadster|In development|
 |TBD|Robotaxi & Others|In development|
-
 # We are focused on growing our manufacturing capacity
 
 which includes ramping all of our production vehicles to their installed production capacities as well as increasing production rate, efficiency and capacity at our current factories. The next phase of production growth will depend on the ramp at Gigafactory Berlin-Brandenburg and Gigafactory Texas, as well as our ability to add to our available sources of battery cell supply by manufacturing our own cells that we are developing to have high-volume output, lower capital and production costs and longer range. Our goals are to improve vehicle performance, decrease production costs and increase affordability.
@@ -821,7 +789,6 @@ As our production increases, we must work constantly to similarly increase vehic
 # Energy Generation and Storage Demand, Production and Deployment
 
 The long-term success of this business is dependent upon increasing margins through greater volumes. We continue to increase the production of our energy storage products to meet high levels of demand. For Megapack, energy storage deployments can vary meaningfully quarter to quarter depending on the timing of specific project milestones. For Powerwall, better availability and growing grid stability concerns drive higher customer interest. We remain committed to growing our retrofit solar energy business by offering a low-cost and simplified online ordering experience. In addition, we continue to seek to improve our installation capabilities and price efficiencies for Solar Roof. As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians, to support the ramp of Solar Roof.
-
 # Cash Flow and Capital Expenditure Trends
 
 Our capital expenditures are typically difficult to project beyond the short-term given the number and breadth of our core projects at any given time, and may further be impacted by uncertainties in future global market conditions. We are simultaneously ramping new products, ramping manufacturing facilities on three continents and piloting the development and manufacture of new battery cell technologies, and the pace of our capital spend may vary depending on overall priority among projects, the pace at which we meet milestones, production adjustments to and among our various products, increased capital efficiencies and the addition of new projects. Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to be between $6.00 to $8.00 billion in 2023 and between $7.00 to $9.00 billion in each of the following two fiscal years.
@@ -839,7 +806,6 @@ In the first quarter of 2021, we invested an aggregate $1.50 billion in bitcoin.
 The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. (“GAAP”). The preparation of the consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience, as appropriate, and on various other assumptions that we believe to be reasonable under the circumstances. Changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ significantly from the estimates made by our management. We evaluate our estimates and assumptions on an ongoing basis. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows may be affected.
 
 The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts and financing receivables, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted. We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Annual Report on Form 10-K. These estimates may change as new events occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions.
-
 # Revenue Recognition
 
 # Automotive Sales
@@ -857,7 +823,6 @@ Resale value guarantees or buy-back terms offered to international customers who
 # Inventory Valuation
 
 Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost for vehicles and energy products on a first-in, first-out basis. Inventory write-downs are recorded for excess or obsolete inventories based on assumptions about current and future demand forecasts. Inventory carrying value is reviewed to ensure it does not exceed the net amount realizable upon the ultimate sale, considering estimated selling prices and conversion costs. Once inventory is written down, a new cost basis is established, and subsequent changes do not result in restoration or increase of that cost basis. Changes in future selling prices or production costs may require additional write-downs, impacting financial results.
-
 # Warranties
 
 We provide a manufacturer’s warranty on all new and used vehicles and a warranty on the installation and components of the energy generation and storage systems we sell for periods typically between 10 to 25 years. We accrue a warranty reserve for the products sold by us, which includes our best estimate of the projected costs to repair or replace items under warranties and recalls if identified. These estimates are based on actual claims incurred to date and an estimate of the nature, frequency and costs of future claims. These estimates are inherently uncertain given our relatively short history of sales, and changes to our historical or projected warranty experience may cause material changes to the warranty reserve in the future. The warranty reserve does not include projected warranty costs associated with our vehicles subject to operating lease accounting and our solar energy systems under lease contracts or PPAs, as the costs to repair these warranty claims are expensed as incurred. The portion of the warranty reserve expected to be incurred within the next 12 months is included within Accrued liabilities and other, while the remaining balance is included within Other long-term liabilities on the consolidated balance sheets. Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations. Due to the magnitude of our automotive business, accrued warranty balance is primarily related to our automotive segment.
@@ -875,7 +840,6 @@ As we accumulate additional employee stock-based awards data over time and as we
 We are subject to taxes in the U.S. and in many foreign jurisdictions. Significant judgment is required in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets. We make these estimates and judgments about our future taxable income that are based on assumptions that are consistent with our future plans. Tax laws, regulations and administrative practices may be subject to change due to economic or political conditions including fundamental changes to the tax laws applicable to corporate multinationals. The U.S., many countries in the European Union and a number of other countries are actively considering changes in this regard. As of December 31, 2022, we had recorded a full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be realized. Should the actual amounts differ from our estimates, the amount of our valuation allowance could be materially impacted.
 
 Furthermore, significant judgment is required in evaluating our tax positions. In the ordinary course of business, there are many transactions and calculations for which the ultimate tax settlement is uncertain. As a result, we recognize the effect of this uncertainty on our tax attributes or taxes payable based on our estimates of the eventual outcome. These effects are recognized when, despite our belief that our tax return positions are supportable, we believe that it is more likely than not that some of those positions may not be fully sustained upon review by tax authorities. We are required to file income tax returns in the U.S. and various foreign jurisdictions, which requires us to interpret the applicable tax laws and regulations in effect in such jurisdictions. Such returns are subject to audit by the various federal, state and foreign taxing authorities, who may disagree with respect to our tax positions. We believe that our consideration is adequate for all open audit years based on our assessment of many factors, including past experience and interpretations of tax law. We review and update our estimates in light of changing facts and circumstances, such as the closing of a tax audit, the lapse of a statute of limitations or a change in estimate. To the extent that the final tax outcome of these matters differs from our expectations, such differences may impact income tax expense in the period in which such determination is made. The eventual impact on our income tax expense depends in part if we still have a valuation allowance recorded against our deferred tax assets in the period that such determination is made.
-
 # Results of Operations
 
 | | |Year Ended December 31|2022 vs. 2021 Change| |2021 vs. 2020 Change| | |
@@ -909,7 +873,6 @@ Automotive regulatory credits revenue increased $311 million, or 21%, in the yea
 Automotive leasing revenue increased $834 million, or 51%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021. The change is primarily due to an increase in activities under our direct operating lease program as well as an increase in direct sales-type leasing revenue.
 
 Services and other revenue increased $2.29 billion, or 60%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021. The change is primarily due to increase in used vehicle revenue driven by increases in volume and average selling prices of used Tesla and non-Tesla vehicles, non-warranty maintenance services revenue as our fleet continues to grow, paid Supercharging revenue, insurance services revenue and retail merchandise revenue.
-
 # Energy Generation and Storage Segment
 
 Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, financing of solar energy generation products, services related to such products and sales of solar energy systems incentives.
@@ -955,7 +918,6 @@ Cost of automotive sales revenue includes direct and indirect materials, labor c
 Cost of automotive leasing revenue includes the depreciation of operating lease vehicles, cost of goods sold associated with direct sales-type leases and warranty expense related to leased vehicles. Cost of automotive leasing revenue also includes vehicle connectivity costs and allocations of electricity and infrastructure costs related to our Supercharger network for vehicles under our leasing programs.
 
 Cost of services and other revenue includes costs associated with providing non-warranty after-sales services and parts, costs of paid Supercharging, cost of used vehicles including refurbishment costs, costs for retail merchandise, and costs to provide vehicle insurance.
-
 # 2022 compared to 2021
 
 Cost of automotive sales revenue increased $17.18 billion, or 53%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, in line with the growth in revenue year over year, as discussed above. The average combined cost per unit of Model 3 and Model Y increased year over year due to rising raw material, logistics and warranty costs. There were also idle capacity charges of $306 million primarily related to the temporary suspension of production at Gigafactory Shanghai as well as the ramping up of production in Gigafactory Texas and our proprietary battery cells manufacturing during the year ended December 31, 2022. We had also incurred costs related to the ramp up of production in Gigafactory Berlin-Brandenburg during the year ended December 31, 2022. These increases were partially offset by a decrease in combined average Model S and Model X costs per unit driven by lower average cost for the new versions from ramping up production. Further, these increases in costs of revenue were positively impacted by the United States dollar strengthening against other foreign currencies in 2022 compared to the prior period.
@@ -975,7 +937,6 @@ Cost of energy generation and storage revenue includes direct and indirect mater
 Cost of energy generation and storage revenue increased $703 million, or 24%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, primarily due to increases in energy storage deployments of Megapack and Powerwall, as well as higher average cost of solar cash and loan deployments due to increased component costs.
 
 Gross margin for energy generation and storage increased from -4.6% to 7.4% in the year ended December 31, 2022 as compared to the year ended December 31, 2021. This was driven by the growth in energy generation and storage revenue and cost of energy generation and storage revenue as discussed above. Additionally, there was a higher proportion of energy storage sales, which operated at a higher gross margin, within the segment.
-
 # Research and Development Expense
 
 | |Year Ended December 31|2022 vs. 2021 Change|2021 vs. 2020 Change| | | | |
@@ -1014,7 +975,6 @@ SG&A expenses as a percentage of revenue decreased from 8% to 5% in the year end
 |Restructuring and other|$176|($27)|—|$203|Not meaningful|($27)|Not meaningful|
 
 During the years ended December 31, 2022 and 2021, we recorded $204 million and $101 million, respectively, of impairment losses on digital assets, respectively. During the years ended December 31, 2022 and 2021, we also realized gains of $64 million and $128 million, respectively, in connection with converting our holdings of digital assets into fiat currency. Additionally, we recorded other expenses of $36 million during the second quarter of the year ended December 31, 2022, related to employee terminations.
-
 # Interest Income
 
 | |Year Ended December 31| |2022 vs. 2021 Change|2021 vs. 2020 Change| | | |
@@ -1063,7 +1023,6 @@ Our effective tax rate decreased from 11% to 8% in the year ended December 31, 2
 |Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries|$31|$125|$141|$(94)|(75)%|$(16)|(11)%|
 
 41
-
 # Net Income
 
 Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $94 million, or 75%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021. These changes were due to a decrease in allocations to financing fund investors.
@@ -1089,7 +1048,6 @@ As of December 31, 2022, we and our subsidiaries had outstanding $2.06 billion i
 # Sources and Conditions of Liquidity
 
 Our sources to fund our material cash requirements are predominantly from our deliveries and servicing of new and used vehicles, sales and installations of our energy storage products and solar energy systems, proceeds from debt facilities and proceeds from equity offerings, when applicable.
-
 As of December 31, 2022, we had $16.25 billion and $5.93 billion of cash and cash equivalents and short-term investments, respectively. Balances held in foreign currencies had a U.S. dollar equivalent of $3.42 billion and consisted primarily of Chinese yuan, euros and British pounds. In addition, we had $2.42 billion of unused committed amounts under our credit facilities as of December 31, 2022, which included $2.27 billion under our Credit Agreement which was terminated in January 2023. Certain of such unused committed amounts are subject to satisfying specified conditions prior to draw-down (such as pledging to our lenders sufficient amounts of qualified receivables, inventories, leased vehicles and our interests in those leases, solar energy systems and the associated customer contracts or various other assets). In January 2023, we entered into an unsecured revolving credit facility providing for a commitment of up to $5.0 billion. For details regarding our indebtedness, refer to Note 11, Debt, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
 
 We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
@@ -1120,7 +1078,6 @@ Net cash used in financing activities decreased by $1.68 billion to $3.53 billio
 Recent Accounting Pronouncements
 
 See Note 2,Summary of Significant Accounting Policies, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
-
 # ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 
 Foreign Currency Risk
@@ -1132,7 +1089,6 @@ We have also experienced, and will continue to experience, fluctuations in our n
 We considered the historical trends in foreign currency exchange rates and determined that it is reasonably possible that adverse changes in foreign currency exchange rates of 10% for all currencies could be experienced in the near-term. These changes were applied to our total monetary assets and liabilities denominated in currencies other than our local currencies at the balance sheet date to compute the impact these changes would have had on our net income before income taxes. These changes would have resulted in a gain or loss of $473 million at December 31, 2022, and $277 million at December 31, 2021, assuming no foreign currency hedging.
 
 &nbsp;
-
 # ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
 
 |Index to Consolidated Financial Statements|Page|
@@ -1144,7 +1100,6 @@ We considered the historical trends in foreign currency exchange rates and deter
 |Consolidated Statements of Redeemable Noncontrolling Interests and Equity|51|
 |Consolidated Statements of Cash Flows|52|
 |Notes to Consolidated Financial Statements|53|
-
 # Report of Independent Registered Public Accounting Firm
 
 To the Board of Directors and Stockholders of Tesla, Inc.
@@ -1170,7 +1125,6 @@ Our audits of the consolidated financial statements included performing procedur
 Definition and Limitations of Internal Control over Financial Reporting
 
 A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
-
 Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
 
 Critical Audit Matters
@@ -1191,7 +1145,6 @@ San Jose, California
 January 30, 2023
 
 We have served as the Company’s auditor since 2005.
-
 # Tesla, Inc. Consolidated Balance Sheets
 
 | |December 31, 2022|December 31, 2021|
@@ -1240,7 +1193,6 @@ We have served as the Company’s auditor since 2005.
 (1) Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # Tesla, Inc.
 
 # Consolidated Statements of Operations
@@ -1287,7 +1239,6 @@ The accompanying notes are an integral part of these consolidated financial stat
 (1) Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # Tesla, Inc.
 
 # Consolidated Statements of Comprehensive Income
@@ -1305,7 +1256,6 @@ The accompanying notes are an integral part of these consolidated financial stat
 The accompanying notes are an integral part of these consolidated financial statements.
 
 50
-
 # Tesla, Inc. Consolidated Statements of Redeemable Noncontrolling Interests and Equity (in millions, except per share data)
 
 | |Redeemable Noncontrolling Interests|Common Stock| | | | | | | | | | | |
@@ -1348,7 +1298,6 @@ The accompanying notes are an integral part of these consolidated financial stat
 (1) Prior period results have been adjusted to reflect the three-for-one stock split effected in the form of a stock dividend in August 2022. See Note 1, Overview, for details.
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # Tesla, Inc.
 
 # Consolidated Statements of Cash Flows
@@ -1414,7 +1363,6 @@ Cash paid during the period for interest, net of amounts capitalized: $152 (2022
 Cash paid during the period for taxes, net of refunds: $1,203 (2022), $561 (2021), $115 (2020)
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # Tesla, Inc. - Notes to Consolidated Financial Statements
 
 # Note 1 – Overview
@@ -1438,7 +1386,6 @@ The preparation of financial statements in conformity with GAAP requires managem
 # Reclassifications
 
 Certain prior period balances have been reclassified to conform to the current period presentation in the consolidated financial statements and the accompanying notes.
-
 # Revenue Recognition
 
 # Revenue by source
@@ -1463,7 +1410,6 @@ Certain prior period balances have been reclassified to conform to the current p
 Automotive sales revenue includes revenues related to cash and financing deliveries of new vehicles, and specific other features and services that meet the definition of a performance obligation under ASC 606, including access to our FSD features, internet connectivity, Supercharger network and over-the-air software updates. We recognize revenue on automotive sales upon delivery to the customer, which is when the control of a vehicle transfers. Payments are typically received at the point control transfers or in accordance with payment terms customary to the business, except sales we finance for which payments are collected over the contractual loan term. We also recognize a sales return reserve based on historical experience plus consideration for expected future market values, when we offer resale value guarantees or similar buyback terms. Other features and services such as access to our internet connectivity, legacy programs offering unlimited free Supercharging and over-the-air software updates are provisioned upon control transfer of a vehicle and recognized over time on a straight-line basis as we have a stand-ready obligation to deliver such services to the customer. Other limited free Supercharging incentives are recognized based on actual usage or expiration, whichever is earlier. We recognize revenue related to these other features and services over the performance period, which is generally the expected ownership life of the vehicle. Revenue related to FSD is recognized when functionality is delivered to the customer and the portion related to software updates is recognized over time. For our obligations related to automotive sales, we estimate standalone selling price by considering costs used to develop and deliver the service, third-party pricing of similar options and other information that may be available.
 
 Any fees that are paid or payable by us to a customer’s lender when we arrange the financing are recognized as an offset against automotive sales revenue. Costs to obtain a contract mainly relate to commissions paid to our sales personnel for the sale of vehicles. As our contract costs related to automotive sales are typically fulfilled within one year, the costs to obtain a contract are expensed as incurred. Amounts billed to customers related to shipping and handling are classified as automotive sales revenue, and we have elected to recognize the cost for freight and shipping when control over vehicles, parts or accessories have transferred to the customer as an expense in cost of automotive sales revenue. Our policy is to exclude taxes collected from a customer from the transaction price of automotive contracts.
-
 # We offer resale value guarantees
 
 We offer resale value guarantees or similar buy-back terms to certain international customers who purchase vehicles and who finance their vehicles through one of our specified commercial banking partners. Under these programs, we receive full payment for the vehicle sales price at the time of delivery and our counterparty has the option of selling their vehicle back to us during the guarantee period, which currently is generally at the end of the term of the applicable loan or financing program, for a pre-determined resale value. We account for such automotive sales as a sale with a right of return when we do not believe the customer has a significant economic incentive to exercise the resale value guarantee provided to them at contract inception. The process to determine whether there is a significant economic incentive includes a comparison of a vehicle’s estimated market value at the time the option is exercisable with the guaranteed resale value to determine the customer’s economic incentive to exercise. On a quarterly basis, we assess the estimated market values of vehicles sold with resale value guarantees to determine whether there have been changes to the likelihood of future product returns. As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values. The total sales return reserve on vehicles sold with resale value guarantees was $91 million and $223 million as of December 31, 2022 and 2021, respectively, of which $40 million and $91 million was short-term, respectively.
@@ -1489,7 +1435,6 @@ We have been providing loans for financing our automotive deliveries during the 
 We earn tradable credits in the operation of our automotive business under various regulations related to ZEVs, greenhouse gas, fuel economy and clean fuel. We sell these credits to other regulated entities who can use the credits to comply with emission standards and other regulatory requirements.
 
 Payments for automotive regulatory credits are typically received at the point control transfers to the customer, or in accordance with payment terms customary to the business. We recognize revenue on the sale of automotive regulatory credits, which have negligible incremental costs associated with them, at the time control of the regulatory credits is transferred to the purchasing party. Deferred revenue related to sales of automotive regulatory credits was immaterial as of December 31, 2022 and 2021. Revenue recognized from the deferred revenue balance as of December 31, 2021 and 2020 was immaterial for the years ended December 31, 2022 and 2021. During the year ended December 31, 2022, we had also recognized $288 million in revenue due to changes in regulation which entitled us to additional consideration for credits sold previously.
-
 # Automotive Leasing Revenue
 
 Direct Vehicle Operating Leasing Program
@@ -1515,7 +1460,6 @@ Energy Generation and Storage Sales
 Energy generation and storage sales revenue consists of the sale of solar energy systems and energy storage systems to residential, small commercial, large commercial and utility grade customers. Sales of solar energy systems to residential and small scale commercial customers consist of the engineering, design and installation of the system. Residential and small scale commercial customers pay the full purchase price of the solar energy system upfront. Revenue for the design and installation obligation is recognized when control transfers, which is when we install a solar energy system and the system passes inspection by the utility or the authority having jurisdiction. Sales of energy storage systems to residential and small scale commercial customers consist of the installation of the energy storage system and revenue is recognized when control transfers, which is when the product has been delivered or, if we are performing installation, when installed and commissioned. Payment for such storage systems is made upon invoice or in accordance with payment terms customary to the business.
 
 For large commercial and utility grade solar energy system and energy storage system sales which consist of the engineering, design and installation of the system, customers make milestone payments that are consistent with contract-specific phases of a project. Revenue from such contracts is recognized over time using the percentage of completion method based on cost incurred as a percentage of total estimated contract costs for energy storage system sales and as a percentage of total estimated labor hours for solar energy system sales.
-
 In instances where there are multiple performance obligations in a single contract, we allocate the consideration to the various obligations in the contract based on the relative standalone selling price method. Standalone selling prices are estimated based on estimated costs plus margin or by using market data for comparable products. Costs incurred on the sale of residential installations before the solar energy systems are completed are included as work in process within inventory in the consolidated balance sheets. Any fees that are paid or payable by us to a solar loan lender would be recognized as an offset against revenue. Costs to obtain a contract relate mainly to commissions paid to our sales personnel related to the sale of solar energy systems and energy storage systems. As our contract costs related to solar energy system and energy storage system sales are typically fulfilled within one year, the costs to obtain a contract are expensed as incurred.
 
 As part of our solar energy system and energy storage system contracts, we may provide the customer with performance guarantees that warrant that the underlying system will meet or exceed the minimum energy generation or energy performance requirements specified in the contract. In certain instances, we may receive a bonus payment if the system performs above a specified level. Conversely, if a solar energy system or energy storage system does not meet the performance guarantee requirements, we may be required to pay liquidated damages. Other forms of variable consideration related to our large commercial and utility grade solar energy system and energy storage system contracts include variable customer payments that will be made based on our energy market participation activities. Such guarantees and variable customer payments represent a form of variable consideration and are estimated at contract inception at their most likely amount and updated at the end of each reporting period as additional performance data becomes available. Such estimates are included in the transaction price only to the extent that it is probable a significant reversal of revenue will not occur.
@@ -1533,7 +1477,6 @@ For solar energy systems where customers purchase electricity from us under PPAs
 We record as deferred revenue any amounts that are collected from customers, including lease prepayments, in excess of revenue recognized, which is recognized as revenue ratably over the respective customer contract term. As of December 31, 2022 and 2021, deferred revenue related to such customer payments amounted to $191 million and $198 million, respectively. Deferred revenue also includes the portion of rebates and incentives received from utility companies and various local and state government agencies, which is recognized as revenue over the lease term. As of December 31, 2022 and 2021, deferred revenue from rebates and incentives amounted to $25 million and $27 million, respectively.
 
 We capitalize initial direct costs from the execution of agreements for solar energy systems and PPAs, which include the referral fees and sales commissions, as an element of solar energy systems, net, and subsequently amortize these costs over the term of the related agreements.
-
 # Cost of Revenues
 
 # Automotive Segment
@@ -1569,7 +1512,6 @@ The Tax Cuts and Jobs Act (“TCJA”) subjects a U.S. shareholder to tax on glo
 # Comprehensive Income
 
 Comprehensive income is comprised of net income and other comprehensive (loss) income. Other comprehensive (loss) income consists of foreign currency translation adjustments and unrealized net gains and losses on investments that have been excluded from the determination of net income.
-
 # Stock-Based Compensation
 
 We use the fair value method of accounting for our stock options and RSUs granted to employees and for our ESPP to measure the cost of employee services received in exchange for the stock-based awards. The fair value of stock option awards with only service and/or performance conditions is estimated on the grant or offering date using the Black-Scholes option-pricing model. The Black-Scholes option-pricing model requires inputs such as the risk-free interest rate, expected term and expected volatility. These inputs are subjective and generally require significant judgment. The fair value of RSUs is measured on the grant date based on the closing fair market value of our common stock. The resulting cost is recognized over the period during which an employee is required to provide service in exchange for the awards, usually the vesting period, which is generally four years for stock options and RSUs and six months for the ESPP. Stock-based compensation expense is recognized on a straight-line basis, net of actual forfeitures in the period.
@@ -1587,7 +1529,6 @@ Noncontrolling interests and redeemable noncontrolling interests represent third
 Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period. Potentially dilutive shares, which are based on the weighted-average shares of common stock underlying outstanding stock-based awards, warrants and convertible senior notes using the treasury stock method or the if-converted method, as applicable, are included when calculating diluted net income per share of common stock attributable to common stockholders when their effect is dilutive.
 
 Furthermore, in connection with the offerings of our convertible senior notes, we entered into convertible note hedges and warrants (see Note 11,Debt). However, our convertible note hedges are not included when calculating potentially dilutive shares since their effect is always anti-dilutive. The strike price on the warrants were below our average share price during the period and were included in the tables below. Warrants are included in the weighted-average shares used in computing basic net income per share of common stock in the period(s) they are settled.
-
 # The following table presents the reconciliation of net income attributable to common stockholders to net income used in computing basic and diluted net income per share of common stock (in millions):
 
 | |Year Ended December 31,|2022| |2021|2020|
@@ -1625,7 +1566,6 @@ We account for business acquisitions under ASC 805, Business Combinations. The t
 # Cash and Cash Equivalents
 
 All highly liquid investments with an original maturity of three months or less at the date of purchase are considered cash equivalents. Our cash equivalents are primarily comprised of money market funds and certificates of deposit.
-
 # Restricted Cash
 
 We maintain certain cash balances restricted as to withdrawal or use. Our restricted cash is comprised primarily of cash held to service certain payments under various secured debt facilities. In addition, restricted cash includes cash held as collateral for certain permits as well as sales to lease partners with a resale value guarantee, letters of credit, real estate leases, deposits held for our insurance services and certain operating leases. We record restricted cash as other assets in the consolidated balance sheets and determine current or non-current classification based on the expected duration of the restriction.
@@ -1656,7 +1596,6 @@ Depending on the day of the week on which the end of a fiscal quarter falls, our
 # Financing Receivables
 
 We provide financing options to our customers for our automotive and energy products. Financing receivables are carried at amortized cost, net of allowance for loan losses. Provisions for loan losses are charged to operations in amounts sufficient to maintain the allowance for loan losses at levels considered adequate to cover expected credit losses on the financing receivables. In determining expected credit losses, we consider our historical level of credit losses, current economic trends, and reasonable and supportable forecasts that affect the collectability of the future cash flows.
-
 # When originating consumer receivables
 
 We review the credit application, the proposed contract terms, credit bureau information (e.g., FICO score) and other information. Our evaluation emphasizes the applicant’s ability to pay and creditworthiness focusing on payment, affordability, and applicant credit history as key considerations. Generally, all customers in this portfolio have strong creditworthiness at loan origination.
@@ -1690,7 +1629,6 @@ Should our estimates of future selling prices or production costs change, additi
 # Operating Lease Vehicles
 
 Vehicles that are leased as part of our direct vehicle leasing program are classified as operating lease vehicles at cost less accumulated depreciation. We generally depreciate their cost, less residual value, using the straight-line-method to cost of automotive leasing revenue over the contractual period. The gross cost of operating lease vehicles as of December 31, 2022 and December 31, 2021 was $6.08 billion and $5.28 billion, respectively. Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $1.04 billion and $773 million as of December 31, 2022 and December 31, 2021, respectively.
-
 # Digital Assets, Net
 
 We currently account for all digital assets held as indefinite-lived intangible assets in accordance with ASC 350, Intangibles—Goodwill and Other. We have ownership of and control over our digital assets and we may use third-party custodial services to secure it. The digital assets are initially recorded at cost and are subsequently remeasured on the consolidated balance sheet at cost, net of any impairment losses incurred since acquisition.
@@ -1728,7 +1666,6 @@ Leasehold improvements are depreciated on a straight-line basis over the shorter
 Upon the retirement or sale of our property, plant and equipment, the cost and associated accumulated depreciation are removed from the consolidated balance sheet, and the resulting gain or loss is reflected on the consolidated statement of operations. Maintenance and repair expenditures are expensed as incurred while major improvements that increase the functionality, output or expected life of an asset are capitalized and depreciated ratably over the identified useful life.
 
 Interest expense on outstanding debt is capitalized during the period of significant capital asset construction. Capitalized interest on construction in progress is included within Property, plant and equipment, net and is amortized over the life of the related assets.
-
 # Long-Lived Assets Including Acquired Intangible Assets
 
 We review our property, plant and equipment, solar energy systems, long-term prepayments and intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset (or asset group) may not be recoverable. We measure recoverability by comparing the carrying amount to the future undiscounted cash flows that the asset is expected to generate. If the asset is not recoverable, its carrying amount would be adjusted down to its fair value. For the years ended December 31, 2022, 2021 and 2020, we have recognized no material impairments of our long-lived assets.
@@ -1752,7 +1689,6 @@ We evaluate the useful lives of these assets on an annual basis, and we test for
 We determine the functional and reporting currency of each of our international subsidiaries and their operating divisions based on the primary currency in which they operate. In cases where the functional currency is not the U.S. dollar, we recognize a cumulative translation adjustment created by the different rates we apply to current period income or loss and the balance sheet. For each subsidiary, we apply the monthly average functional exchange rate to its monthly income or loss and the month-end functional currency rate to translate the balance sheet.
 
 Foreign currency transaction gains and losses are a result of the effect of exchange rate changes on transactions denominated in currencies other than the functional currency. Transaction gains and losses are recognized in Other (expense) income, net, in the consolidated statements of operations. For the years ended December 31, 2022, 2021 and 2020, we recorded a net foreign currency transaction loss of $89 million, gain of $97 million and loss of $114 million, respectively.
-
 # Warranties
 
 We provide a manufacturer’s warranty on all new and used vehicles and a warranty on the installation and components of the energy generation and storage systems we sell for periods typically between 10 to 25 years. We accrue a warranty reserve for the products sold by us, which includes our best estimate of the projected costs to repair or replace items under warranties and recalls if identified. These estimates are based on actual claims incurred to date and an estimate of the nature, frequency and costs of future claims. These estimates are inherently uncertain given our relatively short history of sales, and changes to our historical or projected warranty experience may cause material changes to the warranty reserve in the future. The warranty reserve does not include projected warranty costs associated with our vehicles subject to operating lease accounting and our solar energy systems under lease contracts or PPAs, as the costs to repair these warranty claims are expensed as incurred. The portion of the warranty reserve expected to be incurred within the next 12 months is included within Accrued liabilities and other, while the remaining balance is included within Other long-term liabilities on the consolidated balance sheets. Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations. Due to the magnitude of our automotive business, accrued warranty balance is primarily related to our automotive segment.
@@ -1778,7 +1714,6 @@ Globally, the operation of our business is impacted by various government progra
 Gigafactory New York—New York State Investment and Lease
 
 We have a lease through the Research Foundation for the SUNY Foundation with respect to Gigafactory New York. Under the lease and a related research and development agreement, we are continuing to designate further buildouts at the facility. We are required to comply with certain covenants, including hiring and cumulative investment targets. Under the terms of the arrangement, the SUNY Foundation paid for a majority of the construction costs related to the manufacturing facility and the acquisition and commissioning of certain manufacturing equipment; and we are responsible for any construction or equipment costs in excess of such amount (refer to Note 15,Commitments and Contingencies). This incentive reduces the related lease costs of the facility within the Energy generation and storage cost of revenues and operating expense line items in our consolidated statements of operations.
-
 # Gigafactory Shanghai—Land Use Rights and Economic Benefits
 
 We have an agreement with the local government of Shanghai for land use rights at Gigafactory Shanghai. Under the terms of the arrangement, we are required to meet a cumulative capital expenditure target and an annual tax revenue target starting at the end of 2023. In addition, the Shanghai government has granted to our Gigafactory Shanghai subsidiary certain incentives to be used in connection with eligible capital investments at Gigafactory Shanghai (refer to Note 15, Commitments and Contingencies). For the years ended December 31, 2022, and 2021, we received grant funding of $76 million and $6 million, respectively. These incentives offset the related costs of our facilities and are recorded as a reduction of the cost of the capital investment within the Property, plant and equipment, net line item in our consolidated balance sheets. The incentive, therefore, reduces the depreciation expense over the useful lives of the related equipment.
@@ -1804,7 +1739,6 @@ In October 2021, the Financial Accounting Standards Board (“FASB”) issued AS
 In March 2022, the FASB issued ASU 2022-02, Troubled Debt Restructurings and Vintage Disclosures. This ASU eliminates the accounting guidance for troubled debt restructurings by creditors that have adopted ASU 2016-13, Measurement of Credit Losses on Financial Instruments, which we adopted on January 1, 2020. This ASU also enhances the disclosure requirements for certain loan refinancing and restructurings by creditors when a borrower is experiencing financial difficulty. In addition, the ASU amends the guidance on vintage disclosures to require entities to disclose current period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC 326-20. The ASU is effective for annual periods beginning after December 15, 2022, including interim periods within those fiscal years. Adoption of the ASU would be applied prospectively. Early adoption is also permitted, including adoption in an interim period. This ASU is currently not expected to have a material impact on our consolidated financial statements.
 
 On August 16, 2022, the IRA was enacted into law and is effective for taxable years beginning after December 31, 2022. The IRA includes multiple incentives to promote clean energy, electric vehicles, battery and energy storage manufacture or purchase, in addition to a new corporate alternative minimum tax of 15% on adjusted financial statement income of corporations with profits greater than $1 billion. These measures may materially affect our consolidated financial statements, and we will continue to evaluate the applicability and effect of the IRA as more guidance is issued.
-
 # Recently adopted accounting pronouncements
 
 In December 2022, the FASB issued ASU No. 2022-06, Deferral of the Sunset Date of Reference Rate Reform (Topic 848). Topic 848 provides optional expedients and exceptions for applying GAAP to transactions affected by reference rate (e.g., LIBOR) reform if certain criteria are met, for a limited period of time to ease the potential burden in accounting for (or recognizing the effects of) reference rate reform on financial reporting. The ASU deferred the sunset date of Topic 848 from December 31, 2022 to December 31, 2024. The ASU is effective as of December 21, 2022 through December 31, 2024. We continue to evaluate transactions or contract modifications occurring as a result of reference rate reform and determine whether to apply the optional guidance on an ongoing basis. We adopted ASU 2022-06 during 2022. The ASU has not and is currently not expected to have a material impact on our consolidated financial statements.
@@ -1827,7 +1761,6 @@ Accordingly, the cumulative effect of the changes made on our January 1, 2021 co
 |Mezzanine equity|Convertible senior notes|$51|$(51)|$—| | | | | | |
 | | | | | | |Equity|Additional paid-in capital|$27,260|$(474)|$26,786|
 | |Accumulated deficit|$(5,399)|$211|$(5,188)| | | | | | |
-
 # Note 3 – Digital Assets, Net
 
 During the years ended December 31, 2022 and 2021, we purchased and/or received an immaterial amount and $1.50 billion, respectively, of digital assets. As of December 31, 2022, we have converted approximately 75% of our purchases into fiat currency. During the years ended December 31, 2022 and 2021, we recorded $204 million and $101 million of impairment losses on such digital assets, respectively. During the years ended December 31, 2022 and 2021, we realized gains of $64 million and $128 million, respectively, in connection with converting our holdings of digital assets into fiat currency. The gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations. As of December 31, 2022 and 2021, the carrying value of our digital assets held was $184 million and $1.26 billion, which reflects cumulative impairments of $204 million and $101 million, each period, respectively. The fair market value of such digital assets held as of December 31, 2022 and 2021 was $191 million and $1.99 billion, respectively.
@@ -1853,7 +1786,6 @@ ASC 820 states that fair value is an exit price, representing the amount that wo
 |Total|$8,220|$2,188|$6,032|$—|$9,710|$9,548|$162|$—| |
 
 All of our money market funds were classified within Level I of the fair value hierarchy because they were valued using quoted prices in active markets. Our U.S. government securities, certificates of deposit, time deposits and corporate debt securities are classified within Level II of the fair value hierarchy and the market approach was used to determine fair value of these investments. Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
-
 # Our cash, cash equivalents and investments classified by security type as of December 31, 2022 and 2021 consisted of the following (in millions):
 
 | |Adjusted Cost|Gross Unrealized Gains|Gross Unrealized Losses|Fair Value|Cash and Cash Equivalents|Short-Term Investments|
@@ -1885,7 +1817,6 @@ We record gross realized gains, losses and credit losses as a component of Other
 |Convertible Senior Notes (2022 Notes)|$37|$223|$119|$2,016| |
 
 (1) The 2022 Notes were fully settled in the first quarter of 2022.
-
 # Note 6 – Inventory
 
 | |December 31, 2022|December 31, 2021|
@@ -1911,7 +1842,6 @@ We write-down inventory for any excess or obsolete inventories or when we believ
 |Total|6,889|6,913|
 
 Continued on next page...
-
 # Construction in Progress
 
 Construction in progress is primarily comprised of construction of Gigafactory Texas and Gigafactory Berlin-Brandenburg, and equipment and tooling related to the manufacturing of our products. Completed assets are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use. Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets. During the years ended December 31, 2022, 2021 and 2020, we capitalized interest of an immaterial amount, $53 million and $48 million, respectively.
@@ -1951,7 +1881,6 @@ Panasonic has partnered with us on Gigafactory Nevada with investments in the pr
 |Deferred tax liability|$82|$24|
 |Other non-current liabilities|$553|$320|
 |Total other long-term liabilities|$5,330|$3,546|
-
 # Note 11 – Debt
 
 | |Net Carrying Value|Unpaid Principal Balance|Unused Committed Amount (1)|Interest Rates|Contractual Maturity Date| |
@@ -1993,7 +1922,6 @@ During the first quarter of 2022, the remaining $29 million in aggregate princip
 # 2024 Notes, Bond Hedges and Warrant Transactions
 
 In May 2019, we issued $1.84 billion in aggregate principal amount of our 2024 Notes in a public offering. The net proceeds from the issuance, after deducting transaction costs, were $1.82 billion.
-
 # As adjusted to give effect to the 2022 Stock Split
 
 Each $1,000 of principal of the 2024 Notes is now convertible into 48.4140 shares of our common stock, which is equivalent to a conversion price of approximately $20.66 per share, subject to adjustment upon the occurrence of specified events. Holders of the 2024 Notes may convert, at their option, on or after February 15, 2024. Further, holders of the 2024 Notes may convert, at their option, prior to February 15, 2024 only under the following circumstances:
@@ -2017,7 +1945,6 @@ On at least 20 of the last 30 consecutive trading days of each quarter in 2022, 
 In June 2015, we entered into a senior asset-based revolving credit agreement (as amended from time to time, the “Credit Agreement”) with a syndicate of banks. Borrowed funds bear interest, at our option, at an annual rate of (a) 1% plus LIBOR or (b) the highest of (i) the federal funds rate plus 0.50%, (ii) the lenders’ “prime rate” or (iii) 1% plus LIBOR. The fee for undrawn amounts is 0.25% per annum. The Credit Agreement is secured by certain of our accounts receivable, inventory and equipment. Availability under the Credit Agreement is based on the value of such assets, as reduced by certain reserves.
 
 In January 2023, we entered into a 5-year senior unsecured revolving credit facility (the “RCF Credit Agreement”) with a syndicate of banks to replace the existing Credit Agreement, which was terminated. The RCF Credit Agreement contains two optional one-year extensions and has a total commitment of up to $5.00 billion, which could be increased up to $7.00 billion under certain circumstances. The underlying borrowings may be used for general corporate purposes. Borrowed funds accrue interest at a variable rate equal to: (i) for dollar-denominated loans, at our election, (a) Term SOFR (the forward-looking secured overnight financing rate) plus 0.10%, or (b) an alternate base rate; (ii) for loans denominated in pounds sterling, SONIA (the sterling overnight index average reference rate); or (iii) for loans denominated in euros, an adjusted EURIBOR (euro interbank offered rate); in each case, plus an applicable margin. The applicable margin will be based on the rating assigned to our senior, unsecured long-term indebtedness (the “Credit Rating”) from time to time. The fee for undrawn amounts is variable based on the Credit Rating and is currently 0.15% per annum.
-
 # Automotive Asset-backed Notes
 
 From time to time, we transfer receivables or beneficial interests related to certain leased vehicles into special purpose entities (“SPEs”) and issue Automotive Asset-backed Notes, backed by these automotive assets to investors. The SPEs are consolidated in the financial statements. The cash flows generated by these automotive assets are used to service the principal and interest payments on the Automotive Asset-backed Notes and satisfy the SPEs’ expenses, and any remaining cash is distributed to the owners of the SPEs. We recognize revenue earned from the associated customer lease contracts in accordance with our revenue recognition policy. The SPEs’ assets and cash flows are not available to our other creditors, and the creditors of the SPEs, including the Automotive Asset-backed Note holders, have no recourse to our other assets.
@@ -2055,7 +1982,6 @@ As of December 31, 2022 and 2021, we had pledged or restricted $2.02 billion and
 # Note 12 – Leases
 
 We have entered into various operating and finance lease agreements for certain of our offices, manufacturing and warehouse facilities, retail and service locations, equipment, vehicles, and solar energy systems, worldwide. We determine if an arrangement is a lease, or contains a lease, at inception and record the leases in our financial statements upon lease commencement, which is the date when the underlying asset is made available for use by the lessor.
-
 # We have lease agreements with lease and non-lease components
 
 and have elected to utilize the practical expedient to account for lease and non-lease components together as a single combined lease component, from both a lessee and lessor perspective with the exception of direct sales-type leases and production equipment classes embedded in supply agreements. From a lessor perspective, the timing and pattern of transfer are the same for the non-lease components and associated lease component and, the lease component, if accounted for separately, would be classified as an operating lease.
@@ -2100,7 +2026,6 @@ Lease expense for operating leases is recognized on a straight-line basis over t
 |Total lease expense|$1,363|$1,131|$899| | | |
 
 (1) Includes short-term leases and variable lease costs, which are immaterial.
-
 # Other information related to leases where we are the lessee is as follows:
 
 | |December 31, 2022|December 31, 2021|
@@ -2141,7 +2066,6 @@ Lease expense for operating leases is recognized on a straight-line basis over t
 |Long-term portion of lease obligations|$2,164|$568|
 
 As of December 31, 2022, we have excluded from the table above additional operating leases that have not yet commenced with aggregate rent payments of $901 million. These operating leases will commence between fiscal year 2023 and 2024 with lease terms of 2 years to 15 years.
-
 # Operating Lease and Sales-type Lease Receivables
 
 We are the lessor of certain vehicle and solar energy system arrangements as described in Note 2, Summary of Significant Accounting Policies. As of December 31, 2022, maturities of our operating lease and sales-type lease receivables from customers for each of the next five years and thereafter were as follows (in millions):
@@ -2190,7 +2114,6 @@ Under a lease pass-through fund arrangement, the investor makes a large upfront 
 |2027|$29|
 |Thereafter|$366|
 |Total|$494|
-
 # Note 13 – Equity Incentive Plans
 
 In June 2019, we adopted the 2019 Equity Incentive Plan (the “2019 Plan”). The 2019 Plan provides for the grant of stock options, restricted stock, RSUs, stock appreciation rights, performance units and performance shares to our employees, directors and consultants. Stock options granted under the 2019 Plan may be either incentive stock options or nonstatutory stock options. Incentive stock options may only be granted to our employees. Nonstatutory stock options may be granted to our employees, directors and consultants. Generally, our stock options and RSUs vest over four years and our stock options are exercisable over a maximum period of 10 years from their grant dates. Vesting typically terminates when the employment or consulting relationship ends.
@@ -2222,7 +2145,6 @@ The aggregate intrinsic value of options exercised in the years ended December 3
 ESPP
 
 Our employees are eligible to purchase our common stock through payroll deductions of up to 15% of their eligible compensation, subject to any plan limitations. The purchase price would be 85% of the lower of the fair market value on the first and last trading days of each six-month offering period. During the years ended December 31, 2022, 2021 and 2020, under the ESPP we issued 1.4 million, 1.5 million and 5.5 million shares, respectively, as adjusted to give effect to the 2022 Stock Split. As of December 31, 2022, there were 99.9 million shares available for issuance under the ESPP, as adjusted to give effect to the 2022 Stock Split.
-
 # Fair Value Assumptions
 
 We use the fair value method in recognizing stock-based compensation expense. Under the fair value method, we estimate the fair value of each stock option award with service or service and performance conditions and the ESPP on the grant date generally using the Black-Scholes option pricing model. The weighted-average assumptions used in the Black-Scholes model for stock options are as follows:
@@ -2257,7 +2179,6 @@ The achievement status of the operational milestones as of December 31, 2022 is 
 |$175.0|-|$14.0|Achieved|
 
 (1) Achieved in the fourth quarter of 2022 and expected to be certified following the filing of this Annual Report on Form 10-K.
-
 # Stock-based Compensation under the 2018 CEO Performance Award
 
 Stock-based compensation under the 2018 CEO Performance Award represents a non-cash expense and is recorded as a Selling, general, and administrative operating expense in our consolidated statements of operations. In each quarter since the grant of the 2018 CEO Performance Award, we have recognized expense, generally on a pro-rated basis, for only the number of tranches (up to the maximum of 12 tranches) that corresponds to the number of operational milestones that have been achieved or have been determined probable of being achieved in the future, in accordance with the following principles.
@@ -2286,7 +2207,6 @@ The following table summarizes our stock-based compensation expense by line item
 |Total|$1,560|$2,121|$1,734|
 
 Our income tax benefits recognized from stock-based compensation arrangements in each of the periods presented were immaterial due to cumulative losses and valuation allowances. During the years ended December 31, 2022, 2021 and 2020, stock-based compensation expense capitalized to our consolidated balance sheets was $245 million, $182 million and $89 million, respectively. As of December 31, 2022, we had $3.94 billion of total unrecognized stock-based compensation expense related to non-performance awards, which will be recognized over a weighted-average period of 2.26 years.
-
 # Note 14 – Income Taxes
 
 A provision for income taxes of $1.13 billion, $699 million and $292 million has been recognized for the years ended December 31, 2022, 2021 and 2020, respectively, related primarily to our subsidiaries located outside of the U.S. Our income before provision for income taxes for the years ended December 31, 2022, 2021 and 2020 was as follows (in millions):
@@ -2340,7 +2260,6 @@ Deferred tax assets (liabilities) as of December 31, 2022 and 2021 consisted of 
 |Other| |(15 )|(13 )| |
 |Total deferred tax liabilities| |(1,937 )|(1,941 )| |
 |Deferred tax assets (liabilities), net of valuation allowance|$ 247|$ 65| | |
-
 # As of December 31, 2022
 
 We recorded a valuation allowance of $7.35 billion for the portion of the deferred tax asset that we do not expect to be realized. The valuation allowance on our net deferred taxes:
@@ -2390,7 +2309,6 @@ Federal and state laws can impose substantial restrictions on the utilization of
 # Beneficial Corporate Income Tax Rate
 
 The local government of Shanghai granted a beneficial corporate income tax rate of 15% to certain eligible enterprises, compared to the 25% statutory corporate income tax rate in China. Our Gigafactory Shanghai subsidiary was granted this beneficial income tax rate of 15% for 2019 through 2023.
-
 # As of December 31, 2022
 
 We intend to indefinitely reinvest our foreign earnings and cash unless such repatriation results in no or minimal tax costs. We have recorded the taxes associated with the earnings we intend to repatriate in the future. For the earnings we intend to indefinitely reinvest, no deferred tax liabilities for foreign withholding or other taxes have been recorded. The estimated amount of such unrecognized deferred tax liability associated with the indefinitely reinvested earnings is approximately $168 million.
@@ -2428,7 +2346,6 @@ We have an operating lease through the Research Foundation for the SUNY Foundati
 Under this agreement, we are obligated to, among other things, meet employment targets as well as specified minimum numbers of personnel in the State of New York and in Buffalo, New York and spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York during the 10-year period beginning April 30, 2018. On an annual basis during the initial lease term, as measured on each anniversary of such date, if we fail to meet these specified investment and job creation requirements, then we would be obligated to pay a $41 million “program payment” to the SUNY Foundation for each year that we fail to meet these requirements. Furthermore, if the arrangement is terminated due to a material breach by us, then additional amounts may become payable by us.
 
 In 2021, an amendment was executed to extend our overall agreement to spend or incur $5.00 billion in combined capital, operational expenses, costs of goods sold and other costs in the State of New York through December 31, 2029. On February 1, 2022, we reported to the State of New York that we had met and exceeded our annual requirements for jobs and investment in Buffalo and New York State. As of December 31, 2022, we are currently in excess of such targets relating to investments and personnel in the State of New York and Buffalo and do not currently expect any issues meeting our applicable obligations in the years beyond. However, if our expectations as to the costs and timelines of our investment and operations at Buffalo or our production ramp of the Solar Roof prove incorrect, we may incur additional expenses or be required to make substantial payments to the SUNY Foundation.
-
 # Operating Lease Arrangement in Shanghai, China
 
 We have an operating lease arrangement for an initial term of 50 years with the local government of Shanghai for land use rights where we have been constructing Gigafactory Shanghai. Under the terms of the arrangement, we are required to spend RMB 14.08 billion in capital expenditures by the end of 2023 and to generate RMB 2.23 billion of annual tax revenues starting at the end of 2023. If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures. We expect to meet the capital expenditure and tax revenue requirements based on our current level of spend and sales.
@@ -2448,7 +2365,6 @@ These plaintiffs and others filed parallel actions in the U.S. District Court fo
 On June 4, 2018, a purported Tesla stockholder filed a putative class and derivative action in the Delaware Court of Chancery against Elon Musk and the members of Tesla’s board of directors as then constituted, alleging corporate waste, unjust enrichment and that such board members breached their fiduciary duties by approving the stock-based compensation plan awarded to Elon Musk in 2018. The complaint seeks, among other things, monetary damages and rescission or reformation of the stock-based compensation plan. On August 31, 2018, defendants filed a motion to dismiss the complaint; plaintiff filed its opposition brief on November 1, 2018; and defendants filed a reply brief on December 13, 2018. The hearing on the motion to dismiss was held on May 9, 2019. On September 20, 2019, the Court granted the motion to dismiss as to the corporate waste claim but denied the motion as to the breach of fiduciary duty and unjust enrichment claims. Defendants’ answer was filed on December 3, 2019.
 
 On January 25, 2021, the Court conditionally certified certain claims and a class of Tesla stockholders as a class action. On September 30, 2021, plaintiff filed a motion for leave to file a verified amended derivative complaint. On October 1, 2021, defendants Kimbal Musk and Steve Jurvetson moved for summary judgment as to the claims against them. Following the motion, plaintiff agreed to voluntarily dismiss the claims against Kimbal Musk and Steve Jurvetson. Plaintiff also moved for summary judgment on October 1, 2021. On October 27, 2021, the Court approved the parties’ joint stipulation that, among other things, (a) all claims against Kimbal Musk and Steve Jurvetson in the Complaint are dismissed with prejudice; (b) the class is decertified and the action shall continue exclusively as a derivative action under Court of Chancery Rule 23.1; and (c) the direct claims against the remaining defendants are dismissed with prejudice. On November 18, 2021, the remaining defendants (a) moved for partial summary judgment, (b) opposed plaintiff’s summary judgment motion and (c) opposed the plaintiff’s motion to amend his complaint. In January 2022, the case was assigned to a different judge. On February 24, 2022, the court (i) granted plaintiff’s motion to amend his complaint, and (ii) canceled oral argument on the summary judgment motions, stating that the court is “skeptical that this litigation can be resolved based on the undisputed facts” and the “case is going to trial,” but that the “parties may reassert their arguments made in support of summary judgment in their pre-trial and post-trial briefs.” Trial was held November 14-18, 2022. Post-trial briefing is underway and post-trial argument is scheduled for February 21, 2023.
-
 # Litigation Related to Directors’ Compensation
 
 On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020. The suit asserts claims for breach of fiduciary duty and unjust enrichment and seeks declaratory and injunctive relief, unspecified damages and other relief. Defendants filed their answer on September 17, 2020. Trial is currently set for November 27, 2023, to December 1, 2023.
@@ -2464,7 +2380,6 @@ On October 21, 2022, a lawsuit was filed in the Delaware Court of Chancery by a 
 Unless otherwise stated, the individual defendants named in the stockholder proceedings described above and the Company with respect to the stockholder class action proceedings described above believe that the claims in such proceedings have no merit and intend to defend against them vigorously. We are unable to reasonably estimate the possible loss or range of loss, if any, associated with these claims.
 
 On November 15, 2021, JPMorgan Chase Bank (“JP Morgan”) filed a lawsuit against Tesla in the Southern District of New York alleging breach of a stock warrant agreement that was entered into as part of a convertible notes offering in 2014. In 2018, JP Morgan informed Tesla that it had adjusted the strike price based upon Mr. Musk’s August 7, 2018 Twitter post that he was considering taking Tesla private. Tesla disputed JP Morgan’s adjustment as a violation of the parties’ agreement. In 2021, Tesla delivered shares to JP Morgan per the agreement, which they duly accepted. JP Morgan now alleges that it is owed approximately $162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018. On January 24, 2022, Tesla filed multiple counterclaims as part of its answer to the underlying lawsuit, asserting among other points that JP Morgan should have terminated the stock warrant agreement in 2018 rather than make an adjustment to the strike price that it should have known would lead to a commercially unreasonable result. Tesla believes that the adjustments made by JP Morgan were neither proper nor commercially reasonable, as required under the stock warrant agreements. JP Morgan filed a motion for judgment on the pleadings, which Tesla opposed, and that motion is currently pending before the Court.
-
 # Litigation and Investigations Relating to Alleged Discrimination and Harassment
 
 On October 4, 2021, in a case captioned Diaz v. Tesla, a jury in the Northern District of California returned a verdict of $136.9 million against Tesla on claims by a former contingent worker that he was subjected to race discrimination while assigned to work at Tesla’s Fremont Factory from 2015-2016. On November 16, 2021, Tesla filed a post-trial motion for relief that included a request for a new trial or reduction of the jury’s damages. The Court held a hearing on Tesla’s motion on January 19, 2022. On April 13, 2022, the Court granted Tesla’s motion in part, reducing the total damages to $15 million and conditionally denied the motion for a new trial subject to the plaintiff’s acceptance of the reduced award. On June 21, 2022, the plaintiff rejected the reduced award and, as a result, on June 27, 2022, the Court ordered a new trial on damages only, to commence on March 27, 2023. Tesla continues to believe that the facts and law do not justify the damages awarded and is assessing its next steps.
@@ -2484,7 +2399,6 @@ For example, the SEC had issued subpoenas to Tesla in connection with Elon Musk�
 Separately, the company has received requests from the DOJ for documents related to Tesla’s Autopilot and FSD features. To our knowledge no government agency in any ongoing investigation has concluded that any wrongdoing occurred. We cannot predict the outcome or impact of any ongoing matters. Should the government decide to pursue an enforcement action, there exists the possibility of a material adverse impact on our business, results of operation, prospects, cash flows and financial position.
 
 We are also subject to various other legal proceedings and claims that arise from the normal course of business activities. If an unfavorable ruling or development were to occur, there exists the possibility of a material adverse impact on our business, results of operations, prospects, cash flows, financial position and brand.
-
 # Letters of Credit
 
 As of December 31, 2022, we had $318 million of unused letters of credit outstanding.
@@ -2528,7 +2442,6 @@ The aggregate carrying values of the VIEs’ assets and liabilities, after elimi
 # Note 17 – Related Party Transactions
 
 In February 2020, our CEO and a member of our Board of Directors purchased from us 195,555 and 18,750 shares, respectively, as adjusted to give effect to the 2022 Stock Split, of our common stock in a public offering at the public offering price for an aggregate $10 million and $1 million, respectively.
-
 # In June 2020, our CEO entered into an indemnification agreement with us for an interim term of 90 days.
 
 During the interim term, we resumed our annual evaluation of all available options for providing directors’ and officers’ indemnity coverage, which we had suspended during the height of shelter-in-place requirements related to the COVID-19 pandemic. As part of such process, we obtained a binding market quote for a directors’ and officers’ liability insurance policy with an aggregate coverage limit of $100 million.
@@ -2568,7 +2481,6 @@ The following table presents long-lived assets by geographic area (in millions):
 |China|$2,978|$2,415|
 |Other international|$845|$602|
 |Total|$29,037|$24,649|
-
 | |December 31, 2022|December 31, 2021|
 |---|---|---|
 |Automotive|$10,996|$4,978|
@@ -2578,7 +2490,6 @@ The following table presents long-lived assets by geographic area (in millions):
 Note 19 – Restructuring and Other
 
 During the years ended December 31, 2022 and 2021, we recorded $204 million and $101 million, respectively, of impairment losses on digital assets. During the years ended December 31, 2022 and 2021, we also realized gains of $64 million and $128 million, respectively, in connection with converting our holdings of digital assets into fiat currency. Additionally, we recorded other expenses of $36 million in the second quarter during the year ended December 31, 2022.
-
 # ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
 
 None.
@@ -2614,7 +2525,6 @@ None.
 # ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
 
 Not applicable.
-
 # PART III
 
 The information required by this Item 10 of Form 10-K will be included in our 2023 Proxy Statement to be filed with the Securities and Exchange Commission in connection with the solicitation of proxies for our 2023 Annual Meeting of Stockholders and is incorporated herein by reference. The 2023 Proxy Statement will be filed with the Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
@@ -2626,7 +2536,6 @@ The information required by this Item 12 of Form 10-K will be included in our 20
 The information required by this Item 13 of Form 10-K will be included in our 2023 Proxy Statement and is incorporated herein by reference.
 
 The information required by this Item 14 of Form 10-K will be included in our 2023 Proxy Statement and is incorporated herein by reference.
-
 # PART IV
 
 ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
@@ -2636,7 +2545,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 3. The exhibits listed in the following Index to Exhibits are filed or incorporated by reference as part of this report
 
 92
-
 # INDEX TO EXHIBITS
 
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
@@ -2653,7 +2561,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.7|Waiver to Fifth Amended and Restated Investor’s Rights Agreement, dated as of May 22, 2011, between Registrant and certain holders of the Registrant’s capital stock named therein.|S-1/A|333-174466|4.2E|June 2, 2011| |
 |4.8|Amendment to Fifth Amended and Restated Investor’s Rights Agreement, dated as of May 30, 2011, between Registrant and certain holders of the Registrant’s capital stock named therein.|8-K|001-34756|4.1|June 1, 2011| |
 |4.9|Sixth Amendment to Fifth Amended and Restated Investors’ Rights Agreement, dated as of May 15, 2013 among the Registrant, the Elon Musk Revocable Trust dated July 22, 2003 and certain other holders of the capital stock of the Registrant named therein.|8-K|001-34756|4.1|May 20, 2013| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |4.10|Waiver to Fifth Amended and Restated Investor’s Rights Agreement, dated as of May 14, 2013, between the Registrant and certain holders of the capital stock of the Registrant named therein.|8-K|001-34756|4.2|May 20, 2013| |
@@ -2666,7 +2573,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.17|Form of 2.375% Convertible Senior Note Due March 15, 2022 (included in Exhibit 4.18).|8-K|001-34756|4.2|March 22, 2017| |
 |4.18|Fifth Supplemental Indenture, dated as of May 7, 2019, by and between Registrant and U.S. Bank National Association, related to 2.00% Convertible Senior Notes due May 15, 2024.|8-K|001-34756|4.2|May 8, 2019| |
 |4.19|Form of 2.00% Convertible Senior Notes due May 15, 2024 (included in Exhibit 4.20).|8-K|001-34756|4.2|May 8, 2019| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |4.20|Indenture, dated as of October 15, 2014, between SolarCity and U.S. Bank National Association, as trustee.|S-3ASR(1)|333-199321|4.1|October 15, 2014| |
@@ -2681,7 +2587,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.29|Thirty-First Supplemental Indenture, dated as of April 9, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C20-15.|8-K(1)|001-35758|4.6|April 9, 2015| |
 |4.30|Thirty-Fifth Supplemental Indenture, dated as of April 14, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C24-10.|8-K(1)|001-35758|4.5|April 14, 2015| |
 |4.31|Thirty-Sixth Supplemental Indenture, dated as of April 14, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C25-15.|8-K(1)|001-35758|4.6|April 14, 2015| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |4.32|Thirty-Eighth Supplemental Indenture, dated as of April 21, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C27-10.|8-K(1)|001-35758|4.3|April 21, 2015| |
@@ -2696,7 +2601,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.41|Fifty-Eighth Supplemental Indenture, dated as of May 18, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C41-15.|8-K(1)|001-35758|4.5|May 18, 2015| |
 |4.42|Sixty-First Supplemental Indenture, dated as of May 26, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C44-10.|8-K(1)|001-35758|4.4|May 26, 2015| |
 |4.43|Sixty-Second Supplemental Indenture, dated as of May 26, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C45-15.|8-K(1)|001-35758|4.5|May 26, 2015| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |4.44|Seventieth Supplemental Indenture, dated as of June 16, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C52-10.|8-K(1)|001-35758|4.4|June 16, 2015| |
@@ -2711,7 +2615,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.53|Ninety-Sixth Supplemental Indenture, dated as of July 31, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.75% Solar Bonds, Series 2015/21-15.|8-K(1)|001-35758|4.6|July 31, 2015| |
 |4.54|One Hundred-and-Fifth Supplemental Indenture, dated as of August 10, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C81-10.|8-K(1)|001-35758|4.5|August 10, 2015| |
 |4.55|One Hundred-and-Eleventh Supplemental Indenture, dated as of August 17, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C87-15.|8-K(1)|001-35758|4.6|August 17, 2015| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |4.56|One Hundred-and-Sixteenth Supplemental Indenture, dated as of August 24, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.45% Solar Bonds, Series 2015/C92-15.|8-K(1)|001-35758|4.6|August 24, 2015| |
@@ -2724,7 +2627,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.63|One Hundred-and-Forty-Third Supplemental Indenture, dated as of October 30, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.00% Solar Bonds, Series 2015/25-10.|8-K(1)|001-35758|4.5|October 30, 2015| |
 |4.64|One Hundred-and-Forty-Fourth Supplemental Indenture, dated as of October 30, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 5.75% Solar Bonds, Series 2015/26-15.|8-K(1)|001-35758|4.6|October 30, 2015| |
 |4.65|One Hundred-and-Forty-Eighth Supplemental Indenture, dated as of November 4, 2015, by and between SolarCity and the Trustee, related to SolarCity’s 4.70% Solar Bonds, Series 2015/C116-10.|8-K(1)|001-35758|4.5|November 4, 2015| |
-
 # Exhibit
 
 |Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
@@ -2740,7 +2642,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |4.74|One Hundred-and-Seventy-Third Supplemental Indenture, dated as of January 29, 2016, by and between SolarCity and the Trustee, related to SolarCity’s 5.00% Solar Bonds, Series 2016/4-10.|8-K(1)|001-35758|4.5|January 29, 2016| |
 |4.75|One Hundred-and-Seventy-Fourth Supplemental Indenture, dated as of January 29, 2016, by and between SolarCity and the Trustee, related to SolarCity’s 5.75% Solar Bonds, Series 2016/5-15.|8-K(1)|001-35758|4.6|January 29, 2016| |
 |4.76|Description of Registrant’s Securities|10-K|001-34756|4.119|February 13, 2020| |
-
 # Exhibit
 
 |Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
@@ -2766,7 +2667,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.19|Indemnification Agreement, effective as of June 23, 2020, between Registrant and Elon R. Musk.|10-Q|001-34756|10.4|July 28, 2020| |
 |10.20|Indemnification Agreement, dated as of February 27, 2014, by and between the Registrant and J.P. Morgan Securities LLC.|8-K|001-34756|10.1|March 5, 2014| |
 |10.21|Form of Call Option Confirmation relating to 1.25% Convertible Senior Notes Due March 1, 2021.|8-K|001-34756|10.3|March 5, 2014| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |10.22|Form of Warrant Confirmation relating to 1.25% Convertible Senior Notes Due March 1, 2021.|8-K|001-34756|10.5|March 5, 2014| |
@@ -2781,7 +2681,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.31|Amended and Restated General Terms and Conditions for Gigafactory, entered into on June 10, 2020, by and among Registrant, Tesla Motors Netherlands B.V., Panasonic Corporation and Panasonic Corporation of North America.|10-Q|001-34756|10.2|July 28, 2020| |
 |10.32|Production Pricing Agreement between Panasonic Corporation and the Registrant dated October 1, 2014.|10-Q|001-34756|10.3|November 7, 2014| |
 |10.33|Investment Letter Agreement between Panasonic Corporation and the Registrant dated October 1, 2014.|10-Q|001-34756|10.4|November 7, 2014| |
-
 # Exhibit
 
 |Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
@@ -2794,7 +2693,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.39|Lease Amendment, executed September 20, 2019, by and among the Registrant, Panasonic Corporation of North America, on behalf of its division Panasonic Energy of North America, with respect to the Amended and Restated Factory Lease, executed as of March 26, 2019.|10-Q|001-34756|10.7|October 29, 2019| |
 |10.40|Second Lease Amendment, entered into on June 9, 2020, by and between the Registrant and Panasonic Energy of North America, a division of Panasonic Corporation of North America, with respect to the Amended and Restated Factory Lease dated January 1, 2017.|10-Q|001-34756|10.1|July 28, 2020| |
 |10.41|Amendment and Restatement in respect of ABL Credit Agreement, dated as of March 6, 2019, by and among certain of the Registrant’s and Tesla Motors Netherlands B.V.’s direct or indirect subsidiaries from time to time party thereto, as borrowers, Wells Fargo Bank, National Association, as documentation agent, JPMorgan Chase Bank, N.A., Goldman Sachs Bank USA, Morgan Stanley Senior Funding Inc. and Bank of America, N.A., as syndication agents, the lenders from time to time party thereto, and Deutsche Bank AG New York Branch, as administrative agent and collateral agent.|S-4/A|333-229749|10.68|April 3, 2019| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |10.42|First Amendment to Amended and Restated ABL Credit Agreement, dated as of December 23, 2020, in respect of the Amended and Restated ABL Credit Agreement, dated as of March 6, 2019, by and among certain of the Registrant’s and Tesla Motors Netherlands B.V.’s direct or indirect subsidiaries from time to time party thereto, as borrowers, Wells Fargo Bank, National Association, as documentation agent, JPMorgan Chase Bank, N.A., Goldman Sachs Bank USA, Morgan Stanley Senior Funding Inc. and Bank of America, N.A., as syndication agents, the lenders from time to time party thereto, and Deutsche Bank AG New York Branch, as administrative agent and collateral agent.|10-K|001-34756|10.44|February 8, 2021| |
@@ -2803,7 +2701,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.45|Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of September 2, 2014, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, Inc.|10-Q(1)|001-35758|10.16|November 6, 2014| |
 |10.46|First Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of October 31, 2014, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, Inc.|10-K(1)|001-35758|10.16a|February 24, 2015| |
 |10.47|Second Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of December 15, 2014, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, Inc.|10-K(1)|001-35758|10.16b|February 24, 2015| |
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |10.48|Third Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of February 12, 2015, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, Inc.|10-Q(1)|001-35758|10.16c|May 6, 2015| |
@@ -2812,7 +2709,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.51|Sixth Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of September 1, 2015, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, LLC.|10-Q(1)|001-35758|10.16f|October 30, 2015| |
 |10.52|Seventh Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of October 9, 2015, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, LLC.|10-Q(1)|001-35758|10.16g|October 30, 2015| |
 |10.53|Eighth Amendment to Amended and Restated Agreement For Research & Development Alliance on Triex Module Technology, effective as of October 26, 2015, by and between The Research Foundation For The State University of New York, on behalf of the College of Nanoscale Science and Engineering of the State University of New York, and Silevo, LLC.|10-Q(1)|001-35758|10.16h|October 30, 2015| |
-
 # Exhibit
 
 |Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
@@ -2823,7 +2719,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 |10.57|Twelfth Amendment to Amended and Restated Agreement for Research & Development Alliance on Triex Module Technology, effective as of May 1, 2021, among the Research Foundation for the State University of New York, Silevo, LLC and Tesla Energy Operations, Inc.|10-Q|001-34756|10.1|October 25, 2021| |
 |10.58|Grant Contract for State-Owned Construction Land Use Right, dated as of October 17, 2018, by and between Shanghai Planning and Land Resource Administration Bureau, as grantor, and Tesla (Shanghai) Co., Ltd., as grantee (English translation).|10-Q|001-34756|10.2|July 29, 2019| |
 |10.59|Credit Agreement, dated as of January 20, 2023, among Tesla, Inc., the Lenders and Issuing Banks from time to time party thereto, Citibank, N.A., as Administrative Agent and Deutsche Bank Securities, Inc., as Syndication Agent|—|—|—|—|X|
-
 |Exhibit Number|Exhibit Description|Form|File No.|Exhibit|Filing Date|Herewith|
 |---|---|---|---|---|---|---|
 |21.1|List of Subsidiaries of the Registrant|—|—|—|—|X|
@@ -2852,7 +2747,6 @@ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
 None.
 
 106
-
 # SIGNATURES
 
 Pursuant to the requirements of Section 13 or 15(d) the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -2882,7 +2776,6 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, this report
 |/s/ Kathleen Wilson-Thompson Kathleen Wilson-Thompson|Director|January 30, 2023|
 
 107
-
 # Exhibit 10.59
 
 CREDIT AGREEMENT,
@@ -2910,7 +2803,6 @@ as Syndication Agent
 | |as Joint Lead Arrangers and Joint Bookrunners and| | | | | | | |
 |CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK|GOLDMAN SACHS BANK USA|HSBC BANK USA, NATIONAL ASSOCIATION|MORGAN STANLEY SENIOR FUNDING, INC.|SOCIÉTÉ GÉNÉRALE|THE TORONTO-DOMINION BANK, NEW YORK BRANCH|WELLS FARGO BANK, NATIONAL ASSOCIATION| | |
 | |as Documentation Agents| | | | | | | |
-
 # Table of Contents
 
 | |Article I| |
@@ -2952,7 +2844,6 @@ as Syndication Agent
 |SECTION 3.01. Organization; Powers| |64|
 |SECTION 3.02. Authorization; Enforceability| |64|
 |SECTION 3.03. Governmental Approvals; No Conflicts| |64|
-
 # SECTION 3.04. Financial Statements; Financial Condition; No Material Adverse Change
 
 65
@@ -3108,7 +2999,6 @@ as Syndication Agent
 # SECTION 6.08. Subsidiary Indebtedness
 
 78
-
 # Article VII
 
 Events of Default
@@ -3178,7 +3068,6 @@ SECTION 9.18. Acknowledgement Regarding Any Supported QFCs 104
 SECTION 9.19. Release of Guarantees. 104
 
 SECTION 9.20. Interest Rate Limitation 105
-
 # SCHEDULES:
 
 |Schedule 1.01|Commitments; Letter of Credit Commitments|
@@ -3202,7 +3091,6 @@ SECTION 9.20. Interest Rate Limitation 105
 |Exhibit I-3|Form of U.S. Tax Compliance Certificate|
 |Exhibit I-4|Form of U.S. Tax Compliance Certificate|
 |Exhibit J|Form of Guarantee Agreement|
-
 # CREDIT AGREEMENT
 
 dated as of January 20, 2023, among TESLA, INC., as borrower, the LENDERS and ISSUING BANKS party from time to time hereto, CITIBANK, N.A., as Administrative Agent, DEUTSCHE BANK SECURITIES INC., as Syndication Agent, CITIBANK, N.A., DEUTSCHE BANK SECURITIES INC., CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, GOLDMAN SACHS LENDING PARTNERS LLC, HSBC SECURITIES (USA) INC., MORGAN STANLEY SENIOR FUNDING, INC., SOCIÉTÉ GÉNÉRALE, TD SECURITIES (USA) LLC and WELLS FARGO SECURITIES, LLC, as Joint Lead Arrangers and Joint Bookrunners, and CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, GOLDMAN SACHS BANK USA, HSBC BANK USA, NATIONAL ASSOCIATION, MORGAN STANLEY SENIOR FUNDING, INC., SOCIÉTÉ GÉNÉRALE, THE TORONTO-DOMINION BANK, NEW YORK BRANCH and WELLS FARGO BANK, NATIONAL ASSOCIATION, as Documentation Agents.
@@ -3230,7 +3118,6 @@ SECTION 1.01. Defined Terms. As used in this Agreement, the following terms have
 “Administrative Questionnaire” means an Administrative Questionnaire in a form supplied by or otherwise acceptable to the Administrative Agent.
 
 “Affected Financial Institution” means (a) any EEA Financial Institution or (b) any UK Financial Institution.
-
 # Definitions
 
 "Affiliate" means, with respect to a specified Person, another Person that directly, or indirectly through one or more intermediaries, Controls or is Controlled by or is under common Control with the Person specified.
@@ -3252,7 +3139,6 @@ SECTION 1.01. Defined Terms. As used in this Agreement, the following terms have
 "Applicable Percentage" means, with respect to any Lender, the percentage of the total Commitments represented by such Lender’s Commitment; provided that in the case of Section 2.20 when a Defaulting Lender shall exist, “Applicable Percentage” shall mean the percentage of the total Commitments (disregarding any Defaulting Lender’s Commitment) represented by such Lender’s Commitment under the Facility. If the Commitments have terminated or expired, the Applicable Percentages shall be determined based upon the Commitments most recently in effect, giving effect to any assignments and to any Lender’s status as a Defaulting Lender at the time of determination.
 
 "Applicable Rate" means, for any day, with respect to any Term Benchmark Loan, SONIA Loan or ABR Loan, or with respect to the commitment fees payable hereunder, as the case may be, the applicable rate per annum set forth in the Pricing Grid under the caption “Term Benchmark Spread/SONIA Spread”, “ABR Spread”, or “Commitment Fee Rate”, as the case may be, based upon the ratings by Moody’s and S&P, respectively, applicable on such date to the Index Debt.
-
 # “Approved Electronic Platform”
 
 means IntraLinks, DebtDomain, SyndTrak, ClearPar or any other electronic platform chosen by the Administrative Agent to be its electronic transmission system.
@@ -3292,7 +3178,6 @@ means, (a) with respect to any EEA Member Country implementing Article 55 of Dir
 # “Basel III”
 
 means, collectively, those certain agreements on capital and liquidity standards contained in “Basel III: A Global Regulatory Framework for More Resilient Banks and Banking Systems”, “Basel III: International Framework for Liquidity Risk Measurement, Standards and
-
 # Monitoring”, and “Guidance for National Authorities Operating the Countercyclical Capital Buffer”, each as published by the Basel Committee on Banking Supervision in December 2010 (as revised from time to time), and “Basel III: The Liquidity Coverage Ratio and Liquidity Risk Monitoring Tools”, as published by the Basel Committee on Banking Supervision in January 2013 (as revised from time to time).
 
 |"Benchmark"|means, initially, with respect to any Obligations, interest, fees, commissions or other amounts denominated in, or calculated with respect to, Dollars or a Foreign Currency, the applicable Relevant Rate; provided that, if a Benchmark Transition Event has occurred with respect to such Relevant Rate or the then-current Benchmark for such Agreed Currency, then "Benchmark" means, with respect to such Obligations, interest, fees, commissions or other amounts, the applicable Benchmark Replacement to the extent that such Benchmark Replacement has replaced such prior benchmark rate pursuant to Section 2.21(a).|
@@ -3302,7 +3187,6 @@ means, collectively, those certain agreements on capital and liquidity standards
 |"Benchmark Replacement Date"|means the earliest to occur of the following events with respect to the then-current Benchmark for any Agreed Currency:|
 |(a)|in the case of clauses (a) or (b) of the definition of "Benchmark Transition Event", the later of (i) the date of the public statement or publication of information referenced therein and (ii) the date on which the administrator of such Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all Available Tenors of such Benchmark (or such component thereof); or|
 |(b)|in the case of clause (c) of the definition of "Benchmark Transition Event", the first date on which such Benchmark (or the published component used in the calculation thereof) has been determined and announced by the regulatory supervisor for the administrator of such Benchmark (or such component thereof) to be non-representative; provided that such non-representativeness will be determined by reference to the most recent statement or publication referenced in such clause (c) and even if any Available Tenor of such Benchmark (or such component thereof) continues to be provided on such date.|
-
 For the avoidance of doubt, the “Benchmark Replacement Date” will be deemed to have occurred in the case of clauses (a) or (b) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
 
 “Benchmark Transition Event” means, with respect to the then-current Benchmark for any Agreed Currency, the occurrence of one or more of the following events with respect to such Benchmark:
@@ -3317,7 +3201,6 @@ For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to
 “Benchmark Transition Start Date” means, with respect to any Benchmark, in the case of a Benchmark Transition Event, the earlier of (a) the applicable Benchmark Replacement Date and (b) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such event as of such public statement or publication of information (or if the expected date of such prospective event is fewer than ninety (90) days after such statement or publication, the date of such statement or publication).
 
 “Benchmark Unavailability Period” means, with respect to any then-current Benchmark for any Agreed Currency, the period (if any) (a) beginning at the time that a Benchmark Replacement Date with respect to such Benchmark has occurred if, at such time, no Benchmark Replacement has
-
 "Beneficial Ownership Certification" means a certification regarding beneficial ownership or control as required by the Beneficial Ownership Regulation.
 
 "Beneficial Ownership Regulation" means 31 C.F.R. § 1010.230.
@@ -3339,7 +3222,6 @@ For the avoidance of doubt, a “Benchmark Transition Event” will be deemed to
 "Calculation Date" means, with respect to any Foreign Currency, the last day of each calendar month (or, if such day is not a Business Day, the next succeeding Business Day) and any other day during the continuation of a Default that the Administrative Agent may designate as a "Calculation Date"; provided that the date of issuance of any Borrowing Request pursuant to Section 2.03 with respect to, and each date of any continuation of, any Loan denominated in a Foreign Currency, shall also be a "Calculation Date" with respect to such Foreign Currency.
 
 "Capital Lease Obligations" of any Person means the obligations of such Person to pay rent or other amounts under any lease of (or other arrangement conveying the right to use) real or tangible personal property, or a combination thereof, which obligations are required to be classified and accounted for as financing leases on a balance sheet of such Person under GAAP, and the amount of such obligations shall be the capitalized amount thereof determined in accordance with GAAP; provided that, notwithstanding anything to the contrary contained in Section 1.04(a), any change in GAAP after
-
 December 31, 2018 that would require obligations that would be classified and accounted for as operating leases under GAAP as existing on December 31, 2018 to be classified and accounted for as capital leases or otherwise reflected on the consolidated balance sheet of the Borrower and its Subsidiaries, such obligations shall continue to be treated as an operating leases for all purposes under this Agreement.
 
 “Captive Insurance Subsidiary” means a Subsidiary established by the Borrower or any of its Subsidiaries for the sole purpose of insuring the business, facilities, employees, officers and/or directors of the Borrower and its Subsidiaries.
@@ -3357,7 +3239,6 @@ December 31, 2018 that would require obligations that would be classified and ac
 “Charging Agreements” means (i) electric vehicle charging station related agreements, including lease and license agreements and all associated real property and other rights provided in the applicable agreement, (ii) agreements and other rights related to customer accounts, payments and data; equipment lease agreements entered into with a customer pursuant to which such customer agrees to lease a Charging System, and all rights related thereto and (iii) agreements to provide vehicle charging related services such as equipment installation, equipment maintenance or customer billing service.
 
 “Charging Assets” means (i) Charging Systems, (ii) Charging Agreements, (iii) Equity Interests in Excluded Charging Subsidiaries and (iv) Vehicle Environmental Attributes.
-
 “Charging Systems” means all parts of an electric vehicle charging station, including charge posts, charging connectors, power electronics equipment, switchgear, conduit, wiring, metering equipment, concrete pads, signage, fences or visual barriers, mobile charging stations, canopies, solar panels, energy storage systems and other related equipment.
 
 “Code” means the Internal Revenue Code of 1986, as amended.
@@ -3371,7 +3252,6 @@ December 31, 2018 that would require obligations that would be classified and ac
 “Consolidated Net Tangible Assets” means the aggregate amount of the Borrower’s and the Restricted Subsidiaries’ consolidated assets (less applicable reserves and other properly deductible items), after deducting therefrom (i) all current liabilities and (ii) all goodwill, trade names, trademarks, patents, unamortized debt discount and expense and other like intangibles all as set forth on the Borrower’s most recent audited consolidated balance sheet prepared in accordance with GAAP.
 
 “Consolidated Subsidiaries” means, as of any date, all Subsidiaries of the Borrower to the extent the accounts of such Person are consolidated with the accounts of the Borrower as of such date in accordance with the principles of consolidation reflected in the audited financial statements most recently delivered in accordance with this Agreement.
-
 # Definitions:
 
 Consolidated Total Assets: means, at any time of determination thereof, the aggregate amount of all assets of the Borrower and its Consolidated Subsidiaries as set forth in the most recent consolidated balance sheet of the Borrower and its Consolidated Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP.
@@ -3396,7 +3276,6 @@ Daily Simple SONIA: means, for any day (a "SONIA Rate Day"), a rate per annum eq
 Default: means any event or condition that constitutes an Event of Default or that upon notice, lapse of time or both would, unless cured or waived, become an Event of Default.
 
 Default Right: has the meaning assigned to that term in, and shall be interpreted in accordance with, 12 C.F.R. §§ 252.81, 47.2 or 382.1, as applicable.
-
 # "Defaulting Lender"
 
 means any Lender that has (a) failed to fund any portion of its Loans or participations in Letters of Credit required to be funded by it hereunder within three (3) Business Days of the date required to be funded by it hereunder unless such Lender notifies the Administrative Agent in writing that such failure is the result of such Lender’s good faith determination that a condition precedent to funding (specifically identified in writing and with supporting facts) has not been satisfied, (b) notified the Borrower, the Administrative Agent or any Lender in writing, or has made a public statement to the effect that it does not intend or expect to comply with any of its funding obligations under this Agreement (unless such writing or public statement states that such position is based on such Lender’s good faith determination that a condition precedent to funding a loan under this Agreement cannot be met) or generally under other agreements in which it commits to extend credit, (c) failed, within three (3) Business Days after a request in writing by the Administrative Agent, any Issuing Bank or the Borrower, acting in good faith, to provide a certification in writing from an authorized officer of such Lender that it will comply with its obligations to fund prospective Loans and participations in then outstanding Letters of Credit under this Agreement: provided that such Lender shall cease to be Defaulting Lender pursuant to this clause (c) upon the Administrative Agent’s, such Issuing Bank’s or Borrower’s receipt of such certification, (d) has become the subject of a bankruptcy or insolvency proceeding, or has had a receiver, conservator, trustee, administrator, assignee for the benefit of creditors or similar Person charged with reorganization or liquidation of its business or assets (including the Federal Deposit Insurance Corporation or any other state or federal regulatory authority acting in such a capacity) or custodian appointed for it, or has taken any action in furtherance of, or indicating its consent to, approval of or acquiescence in any such proceeding or appointment or has a parent company that has become the subject of a bankruptcy or insolvency proceeding, or has had a receiver, conservator, trustee, administrator, assignee for the benefit of creditors or similar Person charged with reorganization or liquidation of its business or assets (including the Federal Deposit Insurance Corporation or any other state or federal regulatory authority acting in such a capacity), or custodian appointed for it, or has taken any action in furtherance of, or indicating its consent to, approval of or acquiescence in any such proceeding or appointment, (e) has, or has a direct or indirect parent company that has, become the subject of a Bail-In Action; provided that a Lender shall not be a Defaulting Lender solely by virtue of the ownership or acquisition of any Equity Interest in such Lender or a parent company thereof by a Governmental Authority or an instrumentality thereof; provided, further, that such ownership or interest by a Governmental Authority does not result in or provide such Lender or a parent company thereof with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment on its assets or permit such Governmental Authority to reject, repudiate, disavow or disaffirm any contracts or agreements made by such Lender or a parent company thereof or (f) otherwise failed to pay over to the Administrative Agent or any other Lender any other amount required to be paid by it hereunder within three (3) Business Days of the date when due, unless such requirement to pay is the subject of a good faith dispute. Any determination by the Administrative Agent that a Lender is a Defaulting Lender under any one or more of clauses (a) through (f) above shall be conclusive and binding absent manifest error.
@@ -3404,7 +3283,6 @@ means any Lender that has (a) failed to fund any portion of its Loans or partici
 # "Disclosed Matters"
 
 means the actions, suits and proceedings and, to the extent disclosed pursuant to Item 103 of Regulation S-K, the environmental proceedings, disclosed in (a) the Borrower’s Annual Report on Form 10-K for the year ended December 31, 2021, (b) all other Quarterly Reports on Form 10-Q and Current Reports on Form 8-K and, in each case, filed by the Borrower with the SEC since January 1, 2022 and prior to the Effective Date which have been posted on the website of the SEC at www.sec.gov and (c) any other information generally made available by the Borrower to the public through the issuance of a press release or posting to the Borrower’s website since the Borrower’s most recent Quarterly Report on Form 10-Q filed by the Borrower with the SEC.
-
 # “Discretionary Guarantor”
 
 means any Domestic Subsidiary that is a Restricted Subsidiary that the Borrower, in its sole discretion elects to cause to be a Guarantor by providing a Guarantee in respect of the Obligations.
@@ -3451,7 +3329,6 @@ means any public administrative authority or any Person entrusted with public ad
 # “Effective Date”
 
 means the date on which the conditions specified in Section 4.01 are satisfied (or waived in accordance with Section 9.02).
-
 "Effective Date TEO Subsidiary" means any direct or indirect subsidiary of TEO as of the Effective Date.
 
 "Electronic Signature" means an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record.
@@ -3471,7 +3348,6 @@ means the date on which the conditions specified in Section 4.01 are satisfied (
 "Environmental Laws" means all laws, rules, regulations, codes, ordinances, orders, decrees, judgments or injunctions issued, promulgated or entered into by any Governmental Authority, relating in any way to the environment or the management, release or threatened release of any Hazardous Material or, to the extent relating to exposure to Hazardous Materials, human health matters.
 
 "Environmental Liability" means any liability, contingent or otherwise (including any liability for damages, costs of environmental remediation, fines, penalties or indemnities), of the Borrower or any Restricted Subsidiary directly or indirectly resulting from or based upon (a) violation of any Environmental Law, (b) the generation, use, handling, transportation, storage, treatment or disposal of any Hazardous Materials, (c) exposure to any Hazardous Materials, (d) the release or threatened release of
-
 "Equity Interests" means shares of capital stock, partnership interests, membership interests in a limited liability company, beneficial interests in a trust or other equity ownership interests in a Person, and any warrants, options or other rights entitling the holder thereof to purchase or acquire any such equity interest.
 
 "ERISA" means the Employee Retirement Income Security Act of 1974, as amended from time to time, any successor statute thereto, and the rules and regulations promulgated thereunder.
@@ -3489,7 +3365,6 @@ means the date on which the conditions specified in Section 4.01 are satisfied (
 "Erroneous Payment Return Deficiency" has the meaning assigned to it in Section 8.07(d).
 
 "Erroneous Payment Subrogation Rights" has the meaning assigned to it in Section 8.07(f).
-
 # “EU Bail-In Legislation Schedule”
 
 means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any successor Person), as in effect from time to time.
@@ -3525,7 +3400,6 @@ means any Domestic Subsidiary that is (i) a direct or indirect Subsidiary of a S
 # “Excluded Energy Storage Subsidiaries”
 
 means those direct or indirect Subsidiaries of the Borrower (a) in which the Borrower owns, directly or indirectly, Equity Interests of less than fifty-one percent (51%), (b) that own, lease or finance (or own any Subsidiary that is formed for such purpose) no assets other than Energy Storage Assets, (c) whose sole assets consist of Equity Interests in Excluded Energy Storage Subsidiaries of the type described in the foregoing clause (b) or (d) created for or encumbered by transactions involving monetization of credits, certificates or incentives.
-
 # “Excluded Subsidiary”
 
 means (i) any Subsidiary to the extent (and for so long as) a Guarantee by such Subsidiary would be prohibited or restricted by applicable law, rule or regulation or by any restriction in any contract existing on the Effective Date or, so long as any such restriction in any contract is not entered into in contemplation of such Subsidiary becoming a Restricted Subsidiary, at the time such Subsidiary becomes a Restricted Subsidiary (including any requirement to obtain the consent, approval, license or authorization of any Governmental Authority (including any regulatory authority) or third party), (ii) Excluded Domestic Subsidiaries (and any direct or indirect Subsidiary thereof), (iii) any Subsidiary that is a Foreign Subsidiary or a CFC Holdco (and any direct or indirect Subsidiary thereof), (iv) Unrestricted Subsidiaries (and any direct or indirect Subsidiary thereof), (v) Captive Insurance Subsidiaries, (vi) not-for-profit Subsidiaries, (vii) special purpose entities (including finance entities), (viii) any Immaterial Subsidiary, (ix) any subsidiary to the extent that the burden or cost of obtaining a guaranty outweighs the benefit afforded thereby as determined by Borrower in consultation with the Administrative Agent, (x) any Subsidiary to the extent a Guarantee by such Subsidiary would result in material adverse tax consequences as reasonably determined by the Borrower in consultation with the Administrative Agent, (xi) any Subsidiary formed to satisfy state dealer requirements, (xii) any Specified Tesla Subsidiary, (xiii) for the avoidance of doubt, any direct or indirect Subsidiary of an Excluded Subsidiary (other than, in each case, any such direct or indirect Subsidiary that is a Discretionary Guarantor) and (xiv) any Subsidiary that is not a wholly-owned Subsidiary.
@@ -3557,7 +3431,6 @@ means the Commitments and the Loans made thereunder.
 # “FATCA”
 
 means Sections 1471 through 1474 of the Code, as of the date of this Agreement or any amended or successor version that is substantively comparable and not materially more
-
 # “Federal Funds Effective Rate”
 
 means, for any day, the weighted average (rounded upwards, if necessary, to the next 1/100 of 1%) of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers, as published on the next succeeding Business Day by the Federal Reserve Bank of New York, or, if such rate is not so published for any day that is a Business Day, the average (rounded upwards, if necessary, to the next 1/100 of 1%) of the quotations for such day for such transactions received by the Administrative Agent from three Federal funds brokers of recognized standing selected by it; provided that, if the Federal Funds Effective Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement.
@@ -3593,7 +3466,6 @@ means the government of the United States of America, any other nation or any po
 # “Guarantee”
 
 of or by any Person (the “guarantor”) means any obligation, contingent or otherwise, of the guarantor guaranteeing or having the economic effect of guaranteeing any Indebtedness of any other Person (the “primary obligor”) in any manner, whether directly or indirectly, and including any obligation of the guarantor, direct or indirect, (a) to purchase or pay (or advance or supply funds for the purchase or payment of) such Indebtedness or to purchase (or to advance or supply funds for the
-
 purchase of) any security for the payment thereof, (b) to purchase or lease property, securities or services for the purpose of assuring the owner of such Indebtedness of the payment thereof, (c) to maintain working capital, equity capital or any other financial statement condition or liquidity of the primary obligor so as to enable the primary obligor to pay such Indebtedness or (d) as an account party in respect of any letter of credit or letter of guaranty issued to support such Indebtedness or obligation; provided that the term Guarantee shall not include endorsements for collection or deposit in the ordinary course of business. The amount of any Guarantee shall be deemed to be an amount equal to the stated or determinable amount of the related primary obligation, or portion thereof, in respect of which such Guarantee is made or, if not stated or determinable, the maximum reasonably anticipated liability in respect thereof as determined by the guaranteeing Person in good faith.
 
 "Guarantee Agreement" means the Guarantee Agreement to be executed and delivered by each Guarantor, substantially in the form of Exhibit J hereto.
@@ -3611,7 +3483,6 @@ purchase of) any security for the payment thereof, (b) to purchase or lease prop
 "Increasing Lender" has the meaning assigned to such term in Section 2.02(e).
 
 "Indebtedness" of any Person means, without duplication, (a) all obligations of such Person for borrowed money or with respect to deposits, (b) all obligations of such Person evidenced by bonds, debentures, notes or similar instruments, (c) all obligations of such Person under conditional sale or other title retention agreements relating to property acquired by such Person, (d) all obligations of such Person in respect of the deferred purchase price of property or services (excluding trade accounts payable
-
 # Indebtedness Definition
 
 Indebtedness includes various obligations such as:
@@ -3657,7 +3528,6 @@ Interest Election Request is a Borrower's formal request to convert or continue 
 # Interest Payment Date
 
 Interest Payment Date varies based on the type of loan and includes Quarterly Payment Dates, last day of Interest Periods, and specific dates for different loan types.
-
 # “Interest Period”
 
 means with respect to any Term Benchmark Borrowing, the period commencing on the date of such Borrowing and ending on the numerically corresponding day in the calendar month that is one, three or six months thereafter, as the Borrower may elect; provided that (i) if any Interest Period would end on a day other than a Business Day, such Interest Period shall be extended to the next succeeding Business Day unless, in the case of a Term Benchmark Borrowing, as applicable, such next succeeding Business Day would fall in the next calendar month, in which case such Interest Period shall end on the next preceding Business Day and (ii) any Interest Period pertaining to a Term Benchmark Borrowing, as applicable, that commences on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the last calendar month of such Interest Period) shall end on the last Business Day of the last calendar month of such Interest Period.
@@ -3689,7 +3559,6 @@ has the meaning assigned to such term in Section 9.16(b).
 # “LC Disbursement”
 
 means a payment made by an Issuing Bank pursuant to a Letter of Credit.
-
 # “LC Exposure”
 
 means, at any time, the sum of (a) the aggregate undrawn amount of all outstanding Letters of Credit at such time, plus (b) the aggregate amount of all LC Disbursements that have not yet been reimbursed by or on behalf of the Borrower at such time. The LC Exposure of any Lender at any time shall be its Applicable Percentage of the LC Exposure at such time.
@@ -3733,7 +3602,6 @@ means the Loans made by the Lenders to the Borrower pursuant to Section 2.03 of 
 # “Manufacturing Facility”
 
 means any manufacturing facilities or Gigafactory facilities established by the Borrower or any of its Subsidiaries from time to time.
-
 # "Marketable Securities"
 
 means, with respect to any Person, investments by such Person in time deposits and fixed income securities with original maturities greater than three (3) months that have a determinable fair value, are liquid and are readily convertible into cash. For avoidance of doubt, (i) such investments are passive investments, purchased by such Person in the ordinary course of business as part of its liquidity and/or cash management activities and (ii) for all purposes of the Loan Documents, the amount of Marketable Securities of the Borrower and its Domestic Subsidiaries as of the last day of any fiscal quarter or fiscal year of the Borrower is equal to the amount reported on the Borrower’s Annual Report on Form 10-K and Quarterly Report on Form 10-Q consolidated balance sheet for such fiscal quarter or fiscal year, as the case may be, as the line “Short-term marketable securities” or “Investments”, less any adjustment for securities that do not satisfy the requirements of the first sentence of this definition.
@@ -3765,7 +3633,6 @@ means a multiemployer plan as defined in Section 4001(a)(3) of ERISA that is sub
 # "Non-Consenting Lender"
 
 means any Lender that withholds its consent to any proposed amendment, modification or waiver that cannot become effective without the consent of such Lender under Section 9.02 and that has been consented to by the Required Lenders.
-
 # “Non-Extending Lender”
 
 has the meaning assigned to such term in Section 2.05(b).
@@ -3801,7 +3668,6 @@ means any and all present or future stamp, or documentary, Taxes or any other ex
 # “Overnight Bank Funding Rate”
 
 means, for any day, the rate comprised of both overnight federal funds and overnight borrowings by U.S. managed banking offices of depository institutions (as such composite rate shall be determined by the NYFRB as set forth on its public website from time to time) and published on the next succeeding Business Day by the NYFRB as an overnight bank funding rate (from and after such date as the NYFRB shall commence to publish such composite rate).
-
 # “Overnight Rate”
 
 means for any day, (a) with respect to any amount denominated in Dollars, the Federal Funds Effective Rate and (b) with respect to any amount denominated in a Foreign Currency, the rate of interest per annum as determined by the Administrative Agent at which overnight deposits in the relevant Foreign Currency, in an amount approximately equal to the amount with respect to which such rate is being determined, would be offered for such day by a branch or Affiliate of the Administrative Agent in the applicable offshore interbank market for such Foreign Currency to major banks in such interbank market.
@@ -3837,7 +3703,6 @@ means the Pension Benefit Guaranty Corporation referred to and defined in ERISA 
 - (c) Liens made in the ordinary course of business in compliance with workers’ compensation, unemployment insurance and other social security laws or regulations;
 - (d) Liens to secure the performance of bids, trade contracts, leases, statutory obligations, government contracts, surety and appeal bonds, performance bonds and other obligations of a like nature, in each case in the ordinary course of business;
 - (e) easements, zoning restrictions, rights-of-way and similar encumbrances and other minor defects or irregularities in title on real property imposed by law or arising in the ordinary course of business that are not substantial in amount and do not materially detract from the value of the affected property or materially interfere with the ordinary conduct of business of the Borrower or any Restricted Subsidiary;
-
 (f) licenses (with respect to any Intellectual Property and other property), leases or subleases granted to third parties by the Borrower and its Restricted Subsidiaries in the ordinary course of business or not interfering in any material respect with the ordinary conduct of the business of the Borrower or any of its Restricted Subsidiaries;
 
 (g) any (i) interest or title of a lessor or sublessor under any lease of property to the Borrower or any of its Restricted Subsidiaries, (ii) Lien or restriction that the interest or title of such lessor or sublessor referred to in the preceding clause (i) may be subject to or (iii) subordination of the interest of the lessee or sublessee under such lease to any Lien or restriction referred to in the preceding clause (ii), so long as the holder of such Lien or restriction agrees to recognize the rights of such lessee or sublessee under such lease;
@@ -3859,7 +3724,6 @@ means the Pension Benefit Guaranty Corporation referred to and defined in ERISA 
 (o) Liens arising out of any conditional sale, title retention, consignment or other similar arrangements for the sale of goods entered into by the Borrower or any of its Subsidiaries in the ordinary course of business to the extent such Liens do not attach to any assets other than the goods subject to such arrangements;
 
 (p) Liens in the nature of the right of setoff in favor of counterparties to contractual agreements with the Borrower or any Subsidiary in the ordinary course of business;
-
 (q) licensing and cross-licensing arrangements entered into by the Borrower and its Subsidiaries for purposes of enforcing, defending or settling claims with respect to the Intellectual Property of the Borrower and its Subsidiaries and not interfering in any material respect with the ordinary conduct of the business of the Borrower or any of its Restricted Subsidiaries;
 
 (r) Liens on earnest money deposits made in the ordinary course of business in connection with any agreement in respect of an anticipated acquisition or other investment;
@@ -3879,7 +3743,6 @@ provided that the term “Permitted Encumbrances” shall not include any Lien s
 “Plan Asset Regulations” means 28 CFR § 2510.3-101, as modified by Section 3(42) of ERISA, as amended from time to time.
 
 “Pounds Sterling” or “£” means the lawful currency of the United Kingdom of Great Britain and Northern Ireland.
-
 |Level|Rating|Term Benchmark Spread/SONIA Spread|ABR Spread|Commitment Fee Rate|
 |---|---|---|---|---|
 |I|>= A or A2|77.5 bps|0.0 bps|5.0 bps|
@@ -3893,7 +3756,6 @@ provided that the term “Permitted Encumbrances” shall not include any Lien s
 For purposes of the foregoing, (i) if the ratings established or deemed to have been established by Moody’s and S&P for the Index Debt shall fall within different Levels, the Applicable Rate shall be based on the higher of the two ratings (i.e., the higher Level) unless one of the two ratings is two or more Levels lower than the other, in which case the Applicable Rate shall be determined by reference to the Level next below the higher of the two Levels (it being understood that Level I is the highest Level and Level VII is the lowest Level); (ii) if the ratings established or deemed to have been established by Moody’s and S&P for the Index Debt shall be changed (other than as a result of a change in the rating system of Moody’s or S&P), such change shall be effective as of the date on which it is first announced by the applicable rating agency, irrespective of when notice of such change shall have been furnished by the Borrower to the Administrative Agent and the Lenders pursuant to Section 5.01 or otherwise and (iii) if either Moody’s or S&P shall not have in effect a rating for the Index Debt (other than by reason of the circumstances described in the last sentence of this definition), then such rating agency shall be deemed to have established a rating equivalent to the rating of the other rating agency. Each change in the Applicable Rate shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change. If the rating system of Moody’s or S&P changes, or if either such rating agency ceases to be in the business of rating corporate debt obligations, the Borrower and the Lenders shall negotiate in good faith to amend this definition to reflect such changed rating system or the unavailability of ratings from such rating agency and, pending the effectiveness of any such amendment, the Applicable Rate shall be determined by reference to the rating most recently in effect prior to such change or cessation.
 
 “Prime Rate” means the rate of interest per annum announced from time to time by the Administrative Agent to be its prime rate in effect at its principal office in New York City. Each change in the Prime Rate shall be effective from and including the date such change is publicly announced or quoted as being effective.
-
 "Project" means an Energy Storage System together with all associated real property rights, rights under the applicable Host Customer Agreement, and all other related rights to the extent applicable thereto, including without limitation, all parts and manufacturers’ warranties and rights to access customer data.
 
 "PTE" means a prohibited transaction class exemption issued by the U.S. Department of Labor, as any such exemption may be amended from time to time.
@@ -3917,7 +3779,6 @@ For purposes of the foregoing, (i) if the ratings established or deemed to have 
 "Related Parties" means, with respect to any specified Person, such Person’s Affiliates and the respective partners, directors, officers, employees, agents and advisors of such Person and such Person’s Affiliates.
 
 "Relevant Governmental Body" means, (a) with respect to a Benchmark Replacement in respect of Obligations, interest, fees, commissions or other amounts denominated in, or calculated with respect to, Dollars, the Federal Reserve Board or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Federal Reserve Board or the Federal Reserve Bank of New York, or any successor thereto and (b) with respect to a Benchmark Replacement in respect of Obligations, interest, fees, commissions or other amounts denominated in, or calculated with respect to, any Foreign Currency, (1) the central bank for the Foreign Currency in which such Obligations, interest, fees, commissions or other amounts are denominated, or calculated with respect to, or any central bank or other supervisor which is responsible for supervising either (A) such Benchmark Replacement or (B) the administrator of such Benchmark Replacement or (2) any working group or committee officially endorsed or convened by (A) the central bank for the Foreign Currency in which such Obligations, interest, fees, commissions or other amounts are denominated, or calculated with respect to, (B) any central bank or other supervisor that is responsible for supervising either (i) such Benchmark Replacement or (ii) the administrator of such Benchmark Replacement, (C) a group of those central banks or other supervisors or (D) the Financial Stability Board or any part thereof.
-
 # “Relevant Rate”
 
 means (i) with respect to any Term Benchmark Borrowing denominated in Dollars, the Adjusted Term SOFR Rate, (ii) with respect to any Term Benchmark Borrowing denominated in Euros, the Adjusted EURIBOR Rate or (iii) with respect to any Borrowing denominated in Pounds Sterling, the Daily Simple SONIA.
@@ -3969,7 +3830,6 @@ means any Subsidiary other than an Unrestricted Subsidiary. Any Subsidiary desig
 # “Revolving Credit Exposure”
 
 means, with respect to any Lender at any time, the sum of the outstanding principal amount of such Lender’s Loans at such time (including the Dollar Amount of any such Lender’s Loans denominated in Euros or Pounds Sterling, as applicable).
-
 “S&P” means S&P Global Ratings.
 
 “Sanctioned Country” means a country, region or territory which is itself the target of any countrywide, region-wide or territory-wide Sanctions (at the time of this Agreement, the Crimea, the so-called Donetsk People’s Republic, the so-called Luhansk People’s Republic, and the non-government controlled areas of the Kherson and Zaporizhzhia regions of Ukraine, Cuba, Iran, North Korea and Syria).
@@ -3987,7 +3847,6 @@ means, with respect to any Lender at any time, the sum of the outstanding princi
 “Significant Subsidiary” means, at any time, any Subsidiary that is not an Immaterial Subsidiary.
 
 “SOFR” means a rate equal to the secured overnight financing rate as administered by the SOFR Administrator.
-
 # “SOFR Administrator”
 
 means the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing rate).
@@ -4031,7 +3890,6 @@ means representations, warranties, covenants and indemnities entered into by the
 # “Stated Amount” or “Stated Amounts”
 
 means the stated or face amount of such Letter of Credit to the extent available at the time for drawing (subject to presentment of all requisite documents), as the same may be increased or decreased from time to time in accordance with the terms of such Letter of Credit. For purposes of calculating the Stated Amount of any Letter of Credit at any time:
-
 # (A)
 
 any increase in the Stated Amount of any Letter of Credit by reason of any amendment to any Letter of Credit shall be deemed effective under this Agreement as of the date the relevant Issuing Bank actually issues an amendment purporting to increase the Stated Amount of such Letter of Credit, whether or not such Issuing Bank receives the consent of the Letter of Credit beneficiary or beneficiaries to the amendment, except that if the Borrower has required that the increase in Stated Amount be given effect as of an earlier date and such Issuing Bank issues an amendment to that effect, then such increase in Stated Amount shall be deemed effective under this Agreement as of such earlier date requested by the Borrower; and
@@ -4063,7 +3921,6 @@ means any agreement with respect to any swap, forward, future or derivative tran
 # “Syndication Agent”
 
 means Deutsche Bank Securities Inc., in its capacity as syndication agent.
-
 "TARGET2" means the Trans-European Automated Real-time Gross Settlement Express Transfer payment system which utilizes a single shared platform and which was launched on November 19, 2007.
 
 "TARGET Day" means any day on which TARGET2 (or, if such payment system ceases to be operative, such other payment system, if any, determined by the Administrative Agent to be a suitable replacement) is open for the settlement of payments in Euro.
@@ -4082,7 +3939,6 @@ means Deutsche Bank Securities Inc., in its capacity as syndication agent.
 "Term SOFR Administrator" means CME Group Benchmark Administration Limited (CBA) (or a successor administrator of the Term SOFR Reference Rate selected by the Administrative Agent in its reasonable discretion).
 
 "Term SOFR Reference Rate" means the forward-looking term rate based on SOFR.
-
 # "Tesla Finance Subsidiaries"
 
 means (i) Tesla Finance, LLC and its subsidiaries and (ii) Tesla Financial Services Holdings B.V. and its subsidiaries, including Tesla Financial Services Limited and Tesla Financial Services GmbH.
@@ -4118,7 +3974,6 @@ means the Bank of England or any other public administrative authority having re
 # "Unadjusted Benchmark Replacement"
 
 means the applicable Benchmark Replacement excluding the related Benchmark Replacement Adjustment.
-
 "Unrestricted Subsidiary" means any Subsidiary that (a) is existing as of the Effective Date, (b) is a Securitization Subsidiary or (c) is not a Significant Subsidiary and, in each case, is designated as an Unrestricted Subsidiary by the Borrower by delivery to the Administrative Agent after the date hereof of a certificate of an Authorized Officer of the Borrower (substantially in the form of Exhibit H hereto); provided that in each such case, such Subsidiary shall satisfy the following conditions:
 
 1. no portion of the Indebtedness or any other obligations (contingent or otherwise) of the Subsidiary,
@@ -4142,7 +3997,6 @@ neither the Borrower nor any Restricted Subsidiary has any obligation to maintai
 "Used Motor Vehicles" means all Used motor vehicles owned by the Borrower or any of its Subsidiaries.
 
 "Vehicle Environmental Attribute" means any credit, benefit, reduction, offset or allowance, howsoever entitled or named, relating to the emissions or environmental impacts that result
-
 # from, are attributable to, or are associated with a vehicle, a vehicle’s use, or a vehicle charging station that is capable of being measured, verified or calculated and in any case may be lawfully marketed to third parties. By way of illustration, Vehicle Environmental Attributes may result from: new energy vehicles; zero emission vehicles; fuel economy; avoided criteria air pollutants, CO2 or greenhouse gas emissions; low carbon, renewable or clean fuel; and other credits and offsets defined under any applicable vehicle and charging-related private or governmental program, including, without limitation, the following credits: California LEV III NMOG +NOx, US CAFE, US GHG, US Tier 3 NMOG + NOx, Canada GHG, Quebec ZEV, EU CO2 Pooling, and Switzerland GHG Credits and Low Carbon Fuel Standards credits. Notwithstanding any of the foregoing in this definition or any other provision of this Agreement, Vehicle Environmental Attributes shall not include: (i) any of the foregoing obtained by, provided to, used by or necessary for the Borrower or any of its Subsidiaries to conduct any of its operations at any location; or (ii) any automotive tax credits.
 
 "Withdrawal Liability" means liability to a Multiemployer Plan as a result of a complete or partial withdrawal from such Multiemployer Plan, as such terms are defined in Part I of Subtitle E of Title IV of ERISA.
@@ -4158,7 +4012,6 @@ For purposes of this Agreement, Loans may be classified and referred to by Type 
 # SECTION 1.03. Terms Generally.
 
 The definitions of terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation.” The word “will” shall be construed to have the same meaning and effect as the word “shall.” Unless the context requires otherwise (a) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, amended and restated, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein) and any definition of or reference to any law, statute, regulation, rule or other legislative action shall mean such law, statute, regulation, rule or other legislative action as amended, supplemented or otherwise modified from time to time, (b) any reference herein to any Person shall be construed to include such Person’s successors and assigns, (c) the words “herein”, “hereof” and “hereunder”, and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (d) all references herein to Articles, Sections, Exhibits and Schedules shall be construed to refer to Articles and Sections of, and Exhibits and Schedules to, this Agreement, (e) any reference to any law, rule or regulation herein shall, unless
-
 # otherwise specified, refer to such law, rule or regulation as amended, modified or supplemented from time to time and (f) the words "asset" and "property" shall be construed to have the same meaning and effect and to refer to any and all tangible and intangible assets and properties, including cash, securities, accounts and contract rights.
 
 SECTION 1.04. Accounting Terms; GAAP. Except as otherwise expressly provided herein, all terms of an accounting or financial nature shall be construed in accordance with GAAP, as in effect from time to time; provided that, if the Borrower notifies the Administrative Agent that the Borrower requests an amendment to any provision hereof to eliminate the effect of any change occurring after the date hereof in GAAP or in the application thereof on the operation of such provision (or if the Administrative Agent notifies the Borrower that the Required Lenders request an amendment to any provision hereof for such purpose), regardless of whether any such notice is given before or after such change in GAAP or in the application thereof, then such provision shall be interpreted on the basis of GAAP as in effect and applied immediately before such change shall have become effective until such notice shall have been withdrawn or such provision amended in accordance herewith. Notwithstanding any other provision contained herein, (a) any election under Financial Accounting Standards Board Accounting Standards Codification 825 (or any other Financial Accounting Standard having a similar result or effect) to value any Indebtedness or other liabilities of the Borrower or any Subsidiary at "fair value", as defined therein and (b) any treatment of Indebtedness under Accounting Standards Codification 470-20 or 2015-03 (or any other Accounting Standards Codification or Financial Accounting Standard having a similar result or effect) to value any such Indebtedness in a reduced or bifurcated manner as described therein, and such Indebtedness shall at all times be valued at the full stated principal amount thereof.
@@ -4168,7 +4021,6 @@ SECTION 1.05. Currency Equivalents Generally. (a) If more than one currency or c
 (b) If a change in any currency of a country occurs, this Agreement shall be amended (and each party hereto agrees to enter into any supplemental agreements necessary to effect any such amendment) to the extent that the Administrative Agent and the Borrower reasonably determine such amendment to be necessary to reflect the change in currency and to put the Lenders in the same position, so far as possible, that they would have been in if no change in currency had occurred.
 
 SECTION 1.06. Interest Rates. The Administrative Agent does not warrant or accept any responsibility for, and shall not have any liability with respect to (a) the continuation of, administration of, submission of, calculation of or any other matter related to ABR, the Term SOFR Reference Rate, Adjusted Term SOFR Rate, Term SOFR, Adjusted EURIBOR Rate, EURIBOR, the Daily Simple SONIA, SONIA or any component definition thereof or rates referred to in the definition thereof, or any alternative, successor or replacement rate thereto (including any Benchmark Replacement), including whether the composition or characteristics of any such alternative, successor or replacement rate (including any Benchmark Replacement) will be similar to, or produce the same value or economic equivalence of, or have the same volume or liquidity as, ABR, the Term SOFR Reference Rate, Adjusted Term SOFR Rate, Term SOFR, Adjusted EURIBOR Rate, EURIBOR, the Daily Simple SONIA, SONIA or any other Benchmark prior to its discontinuance or unavailability or (b) the effect, implementation or composition of any Conforming Changes. The Administrative Agent and its affiliates
-
 # Article II
 
 # The Credits
@@ -4176,7 +4028,6 @@ SECTION 1.06. Interest Rates. The Administrative Agent does not warrant or accep
 SECTION 2.01. Commitments.Subject to the terms and conditions set forth herein, each Lender severally and not jointly agrees to make revolving loans denominated in Dollars, Euros and Pounds Sterling (the “Loans”) to the Borrower from time to time during the Availability Period in an aggregate principal amount that will not result in (x) such Lender’s Credit Exposure exceeding such Lender’s Commitment or (y) the Total Credit Exposure exceeding the total Commitments. Within the foregoing limits and subject to the terms and conditions set forth herein, the Borrower may borrow, prepay and reborrow Loans. No portion of the Loan will be funded (initially or through participation, assignment, transfer or securitization) with plan assets of any Benefit Plan if it would cause the Borrower to incur any prohibited transaction excise tax penalties under Section 4975 of the Code or otherwise result in a non-exempt prohibited transaction.
 
 SECTION 2.02. Loans and Borrowings.(a) Each Loan shall be made as part of a Borrowing consisting of Loans made by the Lenders ratably in accordance with their respective Commitments. The failure of any Lender under the Facility to make any Loan required to be made by it shall not relieve any other Lender under the Facility of its obligations hereunder; provided that the Commitments of the Lenders are several and no Lender shall be responsible for any other Lender’s failure to make Loans as required.
-
 # (b)
 
 Subject to Section 2.13 and Section 2.21, (i) each Borrowing denominated in Dollars shall be available in the Funding Office and consist entirely of ABR Loans or Term Benchmark Loans bearing interest at the Adjusted Term SOFR Rate, (ii) each Borrowing denominated in Pounds Sterling shall be available in the Funding Office and consist entirely of SONIA Loans and (iii) each Borrowing denominated in Euros shall be available in the Funding Office and consist entirely of Term Benchmark Loans bearing interest at the Adjusted EURIBOR Rate. Each Lender at its option may make any Loan by causing any domestic or foreign branch or Affiliate of such Lender to make such Loan; provided that (i) any exercise of such option shall not affect the obligation of the Borrower to repay such Loan in accordance with the terms of this Agreement and (ii) any such domestic or foreign branch or Affiliate of such Lender shall not be entitled to request compensation under Section 2.14 at the time such Loan is made.
@@ -4192,13 +4043,11 @@ Notwithstanding any other provision of this Agreement, the Borrower shall not be
 # (e)
 
 The Borrower may from time to time elect to increase the Commitments of the Facility in a minimum amount of $25,000,000 in respect of the Facility so long as, after giving effect thereto, the aggregate amount of the Commitments of the Facility does not exceed $7,000,000,000. The Borrower may arrange for any such increase to be provided by one or more Lenders with a Commitment in the Facility (each Lender so agreeing to an increase in its Commitment, an “Increasing Lender”; it being understood and agreed that each Lender of the Facility approached to provide any such increase shall have the right, but not the obligation, to provide such increase), or by one or more banks, financial institutions or other entities (each such bank, financial institution or other entity, an “Augmenting Lender”), to increase their existing Commitments in respect of the Facility, or extend Commitments in respect of the Facility, as the case may be; provided that (i) each Augmenting Lender, shall be subject to the approval of the Borrower and the Administrative Agent (not to be unreasonably withheld or delayed) and (ii) (x) in the case of an Increasing Lender, the Borrower and such Increasing Lender execute an agreement substantially in the form of Exhibit C hereto and (y) in the case of an Augmenting Lender, the Borrower and such Augmenting Lender execute an agreement substantially in the form of Exhibit D hereto. Increases and new Commitments created pursuant to this paragraph (e) shall become effective on the date agreed by the Borrower, the Administrative Agent and the relevant Lenders with a Commitment in the Facility and the Administrative Agent shall notify each affected Lender thereof; provided that no increase in the Commitments created pursuant to this paragraph (e) shall become effective less than three (3) Business Days prior to the Maturity Date. Notwithstanding the foregoing, no increase in the Commitments (or in the Commitment of any Lender), shall become effective under this paragraph (e) unless, (i) on the proposed date of the effectiveness of such increase, the conditions set forth in Sections 4.02(a) and (b) shall be satisfied or waived by the Required Lenders with a Commitment in the Facility and the Administrative Agent shall have received a certificate to that effect dated such date and executed by an Authorized Officer of the Borrower and (ii) the Administrative Agent shall have received
-
 # SECTION 2.03. Requests for Borrowings
 
 To request a Borrowing, the Borrower shall notify the Administrative Agent of such request by telephone (a) in the case of an ABR Borrowing, not later than 11:00 a.m., New York City time, on the Business Day of the proposed ABR Borrowing, (b) in the case of a Term Benchmark Borrowing denominated in Dollars, not later than 1:00 p.m., New York City time, three (3) Business Days before the date of the proposed Term Benchmark Borrowing, (c) in the case of a SONIA Borrowing, not later than 1:00 p.m., London time, five (5) Business Days before the date of the proposed SONIA Borrowing and (d) in the case of a Term Benchmark Borrowing denominated in Euros, not later than 1:00 p.m., London time, three (3) Business Days before the date of the proposed Term Benchmark Borrowing. Each such telephonic Borrowing Request shall be irrevocable and shall be confirmed promptly by hand delivery or facsimile (or in any other manner approved pursuant to Section 9.01(b)) to the Administrative Agent in the Funding Office of a written Borrowing Request in the form of Exhibit E hereto (except as otherwise agreed by the Administrative Agent and the Borrower) signed by the Borrower. Each such telephonic and written Borrowing Request shall specify the following information in compliance with Section 2.02:
 
 (i) the aggregate amount of the requested Borrowing;(ii) the date of such Borrowing, which shall be a Business Day;(iii) the Agreed Currency of the requested Borrowing;(iv) whether such Borrowing is to be an ABR Borrowing, a Term Benchmark Borrowing or a SONIA Borrowing;(v) in the case of a Term Benchmark Borrowing, the initial Interest Period to be applicable thereto, which shall be a period contemplated by the definition of the term “Interest Period”;(vi) the location and number of the Borrower’s account to which funds are to be disbursed, which shall comply with the requirements of Section 2.06.
-
 If no election as to the Type of any Borrowing denominated in Dollars in the Funding Office is specified, then the requested Borrowing shall be an ABR Borrowing. If no Interest Period is specified with respect to any requested Term Benchmark Borrowing, then the Borrower shall be deemed to have selected an Interest Period of one month’s duration. Promptly following receipt of a Borrowing Request in accordance with this Section 2.03, the Administrative Agent shall advise each Lender of the details thereof and of the amount of such Lender’s Loan to be made as part of the requested Borrowing.
 
 # SECTION 2.04. Letters of Credit.
@@ -4208,7 +4057,6 @@ If no election as to the Type of any Borrowing denominated in Dollars in the Fun
 (b) Notice of Issuance, Amendment, Renewal, Extension; Certain Conditions. To request the issuance of a Letter of Credit (or the amendment, renewal or extension of an outstanding Letter of Credit), the Borrower shall hand deliver or telecopy (or transmit by electronic communication, if arrangements for doing so have been approved by the applicable Issuing Bank) to any Issuing Bank and the Administrative Agent (reasonably in advance of the requested date of issuance, amendment, renewal or extension, but in any event no less than three (3) Business Days) a notice requesting the issuance of a Letter of Credit, or identifying the Letter of Credit to be amended, renewed or extended, and specifying (A) the date of issuance, amendment, renewal or extension (which shall be a Business Day), (B) the date on which such Letter of Credit is to expire (which shall comply with Section 2.04(c)), (C) the Stated Amount of such Letter of Credit, (D) the Borrower as the account party and, if desired by the Borrower, one or more Subsidiaries as additional account parties and (E) the name and address of the beneficiary thereof and such other information as shall be necessary to prepare, amend, renew or extend such Letter of Credit. In addition, as a condition to any such Letter of Credit issuance, the Borrower shall have entered into a continuing agreement (or other letter of credit agreement) for the issuance of letters of credit and/or shall submit a letter of credit application, in each case, as required by the applicable Issuing Bank and using such bank’s standard form (each, a “Letter of Credit Agreement”). A Letter of Credit shall be issued, amended, renewed or extended only if (and upon issuance, amendment, renewal or extension of each Letter of Credit the Borrower shall be deemed to represent and warrant that), after
 
 40
-
 # c) Expiration Date.
 
 Each Letter of Credit shall expire (or be subject to termination by notice from an Issuing Bank to the beneficiary thereof) at or prior to the close of business on the earlier of (i) the date one (1) year after the date of the issuance of such Letter of Credit (or, in the case of any renewal or extension thereof, one year after the then-current expiration date at the time of such renewal or extension) and (ii) the date that is five (5) Business Days prior to the Maturity Date; provided that any Letter of Credit with a one-year tenor may provide for the renewal thereof for additional one-year periods (which shall in no event extend beyond the date referred to in clause (ii)).
@@ -4220,7 +4068,6 @@ By the issuance of a Letter of Credit (or an amendment to a Letter of Credit inc
 # e) Reimbursement.
 
 If an Issuing Bank shall make any LC Disbursement in respect of a Letter of Credit, the Borrower shall reimburse such LC Disbursement by paying to the Administrative Agent in Dollars such LC Disbursement, calculated as of the date the Issuing Bank made such LC Disbursement not later than 12:00 noon, New York City time, on the first (1st) Business Day immediately following the date that such LC Disbursement is made; provided that, if such LC Disbursement is not less than $1,000,000, the Borrower may, subject to the conditions to borrowing set forth herein, request in accordance with Section 2.03 that such payment be financed with a Dollar denominated ABR Loan on the date on which such drawing is honored and in an amount equal to the amount of such drawing and, to the extent so financed, the Borrower’s obligation to make such payment shall be discharged and replaced by the resulting ABR Borrowing. If the Borrower fails to make such payment when due, the Administrative Agent shall notify each Lender of the applicable LC Disbursement, the payment then due from the Borrower in respect thereof and such Lender’s Applicable Percentage thereof. Promptly following receipt of such notice, each Lender shall pay to the Administrative Agent its Applicable Percentage of the payment then due from the Borrower, in the same manner as provided in Section 2.06 with respect to Loans made by such Lender (and Section 2.06 shall apply, mutatis mutandis, to the payment obligations of the Lenders), and the Administrative Agent shall promptly pay to the applicable Issuing Bank the
-
 amounts so received by it from the Lenders. Promptly following receipt by the Administrative Agent of any payment from the Borrower pursuant to this paragraph (e), the Administrative Agent shall distribute such payment to the applicable Issuing Bank or, to the extent that Lenders have made payments pursuant to this paragraph (e) to reimburse the applicable Issuing Bank, then to such Lenders and the applicable Issuing Bank as their interests may appear. Any payment made by a Lender pursuant to this paragraph (e) to reimburse an Issuing Bank for any LC Disbursement (other than the funding of ABR Loans as contemplated above) shall not constitute a Loan and shall not relieve the Borrower of its obligation to reimburse such LC Disbursement.
 
 (f) Obligations Absolute. The Borrower’s obligation to reimburse LC Disbursements as provided in Section 2.04(e) shall be absolute, unconditional and irrevocable, and shall be performed strictly in accordance with the terms of this Agreement under any and all circumstances whatsoever and irrespective of (i) any lack of validity or enforceability of any Letter of Credit, any Letter of Credit Agreement or this Agreement, or any term or provision therein, (ii) any draft or other document presented under a Letter of Credit proving to be forged, fraudulent or invalid in any respect or any statement therein being untrue or inaccurate in any respect, (iii) payment by an Issuing Bank under a Letter of Credit against presentation of a draft or other document that does not comply with the terms of such Letter of Credit or (iv) any other event or circumstance whatsoever, whether or not similar to any of the foregoing, that might, but for the provisions of this Section 2.04, constitute a legal or equitable discharge of, or provide a right of setoff against, the Borrower’s obligations hereunder. Neither the Administrative Agent, the Lenders nor the Issuing Banks, nor any of their Related Parties, shall have any liability or responsibility by reason of or in connection with the issuance or transfer of any Letter of Credit or any payment or failure to make any payment thereunder (irrespective of any of the circumstances referred to in the preceding sentence), or any error, omission, interruption, loss or delay in transmission or delivery of any draft, notice or other communication under or relating to any Letter of Credit (including any document required to make a drawing thereunder), any error in interpretation of technical terms or any consequence arising from causes beyond the control of the Issuing Banks. The parties hereto expressly agree that, in the absence of gross negligence or willful misconduct on the part of an Issuing Bank (as finally determined by a court of competent jurisdiction in a final non-appealable ruling), such Issuing Bank shall be deemed to have exercised care in each such determination. In furtherance of the foregoing and without limiting the generality thereof, the parties agree that, with respect to documents presented which appear on their face to be in substantial compliance with the terms of a Letter of Credit, each Issuing Bank may, in its sole discretion, either accept and make payment upon such documents without responsibility for further investigation, regardless of any notice or information to the contrary, or refuse to accept and make payment upon such documents if such documents are not in strict compliance with the terms of such Letter of Credit.
@@ -4230,7 +4077,6 @@ amounts so received by it from the Lenders. Promptly following receipt by the Ad
 (h) Interim Interest. If an Issuing Bank shall make any LC Disbursement, then, unless the Borrower shall reimburse such LC Disbursement in full on the date such LC Disbursement is made, the unpaid amount thereof shall bear interest, for each day from and including the date such LC Disbursement is made to but excluding the date that the reimbursement is due and payable at the rateper annum then applicable to ABR Loans; provided that, if the Borrower fails to reimburse such LC Disbursement when due pursuant to Section 2.04(e), then Section 2.12(e) shall apply. Interest accrued
 
 42
-
 pursuant to this paragraph (h) shall be for the account of the applicable Issuing Bank, except that interest accrued on and after the
 date of payment by any Lender pursuant to Section 2.04(e) to reimburse such Issuing Bank shall be for the account of such Lender
 to the extent of such payment.
@@ -4242,7 +4088,6 @@ to the extent of such payment.
 (j) Cash Collateralization. If any Event of Default shall occur and be continuing, on the Business Day that the Borrower receives notice from the Administrative Agent or the Required Lenders (or, if the maturity of the Loans has been accelerated, Lenders with LC Exposure representing greater than 50% of the total LC Exposure) demanding the deposit of cash collateral pursuant to this paragraph (j), the Borrower shall deposit in an account with the Administrative Agent, in the name of the Administrative Agent and for the benefit of the Lenders, an amount in cash equal to the LC Exposure as of such date, plus any accrued and unpaid interest thereon; provided that the obligation to deposit such cash collateral shall become effective immediately, and such deposit shall become immediately due and payable, without demand or other notice of any kind, upon the occurrence of any Event of Default with respect to the Borrower described in Section 7.01(h) or (i). Such deposit shall be held by the Administrative Agent as collateral for the payment and performance of the obligations of the Borrower under this Agreement. The Administrative Agent shall have exclusive dominion and control, including the exclusive right of withdrawal, over such account. Other than any interest earned on the investment of such deposits, which investments shall be made at the option and sole discretion of the Administrative Agent and at the Borrower's risk and expense, such deposits shall not bear interest. Interest or profits, if any, on such investments shall accumulate in such account. Moneys in such account shall be applied by the Administrative Agent to reimburse any Issuing Bank for LC Disbursements for which it has not been reimbursed and, to the extent not so applied, shall be held for the satisfaction of the reimbursement obligations of the Borrower for the LC Exposure at such time or, if the maturity of the Loans has been accelerated (but subject to the consent of Lenders with LC Exposure representing greater than 50% of the total LC Exposure), be applied to satisfy other Obligations. If the Borrower is required to provide an amount of cash collateral hereunder as a result of the occurrence of an Event of Default, such amount (to the extent not applied as aforesaid) shall be returned to the Borrower within three (3) Business Days after all Events of Default have been cured or waived.
 
 (k) Letters of Credit Issued for Account of Subsidiaries. Notwithstanding that a Letter of Credit issued or outstanding hereunder supports any obligations of, or is for the account of, a Subsidiary, or states that a Subsidiary is the "account party," "applicant," "customer," "instructing party,"
-
 or the like of or for such Letter of Credit, and without derogating from any rights of the applicable Issuing Bank (whether arising by contract, at law, in equity or otherwise) against such Subsidiary in respect of such Letter of Credit, the Borrower (i) shall reimburse, indemnify and compensate the applicable Issuing Bank hereunder for such Letter of Credit (including to reimburse any and all drawings thereunder) as if such Letter of Credit had been issued solely for the account of the Borrower and (ii) irrevocably waives any and all defenses that might otherwise be available to it as a guarantor or surety of any or all of the obligations of such Subsidiary in respect of such Letter of Credit. The Borrower hereby acknowledges that the issuance of such Letters of Credit for its Subsidiaries inures to the benefit of the Borrower, and that the Borrower’s business derives substantial benefits from the businesses of such Subsidiaries.
 
 (l) Stated Amount. The Stated Amount of each Letter of Credit shall not be less than Ten Thousand Dollars ($10,000) or such lesser amount as the applicable Issuing Bank has agreed to.
@@ -4258,7 +4103,6 @@ SECTION 2.05. Maturity Date Extension.
 (d) Additional Commitment Lenders. If (and only if) the total of the Commitments of the Lenders that have agreed so to extend their Maturity Date shall be more than 50% of the aggregate amount of the Commitments in effect immediately prior to the date of the Extension Request, the Borrower shall have the right, at its own expense, to require any Non-Extending Lender to transfer and assign without recourse (in accordance with and subject to the restrictions contained in Section 9.04) all its interests, rights and obligations under this Agreement to one or more banks or other financial institutions identified to the Non-Extending Lender, which may include any Lender (each an “Additional Lender”); provided that (w) such Additional Lender shall be subject to the approval of each Issuing Bank and, if such Additional Lender is not already a Lender hereunder, the Administrative Agent (such approval not to be unreasonably withheld); (x) such assignment shall become effective as of the date of the extension of the Maturity Date of the Extending Lenders as provided in Section 2.05(e) or any time thereafter on or prior to the effective Maturity Date of the applicable Non-Extending Lender; (y) the
 
 44
-
 Additional Lender shall pay to such Non-Extending Lender in immediately available funds on the effective date of such assignment the principal of, and interest accrued to the date of payment on, the Loans made by it hereunder and all other amounts accrued for its account or owed to it hereunder and (z) if the assigning Lender is an Issuing Bank, it shall have received cash collateral as required by Section 2.04(j) or it shall have entered into other arrangements with the Borrower that are satisfactory to such Issuing Bank with respect to any outstanding Letters of Credit issued by it. Any such assignee’s initial Maturity Date shall be the Maturity Date in effect for the Extending Lenders at the time of such assignment. Any assignee which becomes a Lender as a result of such an assignment made pursuant to this Section 2.05(d) shall be deemed to have consented to the applicable Extension Request and, therefore, shall not be a Non-Extending Lender.
 
 (e) Minimum Extension Requirement. If (and only if) the total of the Commitments of the Lenders that have agreed so to extend their Maturity Date shall be more than 50% of the aggregate amount of the Commitments in effect immediately prior to the date of the Extension Request, then, upon the Borrower’s election and prompt notification to the Administrative Agent prior to the relevant anniversary of the Effective Date, subject to the conditions set forth in Section 2.05(f), effective as of the relevant anniversary of the Effective Date, the Maturity Date of each Extending Lender and of each Additional Lender shall be extended to the date falling one year after the Existing Maturity Date (except that, if such date is not a Business Day, such Maturity Date as so extended shall be the immediately preceding Business Day). In the event of any such extension, the Commitment of each Non-Extending Lender that has not been replaced as provided in Section 2.05(d) shall terminate on the Maturity Date in effect prior to any such extension and the outstanding principal balance of all Loans and other amounts payable hereunder to such Non-Extending Lender shall become due and payable on such Maturity Date and the total Commitments of the Lenders hereunder shall be reduced by the Commitments of the Non-Extending Lenders so terminated on such Maturity Date.
@@ -4266,7 +4110,6 @@ Additional Lender shall pay to such Non-Extending Lender in immediately availabl
 (f) Conditions to Effectiveness of Extensions. Notwithstanding the foregoing, the extension of the Maturity Date pursuant to this Section 2.05 shall not be effective with respect to any Lender unless (i) no Default or Event of Default has occurred and is continuing on the date of such extension and after giving effect thereto; and (ii) the representations and warranties of the Borrower contained in Article III and the other Loan Documents are true and correct in all material respects (except to the extent such representations and warranties are qualified by materiality in which case such representations and warranties shall be true in all respects) on and as of the date of the date of such extension, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct in all material respects as of such earlier date, and except that for purposes of this Section 2.05(f), the representations and warranties contained in Section 3.04(a) shall be deemed to refer to the most recent statements furnished pursuant to clause (a) of Section 5.01. As a condition precedent to each such extension, the Borrower shall deliver to the Administrative Agent a certificate dated as of the date of such extension and signed by a Responsible Officer of the Borrower certifying as to compliance with this Section 2.05(f). Notwithstanding anything to the contrary contained herein, the Administrative Agent and the Borrower shall be permitted to amend, modify or supplement any provision of this Agreement or any other Loan Document to give effect to the extension of the Maturity Date of the Extending Lenders in accordance with the terms of this Section 2.05.
 
 (g) Effect of Maturity Date Extensions. If the Maturity Date in respect of any tranche of Commitments occurs prior to the expiration of any Letter of Credit, then (i) if one or more other tranches of Commitments in respect of which the Maturity Date shall not have occurred are then in effect, (x) outstanding Loans shall be repaid pursuant to Section 2.10 on such Maturity Date in an amount sufficient to permit the reallocation of the LC Exposure relating to the outstanding Letters of Credit contemplated by clause (y) below and (y) such Letters of Credit shall automatically be deemed to have been issued (including for purposes of the obligations of the Lenders to purchase participations therein
-
 # and to make Loans and payments in respect thereof pursuant to Section 2.04(b)) under (and ratably participated in by Lenders pursuant to) the Commitments in respect of such non-terminating tranches up to an aggregate amount not to exceed the aggregate principal amount of the unutilized Commitments thereunder at such time (it being understood that (A) the participations therein of Lenders under the maturing tranche shall be correspondingly released and (B) no partial face amount of any Letter of Credit may be so reallocated) and (ii) to the extent not reallocated pursuant to the immediately preceding clause (i), but without limiting the obligations with respect thereto, the Borrower shall 100% cash collateralize, back-stop with a satisfactory letter of credit issued by a financial institution satisfactory to the applicable Issuing Bank and the Administrative Agent or otherwise collateralize to the satisfaction of such Issuing Bank and the Administrative Agent the then undrawn and unexpired amount of any such Letter of Credit (without limiting the Borrowers’ obligations in respect of payments made by an Issuing Bank pursuant to a Letter of Credit).
 
 # SECTION 2.06. Funding of Borrowings.
@@ -4274,7 +4117,6 @@ Additional Lender shall pay to such Non-Extending Lender in immediately availabl
 (a) Each Lender shall make each Loan to be made by it hereunder on the proposed date thereof in the applicable currency by wire transfer of immediately available funds by 2:00 p.m., New York City time, in respect of Loans made in the Funding Office, to the account of the Administrative Agent most recently designated by it for such purpose by notice to the Lenders. The Administrative Agent will make such Loans available to the Borrower by promptly crediting the amounts so received, in like funds, to an account of the Borrower maintained with the Administrative Agent in New York City or to such other account of the Borrower as may be agreed by the Borrower and the Administrative Agent, in each case designated by the Borrower in the applicable Borrowing Request; provided that ABR Loans made to finance the reimbursement of an LC Disbursement as provided in Section 2.04(e) shall be remitted by the Administrative Agent to the relevant Issuing Bank.
 
 (b) Unless the Administrative Agent shall have received notice from a Lender prior to the proposed date of any Borrowing that such Lender will not make available to the Administrative Agent such Lender’s share of such Borrowing, the Administrative Agent may assume that such Lender has made such share available in the applicable currency on such date in accordance with Section 2.06(a) and may, in reliance upon such assumption, make available to the Borrower a corresponding amount in the applicable currency. In such event, if a Lender has not in fact made its share of the applicable Borrowing in the applicable currency available to the Administrative Agent, then the applicable Lender and the Borrower severally agree to pay to the Administrative Agent forthwith on demand such corresponding amount in the applicable currency with interest thereon, for each day from and including the date such amount is made available to the Borrower in the applicable currency to but excluding the date of payment to the Administrative Agent, at (i) in the case of such Lender, the greater of (x) the Federal Funds Effective Rate from time to time in effect and (y) the rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation (including the Overnight Rate in the case of Loans denominated in a Foreign Currency) or (ii) in the case of the Borrower, the interest rate applicable at the time to the Loans comprising such Borrowing. If such Lender pays such amount to the Administrative Agent, then such amount shall constitute such Lender’s Loan included in such Borrowing.
-
 # SECTION 2.07. Interest Elections
 
 (a) Each Borrowing initially shall be of the Type specified in the applicable Borrowing Request and, in the case of a Term Benchmark Borrowing, shall have an initial Interest Period as specified in such Borrowing Request (or as otherwise determined pursuant to the last paragraph of Section 2.03), as applicable. Thereafter, the Borrower may elect to convert such Borrowing to a different Type or to continue such Borrowing and, in the case of a Term Benchmark Borrowing, may elect Interest Periods therefor, as applicable, in each case as provided in this Section 2.07. The Borrower may elect different options with respect to different portions of the affected Borrowing, in which case each such portion shall be allocated ratably among the Lenders holding the Loans comprising such Borrowing, and the Loans comprising each such portion shall be considered a separate Borrowing.
@@ -4293,13 +4135,11 @@ If any such Interest Election Request requests a Term Benchmark Borrowing but do
 (d) Promptly following receipt of an Interest Election Request in respect of a Loan, the Administrative Agent shall advise each Lender of the details thereof and of such Lender’s portion of each resulting Borrowing.
 
 (e) If the Borrower fails to deliver a timely Interest Election Request with respect to a Term Benchmark Borrowing prior to the end of the Interest Period applicable thereto, then at the end of such Interest Period, unless such Borrowing is repaid as provided herein, such Borrowing shall be automatically continued for an Interest Period of one month. Notwithstanding any contrary provision hereof, if an Event of Default has occurred and is continuing and the Administrative Agent, at the request
-
 # of the Required Lenders, so notifies the Borrower, then, so long as an Event of Default is continuing (i) no outstanding Borrowing may be converted to or continued as a Term Benchmark Borrowing and (ii) unless repaid, each Term Benchmark Borrowing denominated in Dollars shall be converted to an ABR Borrowing at the end of the Interest Period applicable thereto.
 
 SECTION 2.08. Termination and Reduction of Commitments.(a) Unless previously terminated, the Commitments shall terminate on the Maturity Date.(b) The Borrower may at any time terminate, or from time to time reduce, the Commitments under the Facility; provided that (i) each reduction of the Commitments shall be in an amount that is an integral multiple of $1,000,000 and not less than $10,000,000 and (ii) the Borrower shall not terminate or reduce the Commitments if, after giving effect to any concurrent prepayment of Loans in accordance with Section 2.10, (A) any Lender’s Credit Exposure would exceed its Commitment or (B) the Total Credit Exposure would exceed the total Commitments.(c) The Borrower shall notify the Administrative Agent of any election to terminate or reduce the Commitments under Section 2.08(b) at least three (3) Business Days prior to the effective date of such termination or reduction, specifying such election and the effective date thereof. Promptly following receipt of any such notice, the Administrative Agent shall advise the applicable Lenders of the contents thereof. Each notice delivered by the Borrower pursuant to this Section 2.08 shall be irrevocable; provided that a notice of termination of the Commitments delivered by the Borrower may state that such notice is conditioned upon the effectiveness of other credit facilities, in which case such notice may be revoked by the Borrower (by notice to the Administrative Agent on or prior to the specified effective date) if such condition is not satisfied. Any termination or reduction of the Commitments shall be permanent. Each reduction of the Commitments shall be made ratably among the Lenders in accordance with their respective Commitments.
 
 SECTION 2.09. Repayment of Loans; Evidence of Debt.(a) The Borrower hereby unconditionally promises to pay to the Administrative Agent for the account of each Lender the then unpaid principal amount of each Loan on the Maturity Date.(b) Each Lender shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of the Borrower to such Lender resulting from each Loan made by such Lender, including the amounts of principal and interest payable and paid to such Lender from time to time hereunder.(c) The Administrative Agent shall maintain accounts in which it shall record (i) the amount of each Loan made hereunder, the Type and currency thereof, the Facility under which such Loan was borrowed and the Interest Period applicable thereto (if applicable), (ii) the amount of any principal or interest due and payable or to become due and payable from the Borrower to each Lender hereunder and (iii) the amount of any sum received by the Administrative Agent hereunder for the account of the Lenders and each Lender’s share thereof.(d) The entries made in the accounts maintained pursuant to Sections 2.09(b) or (c) shall be prima facie evidence of the existence and amounts of the obligations recorded therein; provided that the failure of any Lender or the Administrative Agent to maintain such accounts or any error therein shall not in any manner affect the obligation of the Borrower to repay the Loans in accordance with the terms of this Agreement.(e) Any Lender may request that Loans made by it be evidenced by a promissory note. In such event, the Borrower shall prepare, execute and deliver to such Lender a promissory note payable
-
 to such Lender (or, if requested by such Lender, to such Lender and its registered assigns) substantially in the form of Exhibit G
 hereto (except as otherwise agreed by the Administrative Agent and the Borrower) (each such promissory note, a “Note”). Thereafter, the Loans evidenced by such promissory note and interest thereon shall at all times (including after assignment pursuant to Section 9.04) be represented by one or more promissory notes in such form payable to the payee named therein (or, if such promissory note is a registered note, to such payee and its registered assigns).
 
@@ -4309,7 +4149,6 @@ SECTION 2.10. Prepayment of Loans.
 SECTION 2.11. Fees.
 
 (a) The Borrower agrees to pay to the Administrative Agent for the account of each Lender a commitment fee, which shall accrue at the Applicable Rate on the daily unused amount of the Commitment of such Lender during the period from and including the Effective
-
 # Date to but excluding the date on which such Commitment terminates.
 
 Commitment fees accrued through and including the last day of March, June, September and December of each year shall be payable on the third (3rd) Business Day following such last day, commencing on the first such date to occur after the Effective Date; provided that all such fees shall be payable on the date on which the Commitments terminate. All commitment fees shall be computed on the basis of a year of 365 days (or 366 days, as the case may be) and shall be payable for the actual number of days elapsed (including the first day but excluding the last day).
@@ -4339,7 +4178,6 @@ for the Interest Period in effect for such Borrowing, plus the Applicable Rate a
 # (c) The Loans comprising each Term Benchmark Borrowing denominated in Euros shall bear interest at the Adjusted EURIBOR Rate
 
 for the Interest Period in effect for such Borrowing, plus the Applicable Rate applicable to such Loans.
-
 # (d)
 
 The Loans comprising each SONIA Borrowing shall bear interest at the Daily Simple SONIA in effect for such Borrowing, plus the Applicable Rate applicable to such Loans.
@@ -4370,7 +4208,6 @@ The Administrative Agent determines (which determination shall be conclusive and
 # (b)
 
 With respect to any Term Benchmark Loan or any request therefor or a conversion thereto or a continuation thereof, the Required Lenders determine (which determination shall be conclusive and binding absent manifest error) that deposits in the applicable Agreed Currency are not being offered to
-
 banks in the applicable offshore interbank market for the applicable Agreed Currency, amount or Interest Period of such Term Benchmark Loan, and the Required Lenders have provided notice of such determination to the Administrative Agent; or
 
 (c) the Required Lenders determine that for any reason in connection with any request for such Loan or a conversion thereto or a continuation thereof that (i) if the Adjusted Term SOFR Rate or Adjusted EURIBOR Rate is utilized in any calculations hereunder or under any other Loan Document with respect to any Obligations, interest, fees, commissions or other amounts, the Adjusted Term SOFR Rate or Adjusted EURIBOR Rate, as applicable, does not adequately and fairly reflect the cost to such Lenders of making or maintaining, continuing or converting to such Loan during the applicable Interest Period or (ii) if the Daily Simple SONIA is utilized in any calculations hereunder or under any other Loan Document with respect to any Obligations, interest, fees, commissions or other amounts, the Daily Simple SONIA does not adequately and fairly reflect the cost to such Lenders of making or maintaining, continuing or converting to such Loans, and, in the case of clauses (i) or (ii), the Required Lenders have provided notice of such determination to the Administrative Agent,
@@ -4378,7 +4215,6 @@ banks in the applicable offshore interbank market for the applicable Agreed Curr
 then, in each case, the Administrative Agent will promptly so notify the Borrower and each applicable Lender. Upon notice thereof by the Administrative Agent to the Borrower, any obligation of the Lenders to make Term Benchmark Loans or SONIA Loans, as applicable, in each such Agreed Currency, and any right of the Borrower to convert any Loan in each such Agreed Currency (if applicable) to or continue any Loan as a Term Benchmark Loans or SONIA Loan, as applicable, in each such Agreed Currency, shall be suspended (to the extent of the affected Term Benchmark Loans or SONIA Loans or, in the case of Term Benchmark Loans, the affected Interest Periods) until the Administrative Agent (with respect to clauses (b) or (c), at the instruction of the Required Lenders) revokes such notice. Upon receipt of such notice, (i) the Borrower may revoke any pending request for Term Benchmark Borrowing of, conversion to or continuation of Term Benchmark Loans, or a SONIA Borrowing of, conversion to or continuation of SONIA Loans, in each case, in the applicable Agreed Currency and, failing that, (A) in the case of any request for any affected Term Benchmark Borrowing in Dollars, if applicable, the Borrower will be deemed to have converted any such request into a request for an ABR Borrowing or conversion to ABR Loans in the amount specified therein and (B) in the case of any request for any affected Term Benchmark Borrowing or SONIA Borrowing, in each case, in a Foreign Currency, if applicable, then such request shall be ineffective and (ii)(A) any outstanding affected Term Benchmark Loans denominated in Dollars, if applicable, will be deemed to have been converted into ABR Loans immediately and (B) any outstanding affected Term Benchmark Loans or SONIA Loans, in each case, denominated in a Foreign Currency, at the Borrower’s election, shall either (I) be converted into ABR Loans denominated in Dollars (in an amount equal to the equivalent thereof in Dollars of such Foreign Currency) immediately or, in the case of Term Benchmark Loans, at the end of the applicable Interest Period or (II) be prepaid in full immediately or, in the case of Term Benchmark Loans, at the end of the applicable Interest Period; provided that, with respect to any SONIA Loan, if no election is made by the Borrower by the date that is three (3) Business Days after receipt by the Borrower of such notice, the Borrower shall be deemed to have elected clause (I) above; provided, further, that, with respect to any Term Benchmark Loan, if no election is made by the Borrower by the earlier of (x) the date that is three (3) Business Days after receipt by the Borrower of such notice and (y) the last day of the current Interest Period for the applicable Term Benchmark Loan, the Borrower shall be deemed to have elected clause (I) above. Upon any such prepayment or conversion, the Borrower shall also pay accrued interest on the amount so prepaid or converted, together with any additional amounts required pursuant to Section 2.15.
 
 SECTION 2.14. Increased Costs. (a) If any Governmental Authority shall have in effect at any time during the term of this Agreement any reserve, liquid asset or similar requirement with respect to any category of deposits or liabilities customarily used to fund Term Benchmark Loans or SONIA Loans, as applicable, or by reference to which interest rates applicable to Term Benchmark Loans or
-
 (a) If the cost to any Lender of making or maintaining, continuing or converting to any Term Benchmark Loans or SONIA Loans increases due to certain requirements, the Borrower will compensate the Lender for such additional costs.
 
 (b) If any Change in Law results in:
@@ -4390,7 +4226,6 @@ SECTION 2.14. Increased Costs. (a) If any Governmental Authority shall have in e
 and increases the cost to the Lender, the Borrower will pay additional amounts to compensate the Lender for the increased costs.
 
 (c) If a Change in Law regarding capital or liquidity requirements reduces the rate of return on a Lender's or Issuing Bank's capital below a certain level, the Borrower will pay additional amounts to compensate for the reduction in return.
-
 # (d)
 
 A certificate of a Lender or Issuing Bank setting forth the amount or amounts necessary to compensate such Lender or Issuing Bank or its holding company, as the case may be, as specified in Sections 2.14(a), (b) or (c) shall be delivered to the Borrower and shall be conclusive and binding on all parties hereto absent manifest error. The Borrower shall pay such Lender or Issuing Bank, as the case may be, the amount shown as due on any such certificate within ten (10) Business Days after receipt thereof.
@@ -4406,7 +4241,6 @@ In the event of (a) the payment of any principal of any Term Benchmark Loan othe
 # SECTION 2.16. Taxes.
 
 (a) Any and all payments by or on account of any obligation of the Borrower hereunder shall be made free and clear of and without deduction or withholding for any Taxes; provided that, if any Withholding Agent determines, in its sole discretion exercised in good faith, that it is so required to deduct or withhold Taxes, then (i) such Withholding Agent shall so deduct and withhold and shall pay the full amount of deducted or withheld Taxes to the relevant Governmental Authority in accordance with applicable law and (ii) if such Taxes are Indemnified Taxes or Other Taxes, the sum payable shall be increased as necessary so that after making all required deductions and withholdings (including such deduction or withholding applicable to additional sums payable under this
-
 Section 2.16) the Administrative Agent or each Lender (as the case may be) receives an amount equal to the sum it would have received had no such deduction or withholding been made.
 
 (b) The Borrower shall pay to the relevant Governmental Authority in accordance with applicable law, or at the option of the Administrative Agent timely reimburse it for, Other Taxes.
@@ -4418,7 +4252,6 @@ Section 2.16) the Administrative Agent or each Lender (as the case may be) recei
 (e) As soon as practicable after any payment of Taxes by the Borrower to a Governmental Authority pursuant to this Section 2.16, the Borrower shall deliver to the Administrative Agent the original or a certified copy of a receipt issued by such Governmental Authority evidencing such payment, a copy of the return reporting such payment or other evidence of such payment reasonably satisfactory to the Administrative Agent.
 
 (f) The Administrative Agent, each Lender and all recipients of payments to be made by or on account of any obligation of the Borrower hereunder that are entitled to an exemption from or reduction of withholding or backup withholding Tax with respect to any payments under this Agreement shall deliver to the Borrower and the Administrative Agent, on or prior to the Effective Date (or, as applicable, the date on which such Lender becomes a Lender under this Agreement) and from time to time thereafter upon the reasonable request of the Borrower or the Administrative Agent or as otherwise prescribed by applicable law, such valid, properly completed and duly executed forms, certificates, and documentation (including, as applicable, the applicable U.S. Tax Compliance Certificate, IRS Form W-8ECI, W-8BEN, W-8BEN-E, W-8IMY, or IRS Form W-9) prescribed by applicable law or reasonably requested by the Borrower or the Administrative Agent as will permit such payments to be made without or at a reduced rate of withholding. Any Lender, if reasonably requested by the Borrower or the Administrative Agent, shall deliver such other documentation prescribed by applicable law or reasonably
-
 requested by the Borrower or the Administrative Agent as will enable the Borrower or the Administrative Agent to determine whether or not such Lender is subject to information reporting requirements. In addition, if a payment made to a Lender under this Agreement would be subject to U.S. federal withholding Tax imposed by FATCA if such Lender were to fail to comply with the applicable reporting requirements of FATCA (including those contained in Section 1471(b) or 1472(b) of the Code, as applicable), such Lender shall deliver to the Borrower and the Administrative Agent, at the time or times prescribed by law and at such time or times reasonably requested by the Borrower or the Administrative Agent, such documentation prescribed by applicable law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) and such additional documentation reasonably requested by the Borrower or the Administrative Agent as may be necessary for the Borrower or the Administrative Agent to comply with its obligations under FATCA, to determine that such Lender has complied with such Lender’s obligations under FATCA or to determine the amount to deduct and withhold from such payment. Each Lender, the Administrative Agent and each recipient of payment agrees that if any form or certification it previously delivered expires or becomes obsolete or inaccurate in any respect (including, for the avoidance of doubt, if the form is inaccurate because its payee status changes from beneficial owner to intermediary or vice versa), it shall update such form or certification or promptly notify the Borrower and the Administrative Agent in writing of its legal inability to do so. Solely for purposes of this Section 2.16(f), “FATCA” shall include any amendments made to FATCA after the date of this Agreement.
 
 (g) If the Borrower determines in good faith that a reasonable basis exists for contesting any Indemnified Tax or Other Tax, the Administrative Agent and the relevant Lender, as applicable, shall reasonably cooperate with the Borrower in the Borrower’s challenging such Tax at the Borrower’s expense if requested by the Borrower (it being understood and agreed that none of the Administrative Agent or any of the Lenders shall have any obligation to contest, or any responsibility for contesting, any such Tax). If the Administrative Agent or a Lender determines, in its sole discretion exercised in good faith, that it has received a refund of any Indemnified Taxes or Other Taxes as to which it has been indemnified by the Borrower or with respect to which the Borrower has paid additional amounts pursuant to this Section 2.16, it shall pay over such refund to the Borrower (but only to the extent of indemnity payments made, or additional amounts paid, by the Borrower under this Section 2.16 with respect to the Indemnified Taxes or Other Taxes giving rise to such refund), net of all reasonable and documented out-of-pocket expenses of the Administrative Agent or such Lender and without interest (other than any interest paid by the relevant Governmental Authority with respect to such refund); provided that the Borrower, upon the request of the Administrative Agent or such Lender, agrees to repay the amount paid over to the Borrower (plus any penalties, interest or other charges imposed by the relevant Governmental Authority) to the Administrative Agent or such Lender in the event the Administrative Agent or such Lender is required to repay such refund to such Governmental Authority. Notwithstanding anything to the contrary in this paragraph (g), in no event will the indemnified party be required to pay any amount to an indemnifying party pursuant to this paragraph (g) the payment of which would place the indemnified party in a less favorable net after-Tax position than the indemnified party would have been in if the Tax subject to indemnification and giving rise to such refund had not been deducted, withheld or otherwise imposed and the indemnification payments or additional amounts with respect to such Tax had never been paid. This Section 2.16 shall not be construed to require the Administrative Agent or any Lender to make available its tax returns (or any other information relating to its taxes which it deems confidential) to the Borrower or any other Person.
@@ -4426,7 +4259,6 @@ requested by the Borrower or the Administrative Agent as will enable the Borrowe
 (h) Each party’s obligations under this Section 2.16 shall survive the resignation or replacement of the Administrative Agent or any assignment of rights by, or the replacement of, a Lender, the termination of the Commitments and the repayment, satisfaction or discharge of all obligations hereunder.
 
 (i) For purposes of this Section 2.16, the term “Lender” includes any Issuing Bank.
-
 # SECTION 2.17. Payments Generally; Pro Rata Treatment; Sharing of Setoffs.
 
 (a) The Borrower shall make each payment required to be made by it hereunder (whether of principal, interest or fees or reimbursements of LC Disbursements, or of amounts payable under Sections 2.14, 2.15 or 2.16, or otherwise) prior to 2:00 p.m., New York City time, in respect of payments of principal or interest relating to Borrowings, or in respect of any fees payable under this Agreement on the date when due, in immediately available funds, without setoff or counterclaim. Any amounts received after such time on any date may, in the discretion of the Administrative Agent, be deemed to have been received on the next succeeding Business Day for purposes of calculating interest thereon. All such payments shall be made to the Administrative Agent at its offices at the Funding Office, in respect of payments of principal or interest relating to Borrowings, or in respect of payments of any fees under this Agreement, or such other office as may be designated by the Administrative Agent by written notice to the Borrower and the Lenders, except payments to be made directly to an Issuing Bank as expressly provided herein and except that payments pursuant to Sections 2.14, 2.15, 2.16 and 9.03 shall be made directly to the Persons entitled thereto. The Administrative Agent shall distribute any such payments received by it to each Lender according to its ratable share (or other applicable share as provided herein) of such payments (or otherwise distribute such payments for the account of any other Person to the appropriate recipient) promptly following receipt thereof. If any payment hereunder shall be due on a day that is not a Business Day, the date for payment shall be extended to the next succeeding Business Day (unless, in the case of a payment of interest on a Term Benchmark Loan, as applicable, such next succeeding Business Day would fall in the next calendar month, in which case such payment shall be due on the next preceding Business Day), and, in the case of any payment accruing interest, interest thereon shall be payable for the period of such extension. All payments hereunder shall be made in Dollars; provided that any payment of principal or interest of an ABR Loan, Term Benchmark Loan, or SONIA Loan, as applicable, shall be made in the currency in which the Loan is denominated.
@@ -4434,7 +4266,6 @@ requested by the Borrower or the Administrative Agent as will enable the Borrowe
 (b) At any time that payments are not required to be applied in the manner required by Section 7.02, if at any time insufficient funds are received by and available to the Administrative Agent to pay fully all amounts of principal, unreimbursed LC Disbursements, interest and fees then due hereunder, such funds shall be applied (i) first, towards payment of interest and fees then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of interest and fees then due to such parties and (ii) second, towards payment of principal and unreimbursed LC Disbursements then due hereunder, ratably among the parties entitled thereto in accordance with the amounts of principal and unreimbursed LC Disbursements then due to such parties
 
 (c) If any Lender shall, by exercising any right of setoff or counterclaim or otherwise, obtain payment in respect of any principal of or interest on any of its Loans or participations in LC Disbursements resulting in such Lender under the Facility receiving payment of a greater proportion of the aggregate amount of its Loans and participations in LC Disbursements and accrued interest thereon than the proportion received by any other Lender under the Facility, then the Lender receiving such greater proportion shall purchase (for cash at face value) participations in the Loans and participations in LC Disbursements of other Lenders under the Facility to the extent necessary so that the benefit of all such payments shall be shared by the Lenders ratably in accordance with the aggregate amount of principal of and accrued interest on their respective Loans and participations in LC Disbursements; provided that (i) if any such participations are purchased and all or any portion of the payment giving rise thereto is recovered, such participations shall be rescinded and the purchase price restored to the extent of such recovery, without interest and (ii) the provisions of this paragraph (c) shall not be construed to apply to any payment made by the Borrower pursuant to and in accordance with the express terms of this Agreement or any payment obtained by a Lender as consideration for the assignment of or sale of a participation in any of its Loans or participations in LC Disbursements to any assignee or participant, other than to the Borrower or any Subsidiary or Affiliate thereof (as to which the provisions of this paragraph (c) shall apply). The Borrower consents to the foregoing and agrees, to the extent it may
-
 effectively do so under applicable law, that any Lender acquiring a participation pursuant to the foregoing arrangements may exercise against the Borrower rights of setoff and counterclaim with respect to such participation as fully as if such Lender were a direct creditor of the Borrower in the amount of such participation.
 
 (d) Unless the Administrative Agent shall have received notice from the Borrower prior to the date on which any payment is due to the Administrative Agent for the account of the Lenders or the Issuing Banks hereunder that the Borrower will not make such payment, the Administrative Agent may assume that the Borrower has made such payment on such date in accordance herewith and may, in reliance upon such assumption, distribute to the Lenders or the Issuing Banks, as the case may be, the amount due. In such event, if the Borrower has not in fact made such payment, then each of the Lenders or the Issuing Banks, as the case may be, severally agrees to repay to the Administrative Agent forthwith on demand the amount so distributed to such Lender or Issuing Bank with interest thereon, for each day from and including the date such amount is distributed to it to but excluding the date of payment to the Administrative Agent, at the greater of (a) the applicable Federal Funds Effective Rate from time to time in effect and (b) a rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation (including the Overnight Rate in the case of Loans denominated in Foreign Currency other than Dollars).
@@ -4452,7 +4283,6 @@ effectively do so under applicable law, that any Lender acquiring a participatio
 # SECTION 2.19. Mitigation Obligations; Replacement of Lenders.
 
 (a) If any Lender requests compensation under Section 2.14, or if the Borrower is required to pay any Indemnified Taxes,
-
 # Other Taxes or additional amount to any Lender or any Governmental Authority for the account of any Lender pursuant to Section 2.16
 
 then such Lender shall use reasonable efforts to designate a different lending office for funding or booking its Loans hereunder or to assign its rights and obligations hereunder to another of its offices, branches or affiliates, if, in the judgment of such Lender, such designation or assignment (i) would eliminate or reduce amounts payable pursuant to Section 2.14 or 2.16, as the case may be, in the future and (ii) would not subject such Lender to any unreimbursed cost or expense and would not otherwise be disadvantageous to such Lender. The Borrower hereby agrees to pay all reasonable and documented costs and expenses incurred by any Lender in connection with any such designation or assignment. Each Lender will notify the Borrower promptly upon its determination that an event that is reasonably likely to result in the Borrower being required to pay any additional amount pursuant to Sections 2.14 or 2.16 has occurred, but failure of any Lender to provide such notice shall not affect such Lender’s rights or the Borrower’s obligations under such Sections 2.14 and 2.16.
@@ -4470,7 +4300,6 @@ then such Non-Funding Lender shall use reasonable best efforts to find a replace
 Notwithstanding any provision of this Agreement to the contrary, if any Lender becomes a Defaulting Lender hereunder, then the following provisions shall apply for so long as such Defaulting Lender is a Defaulting Lender:
 
 # (a) commitment fees shall cease to accrue on the unused Commitments of such Defaulting Lender pursuant to Section 2.11;
-
 (b) the Commitment and Credit Exposure of such Defaulting Lender shall be disregarded for purposes of any determination of whether the Required Lenders have taken or may take any action hereunder (including any consent to any amendment or waiver pursuant to Section 9.02); provided that this clause (b) shall not apply in the case of any waiver, amendment or modification requiring the consent of all Lenders or each Lender affected thereby;
 
 (c) any amount payable to such Defaulting Lender hereunder (whether on account of principal, interest, fees or otherwise and including any amount that would otherwise be payable to such Defaulting Lender) shall, in lieu of being distributed to such Defaulting Lender, be applied in the following order of priority: (i) to the payment of any amounts owing by such Defaulting Lender to the Administrative Agent, (ii) to the payment on a pro rata basis of any amounts owing by such Defaulting Lender to any Issuing Bank hereunder, (iii) to cash collateralize the Issuing Banks’ LC Exposure with respect to such Defaulting Lender in accordance with this Section 2.20, (iv) to the funding of any Loan in respect of which such Defaulting Lender has failed to fund its portion thereof as required by this Agreement, (v) if so determined by the Administrative Agent and the Borrower, to be held in a deposit account and released pro rata in order to (x) satisfy such Defaulting Lender’s potential future funding obligations with respect to Loans under this Agreement and (y) cash collateralize the Issuing Banks’ future LC Exposure with respect to such Defaulting Lender with respect to future Letters of Credit issued under this Agreement, in accordance with this Section 2.20, (vi) to the payment of any amounts owing to the Lenders or the Issuing Banks as a result of any judgment of a court of competent jurisdiction obtained by any Lender or Issuing Bank against such Defaulting Lender as a result of such Defaulting Lenders’ breach of its obligations under this Agreement, (vii) so long as no Default or Event of Default exists, to the payment of any amounts owing to the Borrower as a result of any judgment of a court of competent jurisdiction obtained by the Borrower against such Defaulting Lender as a result of such Defaulting Lender’s breach of its obligations under this Agreement, and any amounts remaining after application thereof by the Administrative Agent as specified in this paragraph (c) shall be distributed to such Defaulting Lender or as otherwise directed by a court of competent jurisdiction; provided that, if (x) such payment is a payment of the principal amount of any Loans or LC Disbursements in respect of which such Defaulting Lender has not fully funded its appropriate share and (y) such Loans were made or the related Letters of Credit were issued at a time when the conditions set forth in Article IV were satisfied or waived, such payment shall be applied solely to pay the Loans of, and LC Disbursements owed to, all non-Defaulting Lenders on a pro rata basis prior to being applied to the payment of any Loans of, or LC Disbursements owed to, such Defaulting Lender until such time as all Loans and funded and unfunded participations in the Borrower’s obligations corresponding to such Defaulting Lender’s LC Exposure are held by the Lenders pro rata in accordance with the Commitments without giving effect to clause (d) below. Any payments, prepayments or other amounts paid or payable to a Defaulting Lender that are applied (or held) to pay amounts owed by a Defaulting Lender pursuant to this Section 2.20(c) shall be deemed paid to and redirected by such Defaulting Lender, and each Lender irrevocably consents hereto.
@@ -4478,7 +4307,6 @@ Notwithstanding any provision of this Agreement to the contrary, if any Lender b
 (d) if any LC Exposure exists at the time such Lender becomes a Defaulting Lender then:
 
 - (i) all or any part of the LC Exposure of such Defaulting Lender shall be reallocated among the non-Defaulting Lenders in accordance with their respective Applicable Percentages but only to the extent that such reallocation does not, as to any non-Defaulting Lender, cause such non-Defaulting Lender’s Credit Exposure to exceed its Commitment;
-
 (ii) if the reallocation described in clause (i) above cannot, or can only partially, be effected, the Borrower shall within one (1) Business Day following notice by the Administrative Agent cash collateralize for the benefit of the Issuing Banks only the Borrower’s obligations corresponding to such Defaulting Lender’s LC Exposure (after giving effect to any partial reallocation pursuant to clause (i) above) in accordance with the procedures set forth in Section 2.04(j) for so long as such LC Exposure is outstanding;
 
 (iii) if the Borrower cash collateralizes any portion of such Defaulting Lender’s LC Exposure pursuant to clause (ii) above, the Borrower shall not be required to pay any fees to such Defaulting Lender pursuant to Section 2.11(b) with respect to such Defaulting Lender’s LC Exposure during the period such Defaulting Lender’s LC Exposure is cash collateralized;
@@ -4492,7 +4320,6 @@ Notwithstanding any provision of this Agreement to the contrary, if any Lender b
 (f) the Borrower may, upon notice to a Defaulting Lender and the Administrative Agent (which shall promptly notify the Lenders thereof), terminate the Commitments of such Defaulting Lender and in such event the provisions of Section 2.20(c) will apply to all amounts thereafter paid by the Borrower for the account of such Defaulting Lender under this Agreement (whether on account of principal, interest, fees, indemnity or other amounts); provided that (i) the Borrower may not terminate such Commitments if (A) an Event of Default has occurred or is continuing or (B) after giving effect to such termination, as applicable, (x) the Total Credit Exposure would exceed the total Commitments or (y) the total Loans would exceed the total Commitments and (ii) such termination shall not be deemed to be a waiver or release of any claim the Borrower, the Administrative Agent or any Lender may have against such Defaulting Lender.
 
 (g) In the event that the Administrative Agent, each Issuing Bank and the Borrower agree that a Defaulting Lender has adequately remedied all matters that caused such Lender to be a Defaulting Lender, then, with the consent of the Borrower, the LC Exposure of the Lenders shall be readjusted to reflect the inclusion of such Lender’s Commitment and on such date such Lender shall purchase at par such of the Loans of the other Lenders or take such other actions as the Administrative Agent shall determine to be necessary in order for such Lender to hold such Loans in accordance with its Applicable Percentage whereupon such Lender will cease to be a Defaulting Lender; provided that no
-
 adjustments will be made retroactively with respect to fees accrued or payments made by or on behalf of the Borrower while that Lender was a Defaulting Lender; and provided, further, that except to the extent otherwise expressly agreed by the affected parties, no change hereunder from Defaulting Lender to Lender will constitute a waiver or release of any claim of any party hereunder arising from that Lender’s having been a Defaulting Lender.
 
 The rights and remedies against a Defaulting Lender under this Section 2.20 are in addition to other rights and remedies that the Borrower may have against such Defaulting Lender.
@@ -4511,13 +4338,11 @@ The rights and remedies against a Defaulting Lender under this Section 2.20 are 
 (d) Unavailability of Tenor of Benchmark. Notwithstanding anything to the contrary herein or in any other Loan Document, at any time (including in connection with the implementation of a Benchmark Replacement), (i) if any then-current Benchmark is a term rate (including Term SOFR or EURIBOR) and
 
 62
-
 either (A) any tenor for such Benchmark is not displayed on a screen or other information service that publishes such rate from time to time as selected by the Administrative Agent in its reasonable discretion or (B) the regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information announcing that any tenor for such Benchmark is not or will not be representative, then the Administrative Agent may modify the definition of “Interest Period” (or any similar or analogous definition) for any Benchmark settings at or after such time to remove such unavailable or non-representative tenor and (ii) if a tenor that was removed pursuant to clause (i) above either (A) is subsequently displayed on a screen or information service for a Benchmark (including a Benchmark Replacement) or (B) is not, or is no longer, subject to an announcement that it is not or will not be representative for a Benchmark (including a Benchmark Replacement), then the Administrative Agent may modify the definition of “Interest Period” (or any similar or analogous definition) for all Benchmark settings at or after such time to reinstate such previously removed tenor.
 
 (e) Benchmark Unavailability Period. Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period with respect to a given Benchmark, (i) the Borrower may revoke any pending request for Term Benchmark Borrowing of, conversion to or continuation of Term Benchmark Loans, or a SONIA Borrowing of, conversion to or continuation of SONIA Loans, in each case, to be made, converted or continued during any Benchmark Unavailability Period denominated in the applicable Agreed Currency and, failing that, (A) in the case of any request for any affected Term Benchmark Borrowing in Dollars, if applicable, the Borrower will be deemed to have converted any such request into a request for an ABR Borrowing or conversion to ABR Loans in the amount specified therein and (B) in the case of any request for any affected Term Benchmark Borrowing or SONIA Borrower, in each case, in a Foreign Currency, if applicable, then such request shall be ineffective and (ii)(A) any outstanding affected Term Benchmark Loans denominated in Dollars, if applicable, will be deemed to have been converted into ABR Loans immediately and (B) any outstanding affected Term Benchmark Loans or SONIA Loans, in each case, denominated in a Foreign Currency, at the Borrower’s election, shall either (I) be converted into ABR Loans denominated in Dollars (in an amount equal to the equivalent thereof in Dollars of such Foreign Currency) immediately or, in the case of Term Benchmark Loans, at the end of the applicable Interest Period or (II) be prepaid in full immediately or, in the case of Term Benchmark Loans, at the end of the applicable Interest Period; provided that with respect to any SONIA Loan, if no election is made by the Borrower by the date that is three (3) Business Days after receipt by the Borrower of such notice, the Borrower shall be deemed to have elected clause (I) above; provided, further that, with respect to any Term Benchmark Loan, if no election is made by the Borrower by the earlier of (x) the date that is three (3) Business Days after receipt by the Borrower of such notice and (y) the last day of the current Interest Period for the applicable Term Benchmark Loan, the Borrower shall be deemed to have elected clause (I) above. Upon any such prepayment or conversion, the Borrower shall also pay accrued interest on the amount so prepaid or converted, together with any additional amounts required pursuant to Section 2.15. During a Benchmark Unavailability Period with respect to any Benchmark or at any time that a tenor for any then-current Benchmark is not an Available Tenor, the component of ABR based upon the then-current Benchmark that is the subject of such Benchmark Unavailability Period or such tenor for such Benchmark, as applicable, will not be used in any determination of ABR.
 
 SECTION 2.22. Illegality. If any Lender determines that any law has made it unlawful, or that any Governmental Authority has asserted that it is unlawful, for any Lender or its applicable lending office to make, maintain or fund Loans whose interest is determined by reference to SONIA, Daily Simple SONIA, the EURIBOR Rate, the Adjusted EURIBOR Rate, the Term SOFR or the Adjusted Term SOFR Rate, or to determine or charge interest based upon SONIA, Daily Simple SONIA, the EURIBOR Rate, the Adjusted EURIBOR Rate, Term SOFR or the Adjusted Term SOFR Rate, or, with respect to any Term Benchmark Loan, any Governmental Authority has imposed material restrictions on the authority of such Lender to purchase or sell, or to take deposits of, any applicable
-
 Agreed Currency in the applicable offshore interbank market for the applicable Agreed Currency, then, upon notice thereof by such Lender to the Borrower (through the Administrative Agent) (an “Illegality Notice”), (a) any obligation of such Lender, having delivered an Illegality Notice to the Borrower, to make SONIA Loans or Term Benchmark Loans, as applicable, shall be suspended, and any such Loan shall be made as an ABR Loan denominated in Dollars (in an amount equal to the Dollar Amount of such Foreign Currency) and (b) if necessary to avoid such illegality, the Administrative Agent shall compute the ABR without reference to clause (c) of the definition of “Alternate Base Rate”, in each case until such affected Lender notifies the Administrative Agent and the Borrower that the circumstances giving rise to such determination no longer exist. Upon receipt of an Illegality Notice, the Borrower shall, if necessary to avoid such illegality, upon demand from such affected Lender (with a copy to the Administrative Agent), prepay or, if applicable, (i) convert all Term Benchmark Loans of such Lender denominated in Dollars to ABR Loans or (ii) convert all SONIA Loans or Term Benchmark Loans of such Lender denominated in an affected Foreign Currency to ABR Loans denominated in Dollars (in an amount equal to the Dollar Amount of such Foreign Currency) (in each case, if necessary to avoid such illegality, the Administrative Agent shall compute the ABR without reference to clause (c) of the definition of “Alternate Base Rate”), (A) with respect to Term Benchmark Loans, on the Interest Payment Date therefor, if all affected Lenders may lawfully continue to maintain such Term Benchmark Loans to such day, or immediately, if any Lender may not lawfully continue to maintain such Term Benchmark Loans to such day or (B) with respect to SONIA Loans, immediately. Upon any such prepayment or conversion, the Borrower shall also pay accrued interest on the amount so prepaid or converted, together with any additional amounts required pursuant to Section 2.15.
 
 Article III
@@ -4525,7 +4350,6 @@ Article III
 Representations and Warranties
 
 The Borrower represents and warrants to the Lenders as of the Effective Date and thereafter as of each date required by Section 4.02 that:SECTION 3.01. Organization; Powers. Each of the Borrower and its Restricted Subsidiaries is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization or formation, has all requisite power and authority to carry on its business as now conducted and is qualified to do business in, and is in good standing in, every jurisdiction where such qualification is required, except, in each case, where the failure to be so qualified and/or in good standing, individually or in the aggregate, would not reasonably be expected to result in a Material Adverse Effect.SECTION 3.02. Authorization; Enforceability. The Transactions are within each Loan Party’s corporate powers and have been duly authorized by all necessary corporate and, if required, stockholder action. This Agreement has been duly executed and delivered by the Borrower and constitutes a legal, valid and binding obligation of the Borrower, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.SECTION 3.03. Governmental Approvals; No Conflicts. The Transactions (a) do not require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority, except such as have been obtained or made and are in full force and effect, and except where such failure to obtain or make such consent, approval, registration, filing or other action would not reasonably be expected to have a Material Adverse Effect, (b) will not violate any applicable material law or material regulation or any material order of any Governmental Authority, (c) will not violate the charter, by-laws or equivalent organizational documents of the Borrower or any of its Restricted
-
 # Subsidiaries that is a Significant Subsidiary
 
 (d) will not violate or result in a default under any indenture, agreement or other instrument binding upon the Borrower or any of its Restricted Subsidiaries or its assets, or give rise to a right thereunder to require any payment to be made by the Borrower or any of its Restricted Subsidiaries, except where any such violations or defaults would not, individually or in the aggregate, reasonably be expected to result in a Material Adverse Effect and (e) will not result in the creation or imposition of any Lien on any asset of the Borrower or any of its Restricted Subsidiaries that is a Significant Subsidiary.
@@ -4547,7 +4371,6 @@ The Borrower represents and warrants to the Lenders as of the Effective Date and
 # SECTION 3.06. Compliance with Laws and Agreements
 
 Each of the Borrower and its Restricted Subsidiaries is in compliance with all laws, regulations and orders of any Governmental Authority applicable to it or its property and all indentures, agreements and other instruments binding
-
 # upon it or its property, except (a) in such instances where any alleged non-compliance is being contested in good faith by appropriate proceedings diligently conducted or (b) where the failure to do so, individually or in the aggregate, would not reasonably be expected to result in a Material Adverse Effect. No Default has occurred and is continuing.
 
 # SECTION 3.07. Investment Company Status.
@@ -4575,7 +4398,6 @@ No part of the proceeds of any Loans, and no other extensions of credit hereunde
 # SECTION 3.12. Use of Proceeds.
 
 The proceeds of the Loans and Letters of Credit shall be used for general corporate purposes or for any other purpose not prohibited by this Agreement; provided that the Borrower and its Restricted Subsidiaries shall not use, loan, contribute, or otherwise make such proceeds available, directly or knowingly indirectly, (i) in furtherance of an offer, payment, promise to pay or authorization of the payment or giving of money, or anything else of value, to any
-
 # Person in violation of any Anti-Corruption Laws
 
 (i) for the purpose of funding, financing or facilitating any activities, business or transaction of or with any Sanctioned Person, or in any Sanctioned Country, in each case, to the extent prohibited for a Person required to comply with Sanctions or (ii) in any other manner that would cause any party to this Agreement to be in violation of any Anti-Corruption Laws, any Anti-Money Laundering Laws or Sanctions.
@@ -4601,7 +4423,6 @@ The Borrower is not an Affected Financial Institution.
 # SECTION 3.16. Plan Assets; Prohibited Transactions
 
 The Borrower is not an entity deemed to hold “plan assets” (within the meaning of the Plan Asset Regulations). Neither the execution, delivery or performance of the transactions contemplated under this Agreement, including the making of any Loan hereunder, will give rise to a non-exempt prohibited transaction under Section 406 of ERISA or
-
 # Section 4975 of the Code
 
 Assuming no portion of the Loan is or will be funded (initially or through participation, assignment, transfer or securitization) with plan assets of any Benefit Plan.
@@ -4631,7 +4452,6 @@ The obligations of the Lenders to make Loans and of the Issuing Banks to issue L
 
 1. The Administrative Agent (or its counsel) shall have received from each party hereto either (i) a counterpart of this Agreement signed on behalf of such party or (ii) written evidence satisfactory to the Administrative Agent (which may include any Electronic Signatures transmitted by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page of this Agreement) that such party has signed a counterpart of this Agreement.
 2. The Administrative Agent shall have received customary favorable written opinions (addressed to the Administrative Agent and the Lenders and dated the Effective Date) of Skadden, Arps, Slate, Meagher & Flom LLP, counsel for the Loan Parties. The Borrower hereby requests such counsel to deliver such opinions.
-
 (c) The Administrative Agent shall have received such documents and certificates as the Administrative Agent or its counsel may reasonably request relating to the organization, existence and good standing of the Loan Parties, the authorization of the Transactions and any other legal matters relating to the Loan Parties, this Agreement or the Transactions, all in form and substance reasonably satisfactory to the Administrative Agent and its counsel.
 
 (d) The Administrative Agent shall have received a certificate, dated the Effective Date and signed by an Authorized Officer of the Borrower, certifying that, on and as of the Effective Date, (i) the representations and warranties contained in Article III and in each other Loan Document are true and correct in all material respects on and as of the Effective Date, except to the extent such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects as of such earlier date, (ii) no Default or Event of Default exists, or would result from the Transactions or from the application of the proceeds thereof and (iii) compliance with Section 6.01 hereof.
@@ -4645,7 +4465,6 @@ The obligations of the Lenders to make Loans and of the Issuing Banks to issue L
 (h) The Administrative Agent shall have received the audited consolidated financial statements and unaudited interim financial statements of the Borrower for the three most recent fiscal years and the most recent interim period, as applicable, ended prior to the Effective Date as to which such financial statements are available, in each case, which will be deemed delivered to the Administrative Agent when filed by the Borrower with the SEC on Form 10-K or Form 10-Q, as applicable.
 
 The Administrative Agent shall notify the Borrower and the Lenders of the Effective Date, and such notice shall be conclusive and binding. Notwithstanding the foregoing, the obligations of the Lenders to make Loans and of the Issuing Banks to issue Letters of Credit hereunder shall not become effective unless each of the foregoing conditions is satisfied (or waived pursuant to Section 9.02) at or prior to 3:00
-
 # p.m., New York City time, on March 31, 2023 (and in the event such conditions are not so satisfied or waived, the Commitments shall terminate at such time). For purposes of determining compliance with the conditions specified in this Section 4.01, each of the Lenders and Issuing Banks party hereto as of the Effective Date shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required hereunder to be consented to or approved by or acceptable or satisfactory to such party unless the Administrative Agent shall have received written notice from such party prior to the Effective Date specifying its objection thereto.
 
 # SECTION 4.02. Each Credit Event. The obligation of each Lender to make a Loan under the Facility on the occasion of any Borrowing (other than any conversion to or continuation of any Loan), and of each Issuing Bank to issue, amend to increase the amount thereof, renew or extend any Letter of Credit, is subject to the satisfaction of the following conditions:
@@ -4669,7 +4488,6 @@ Until the Commitments have expired or been terminated and the principal of and i
 The Borrower will furnish to the Administrative Agent:
 
 (a) within ninety (90) days after the end of each fiscal year of the Borrower, its audited consolidated balance sheet and related statements of operations, stockholders’ equity and cash flows as of the end of and for such year, setting forth in each case in comparative form the figures for the previous fiscal year, all reported on by PricewaterhouseCoopers LLP or other independent public accountants of recognized national standing (without a “going concern” or like qualification or exception and without any qualification or exception as to the scope of such audit) to the effect that such consolidated financial statements present fairly in all material respects the financial condition and results of operations of the Borrower and its Consolidated Subsidiaries on a consolidated basis in accordance with GAAP;
-
 # (b)
 
 within sixty (60) days after the end of each of the first three fiscal quarters of each fiscal year of the Borrower, its consolidated balance sheet and related statements of operations and stockholders’ equity as of the end of and for such fiscal quarter and the then elapsed portion of the fiscal year, setting forth in each case in comparative form the figures for the corresponding period or periods of (or, in the case of the balance sheet, as of the end of) the previous fiscal year, all certified by one of its Authorized Officers as presenting fairly in all material respects the financial condition and results of operations of the Borrower and its Consolidated Subsidiaries on a consolidated basis in accordance with GAAP, subject to normal year-end audit adjustments and the absence of footnotes;
@@ -4687,7 +4505,6 @@ Subject to the next succeeding sentence, information delivered pursuant to this 
 # SECTION 5.02. Notices of Material Events.
 
 The Borrower will furnish to the Administrative Agent prompt written notice of the following, upon becoming aware of such event:
-
 # (a) the occurrence of any Default;
 
 (b) the occurrence of any event, development or circumstance that has had or would reasonably be expected to, individually or in the aggregate, have a Material Adverse Effect;
@@ -4713,7 +4530,6 @@ The Borrower will, and will cause each of its Restricted Subsidiaries to, (a) ke
 # SECTION 5.06. Books and Records; Inspection Rights.
 
 The Borrower will, and will cause each of its Restricted Subsidiaries to, keep proper books of record and account sufficient to permit the preparation of consolidated financial statements in accordance with GAAP. The Borrower will, and will cause each of its Restricted Subsidiaries to, permit any representatives reasonably acceptable to the Borrower designated by the Administrative Agent or any Lender, upon reasonable prior notice, at their
-
 # own expense (unless a Default has occurred and is continuing) to visit and inspect its properties during normal business hours, to
 examine and make extracts from its books and records, and to discuss its affairs, finances and condition with its officers and
 independent accountants, all at such reasonable times not to exceed, for all such designated representatives collectively, one time
@@ -4756,7 +4572,6 @@ accordance with GAAP) then, within ninety (90) days after the end of any such fi
 fiscal quarter of the Borrower, within one hundred and twenty (120) days thereafter) (as either such date may be extended by the
 Administrative Agent in its reasonable discretion)), the Borrower shall cause one or more Immaterial Subsidiaries to take the
 actions specified in
-
 # Section 5.09
 
 (a)(i) and (ii) above; provided, however, such actions shall only be required to the extent that, after giving effect to such actions, the aggregate consolidated total assets (excluding intercompany assets) of all Immaterial Subsidiaries do not exceed 12.5% of Consolidated Total Assets and the aggregate consolidated total revenues of all Immaterial Subsidiaries do not exceed 12.5% of consolidated total revenues of the Borrower and its Consolidated Subsidiaries (as set forth in the most recent income statement of the Borrower and its Consolidated Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP).
@@ -4768,7 +4583,6 @@ actions specified in
 - (i) promptly and in any event within fifteen (15) days after receiving a request from the Administrative Agent a copy of the most recent IRS Form 5500 (including the Schedule B) with respect to a Plan;
 - (ii) promptly and in any event within thirty (30) days after any Responsible Officer of the Borrower knows that any ERISA Event has occurred that, either individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, a certificate of an Authorized Officer of the Borrower describing such ERISA Event and the action, if any, proposed to be taken with respect to such ERISA Event and a copy of any notice filed with the PBGC or the IRS pertaining to such ERISA Event and any notices received by any Loan Party, any Subsidiary of the Borrower or, to the Borrower’s knowledge, any ERISA Affiliate from the PBGC or any other governmental agency with respect thereto; provided that in the case of such ERISA Events under paragraphs (b), (c) and (d) of the definition thereof, the 30-day notice period set forth above shall be a 10-day period, and, in the case of such ERISA Events under paragraphs (g) and (i) of the definition thereof, in no event shall notice be given later than ten (10) days after the occurrence of any such ERISA Event;
 - (iii) promptly, and in any event within thirty (30) days, after a Responsible Officer of the Borrower, becomes aware that there has been (A) an increase in the unfunded liabilities with respect any Plan (taking into account only Plans with positive unfunded liabilities) that, either individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, (B) an increase since the date the representations hereunder are given or deemed given, or from any prior notice, as applicable, in potential withdrawal liability under Section 4201 of ERISA, if the Loan Parties, the Subsidiaries of the Borrower and the ERISA Affiliates were to withdraw completely from any and all Multiemployer Plans that, either individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, (C) that any contribution required to be made with respect to a Foreign Pension Plan has not been timely made, except where the failure to do so, either individually or in the aggregate, could not reasonably be expected to have a Material Adverse Effect or (D) the adoption of any amendment to a Plan which results in an increase in contribution obligations of any Loan Party or any Subsidiary that, either individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, a detailed written description thereof from an Authorized Officer of the Borrower.
-
 # (b) Foreign Pension Plans
 
 The Borrower and each of its applicable Subsidiaries shall ensure that all Foreign Pension Plans administered by it obtains or retains (as applicable) registered or tax-qualified, as applicable, status under and as required by applicable law and is administered in a timely manner in all respects in compliance with all applicable laws and the terms of each relevant Foreign Pension Plans, except where the failure to do any of the foregoing, either individually or in the aggregate, would not be reasonably likely to result in a Material Adverse Effect.
@@ -4792,7 +4606,6 @@ The Borrower will not, and will not permit any Restricted Subsidiary to, create,
 - (a) Permitted Encumbrances;
 - (b) any Lien on any property or asset of the Borrower or any Restricted Subsidiary existing on the date hereof and set forth in Schedule 6.02; provided that (i) such Lien shall not apply to any other property or asset of the Borrower or any Restricted Subsidiary (other than the proceeds and products thereof and accessions and improvements thereto) and (ii) such Lien shall secure only those obligations which it secures on the date hereof and extensions, renewals and replacements thereof that do not increase the outstanding principal amount thereof except by the amount of any accrued interest, premiums or fees payable by the Borrower or such Restricted Subsidiary in respect of such obligations;
 - (c) any Lien existing on any property or asset prior to the acquisition thereof by the Borrower or any Restricted Subsidiary or existing on any property or asset of any Person that becomes a Restricted Subsidiary after the date hereof prior to the time such Person becomes a Restricted Subsidiary; provided that (i) such Lien is not created in contemplation of or in connection with such acquisition or such Person becoming a Restricted Subsidiary, as the case may be, (ii) such Lien shall not apply to any other property or assets of the Borrower or any Restricted Subsidiary (other than the proceeds and products thereof and accessions and improvements thereto) and (iii) such Lien shall secure only those obligations which it secures on the date of such acquisition or the date such Person becomes a Restricted Subsidiary, as the case may be and extensions, renewals and replacements thereof that do not increase the outstanding principal amount thereof except by the amount of any accrued interest, premiums or fees payable by the Borrower or such Restricted Subsidiary in respect of such obligations;
-
 # (d) Liens on fixed or capital assets acquired, constructed or improved by the Borrower or any Restricted Subsidiary;
 
 provided that (i) such security interests and the Indebtedness secured thereby are incurred prior to or within 365 days after such acquisition or the completion of such construction or improvement and (ii) such security interests shall not apply to any other property or assets of the Borrower or any Restricted Subsidiary (other than the proceeds and products thereof and accessions and improvements thereto, except that individual financings provided by a Person or its Affiliates may be cross collateralized to other financings provided by such Person or its Affiliates; provided that such other financings shall (i) have a similar purpose to such individual financing and (ii) be part of a series of financings related to such individual financing);
@@ -4814,7 +4627,6 @@ provided that (i) such security interests and the Indebtedness secured thereby a
 # (l) Liens securing Indebtedness permitted under Section 6.08(l);
 
 provided that such Lien extends only to the real property, and any buildings, structures, parking areas, fixtures or other improvements thereon and other property of the type customarily described in a mortgage or deed of trust, comprising the Manufacturing Facility constructed, improved or repaired with the proceeds of such Indebtedness and, if applicable, the Equity Interests in the Restricted Subsidiary that has title to the financed Manufacturing Facility and whose assets consist solely of such related assets;
-
 # (m) Liens on Rental Account Assets and related assets;
 
 (n) Liens on Used Motor Vehicles and related assets (such as proceeds and documents of title in respect thereof, that in the reasonable opinion of the Borrower are customary for financing transactions related to such assets);
@@ -4835,7 +4647,6 @@ The Borrower will not, and will not permit any Restricted Subsidiary to, merge i
 6. the Borrower or any Restricted Subsidiary may sell, transfer, license, lease or otherwise dispose of its assets to a Securitization Subsidiary in connection with a Securitization Transaction so long as such sales, transfers, licenses, leases or disposals, in the aggregate, do not constitute all or substantially all of the assets of the Borrower and its Restricted Subsidiaries, taken as a whole.
 
 Notwithstanding anything to the contrary in this Agreement, the Borrower shall not reorganize under the laws of any jurisdiction other than a state of the United States of America.
-
 # SECTION 6.04. Clauses Restricting Subsidiary Distributions
 
 The Borrower will not, and will not permit any Restricted Subsidiary to, enter into or suffer to exist or become effective any consensual encumbrance or restriction on the ability of any Restricted Subsidiary of the Borrower to:
@@ -4849,7 +4660,6 @@ The Borrower will not, and will not permit any Restricted Subsidiary to, enter i
 
 (i) any restrictions with respect to a Restricted Subsidiary or its assets imposed pursuant to an agreement that has been entered into in connection with the disposition of capital stock or assets of such Subsidiary;(ii) any restrictions, limitations, conditions, and prohibitions under or imposed by any indenture, agreement, instrument, or other contractual arrangement in effect on the Effective Date (including this Agreement) and any similar indentures, agreements, or instruments to the extent such restrictions, limitations, conditions, and prohibitions are customary or reasonable or otherwise no more restrictive, taken as a whole, than those set forth in such existing indentures, agreements, or instruments (including this Agreement), in each case as reasonably determined by the Borrower;(iii) any agreements governing any purchase money Liens, Capital Lease Obligations, or other Liens otherwise permitted hereby to the extent any prohibition or limitation restricts Liens on the assets subject to such Lien;(iv) any prohibitions or conditions under applicable law, rule, or regulation or contained in any Loan Document;(v) customary provisions restricting assignment of any licensing agreement (in which the Borrower or any of its Restricted Subsidiaries is the licensee) or any other contract entered into by the Borrower or any of its Restricted Subsidiaries in the ordinary course of business;(vi) any agreement in effect at the time a Person becomes a Restricted Subsidiary of the Borrower, so long as such agreement was not entered into in connection with or in contemplation of such Person becoming a Subsidiary of the Borrower;(vii) any provisions restricting assignment of any agreement entered into by a Restricted Subsidiary in the ordinary course of business and consistent with past practices;(viii) any provisions restricting subletting or assignment of any lease governing a leasehold interest of a Restricted Subsidiary entered into in the ordinary course of business and consistent with past practices;(ix) customary provisions in partnership agreements, limited liability company governance documents, joint venture agreements, and other similar agreements that restrict the transfer of assets of, or ownership interests in, the relevant partnership, limited liability company, joint venture, or similar Person;
 78
-
 # (x) provisions in agreements or instruments which prohibit the payment of dividends or the making of other distributions with respect to any class of Equity Interests of a Person other than on a pro rata basis;
 
 # (xi) encumbrances or restrictions on cash or other deposits or net worth imposed by customers under agreements entered into in the ordinary course of business;
@@ -4875,7 +4685,6 @@ The Borrower and the Restricted Subsidiaries, taken as a whole, will not fundame
 # SECTION 6.07. Use of Proceeds.
 
 The Borrower will not, and will not permit any of its Subsidiaries to, use directly or indirectly the proceeds of any Loan or Letter of Credit, or lend, contribute or otherwise make available such proceeds to any Subsidiary or any other Person (a) in furtherance of an
-
 # offer, payment, promise to pay, or authorization of the payment or giving of money, or anything else of value, to any Person in material violation of any applicable Anti-Corruption Laws
 
 (b) for the purpose of funding, financing or facilitating any activities, business or transaction of or with any Sanctioned Person, or in any Sanctioned Country or (c) in any other manner that would result in a violation of any Anti-Corruption Laws, any Anti-Money Laundering Laws or applicable Sanctions by any party to this Agreement.
@@ -4894,7 +4703,6 @@ The Borrower will not permit any of its Restricted Subsidiaries to directly or i
 |Indebtedness assumed in connection with an acquisition of the equity interests or the assets of any Person; provided that such Indebtedness (i) exists at the time of the acquisition of such equity interests or assets and (ii) is not created in contemplation of or in connection with the acquisition of such equity interests or assets;| |
 |Indebtedness consisting of the financing of insurance premiums in the ordinary course of business;| |
 |Indebtedness owed in respect of any overdrafts and related liabilities arising from treasury, depository and cash management services or in connection with any automated clearing-house transfers of funds; provided that such Indebtedness shall be repaid in full within ten Business Days of the incurrence thereof;| |
-
 (i) Indebtedness in respect of non-speculative Swap Agreements relating to the business or operations of such Subsidiary;
 
 (j) Indebtedness of any Restricted Subsidiary as an account party in respect of letters of credit or letters of guarantee in the ordinary course of business;
@@ -4918,7 +4726,6 @@ SECTION 7.01. Events of Default. If any of the following events (“Events of De
 (a) the Borrower shall fail to pay any principal of any Loan or any reimbursement obligation in respect of any LC Disbursement when and as the same shall become due and payable, whether at the due date thereof or otherwise;
 
 (b) the Borrower shall fail to pay any interest on any Loan or any fee or any other amount (other than an amount referred to in clause (a) of this Section 7.01) payable under this Agreement, when and as the same shall become due and payable, and such failure shall continue unremedied for a period of five (5) Business Days;
-
 # (c)
 
 any representation or warranty made or deemed made by or on behalf of the Borrower in or in connection with this Agreement or any amendment or modification hereof or waiver hereunder, or in any report, certificate, financial statement or other document furnished pursuant to or in connection with this Agreement or any amendment or modification hereof or waiver hereunder, shall prove to have been incorrect in any material respect when made or deemed made;
@@ -4942,10 +4749,8 @@ any event or condition occurs that results in any Material Indebtedness becoming
 # (h)
 
 an involuntary proceeding shall be commenced or an involuntary petition shall be filed seeking (i) liquidation, reorganization or other relief in respect of the Borrower or any Restricted Subsidiary that is a Significant Subsidiary, or its debts, or of all or substantially all of its assets (or, in the case of the Borrower, a substantial part of its assets), under any Federal, state or foreign bankruptcy, insolvency, receivership or similar law now or hereafter in effect or (ii) the appointment of a receiver, trustee, custodian, sequestrator, conservator or similar official for the Borrower or any Restricted Subsidiary that is a Significant Subsidiary or for all or substantially all of its assets (or, in the case of the Borrower, a substantial part of its assets), and, in any such case, such proceeding or petition shall continue undismissed for sixty (60) days or an order or decree approving or ordering any of the foregoing shall be entered;
-
 (i)    the Borrower or any Restricted Subsidiary that is a Significant Subsidiary shall (i) voluntarily commence any proceeding or file any petition seeking liquidation, reorganization or other relief under any Federal, state or foreign bankruptcy, insolvency, receivership or similar law now or hereafter in effect, (ii) consent to the institution of, or fail to contest in a timely and appropriate manner, any proceeding or petition described in clause (h) of this Section 7.01, (iii) apply for or consent to the appointment of a receiver, trustee, custodian, sequestrator, conservator or similar official for the Borrower or any Restricted Subsidiary that is a Significant Subsidiary, or for all or substantially all of its assets (or, in the case of the Borrower, a substantial part of its assets), (iv) file an answer admitting the material allegations of a petition filed against it in any such proceeding, (v) make a general assignment for the benefit of creditors or (vi) take any action for the purpose of directly effecting any of the foregoing;(j)    the Borrower or any Restricted Subsidiary shall become unable, admit in writing its inability or fail generally to pay its debts as they become due; provided that this clause (j) shall not apply to Indebtedness that in the aggregate does not constitute Material Indebtedness;(k)    one or more final, non-appealable unsatisfied judgments for the payment of money in an aggregate amount in excess of $350,000,000 (or, if denominated in another currency, the equivalent thereof in Dollars) not covered by insurance by a financially solvent insurance company that has not denied coverage shall be rendered against the Borrower, any Significant Subsidiary or any combination thereof and the same shall remain unpaid or undischarged for a period of sixty (60) consecutive days during which execution shall not be effectively stayed, vacated or bonded pending appeal (it being understood that, notwithstanding the definition of “Default”, no “Default” shall be triggered solely by the rendering of such judgment or judgments prior to the commencement of enforcement proceedings or the lapse of such sixty (60) consecutive day period so long as such judgments are capable of satisfaction by payment at any time);(l)    an ERISA Event shall have occurred that, when taken together with all other ERISA Events that have occurred, results in a Material Adverse Effect;(m)     a Change in Control shall occur; or(n)    the Guarantee Agreement (or the Guarantees thereunder), once executed, shall cease, for any reason, to be in full force and effect or any Loan Party shall so assert (excluding release of any Guarantor from its guarantee in accordance with the Loan Documents);
 then, and in every such event (other than an event with respect to the Borrower described in clauses (h) or (i) of this Section 7.01), and at any time thereafter during the continuance of such event, the Administrative Agent may with the consent of the Required Lenders, and at the request of the Required Lenders shall, by notice to the Borrower, take either or both of the following actions, at the same or different times: (i) terminate the Commitments, and thereupon the Commitments shall terminate immediately, (ii) declare the Loans then outstanding to be due and payable in whole (or in part, in which case any principal not so declared to be due and payable may thereafter be declared to be due and payable), and thereupon the principal of the Loans so declared to be due and payable, together with accrued interest thereon and all fees and other obligations of the Borrower accrued hereunder, shall become due and payable immediately, without presentment, demand, protest or other notice of any kind, all of which are hereby waived by the Borrower, (iii) require that the Borrower provide cash collateral as required in Section 2.06(j) and (iv) exercise on behalf of itself, the Lenders and the Issuing Banks all rights and remedies available to it, the Lenders and the Issuing Banks under the Loan Documents and applicable law; and in case of any event with respect to the Borrower described in clauses (h) or (i) of this
-
 # Section 7.01
 
 The Commitments shall automatically terminate and the principal of the Loans then outstanding, together with accrued interest thereon and all fees and other obligations of the Borrower accrued hereunder, shall automatically become due and payable, and the obligation of the Borrower to cash collateralize the LC Exposure as provided in clause (iii) above shall automatically become effective, in each case, without presentment, demand, protest or other notice of any kind, all of which are hereby waived by the Borrower.
@@ -4961,7 +4766,6 @@ Notwithstanding anything herein to the contrary, following the occurrence and du
 |(iv)|fourth, (A) to payment of that portion of the Obligations constituting unpaid principal of the Loans and unreimbursed LC Disbursements and (B) to cash collateralize that portion of LC Exposure comprising the undrawn amount of Letters of Credit to the extent not otherwise cash collateralized by the Borrower pursuant to Section 2.04 or Section 2.20, ratably among the Lenders and the Issuing Banks in proportion to the respective amounts described in this clause (iv) payable to them; provided that (x) any such amounts applied pursuant to sub-clause (B) above shall be paid to the Administrative Agent for the ratable account of the applicable Issuing Banks to cash collateralize Obligations in respect of Letters of Credit, (y) subject to Section 2.04 or Section 2.20, amounts used to cash collateralize the aggregate amount of Letters of Credit pursuant to this clause (iv) shall be used to satisfy drawings under such Letters of Credit as they occur and (z) upon the expiration of any Letter of Credit (without any pending drawings), the pro rata share of cash collateral shall be distributed to the other Obligations, if any, in the order set forth in this Section 7.02;|
 |(v)|fifth, to the payment in full of all other Obligations, in each case ratably among the Administrative Agent, the Lenders and the Issuing Banks based upon the respective aggregate amounts of all such Obligations owing to them in accordance with the respective amounts thereof then due and payable;|
 |(vi)|finally, the balance, if any, after all Obligations have been paid in full, to the Borrower or as otherwise required by law.|
-
 # If any amount remains on deposit as cash collateral after all Letters of Credit have either been fully drawn or expired (without any pending drawings), such remaining amount shall be applied to the other Obligations, if any, in the order set forth above.
 
 # Article VIII
@@ -4975,7 +4779,6 @@ The bank serving as the Administrative Agent hereunder shall have the same right
 SECTION 8.02. Administrative Agent’s Reliance; Limitation of Liability, Etc. The Administrative Agent shall not have any duties or obligations except those expressly set forth herein. Without limiting the generality of the foregoing, (a) the Administrative Agent shall not be subject to any fiduciary or other implied duties, regardless of whether a Default has occurred and is continuing, (b) the Administrative Agent shall not have any duty to take any discretionary action or exercise any discretionary powers, except discretionary rights and powers expressly contemplated hereby that the Administrative Agent is required to exercise in writing as directed by the Required Lenders or such other number or percentage of the Lenders as shall be necessary under the circumstances as provided in Section 9.02 and (c) except as expressly set forth herein, the Administrative Agent shall not have any duty to disclose, and shall not be liable for the failure to disclose, any information relating to the Borrower or any of its Subsidiaries that is communicated to or obtained by the bank serving as Administrative Agent or any of its Affiliates in any capacity. The Administrative Agent shall not be liable for any action taken or not taken by it with the consent or at the request of the Required Lenders or such other number or percentage of the Lenders as shall be necessary under the circumstances as provided in Section 9.02, or in the absence of its own gross negligence or willful misconduct. The Administrative Agent shall be deemed not to have knowledge of any Default unless and until written notice thereof is given to the Administrative Agent by the Borrower, a Lender or an Issuing Bank, and the Administrative Agent shall not be responsible for or have any duty to ascertain or inquire into (i) any statement, warranty or representation made in or in connection with this Agreement, (ii) the contents of any certificate, report or other document delivered hereunder or in connection herewith, (iii) the performance or observance of any of the covenants, agreements or other terms or conditions set forth herein, (iv) the validity, enforceability, effectiveness or genuineness of this Agreement or any other agreement, instrument or document or (v) the satisfaction of any condition set forth in Article IV or elsewhere herein, other than to confirm receipt of items expressly required to be delivered to the Administrative Agent.
 
 The Administrative Agent shall be entitled to rely upon, and shall not incur any liability for relying upon, any notice, request, certificate, consent, statement, instrument, document or other writing believed by it to be genuine and to have been signed or sent by the proper Person. The Administrative Agent also may rely upon any statement made to it orally or by telephone and believed by it to be made by the proper Person, and shall not incur any liability for relying thereon. The Administrative Agent may consult with legal counsel (who may be counsel for the Borrower).
-
 # independent accountants and other experts selected by it, and shall not be liable for any action taken or not taken by it in accordance with the advice of any such counsel, accountants or experts.
 
 The Administrative Agent may perform any and all its duties and exercise its rights and powers by or through any one or more sub-agents appointed by the Administrative Agent. The Administrative Agent and any such sub-agent may perform any and all its duties and exercise its rights and powers through their respective Related Parties. The exculpatory provisions of the preceding paragraphs shall apply to any such sub-agent and to the Related Parties of the Administrative Agent and any such sub-agent, and shall apply to their respective activities in connection with the syndication of the credit facilities provided for herein as well as activities as Administrative Agent.
@@ -4987,7 +4790,6 @@ Subject to the appointment and acceptance of a successor Administrative Agent as
 # SECTION 8.04. Acknowledgements of Lenders and Issuing Banks.
 
 Each Lender and each Issuing Bank acknowledges that it has, independently and without reliance upon the Administrative Agent or any other Lender or Issuing Bank and based on such documents and information as it has deemed appropriate, made its own credit analysis and decision to enter into this Agreement. Each Lender and each Issuing Bank also acknowledges that it will, independently and without reliance upon the Administrative Agent or any other Lender or Issuing Bank and based on such documents and information
-
 # SECTION 8.05. Certain ERISA Matters
 
 Each Lender and each Issuing Bank (x) represents and warrants, as of the date such Person became a Lender or an Issuing Bank party hereto, to and (y) covenants, from the date such Person became a Lender or an Issuing Bank party hereto to the date such Person ceases being a Lender or an Issuing Bank party hereto, for the benefit of, the Administrative Agent, and each Lead Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Borrower, that at least one of the following is and will be true:
@@ -5004,7 +4806,6 @@ Each Lender and each Issuing Bank (x) represents and warrants, as of the date su
 4. such other representation, warranty and covenant as may be agreed in writing between the Administrative Agent, in its sole discretion, and such Lender or such Issuing Bank.
 
 In addition, unless sub-clause (i) in the immediately preceding paragraph is true with respect to a Lender or an Issuing Bank or such Lender or such Issuing Bank has provided another representation, warranty and covenant as provided in sub-clause (iv) in the immediately preceding paragraph, such Lender or such Issuing Bank further (x) represents and warrants, as of the date such Person became a Lender or an Issuing Bank party hereto, to and (y) covenants, from the date such Person became a Lender or an Issuing Bank party hereto to the date such Person ceases being a Lender or an Issuing Bank party hereto, for the benefit of, the Administrative Agent, and each Lead Arranger and their respective Affiliates, and not, for the avoidance of doubt, to or for the benefit of the Borrower, that none of the Administrative Agent, or any Lead Arranger or any of their respective Affiliates is a fiduciary with respect to the assets of such Lender or such Issuing Bank (including in connection with the reservation or exercise of any rights by the Administrative Agent under this Agreement or any documents related to hereto or thereto).
-
 # SECTION 8.06. No Fiduciary Duty
 
 The Administrative Agent, and each Lead Arranger hereby informs the Lenders and the Issuing Banks that each such Person is not undertaking to provide impartial investment advice, or to give advice in a fiduciary capacity, in connection with the transactions contemplated hereby, and that such Person has a financial interest in the transactions contemplated hereby in that such Person or an Affiliate thereof:
@@ -5016,7 +4817,6 @@ The Administrative Agent, and each Lead Arranger hereby informs the Lenders and 
 # SECTION 8.07. Erroneous Payments
 
 If the Administrative Agent (x) notifies a Lender, Issuing Bank or any Person who has received funds on behalf of a Lender or Issuing Bank (any such Lender, Issuing Bank or other recipient, and each of their respective successors and assigns, a “Payment Recipient”) that the Administrative Agent has determined in its sole discretion (whether or not after receipt of any notice under immediately succeeding clause (b)) that any funds (as set forth in such notice from the Administrative Agent) received by such Payment Recipient from the Administrative Agent or any of its Affiliates were erroneously or mistakenly transmitted to, or otherwise erroneously or mistakenly received by, such Payment Recipient (whether or not known to such Lender, Issuing Bank or other Payment Recipient on its behalf) (any such funds, whether transmitted or received as a payment, prepayment or repayment of principal, interest, fees, distribution or otherwise, individually and collectively, an “Erroneous Payment”) and (y) demands in writing the return of such Erroneous Payment (or a portion thereof), such Erroneous Payment shall at all times remain the property of the Administrative Agent pending its return or repayment as contemplated below in this Section 8.07 and held in trust for the benefit of the Administrative Agent, and such Lender or Issuing Bank shall (or, with respect to any Payment Recipient who received such funds on its behalf, shall cause such Payment Recipient to) promptly, but in no event later than two (2) Business Days thereafter (or such later date as the Administrative Agent may, in its sole discretion, specify in writing), return to the Administrative Agent the amount of any such Erroneous Payment (or portion thereof) as to which such a demand was made, in same day funds (in the currency so received), together with interest thereon (except to the extent waived in writing by the Administrative Agent) in respect of each day from and including the date such Erroneous Payment (or portion thereof) was received by such Payment Recipient to the date such amount is repaid to the Administrative Agent in same day funds at the greater of the Overnight Rate and a rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation from time to time in effect. A notice of the Administrative Agent to any Payment Recipient under this clause (a) shall be conclusive, absent manifest error.
-
 # (b)
 
 Without limiting the immediately preceding clause (a), each Payment Recipient (and each of their respective successors and assigns) agrees that if it receives a payment, prepayment or repayment (whether received as a payment, prepayment or repayment of principal, interest, fees, distribution or otherwise) from the Administrative Agent (or any of its Affiliates) (x) that is in a different amount than, or on a different date from, that specified in this Agreement or in a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates) with respect to such payment, prepayment or repayment, (y) that was not preceded or accompanied by a notice of payment, prepayment or repayment sent by the Administrative Agent (or any of its Affiliates) or (z) that such Payment Recipient otherwise becomes aware was transmitted, or received, in error or by mistake (in whole or in part), then in each such case:
@@ -5033,13 +4833,11 @@ Each Lender or Issuing Bank hereby authorizes the Administrative Agent to set of
 # (d)
 
 In the event that an Erroneous Payment (or portion thereof) is not recovered by the Administrative Agent for any reason, after demand therefor in accordance with immediately preceding clause (a), from any Lender that has received such Erroneous Payment (or portion thereof) (and/or from any Payment Recipient who received such Erroneous Payment (or portion thereof) on its respective behalf) (such unrecovered amount, an “Erroneous Payment Return Deficiency”), upon the Administrative Agent’s notice to such Lender at any time, then effective immediately (with the consideration therefor being acknowledged by the parties hereto), (A) such Lender shall be deemed to have assigned its Loans (but not its Commitments) with respect to which such Erroneous Payment was made (the “Erroneous Payment Impacted Class”) in an amount equal to the Erroneous Payment Return Deficiency (or such lesser amount as the Administrative Agent may specify) (such assignment of the Loans (but not Commitments) of the Erroneous Payment Impacted Class, the “Erroneous Payment Deficiency Assignment”) (on a cashless basis and such amount calculated at par plus any accrued and unpaid interest (with the assignment fee to be waived by the Administrative Agent in such instance)), and is hereby (together with the Borrower) deemed to execute and deliver an Assignment and Assumption (or, to the extent applicable, an agreement incorporating an Assignment and Assumption by reference pursuant to an Approved Electronic Platform as to which the Administrative Agent and such parties are participants).
-
 with respect to such Erroneous Payment Deficiency Assignment, and such Lender shall deliver any Notes evidencing such Loans to the Borrower or the Administrative Agent (but the failure of such Person to deliver any such Notes shall not affect the effectiveness of the foregoing assignment), (B) the Administrative Agent as the assignee Lender shall be deemed to have acquired the Erroneous Payment Deficiency Assignment, (C) upon such deemed acquisition, the Administrative Agent as the assignee Lender shall become a Lender, as applicable, hereunder with respect to such Erroneous Payment Deficiency Assignment and the assigning Lender shall cease to be a Lender, as applicable, hereunder with respect to such Erroneous Payment Deficiency Assignment, excluding, for the avoidance of doubt, its obligations under the indemnification provisions of this Agreement and its applicable Commitments which shall survive as to such assigning Lender, (D) the Administrative Agent and the Borrower shall each be deemed to have waived any consents required under this Agreement to any such Erroneous Payment Deficiency Assignment and (E) the Administrative Agent will reflect in the Register its ownership interest in the Loans subject to the Erroneous Payment Deficiency Assignment. For the avoidance of doubt, no Erroneous Payment Deficiency Assignment will reduce the Commitments of any Lender and such Commitments shall remain available in accordance with the terms of this Agreement.
 
 (e) Subject to Section 9.04 (but excluding, in all events, any assignment consent or approval requirements (whether from the Borrower or otherwise)), the Administrative Agent may, in its discretion, sell any Loans acquired pursuant to an Erroneous Payment Deficiency Assignment and upon receipt of the proceeds of such sale, the Erroneous Payment Return Deficiency owing by the applicable Lender shall be reduced by the net proceeds of the sale of such Loan (or portion thereof), and the Administrative Agent shall retain all other rights, remedies and claims against such Lender (and/or against any recipient that receives funds on its respective behalf). In addition, an Erroneous Payment Return Deficiency owing by the applicable Lender (x) shall be reduced by the proceeds of prepayments or repayments of principal and interest, or other distribution in respect of principal and interest, received by the Administrative Agent on or with respect to any such Loans acquired from such Lender pursuant to an Erroneous Payment Deficiency Assignment (to the extent that any such Loans are then owned by the Administrative Agent) and (y) may, in the sole discretion of the Administrative Agent, be reduced by any amount specified by the Administrative Agent in writing to the applicable Lender from time to time.
 
 (f) The parties hereto agree that (x) irrespective of whether the Administrative Agent may be equitably subrogated, in the event that an Erroneous Payment (or portion thereof) is not recovered from any Payment Recipient that has received such Erroneous Payment (or portion thereof) for any reason, the Administrative Agent shall be subrogated to all the rights and interests of such Payment Recipient (and, in the case of any Payment Recipient who has received funds on behalf of a Lender or Issuing Bank, to the rights and interests of such Lender or Issuing Bank, as the case may be) under the Loan Documents with respect to such amount (the “Erroneous Payment Subrogation Rights”) (provided that the Loan Parties’ Obligations under the Loan Documents in respect of the Erroneous Payment Subrogation Rights shall not be duplicative of such Obligations in respect of Loans that have been assigned to the Administrative Agent under an Erroneous Payment Deficiency Assignment) and (y) an Erroneous Payment shall not pay, prepay, repay, discharge or otherwise satisfy any Obligations owed by the Borrower or any other Loan Party; provided that for the immediately preceding clauses (x) and (y) shall not apply to the extent any such Erroneous Payment is, and solely with respect to the amount of such Erroneous Payment that is, comprised of funds received by the Administrative Agent from the Borrower for the purpose of making such Erroneous Payment. Notwithstanding anything to the contrary set forth herein, this Section 8.07 shall not be interpreted to increase (or accelerate the due date for), or have the effect of increasing (or accelerating the due date for), the Obligations of the Borrower relative to the amount (and/or timing for payment) of the Obligations that would have been payable had such Erroneous Payment not been made by the Administrative Agent.
-
 # (g)
 
 To the extent permitted by applicable law, no Payment Recipient shall assert any right or claim to an Erroneous Payment, and hereby waives, and is deemed to waive, any claim, counterclaim, defense or right of set-off or recoupment with respect to any demand, claim or counterclaim by the Administrative Agent for the return of any Erroneous Payment received, including, without limitation, any defense based on “discharge for value” or any similar doctrine.
@@ -5063,7 +4861,6 @@ with a copy (which shall not constitute notice to any Loan Party) to Skadden, Ar
 4. if to any other Lender, to it at its address (or facsimile number) set forth in its Administrative Questionnaire.
 
 (b) Notices and other communications to the Lenders and the Issuing Banks hereunder may be delivered or (other than service of process) furnished by electronic communications pursuant to procedures approved by the Administrative Agent; provided that the foregoing shall not apply to service of process or to notices pursuant to Article II unless otherwise agreed by the Administrative Agent and the applicable Lender. The Administrative Agent or the Borrower may, in its discretion, agree to accept notices and other communications to it hereunder by electronic communications pursuant to procedures approved by it; provided that approval of such procedures may be limited to particular notices or communications. All notices concerning Borrowings in the Funding Office or any matter arising in connection therewith will be required to be given at the address set forth in Section 9.01(a)(ii) (in each case, subject to Section 9.01(c)).
-
 # (c) Any party hereto may change its address or facsimile number for notices and other communications hereunder by notice to the other parties hereto. All notices and other communications given to any party hereto in accordance with the provisions of this Agreement shall be deemed to have been given on the date of receipt.
 
 (d) Notices sent by hand or overnight courier service, or mailed by certified or registered mail, shall be deemed to have been given when received; notices sent by fax shall be deemed to have been given when sent (except that, if not given during normal business hours for the recipient, shall be deemed to have been given at the opening of business on the next business day for the recipient); and notices and other communications sent to an e-mail address shall be deemed received upon the sender’s receipt of an acknowledgement from the intended recipient (such as by the “return receipt requested” function, as available, return e-mail or other written acknowledgement), and notices or communications posted to an Internet or intranet website to the extent provided in paragraph (b) above shall be deemed received upon the deemed receipt by the intended recipient, at its e-mail address as described above, of notification that such notice or communication is available and identifying the website address therefor; provided that, in each case, if such e-mail is not sent during the normal business hours of the recipient, such notice or communication shall be deemed to have been sent at the opening of business on the next business day for the recipient.
@@ -5073,7 +4870,6 @@ with a copy (which shall not constitute notice to any Loan Party) to Skadden, Ar
 (a) No failure or delay by the Administrative Agent, any Issuing Bank or any Lender in exercising any right or power hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or discontinuance of steps to enforce such a right or power, preclude any other or further exercise thereof or the exercise of any other right or power. The rights and remedies of the Administrative Agent, the Issuing Banks and the Lenders hereunder are cumulative and are not exclusive of any rights or remedies that they would otherwise have. No waiver of any provision of this Agreement or consent to any departure by the Borrower therefrom shall in any event be effective unless the same shall be permitted by Section 9.02(b), and then such waiver or consent shall be effective only in the specific instance and for the purpose for which given. Without limiting the generality of the foregoing, the making of a Loan or issuance of a Letter of Credit shall not be construed as a waiver of any Default, regardless of whether the Administrative Agent, any Issuing Bank or any Lender may have had notice or knowledge of such Default at the time.
 
 (b) Neither this Agreement nor any provision hereof may be waived, amended or modified except pursuant to an agreement or agreements in writing entered into by the Borrower and the Required Lenders or by the Borrower and the Administrative Agent with the consent of the Required Lenders (it being understood that amendments or waivers of conditions precedent, representations, covenants, Defaults or Events of Default shall not constitute an increase in the Commitment of any Lender) or by an agreement in writing entered into by the Borrower and the Administrative Agent to cure any ambiguity, omission, defect, mistake or inconsistency so long as the Lenders shall have received at least five (5) Business Days’ prior written notice thereof and the Administrative Agent shall not have received, within five (5) Business Days of the date of such notice to the Lenders, a written notice from the Required Lenders stating that the Required Lenders object to such amendment; provided that no such agreement shall (i) increase the Commitment of any Lender without the written consent of such Lender, (ii) reduce the principal amount of any Loan or LC Disbursement or reduce the rate of interest thereon, or reduce any fees payable hereunder, without the written consent of each Lender adversely affected thereby (it being understood that any amendment, modification or waiver to Section 2.12(e) shall not be subject to this clause (ii)), (iii) postpone the final maturity date of any Loan, or postpone the scheduled date of payment of any principal, interest or fees payable hereunder, or reduce the amount of, waive or excuse any such payment, or postpone the scheduled date of expiration of any Commitment, without the written consent of each Lender adversely affected thereby, (iv) change any of the provisions of this Section 9.02
-
 # or the definition of “Required Lenders”, “Applicable Percentage” or any other provision hereof specifying the number or
 percentage of Lenders required to waive, amend or modify any rights hereunder or make any determination or grant any consent
 hereunder, without the written consent of each Lender, (v) change the last sentence of Section 2.08(c) or change Section 2.17 or
@@ -5116,7 +4912,6 @@ connection with the enforcement of this Agreement or any agreement or instrument
 (b) The Borrower shall indemnify the Administrative Agent, each Issuing Bank, each Lender, each Lead
 Arranger, the Syndication Agent, each Documentation Agent and each Related Party of any of the foregoing Persons (each such
 Person being called an “Indemnitee”) against, and hold each
-
 Indemnitee harmless from, any and all losses, claims, damages, liabilities and related expenses (limited, in the case of legal fees, to the reasonable and documented fees and disbursements and other charges of one counsel for all Indemnitees taken as a whole and, if reasonably necessary, a single local counsel for all Indemnitees taken as a whole in each relevant material jurisdiction (which may be a single local counsel acting in multiple material jurisdictions) and, solely in the case of an actual or perceived conflict of interest between Indemnitees where the Indemnitees affected by such conflict inform the Borrower of such conflict, one additional counsel and one additional local counsel in each relevant material jurisdiction to each group of affected Indemnitees similarly situated taken as a whole), but excluding Taxes, which are covered by Section 2.16, incurred by or asserted against any Indemnitee arising out of or as a result of (i) the execution or delivery of this Agreement or any agreement or instrument contemplated hereby, the performance by the parties hereto of their respective obligations hereunder or the consummation of the Transactions or any other transactions contemplated hereby, (ii) any Loan or Letter of Credit or the use of the proceeds therefrom (including any refusal by an Issuing Bank to honor a demand for payment under a Letter of Credit if the documents presented in connection with such demand do not strictly comply with the terms of such Letter of Credit), (iii) any actual or alleged presence or release of Hazardous Materials on or from any property owned or operated by the Borrower or any of its Subsidiaries, or any Environmental Liability related in any way to the Borrower or any of its Subsidiaries or (iv) any actual or prospective claim, litigation, investigation or proceeding relating to any of the foregoing, whether based on contract, tort or any other theory and regardless of whether any Indemnitee is a party thereto and regardless of whether such claim, litigation, investigation or proceeding is brought by the Borrower or any other party; provided that such indemnity shall not, as to any Indemnitee, be available to the extent that such losses, claims, damages, liabilities or related expenses are determined by a court of competent jurisdiction by final and non-appealable judgment to have resulted from the gross negligence, bad faith or material breach by such Indemnitee or any of its Related Parties of such Person’s obligations under this Agreement, or willful misconduct of such Indemnitee or any of its Related Parties and that no Lender shall be entitled to indemnification with respect to any losses, claims, damages, liabilities or related expenses arising out of a dispute between such Lender and its assignees or Participants or solely between Lenders (other than disputes resulting from an act or material omission by the Borrower or any Subsidiary in violation of this Agreement).
 
 (c) To the extent that the Borrower fails to pay any amount required to be paid by it to the Administrative Agent under Sections 9.03(a) or (b), each Lender severally agrees to pay to the Administrative Agent such Lender’s Applicable Percentage (determined as of the time that the applicable unreimbursed expense or indemnity payment is sought) of such unpaid amount; provided that the unreimbursed expense or indemnified loss, claim, damage, liability or related expense, as the case may be, was incurred by or asserted against the Administrative Agent in its capacity as such.
@@ -5124,7 +4919,6 @@ Indemnitee harmless from, any and all losses, claims, damages, liabilities and r
 (d) To the extent permitted by applicable law (i) no party hereto shall assert, and each such party hereto hereby waives, any claim against any other party hereto for any damages arising from the use by others of information or other materials obtained through telecommunications, electronic or other information transmission systems (including the Internet) and (ii) no party hereto shall assert, and each such party hereby waives, any claim against any other party hereto, on any theory of liability, for special, indirect, consequential or punitive damages (as opposed to direct or actual damages) arising out of, in connection with, or as a result of, this Agreement, any other Loan Document, or any agreement or instrument contemplated hereby or thereby, the Transactions, any Loan or Letter of Credit or the use of the proceeds thereof; provided that nothing in this clause (d)(ii) shall relieve the Borrower of any obligation it may have to indemnify an Indemnitee against special, indirect, consequential or punitive damages asserted against such Indemnitee by a third party as set forth in clause (a) above).
 
 94
-
 (e) All amounts due under this Section 9.03 shall be payable not later than thirty (30) days after written demand therefor, except where the validity or amount thereof is being contested in good faith in appropriate proceedings by the Borrower.
 
 SECTION 9.04. Successors and Assigns. (a) The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted hereby (including any Affiliate of an Issuing Bank that issues any Letter of Credit), except that (i) the Borrower may not assign or otherwise transfer any of its rights or obligations hereunder without the prior written consent of each Lender (and any attempted assignment or transfer by the Borrower without such consent shall be null and void), (ii) no Lender may assign or otherwise transfer its rights or obligations hereunder except in accordance with this Section 9.04, (iii) no assignment shall be made to any Defaulting Lender or any of its Affiliates, or any person who, upon becoming a Lender hereunder, would constitute any of the foregoing Persons described in this clause (iii) and (iv) no Lender may assign or otherwise transfer its rights or obligations hereunder to the Borrower or any of its Subsidiaries. Nothing in this Agreement, expressed or implied, shall be construed to confer upon any Person (other than the parties hereto, their respective successors and assigns permitted hereby (including any Affiliate of an Issuing Bank that issues any Letter of Credit), Participants (to the extent provided in Section 9.04(c)) and, to the extent expressly contemplated hereby, the Related Parties of each of the Administrative Agent, the Lead Arrangers, the Syndication Agent, the Documentation Agents, the Issuing Banks and the Lenders) any legal or equitable right, remedy or claim under or by reason of this Agreement.
@@ -5136,7 +4930,6 @@ SECTION 9.04. Successors and Assigns. (a) The provisions of this Agreement shall
 (ii) Assignments shall be subject to the following additional conditions:
 
 95
-
 (A) except in the case of an assignment to a Lender, an Affiliate of a Lender or an Approved Fund or an assignment of the entire remaining amount of the assigning Lender’s Commitment or Loans, the amount of the Commitment or Loans of the assigning Lender subject to each such assignment (determined as of the date the Assignment and Assumption with respect to such assignment is delivered to the Administrative Agent) shall not be less than $10,000,000 unless each of the Borrower and the Administrative Agent otherwise consent; provided that no such consent of the Borrower shall be required if an Event of Default specified in clauses (a), (b), (h) or (i) of Section 7.01 has occurred and is continuing;
 
 (B) each partial assignment shall be made as an assignment of a proportionate part of all the assigning Lender’s rights and obligations under this Agreement;
@@ -5152,13 +4945,11 @@ For the purposes of this Section 9.04(b), the term “Approved Fund” has the f
 (iii) Subject to acceptance and recording thereof pursuant to Section 9.04(b)(iv), from and after the effective date specified in each Assignment and Assumption the assignee thereunder shall be a party hereto and, to the extent of the interest assigned by such Assignment and Assumption, have the rights and obligations of a Lender under this Agreement, and the assigning Lender thereunder shall, to the extent of the interest assigned by such Assignment and Assumption, be released from its obligations under this Agreement (and, in the case of an Assignment and Assumption covering all of the assigning Lender’s rights and obligations under this Agreement, such Lender shall cease to be a party hereto but shall continue to be subject to its obligations under Section 9.12 for a period of one year following the effective date specified in such Assignment and Assumption and shall continue to be entitled to the benefits of Sections 2.14, 2.15, 2.16, 2.20 and 9.03). Any assignment or transfer by a Lender of rights or obligations under this Agreement that does not comply with this Section 9.04 shall be treated for purposes of this Agreement as a sale by such Lender of a participation in such rights and obligations in accordance with Section 9.04(c).
 
 (iv) The Administrative Agent, acting for this purpose as an agent of the Borrower, shall maintain at one of its offices a copy of each Assignment and Assumption delivered to it and a register for the recordation of the names and addresses of the Lenders, and the Commitment of, and principal amount (and stated interest) of the Loans and LC Disbursements owing to, each Lender pursuant to the terms hereof from time to time (the “Register”). The entries in the Register shall be conclusive, absent manifest error, and the Borrower, the Administrative Agent, the Issuing Banks and the Lenders shall treat each Person whose name is recorded in the Register pursuant to the terms hereof as a Lender hereunder for all purposes of this Agreement,
-
 Notwithstanding notice to the contrary. The Register shall be available for inspection by the Borrower, any Issuing Bank and any Lender, at any reasonable time and from time to time upon reasonable prior notice.
 
 Upon its receipt of a duly completed Assignment and Assumption executed by an assigning Lender and an assignee, the assignee’s completed Administrative Questionnaire (unless the assignee shall already be a Lender hereunder), the processing and recordation fee referred to in Section 9.04(b) and any written consent to such assignment required by Section 9.04(b), the Administrative Agent shall accept such Assignment and Assumption and record the information contained therein in the Register. No assignment shall be effective for purposes of this Agreement unless it has been recorded in the Register as provided in this paragraph (b).
 
 Any Lender may, without the consent of the Borrower, the Administrative Agent or the Issuing Banks, sell participations to one or more banks or other entities (other than (x) a natural person or a holding company, investment vehicle or trust for, or owned and operated for the primary benefit of, a natural person, (y) the Borrower or its Subsidiaries or (z) any Defaulting Lender or Disqualified Institution or any of their respective Affiliates) (a “Participant”) in all or a portion of such Lender’s rights and obligations under this Agreement (including all or a portion of its Commitment and the Loans owing to it); provided that (A) such Lender’s obligations under this Agreement shall remain unchanged, (B) such Lender shall remain solely responsible to the other parties hereto for the performance of such obligations and (C) the Borrower, the Administrative Agent, the Issuing Banks and the other Lenders shall continue to deal solely and directly with such Lender in connection with such Lender’s rights and obligations under this Agreement. Any agreement or instrument pursuant to which a Lender sells such a participation shall provide that such Lender shall retain the sole right to enforce this Agreement and to approve any amendment, modification or waiver of any provision of this Agreement; provided that such agreement or instrument may provide that such Lender will not, without the consent of the Participant, agree to any amendment, modification or waiver described in the first proviso to Section 9.02(b) that affects such Participant. Subject to Section 9.04(c)(ii), the Borrower agrees that each Participant shall be entitled to the benefits of Sections 2.14, 2.15, 2.16 and 9.03 subject to the requirements and limitations therein, including the requirements under Section 2.16(f) (it being understood that the documentation required under Section 2.16(f) shall be delivered to the participating Lender) to the same extent as if it were a Lender and had acquired its interest by assignment pursuant to Section 9.04(b). Each Lender that sells a participation agrees, at the Borrower's request and expense, to use reasonable efforts to cooperate with the Borrower to effectuate the provisions of Section 2.19 with respect to any Participant. To the extent permitted by law, each Participant also shall be entitled to the benefits of Section 9.08 as though it were a Lender; provided such Participant agrees to be subject to Section 2.17(c) as though it were a Lender. Each Lender that sells a participation shall, acting solely for this purpose as a non-fiduciary agent of the Borrower, maintain a register on which it enters the name and address of each Participant and the principal amounts (and stated interest) of each Participant’s interest in the Loans or other obligations under this Agreement (the “Participant Register”); provided that no Lender shall have any obligation to disclose all or any portion of the Participant Register to any Person (including the identity of any Participant or any information relating to a Participant’s interest in any Commitments, Loans, Letters of Credit or its other obligations under this Agreement) except to the extent that such disclosure is necessary to establish that such Commitment, Loan, Letter of Credit or other obligation is in registered form under Section 5f.103-1(c) of the United States Treasury Regulations. The entries in the Participant Register shall be conclusive absent manifest error, and such Lender shall treat each person whose name is recorded in the Participant Register as the owner of such participation for all purposes of this Agreement, notwithstanding any notice to the contrary. For the avoidance of doubt, the Administrative Agent (in its capacity as Administrative Agent) shall have no responsibility for maintaining a Participant Register.
-
 # (i) A Participant
 
 shall not be entitled to receive any greater payment under Sections 2.14, 2.15, 2.16 or 9.03 than the applicable Lender would have been entitled to receive with respect to the participation sold to such Participant, unless the sale of the participation to such Participant is made with the Borrower’s prior written consent, except to the extent such entitlement to receive a greater payment results from an adoption of or any change in any requirement of law or in the interpretation or application thereof or compliance by any Lender with any request or directive (whether or not having the force of law) from any central bank or other Governmental Authority made subsequent to the date hereof that occurs after the Participant acquired the applicable participation. A Participant shall not be entitled to the benefits of Section 2.16 unless the Borrower is notified of the participation sold to such Participant and such Participant agrees, for the benefit of the Borrower, to comply with Section 2.16(f) as though it were a Lender (it being understood that the documentation required under Section 2.16(f) shall be delivered to the participating Lender).
@@ -5174,7 +4965,6 @@ Any Lender may at any time pledge or assign a security interest in all or any po
 (ii) If any assignment or participation is made to any Disqualified Institution without the Borrower’s prior written consent in violation of clause (i) above, or if any Person becomes a Disqualified Institution after the applicable Trade Date, the Borrower may, at its sole expense and effort, upon notice to the applicable Disqualified Institution and the Administrative Agent, (A) terminate any Commitment of such Disqualified Institution and repay all obligations of the Borrower owing to such Disqualified Institution in connection with such Commitment or (B) require such Disqualified Institution to assign, without recourse (in accordance with and subject to the restrictions contained in this Section), all of its interest, rights and obligations under this Agreement to one or more Eligible Assignees at the lesser of (x) the principal amount thereof and (y) the amount that such Disqualified Institution paid to acquire such interests, rights and obligations, in each case plus accrued interest, accrued fees and all other amounts (other than principal amounts) payable to it hereunder.
 
 (iii) Notwithstanding anything to the contrary contained in this Agreement, Disqualified Institutions (A) will not (x) have the right to receive information, reports or other materials provided to Lenders or Issuing Banks by the Borrower, the Administrative Agent or any other Lender or Issuing Bank, (y) attend or participate in meetings attended by the Lenders, Issuing Banks and the Administrative Agent, or (z) access any electronic site established for the Lenders.
-
 # or the Issuing Banks or confidential communications from counsel to or financial advisors of the Administrative Agent, the Lenders or the Issuing Banks and (B) for purposes of any consent to any amendment, waiver or modification of, or any action under, and for the purpose of any direction to the Administrative Agent, any Lender or any Issuing Bank to undertake any action (or refrain from taking any action) under this Agreement or any other Loan Document, each Disqualified Institution will be deemed to have consented in the same proportion as the Lenders or Issuing Banks that are not Disqualified Institutions consented to such matter.
 
 (iv) The Administrative Agent shall not be responsible or have any liability for, or have any duty to ascertain, inquire into, monitor or enforce, compliance with the provisions hereof relating to Disqualified Institutions. Without limiting the generality of the foregoing, the Administrative Agent shall not (i) be obligated to ascertain, monitor or inquire as to whether any Lender or Participant or prospective Lender or Participant is a Disqualified Institution or (ii) have any liability with respect to or arising out of any assignment or participation of Loans, or disclosure of confidential information, to any Disqualified Institution. The Administrative Agent shall have the right, and the Borrower hereby expressly authorizes the Administrative Agent, to (A) post the list of Disqualified Institutions provided by the Borrower and any updates thereto from time to time (collectively, the “DQ List”) on an Approved Electronic Platform or (B) provide the DQ List to each Lender requesting the same.
@@ -5182,7 +4972,6 @@ Any Lender may at any time pledge or assign a security interest in all or any po
 # SECTION 9.05. Survival. All covenants, agreements, representations and warranties made by the Borrower herein and in the certificates or other instruments delivered in connection with or pursuant to this Agreement shall be considered to have been relied upon by the other parties hereto and shall survive the execution and delivery of this Agreement and the making of any Loans and issuance of any Letters of Credit, regardless of any investigation made by any such other party or on its behalf and notwithstanding that the Administrative Agent, any Issuing Bank or any Lender may have had notice or knowledge of any Default or incorrect representation or warranty at the time any credit is extended hereunder, and shall continue in full force and effect as long as the principal of or any accrued interest on any Loan or any fee or any other amount payable under this Agreement is outstanding and unpaid or any Letter of Credit is outstanding and so long as the Commitments have not expired or terminated. The provisions of Sections 2.14, 2.15, 2.16 and 9.03 and Article VIII shall survive and remain in full force and effect regardless of the resignation or replacement of the Administrative Agent or a Lender, the repayment of the Loans, the expiration or termination of the Letters of Credit and the Commitments or the termination of this Agreement or any provision hereof.
 
 # SECTION 9.06. Counterparts; Integration; Effectiveness. This Agreement may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This Agreement and any separate letter agreements with respect to (i) fees payable to the Administrative Agent and (ii) the reductions of the Letter of Credit Commitment of any Issuing Banks constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Except as provided in Section 4.01, this Agreement shall become effective when it shall have been executed by the Administrative Agent and when the Administrative Agent shall have received counterparts hereof which, when taken together, bear the signatures of each of the other parties hereto, and thereafter shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. Delivery of an executed counterpart of a signature page of this Agreement by facsimile (or in any other manner approved pursuant to Section 9.01(b)) shall be effective as delivery of a manually executed counterpart of this Agreement. The words “execution”, “signed”, “signature”, and words of like import in this Agreement including any Assignment and Assumption shall be deemed to include electronic signatures or electronic records, each of which shall be of the same legal effect, validity or enforceability as a manually
-
 # executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any
 applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic
 Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
@@ -5225,7 +5014,6 @@ York State court. Each of the parties hereto agrees that a final judgment in any
 may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement
 shall affect any right that the Administrative Agent, any Issuing Bank or any Lender may otherwise have to enforce a judgment
 against the Borrower or its properties in the courts of any jurisdiction.
-
 # (c) Each of the parties hereto hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any court referred to in the first sentence of Section 9.09(b). Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
 
 # (d) Each party to this Agreement irrevocably consents to service of process in the manner provided for notices in writing under Section 9.01, but not electronically. Nothing in this Agreement will affect the right of any party to this Agreement to serve process in any other manner permitted by law.
@@ -5243,7 +5031,6 @@ MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 9.10.
 # SECTION 9.11. Headings. Article and Section headings and the Table of Contents used herein are for convenience of reference only, are not part of this Agreement and shall not affect the construction of, or be taken into consideration in interpreting, this Agreement.
 
 # SECTION 9.12. Confidentiality. Each of the Administrative Agent, the Issuing Banks and the Lenders agrees to maintain the confidentiality of the Information (as defined below), except that Information may be disclosed (a) to its and its Affiliates’ directors, officers, employees and agents, including accountants, legal counsel and other advisors (it being understood that the Persons to whom such disclosure is made will be informed of the confidential nature of such Information and instructed to keep such Information confidential), (b) to the extent requested by any regulatory authority or Governmental Authority having jurisdiction over such Administrative Agent, Issuing Bank, Lender or its respective Affiliates; provided, however, that with respect to disclosures pursuant to this clause (b) (other than with respect to any audit or examination conducted by any governmental bank regulatory authority exercising examination or regulatory authority unless such audit or examination specifically targets the Borrower or its Subsidiaries, the Transactions or the Information) or the following clause (c) of this Section 9.12, unless prohibited by law or applicable court order, each disclosing Person shall attempt to notify the Borrower of any request by any governmental agency or representative thereof or other Person for disclosure of Information after receipt of such request, and if reasonably practicable and permissible, before disclosure of such Information, (c) to the extent required by applicable laws or regulations or by any subpoena or similar legal process, (d) to any other party to this Agreement, (e) subject to an agreement containing provisions substantially the same as those of this Section 9.12, to any credit insurance provider or service provider relating to the Borrower and its obligations, (f) in connection with the exercise of any remedies hereunder or any suit, action or proceeding relating to this Agreement or the enforcement of rights hereunder, (g) subject to an agreement containing provisions substantially the same as those of this Section 9.12 to (i) any assignee of or Participant in, or any prospective assignee of or Participant in, or any sub-Participant in, any of its rights or obligations under this Agreement or (ii) any
-
 # SECTION 9.13. USA PATRIOT Act; Beneficial Ownership Regulation.
 
 Each Lender hereby notifies the Borrower that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “Act”) and the Beneficial Ownership Regulation, it is required to obtain, verify and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow such Lender to identify the Borrower in accordance with the Act and the Beneficial Ownership Regulation.
@@ -5251,7 +5038,6 @@ Each Lender hereby notifies the Borrower that pursuant to the requirements of th
 # SECTION 9.14. Agreements Respecting Unrestricted Subsidiaries.
 
 If any Unrestricted Subsidiary, in connection with any Indebtedness, Guarantee or other obligations incurred by such Unrestricted Subsidiary, incurs obligations that do not satisfy the requirements for designation as an Unrestricted Subsidiary or otherwise fails to satisfy the requirements for designation as an Unrestricted Subsidiary, the relevant Unrestricted Subsidiary automatically (without any further action by the Borrower) shall be re-designated as a Restricted Subsidiary and each provision of this Agreement applicable to Restricted Subsidiaries shall apply to such Subsidiary.
-
 # SECTION 9.15. No Fiduciary Duty
 
 The Administrative Agent, each Lender, each Issuing Bank and their Affiliates (collectively, solely for purposes of this Section 9.15, the “Lenders”), may have economic interests that conflict with those of Borrower. Borrower agrees that nothing in this Agreement or any related documentation or otherwise will be deemed to create an advisory, fiduciary or agency relationship or fiduciary or other implied duty between the Lenders and Borrower, its stockholders or its affiliates. The Borrower acknowledges and agrees that:
@@ -5274,7 +5060,6 @@ Borrower further acknowledges and agrees that it is responsible for making its o
 Notwithstanding anything to the contrary in this Agreement or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any Affected Financial Institution arising under any Loan Document may be subject to the Write-Down and Conversion Powers of the applicable Resolution Authority and agrees and consents to, and acknowledges and agrees to be bound by:
 
 (a) the application of any Write-Down and Conversion Powers by an applicable Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an Affected Financial Institution;
-
 # SECTION 9.18.
 
 (b) the effects of any Bail-In Action on any such liability, including, if applicable:
@@ -5292,7 +5077,6 @@ In the event a Covered Entity that is party to a Supported QFC (each, a “Cover
 # SECTION 9.19. Release of Guarantees.
 
 A Guarantor (other than the Borrower) shall automatically be released from its obligations under the Loan Documents and the Guarantee of such Guarantor shall automatically be terminated, in each case, upon (i) the consummation of any transaction permitted by this Agreement as a result of which such Guarantor ceases to be a Restricted Subsidiary; provided that, if so required by Section 9.02, the Required Lenders shall have consented to such transaction or (ii) such Guarantor becoming an Excluded Subsidiary; provided that the Borrower has elected for such Excluded Subsidiary to be released from its Guarantee. Notwithstanding anything to the contrary contained herein or in any other Loan Document, the Administrative Agent is hereby irrevocably authorized by each Lender (without requirement of notice to or consent of any Lender except as expressly required by Section 9.02) to take any action requested by Borrower having the effect of releasing any
-
 # guarantee obligations
 
 to the extent not prohibited by any Loan Document or consented to in accordance with Section 9.02. Notwithstanding anything to the contrary herein, any Guarantor that is a guarantor with respect to any Specified Borrower Indebtedness shall not be released from its obligations under the Loan Documents and the Guarantee of such Guarantor shall not be terminated pursuant to any Loan Document, in each case, so long as it remains a guarantor of such Specified Borrower Indebtedness. In connection with any termination or release pursuant to this Section 9.19, the Administrative Agent shall execute and deliver to any Loan Party, at such Loan Party’s expense, all documents that such Loan Party shall reasonably request to evidence such termination or release so long as the Borrower or applicable Loan Party shall have provided the Administrative Agent such certifications or documents as the Administrative Agent shall reasonably request in order to demonstrate compliance with this Agreement.
@@ -5304,7 +5088,6 @@ Notwithstanding anything herein to the contrary, if at any time the interest rat
 [Remainder of page intentionally left blank. Signature pages follow.]
 
 105
-
 IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized representatives as of the day and year first above written.
 
 |TESLA, INC., as the Borrower|By: /s/ Zachary Kirkhorn Name: Zachary Kirkhorn Title: Chief Financial Officer|
@@ -5312,7 +5095,6 @@ IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly exe
 | |By: /s/ Jeffrey Munson Name: Jeffrey Munson Title: Director, Treasury & Capital Markets|
 
 [Signature Page to Credit Agreement]
-
 CITIBANK, N.A., as the Administrative Agent, and as a Lender and Issuing Bank
 
 |By:|/s/ Susan Olsen|
@@ -5321,7 +5103,6 @@ CITIBANK, N.A., as the Administrative Agent, and as a Lender and Issuing Bank
 |Title:|Vice President|
 
 [Signature Page to Credit Agreement]
-
 DEUTSCHE BANK AG NEW YORK BRANCH, as a Lender and Issuing Bank
 
 |By:|/s/ Ming K. Chu|
@@ -5335,7 +5116,6 @@ DEUTSCHE BANK AG NEW YORK BRANCH, as a Lender and Issuing Bank
 |Title:|Vice President|
 
 [Signature Page to Credit Agreement]
-
 CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Lender and Issuing Bank
 
 |By:|/s/ Jill Wong|
@@ -5349,7 +5129,6 @@ CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK, as a Lender and Issuing Bank
 |Title:|Director|
 
 [Signature Page to Credit Agreement]
-
 GOLDMAN SACHS BANK USA, as a Lender and Issuing Bank
 
 By:
@@ -5361,7 +5140,6 @@ Name: Rebecca Kratz
 Title: Authorized Signatory
 
 [Signature Page to Credit Agreement]
-
 # HSBC Bank USA, National Association, as a Lender and Issuing Bank
 
 By:
@@ -5373,7 +5151,6 @@ Name: Andrew Everett
 Title: Senior Vice President
 
 [Signature Page to Credit Agreement]
-
 MORGAN STANLEY BANK, N.A., as a Lender and Issuing Bank
 
 By: /s/ Michael King
@@ -5381,7 +5158,6 @@ Name: Michael King
 Title: Authorized Signatory
 
 [Signature Page to Credit Agreement]
-
 SOCIETE GENERALE, as a Lender and Issuing Bank
 
 |By:|/s/ Kimberly Metzger|
@@ -5390,7 +5166,6 @@ SOCIETE GENERALE, as a Lender and Issuing Bank
 |Title:|Director|
 
 [Signature Page to Credit Agreement]
-
 The Toronto-Dominion Bank, New York Branch, as a Lender and Issuing Bank
 
 |By:|/s/ David Perlman|
@@ -5399,7 +5174,6 @@ The Toronto-Dominion Bank, New York Branch, as a Lender and Issuing Bank
 |Title:|Authorized Signatory|
 
 [Signature Page to Credit Agreement]
-
 Wells Fargo Bank, National Association, as a Lender and Issuing Bank
 
 |By:|/s/ Jonathan D. Beck|
@@ -5408,7 +5182,6 @@ Wells Fargo Bank, National Association, as a Lender and Issuing Bank
 |Title:|Director|
 
 [Signature Page to Credit Agreement]
-
 BANCO SANTANDER, S.A., NEW YORK BRANCH, as a Lender
 
 |By:|/s/ Andres Barbosa|
@@ -5422,7 +5195,6 @@ BANCO SANTANDER, S.A., NEW YORK BRANCH, as a Lender
 |Title:|Executive Director|
 
 [Signature Page to Credit Agreement]
-
 LLOYDS BANK CORPORATE MARKETS PLC, as a Lender
 
 |By:|/s/ Kamala Basdeo|
@@ -5436,7 +5208,6 @@ LLOYDS BANK CORPORATE MARKETS PLC, as a Lender
 |Title:|Assistant Vice President|
 
 [Signature Page to Credit Agreement]
-
 Bank of China Limited, New York Branch, as a Lender
 
 By:        /s/ Raymond Qiao
@@ -5444,7 +5215,6 @@ Name: Raymond Qiao
 Title: Executive Vice President
 
 [Signature Page to Credit Agreement]
-
 Canadian Imperial Bank of Commerce, New York Branch, as a Lender
 
 |By:|/s/ Farhad Merali|
@@ -5453,7 +5223,6 @@ Canadian Imperial Bank of Commerce, New York Branch, as a Lender
 |Title:|Managing Director & Authorized Signatory|
 
 [Signature Page to Credit Agreement]
-
 CREDIT SUISSE AG, New York Branch, as a Lender
 
 |By:|/s/ Doreen Barr|
@@ -5467,7 +5236,6 @@ CREDIT SUISSE AG, New York Branch, as a Lender
 |Title:|Authorized Signatory|
 
 [Signature Page to Credit Agreement]
-
 STANDARD CHARTERED BANK, as a Lender
 
 |By:|/s/ Kristopher Tracy|
@@ -5476,7 +5244,6 @@ STANDARD CHARTERED BANK, as a Lender
 |Title:|Director, Financing Solutions|
 
 [Signature Page to Credit Agreement]
-
 THE BANK OF NOVA SCOTIA, as a Lender
 
 By:
@@ -5488,7 +5255,6 @@ Name: Rolf Schmitz
 Title: Managing Director
 
 [Signature Page to Credit Agreement]
-
 U.S. BANK NATIONAL ASSOCIATION, as a Lender
 
 |By:|/s/ Brett M. Justman|
@@ -5497,7 +5263,6 @@ U.S. BANK NATIONAL ASSOCIATION, as a Lender
 |Title:|Vice President|
 
 [Signature Page to Credit Agreement]
-
 UNICREDIT BANK AG – NEW YORK BRANCH, as a Lender
 
 |By:|/s/ Edward D. Herko|
@@ -5511,7 +5276,6 @@ UNICREDIT BANK AG – NEW YORK BRANCH, as a Lender
 |Title:|Managing Director|
 
 [Signature Page to Credit Agreement]
-
 BANK OF THE WEST, as a Lender
 
 |By:|/s/ Charlene A Davidson|
@@ -5520,7 +5284,6 @@ BANK OF THE WEST, as a Lender
 |Title:|Managing Director|
 
 [Signature Page to Credit Agreement]
-
 THE BANK OF NEW YORK MELLON, as a Lender
 
 |By:|/s/ Tak Cheng|
@@ -5529,7 +5292,6 @@ THE BANK OF NEW YORK MELLON, as a Lender
 |Title:|Vice President|
 
 [Signature Page to Credit Agreement]
-
 BARCLAYS BANK PLC, as a Lender
 
 By:        /s/ Sean Duggan
@@ -5539,7 +5301,6 @@ Name: Sean Duggan
 Title: Director
 
 [Signature Page to Credit Agreement]
-
 |Name of Subsidiary|Jurisdiction of Incorporation or Organization|
 |---|---|
 |Alabama Service LLC|Delaware|
@@ -5597,7 +5358,6 @@ Title: Director
 |Domino Solar Ltd.|Cayman Islands|
 |Dom Solar Limited Partner I, LLC|Delaware|
 |Falconer Solar Manager I, LLC|Delaware|
-
 # Firehorn Solar I, LLC
 
 Cayman Islands
@@ -5841,7 +5601,6 @@ Delaware
 # Mound Solar MT Manager VII, LLC
 
 Delaware
-
 # Mound Solar MT Manager VIII, LLC
 
 Delaware
@@ -6085,7 +5844,6 @@ Delaware
 # Solar Integrated Manager II, LLC
 
 Delaware
-
 # Solar Integrated Manager III, LLC
 
 State
@@ -6390,7 +6148,6 @@ Delaware
 
 State
 Delaware
-
 # Tesla Automation GmbH
 
 Germany
@@ -6632,7 +6389,6 @@ Croatia
 # Tesla Hungary Kft.
 
 Hungary
-
 # Tesla Company Entities
 
 |Company Name|Location|
@@ -6698,7 +6454,6 @@ Hungary
 |Tesla Shanghai Co., Ltd|China|
 |Tesla Spain, S.L. Unipersonal|Spain|
 |Tesla Switzerland GmbH|Switzerland|
-
 |Tesla (Thailand) Ltd.|Thailand|
 |---|---|
 |Tesla TH1 LLC|Delaware|
@@ -6726,7 +6481,6 @@ Hungary
 |Weisshorn Solar I, LLC|Delaware|
 |Weisshorn Solar Manager I, LLC|Delaware|
 |Zep Solar LLC|California|
-
 # Exhibit 23.1
 
 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
@@ -6739,7 +6493,6 @@ San Jose, California
 January 30, 2023
 
 1
-
 # Exhibit 31.1
 
 CERTIFICATIONS
@@ -6767,7 +6520,6 @@ Elon Musk
 Chief Executive Officer
 
 (Principal Executive Officer)
-
 # Exhibit 31.2
 
 CERTIFICATIONS
@@ -6795,7 +6547,6 @@ Zachary J. Kirkhorn
 Chief Financial Officer
 
 (Principal Financial Officer)
-
 # Exhibit 32.1
 
 SECTION 1350 CERTIFICATIONS
@@ -6823,6 +6574,4 @@ Zachary J. Kirkhorn
 Chief Financial Officer
 
 (Principal Financial Officer)
-
-
 

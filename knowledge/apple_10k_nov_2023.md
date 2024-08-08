@@ -57,7 +57,6 @@ Yes ☒ No ☐
 Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
 
 Yes ☒ No ☐
-
 Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
 
 | |Large accelerated filer|☒| |
@@ -84,7 +83,6 @@ The aggregate market value of the voting and non-voting stock held by non-affili
 # DOCUMENTS INCORPORATED BY REFERENCE
 
 Portions of the Registrant’s definitive proxy statement relating to its 2024 annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The Registrant’s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
-
 # Apple Inc.
 
 # Form 10-K
@@ -121,7 +119,6 @@ For the Fiscal Year Ended September 30, 2023
 | | | |Part IV| | |
 |Item 15. Exhibit and Financial Statement Schedules| | | | |54|
 |Item 16. Form 10-K Summary| | | | |57|
-
 # Company Background
 
 The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services. The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
@@ -135,7 +132,6 @@ MacMac® is the Company’s line of personal computers based on its macOS® oper
 iPadiPad® is the Company’s line of multipurpose tablets based on its iPadOS® operating system. The iPad line includes iPad Pro, iPad Air, iPad and iPad mini.
 
 Wearables, Home and AccessoriesWearables includes smartwatches and wireless headphones. The Company’s line of smartwatches, based on its watchOS, includes Watch Ultra™ 2, Apple Watch Series 9 and Apple Watch SE. The Company’s line of wireless headphones includes AirPods, AirPods Pro, AirPods Max and Beats products.Home includes Apple TV, the Company’s media streaming and gaming device based on its tvOS, high-fidelity wireless smart speakers.Accessories includes Apple-branded and third-party accessories.
-
 # Services
 
 Advertising
@@ -171,7 +167,6 @@ The Company’s customers are primarily in the consumer, small and mid-sized bus
 The markets for the Company’s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses. Many of the Company’s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on its intellectual property.
 
 Apple Inc. | 2023 Form 10-K | 2
-
 The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.
 
 The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company’s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. The Company faces significant competition as competitors imitate the Company’s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.
@@ -195,7 +190,6 @@ The Company currently holds a broad collection of intellectual property rights r
 The Company regularly files patent, design, copyright and trademark applications to protect innovations arising from its research, development, design and marketing, and is currently pursuing thousands of applications around the world. Over time, the Company has accumulated a large portfolio of issued and registered intellectual property rights around the world. No single intellectual property right is solely responsible for protecting the Company’s products and services. The Company believes the duration of its intellectual property rights is adequate relative to the expected lives of its products and services.
 
 In addition to Company-owned intellectual property, many of the Company’s products and services are designed to include intellectual property owned by third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company’s products, processes and services. While the Company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.
-
 # Business Seasonality and Product Introductions
 
 The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
@@ -229,7 +223,6 @@ The Company is committed to protecting its team members everywhere it operates. 
 The Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are filed with the U.S. Securities and Exchange Commission (the “SEC”). Such reports and other information filed by the Company with the SEC are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the SEC’s website. The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, information on environmental, social and governance matters, and details related to the Company’s annual meeting of shareholders. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
 
 Apple Inc. | 2023 Form 10-K | 4
-
 # Item 1A. Risk Factors
 
 The Company’s business, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known or unknown, including those described below. When any one or more of these risks materialize from time to time, the Company’s business, reputation, results of operations, financial condition and stock price can be materially and adversely affected.
@@ -253,7 +246,6 @@ The Company’s business can be impacted by political events, trade and other in
 Political events, trade and other international disputes, war, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can harm or disrupt international commerce and the global economy, and could have a material adverse effect on the Company and its customers, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.
 
 Apple Inc. | 2023 Form 10-K | 5
-
 The Company has a large, global business with sales outside the U.S. representing a majority of the Company’s total net sales, and the Company believes that it generally benefits from growth in international trade. Substantially all of the Company’s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan, and Vietnam. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company’s operations and supply chain and limit the Company’s ability to offer and distribute its products and services to customers. The impact can be particularly significant if these restrictive measures apply to countries and regions where the Company derives a significant portion of its revenues and/or has significant supply chain operations. Restrictive measures can require the Company to take various actions, including changing suppliers, restructuring business relationships, and ceasing to offer third-party applications on its platforms. Changing the Company’s operations in accordance with new or changed restrictions on international trade can be expensive, time-consuming and disruptive to the Company’s operations. Such restrictions can be announced with little or no advance notice and the Company may not be able to effectively mitigate all adverse impacts from such measures. For example, tensions between governments, including the U.S. and China, have in the past led to tariffs and other restrictions being imposed on the Company’s business. If disputes and conflicts further escalate in the future, actions by governments in response could be significantly more severe and restrictive and could materially adversely affect the Company’s business. Political uncertainty surrounding trade and other international disputes could also have a negative effect on consumer confidence and spending, which could adversely affect the Company’s business.
 
 Many of the Company’s operations and facilities, as well as critical business operations of the Company’s suppliers and contract manufacturers, are in locations that are prone to earthquakes and other natural disasters. In addition, such operations and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Company’s control. Global climate change is resulting in certain types of natural disasters, such as droughts, floods, hurricanes, and wildfires, occurring more frequently or with more intense effects. Such events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, and result in slowdowns and outages to the Company’s service offerings, and negatively impact consumer spending and demand in affected areas. Following an interruption to its business, the Company can require substantial recovery time, experience significant expenditures to resume operations, and lose significant sales. Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company.
@@ -267,7 +259,6 @@ Global markets for the Company’s products and services are highly competitive 
 The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services, and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications, and related services. As a result, the Company must make significant investments in R&D. There can be no assurance these investments will achieve expected returns, and the Company may not be able to develop and market new products and services successfully.
 
 Apple Inc. | 2023 Form 10-K | 6
-
 The Company currently holds a significant number of patents, trademarks and copyrights and has registered, and applied to register, additional patents, trademarks and copyrights. In contrast, many of the Company’s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company’s products and infringing on its intellectual property. Effective intellectual property protection is not consistently available in every country in which the Company operates. If the Company is unable to continue to develop and sell innovative new products with attractive margins or if competitors infringe on the Company’s intellectual property, the Company’s ability to maintain a competitive advantage could be materially adversely affected.
 
 The Company has a minority market share in the global smartphone, personal computer and tablet markets. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital content supplier relationships. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. Some of the markets in which the Company competes have from time to time experienced little to no growth or contracted overall.
@@ -285,7 +276,6 @@ To remain competitive and stimulate customer demand, the Company must successful
 The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of which are located outside of the U.S. Substantially all of the Company’s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam, and a significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single locations. Changes or additions to the Company’s supply chain require considerable time and resources and involve significant risks and uncertainties. The Company has also outsourced much of its transportation and logistics management. While these arrangements can lower operating costs, they also reduce the Company’s direct control over production and distribution. Such diminished control has from time to time and may in the future have an adverse effect on the quality or quantity of products manufactured or services provided, or adversely affect the Company’s flexibility to respond to changing conditions. Although arrangements with these partners may contain provisions for product defect expense reimbursement, the Company generally remains responsible to the consumer for warranty and out-of-warranty service in the event of product defects and experiences unanticipated product defect liabilities from time to time. While the Company relies on its partners to adhere to its supplier code of conduct, violations of the supplier code of conduct occur from time to time and can materially adversely affect the Company’s business, reputation, results of operations and financial condition.
 
 Apple Inc. | 2023 Form 10-K | 7
-
 The Company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture many components, and on outsourcing partners primarily located in Asia, for final assembly of substantially all of the Company’s hardware products. Any failure of these partners to perform can have a negative impact on the Company’s cost or supply of components or finished goods. In addition, manufacturing or logistics in these locations or transit to final destinations can be disrupted for a variety of reasons, including natural and man-made disasters, information technology system failures, commercial disputes, armed conflict, economic, business, labor, environmental, public health or political issues, or international trade disputes.
 
 The Company has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, and has made prepayments to certain of its suppliers associated with long-term supply agreements. While these arrangements help ensure the supply of components and finished goods, if these outsourcing partners or suppliers experience severe financial problems or other disruptions in their business, such continued supply can be reduced or terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted.
@@ -297,7 +287,6 @@ The Company’s new products often utilize custom components available from only
 The Company’s products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company’s business and result in harm to the Company’s reputation. The Company offers complex hardware and software products and services that can be affected by design and manufacturing defects. Sophisticated operating system software and applications, such as those offered by the Company, often have issues that can unexpectedly interfere with the intended operation of hardware or software products and services. Defects can also exist in components and products the Company purchases from third parties. Component defects could make the Company’s products unsafe and create a risk of environmental or property damage and personal injury. These risks may increase as the Company’s products are introduced into specialized applications, including health. In addition, the Company’s service offerings can have quality issues and from time to time experience outages, service slowdowns or errors. As a result, from time to time the Company’s services have not performed as anticipated and may not meet customer expectations. There can be no assurance the Company will be able to detect and fix all issues and defects in the hardware, software and services it offers. Failure to do so can result in widespread technical and performance issues affecting the Company’s products and services. In addition, the Company can be exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, property, plant and equipment or intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines. Quality problems can also adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.
 
 Apple Inc. | 2023 Form 10-K | 8
-
 The Company is exposed to the risk of write-downs on the value of its inventory and other assets, in addition to purchase commitment cancellation risk. The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand, or for which cost exceeds net realizable value. The Company also accrues necessary cancellation fee reserves for orders of excess products and components. The Company reviews long-lived assets, including capital assets held at its suppliers’ facilities and inventory prepayments, for impairment whenever events or circumstances indicate the assets may not be recoverable. If the Company determines that an impairment has occurred, it records a write-down equal to the amount by which the carrying value of the asset exceeds its fair value. Although the Company believes its inventory, capital assets, inventory prepayments and other assets and purchase commitments are currently recoverable, there can be no assurance the Company will not incur write-downs, fees, impairments and other charges given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes.
 
 The Company orders components for its products and builds inventory in advance of product announcements and shipments. Manufacturing purchase obligations cover the Company’s forecasted component and manufacturing requirements, typically for periods up to 150 days. Because the Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a risk the Company will forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully utilize firm purchase commitments.
@@ -313,7 +302,6 @@ The Company’s minority market share in the global smartphone, personal compute
 The Company relies on the continued availability and development of compelling and innovative software applications for its products. The Company’s products and operating systems are subject to rapid technological change, and when third-party developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these changes to deliver improved customer experiences, can operate incorrectly, and can result in dissatisfied customers and lower customer demand for the Company’s products.
 
 Apple Inc. | 2023 Form 10-K | 9
-
 The Company distributes third-party applications for its products through the App Store. For the vast majority of applications, developers keep all of the revenue they generate on the App Store. The Company retains a commission from sales of applications and sales of digital services or goods initiated within an application. From time to time, the Company has made changes to its App Store, including actions taken in response to competition, market conditions and legal and regulatory requirements. The Company expects to make further business changes in the future, including as a result of legislative initiatives impacting the App Store, such as the European Union (“EU”) Digital Markets Act, which the Company is required to comply with by March 2024. The Company is also subject to litigation and investigations relating to the App Store, which have resulted in changes to the Company’s business practices, and may in the future result in further changes. Changes have included how developers communicate with consumers outside the App Store regarding alternative purchasing mechanisms. Future changes could also affect what the Company charges developers for access to its platforms, how it manages distribution of apps outside of the App Store, and how and to what extent it allows developers to communicate with consumers inside the App Store regarding alternative purchasing mechanisms. This could reduce the volume of sales, and the commission that the Company earns on those sales, would decrease. If the rate of the commission that the Company retains on such sales is reduced, or if it is otherwise narrowed in scope or eliminated, the Company’s business, results of operations and financial condition could be materially adversely affected.
 
 Failure to obtain or create digital content that appeals to the Company’s customers, or to make such content available on commercially reasonable terms, could have a material adverse impact on the Company’s business, results of operations and financial condition. The Company contracts with numerous third parties to offer their digital content to customers. This includes the right to sell, or offer subscriptions to, third-party content, as well as the right to incorporate specific content into the Company’s own services. The licensing or other distribution arrangements for this content can be for relatively short time periods and do not guarantee the continuation or renewal of these arrangements on commercially reasonable terms, or at all. Some third-party content providers and distributors currently or in the future may offer competing products and services, and can take actions to make it difficult or impossible for the Company to license or otherwise distribute their content. Other content owners, providers or distributors may seek to limit the Company’s access to, or increase the cost of, such content. The Company may be unable to continue to offer a wide variety of content at commercially reasonable prices with acceptable usage rules.
@@ -331,7 +319,6 @@ The Company depends on the performance of carriers, wholesalers, retailers and o
 Some carriers providing cellular network service for the Company’s products offer financing, installment payment plans or subsidies for users’ purchases of the device. There can be no assurance such offers will be continued at all or in the same amounts.
 
 Apple Inc. | 2023 Form 10-K | 10
-
 The Company has invested and will continue to invest in programs to enhance reseller sales, including staffing selected resellers’ stores with Company employees and contractors, and improving product placement displays. These programs can require a substantial investment while not assuring return or incremental sales. The financial condition of these resellers could weaken, these resellers could stop distributing the Company’s products, or uncertainty regarding demand for some or all of the Company’s products could cause resellers to reduce their ordering and marketing of the Company’s products.
 
 The Company’s business and reputation are impacted by information technology system failures and network disruptions. The Company and its global supply chain are dependent on complex information technology systems and are exposed to information technology system failures or network disruptions caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions. System upgrades, redundancy and other continuity measures may be ineffective or inadequate, and the Company’s or its vendors’ business continuity and disaster recovery planning may not be sufficient for all eventualities. Such failures or disruptions can adversely impact the Company’s business by, among other things, preventing access to the Company’s online services, interfering with customer transactions or impeding the manufacturing and shipping of the Company’s products. These events could materially adversely affect the Company’s business, reputation, results of operations and financial condition.
@@ -347,7 +334,6 @@ Although malicious attacks perpetrated to gain access to confidential informatio
 The Company has implemented systems and processes intended to secure its information technology systems and prevent unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of encryption and authentication technologies. As with all companies, these security measures may not be sufficient for all eventualities and may be vulnerable to hacking, ransomware attacks, employee error, malfeasance, system error, faulty password management or other irregularities. For example, third parties can fraudulently induce the Company’s or its vendors’ employees or customers into disclosing usernames, passwords or other sensitive information, which can, in turn, be used for unauthorized access to the Company’s or its vendors’ systems and services. To help protect customers and the Company, the Company deploys and makes available technologies like multifactor authentication, monitors its services and systems for unusual activity and may freeze accounts under suspicious circumstances, which, among other things, can result in the delay or loss of customer orders or impede customer access to the Company’s products and services.
 
 While the Company maintains insurance coverage that is intended to address certain aspects of data security risks, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
-
 # Investment Risks
 
 Investment in new business strategies and acquisitions could disrupt the Company’s ongoing business, present risks not originally contemplated and materially adversely affect the Company’s business, reputation, results of operations, and financial condition. The Company has invested, and in the future may invest, in new business strategies or acquisitions. Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic, political, legal, and regulatory challenges associated with operating in new businesses, regions, or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs. Investment and acquisition transactions are exposed to additional risks, including failing to obtain required regulatory approvals on a timely basis or at all, or the imposition of onerous conditions that could delay or prevent the Company from completing a transaction or otherwise limit the Company’s ability to fully realize the anticipated benefits of a transaction. These new ventures are inherently risky and may not be successful. The failure of any significant investment could materially adversely affect the Company’s business, reputation, results of operations, and financial condition.
@@ -367,7 +353,6 @@ The Company has faced and continues to face a significant number of patent claim
 # Insurance Coverage
 
 While the Company maintains insurance coverage for certain types of claims, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
-
 The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased costs and other adverse effects on the Company’s business.
 
 The Company’s global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services and technology; product liability; intellectual property ownership and infringement; digital platforms; machine learning and artificial intelligence; internet, telecommunications and mobile communications; media, television, film and digital content; availability of third-party software applications and services; labor and employment; anticorruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti–money laundering; foreign ownership and investment; tax; and environmental, health and safety, including electronic waste, recycling, product design and climate change.
@@ -383,7 +368,6 @@ The technology industry, including, in some instances, the Company, is subject t
 From time to time, the Company has made changes to its App Store, including actions taken in response to litigation, competition, market conditions and legal and regulatory requirements. The Company expects to make further business changes in the future, including as a result of legislative initiatives impacting the App Store, such as the EU Digital Markets Act, which the Company is required to comply with by March 2024, or similar laws in other jurisdictions. Changes have included how developers communicate with consumers outside the App Store regarding alternative purchasing mechanisms. Future changes could also affect what the Company charges developers for access to its platforms, how it manages distribution of apps outside of the App Store, and how and to what extent it allows developers to communicate with consumers inside the App Store regarding alternative purchasing mechanisms.
 
 Apple Inc. | 2023 Form 10-K | 13
-
 The Company is also currently subject to antitrust investigations in various jurisdictions around the world, which can result in legal proceedings and claims against the Company that could, individually or in the aggregate, have a materially adverse impact on the Company’s business, results of operations and financial condition. For example, the Company is the subject of investigations in Europe and other jurisdictions relating to App Store terms and conditions. If such investigations result in adverse findings against the Company, the Company could be exposed to significant fines and may be required to make changes to its App Store business, all of which could materially adversely affect the Company’s business, results of operations and financial condition. The Company is also subject to litigation relating to the App Store, which has resulted in changes to the Company’s business practices, and may in the future result in further changes.
 
 Further, the Company has commercial relationships with other companies in the technology industry that are or may become subject to investigations and litigation that, if resolved against those other companies, could materially adversely affect the Company’s commercial relationships with those business partners and materially adversely affect the Company’s business, results of operations and financial condition. For example, the Company earns revenue from licensing arrangements with other companies to offer their search services on the Company’s platforms and applications, and certain of these arrangements are currently subject to government investigations and legal proceedings.
@@ -399,7 +383,6 @@ In addition to the risks generally relating to the collection, use, retention, s
 Payment card data is also subject to additional requirements. Under payment card rules and obligations, if cardholder information is potentially compromised, the Company can be liable for associated investigatory expenses and can also incur significant fees and fines if the Company fails to follow payment card industry data security standards. The Company could also experience a significant increase in payment card transaction costs or lose the ability to process payment cards if it fails to follow payment card industry data security standards, which could materially adversely affect the Company’s business, reputation, results of operations and financial condition.
 
 Apple Inc. | 2023 Form 10-K | 14
-
 # Financial Risks
 
 The Company expects its quarterly net sales and results of operations to fluctuate. The Company’s profit margins vary across its products, services, geographic segments, and distribution channels. For example, the gross margins on the Company’s products and services vary significantly and can change over time. The Company’s gross margins are subject to volatility and downward pressure due to a variety of factors, including:
@@ -425,7 +408,6 @@ The Company’s financial performance is subject to risks associated with change
 The Company uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to fluctuations in foreign exchange rates. The use of such hedging activities may not be effective to offset any, or more than a portion, of the adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place.
 
 The Company is exposed to credit risk and fluctuations in the values of its investment portfolio. The Company’s investments can be negatively affected by changes in liquidity, credit deterioration, financial results, market and economic conditions, political risk, sovereign risk, interest rate fluctuations, or other factors. As a result, the value and liquidity of the Company’s cash, cash equivalents, and marketable securities may fluctuate substantially. Therefore, although the Company has not realized any significant losses on its cash, cash equivalents, and marketable securities, future fluctuations in their value could result in significant losses and could have a material adverse impact on the Company’s results of operations and financial condition.
-
 # The Company's Credit Risk Exposure
 
 The Company is exposed to credit risk on its trade accounts receivable, vendor non-trade receivables, and prepayments related to long-term supply agreements. This risk is heightened during periods of economic downturn. The Company distributes its products and services through various channels, including third-party cellular network carriers, wholesalers, retailers, resellers, small and mid-sized businesses, education, enterprise, and government customers.
@@ -453,7 +435,6 @@ None.
 Not applicable.
 
 Apple Inc. | 2023 Form 10-K | 16
-
 # Item 2. Properties
 
 The Company’s headquarters is located in Cupertino, California. As of September 30, 2023, the Company owned or leased facilities and land for corporate functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S. The Company believes its existing facilities and equipment, which are used by all reportable segments, are in good operating condition and are suitable for the conduct of its business.
@@ -477,7 +458,6 @@ The Company is subject to other legal proceedings and claims that have not been 
 Not applicable.
 
 Apple Inc. | 2023 Form 10-K | 17
-
 # Part II
 
 Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
@@ -506,7 +486,6 @@ Share repurchase activity during the three months ended September 30, 2023 was a
 (2) In August 2023, the Company entered into new accelerated share repurchase agreements (“ASRs”). Under the terms of the ASRs, two financial institutions committed to deliver shares of the Company’s common stock during the purchase periods in exchange for up-front payments totaling $5.0 billion. The total number of shares ultimately delivered under the ASRs, and therefore the average repurchase price paid per share, is determined based on the volume-weighted average price of the Company’s common stock during the ASRs’ purchase periods, which end in the first quarter of 2024.
 
 Apple Inc. | 2023 Form 10-K | 18
-
 # Company Stock Performance
 
 The following graph shows a comparison of five-year cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index and the Dow Jones U.S. Technology Supersector Index. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 28, 2018. Past stock price performance is not necessarily indicative of future stock price performance.
@@ -520,7 +499,6 @@ The following graph shows a comparison of five-year cumulative total shareholder
 Item 6. [Reserved]
 
 Apple Inc. | 2023 Form 10-K | 19
-
 # Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 
 The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K. This Item generally discusses 2023 and 2022 items and year-to-year comparisons between 2023 and 2022. Discussions of 2021 items and year-to-year comparisons between 2022 and 2021 are not included, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended September 24, 2022.
@@ -566,7 +544,6 @@ In May 2023, the Company announced a new share repurchase program of up to $90 b
 Macroeconomic conditions, including inflation, changes in interest rates, and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company’s results of operations and financial condition.
 
 Apple Inc. | 2023 Form 10-K | 20
-
 # Segment Operating Performance
 
 | |2023|Change|2022|Change|2021|
@@ -599,7 +576,6 @@ Japan net sales decreased 7% or $1.7 billion during 2023 compared to 2022. The w
 Rest of Asia Pacific net sales increased 1% or $240 million during 2023 compared to 2022. The weakness in foreign currencies relative to the U.S. dollar had a significantly unfavorable year-over-year impact on Rest of Asia Pacific net sales. The net sales increase consisted of higher net sales of iPhone and Services, partially offset by lower net sales of Mac and iPad.
 
 Apple Inc. | 2023 Form 10-K | 21
-
 # Products and Services Performance
 
 | |2023|Change|2022|Change|2021|
@@ -636,7 +612,6 @@ Wearables, Home and Accessories net sales decreased 3% or $1.4 billion during 20
 Services net sales increased 9% or $7.1 billion during 2023 compared to 2022 due to higher net sales across all lines of business.
 
 Apple Inc. | 2023 Form 10-K | 22
-
 # Gross Margin
 
 | |2023|2022|2021|
@@ -685,7 +660,6 @@ The year-over-year growth in R&D expense in 2023 was driven primarily by increas
 # Selling, General and Administrative
 
 Selling, general and administrative expense was relatively flat in 2023 compared to 2022.
-
 # Provision for Income Taxes
 
 | |2023|2022|2021|
@@ -725,7 +699,6 @@ The Company’s other purchase obligations primarily consist of noncancelable ob
 # Deemed Repatriation Tax Payable
 
 As of September 30, 2023, the balance of the deemed repatriation tax payable imposed by the U.S. Tax Cuts and Jobs Act of 2017 (the “Act”) was $22.0 billion, with $6.5 billion expected to be paid within 12 months.
-
 # Capital Return Program
 
 In addition to its contractual cash requirements, the Company has an authorized share repurchase program. The program does not obligate the Company to acquire a minimum amount of shares. As of September 30, 2023, the Company’s quarterly cash dividend was $0.24 per share. The Company intends to increase its dividend on an annual basis, subject to declaration by the Board of Directors.
@@ -743,7 +716,6 @@ The Company is subject to income taxes in the U.S. and numerous foreign jurisdic
 The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. Resolution of legal matters in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results.
 
 Apple Inc. | 2023 Form 10-K | 25
-
 # Item 7A. Quantitative and Qualitative Disclosures About Market Risk
 
 The Company is exposed to economic risk from interest rates and foreign exchange rates. The Company uses various strategies to manage these risks; however, they may still impact the Company’s consolidated financial statements.
@@ -762,7 +734,6 @@ The Company is primarily exposed to fluctuations in U.S. interest rates and thei
 The Company’s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other than the U.S. dollar. Changes in exchange rates, and in particular a strengthening of the U.S. dollar, will negatively affect the Company’s net sales and gross margins as expressed in U.S. dollars. Fluctuations in exchange rates may also affect the fair values of certain of the Company’s assets and liabilities. To protect against foreign exchange rate risk, the Company may use derivative instruments, offset exposures, or adjust local currency pricing of its products and services. However, the Company may choose to not hedge certain foreign currency exposures for a variety of reasons, including accounting considerations or prohibitive cost.
 
 The Company applied a value-at-risk (“VAR”) model to its foreign currency derivative positions to assess the potential impact of fluctuations in exchange rates. The VAR model used a Monte Carlo simulation. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $669 million and $1.0 billion as of September 30, 2023 and September 24, 2022, respectively. Changes in the Company’s underlying foreign currency exposures, which were excluded from the assessment, generally offset changes in the fair values of the Company’s foreign currency derivatives.
-
 # Item 8. Financial Statements and Supplementary Data
 
 |Index to Consolidated Financial Statements|Page|
@@ -780,7 +751,6 @@ Reports of Independent Registered Public Accounting Firm
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes.
 
 Apple Inc. | 2023 Form 10-K | 27
-
 # Apple Inc.
 
 **CONSOLIDATED STATEMENTS OF OPERATIONS (In millions, except number of shares, which are reflected in thousands, and per-share amounts)**
@@ -814,7 +784,6 @@ Apple Inc. | 2023 Form 10-K | 27
 See accompanying Notes to Consolidated Financial Statements.
 
 Apple Inc. | 2023 Form 10-K | 28
-
 # Apple Inc.
 
 **CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (In millions)**
@@ -837,7 +806,6 @@ Apple Inc. | 2023 Form 10-K | 28
 See accompanying Notes to Consolidated Financial Statements.
 
 Apple Inc. | 2023 Form 10-K | 29
-
 # Apple Inc.
 
 # CONSOLIDATED BALANCE SHEETS
@@ -889,7 +857,6 @@ Commitments and contingencies
 See accompanying Notes to Consolidated Financial Statements.
 
 Apple Inc. | 2023 Form 10-K | 30
-
 # Apple Inc.
 
 **CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (In millions, except per-share amounts)**
@@ -919,7 +886,6 @@ Apple Inc. | 2023 Form 10-K | 30
 See accompanying Notes to Consolidated Financial Statements.
 
 Apple Inc. | 2023 Form 10-K | 31
-
 # Apple Inc.
 
 | |September 30, 2023|September 24, 2022|September 25, 2021|
@@ -967,7 +933,6 @@ Cash paid for interest: $3,803 (2023), $2,865 (2022), $2,687 (2021)
 See accompanying Notes to Consolidated Financial Statements.
 
 Apple Inc. | 2023 Form 10-K | 32
-
 # Apple Inc.
 
 # Notes to Consolidated Financial Statements
@@ -1017,7 +982,6 @@ Leases
 The Company combines and accounts for lease and nonlease components as a single lease component for leases of corporate, data center and retail facilities.
 
 Apple Inc. | 2023 Form 10-K | 33
-
 # Note 2 – Revenue
 
 The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers. Control is generally transferred when the Company has a present right to payment and title and the significant risks and rewards of ownership of products or services are transferred to its customers. For most of the Company’s Products net sales, control transfers when products are shipped. For the Company’s Services net sales, control transfers over time as services are delivered. Payment for Products and Services net sales is collected within a short period following transfer of control or commencement of delivery of services, as applicable.
@@ -1033,7 +997,6 @@ For certain long-term service arrangements, the Company has performance obligati
 For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products, including evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for all third-party application–related sales on a net basis by recognizing in Services net sales only the commission it retains.
 
 Apple Inc. | 2023 Form 10-K | 34
-
 # Net Sales Disaggregated by Significant Products and Services
 
 | |2023|2022|2021|
@@ -1068,7 +1031,6 @@ As of September 30, 2023 and September 24, 2022, the Company had total deferred 
 |Diluted Earnings Per Share|$6.13|$6.11|$5.61|
 
 Approximately 24 million restricted stock units (“RSUs”) were excluded from the computation of diluted earnings per share for 2023 because their effect would have been antidilutive.
-
 # Financial Instruments
 
 | |Adjusted Cost|Unrealized Gains|Unrealized Losses|Fair Value|Cash Equivalents|Current Marketable Securities|Non-Current Marketable Securities|
@@ -1112,7 +1074,6 @@ Approximately 24 million restricted stock units (“RSUs”) were excluded from 
 (1) The valuation techniques used to measure the fair values of the Company’s Level 2 financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
 
 (2) As of September 30, 2023 and September 24, 2022, total marketable securities included $13.8 billion and $12.7 billion, respectively, that were restricted from general use, related to the State Aid Decision (refer to Note 7, “Income Taxes”) and other agreements.
-
 # The following table shows the fair value of the Company’s non-current marketable debt securities, by contractual maturity, as of September 30, 2023 (in millions):
 
 |Due after 1 year through 5 years|$74,427|
@@ -1148,7 +1109,6 @@ The notional amounts of the Company’s outstanding derivative instruments as of
 |Derivative instruments designated as accounting hedges:|Foreign exchange contracts|$74,730|$102,670|
 | |Interest rate contracts|$19,375|$20,125|
 |Derivative instruments not designated as accounting hedges:|Foreign exchange contracts|$104,777|$185,381|
-
 # The gross fair values of the Company’s derivative assets and liabilities as of September 24, 2022 were as follows (in millions):
 
 | |Fair Value of Derivatives Designated as Accounting Hedges|Fair Value of Derivatives Not Designated as Accounting Hedges|Total Fair Value|
@@ -1179,7 +1139,6 @@ As of September 24, 2022, the Company had one customer that represented 10% or m
 Vendor Non-Trade Receivables
 
 The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. The Company does not reflect the sale of these components in products net sales. Rather, the Company recognizes any gain on these sales as a reduction of products cost of sales when the related final products are sold by the Company. As of September 30, 2023, the Company had two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 48% and 23%. As of September 24, 2022, the Company had two vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 54% and 13%.
-
 # Note 5 – Property, Plant and Equipment
 
 | |2023|2022|
@@ -1227,7 +1186,6 @@ Depreciation expense on property, plant and equipment was $8.5 billion, $8.7 bil
 |Interest expense|($3,933)|($2,931)|($2,645)|
 |Other income/(expense), net|($382)|($228)|$60|
 |Total other income/(expense), net|($565)|($334)|$258|
-
 # Note 7 – Income Taxes
 
 Provision for Income Taxes and Effective Tax Rate
@@ -1268,7 +1226,6 @@ A reconciliation of the provision for income taxes to the amount computed by app
 |Effective tax rate|14.7%|16.2%|13.3%|
 
 Apple Inc. | 2023 Form 10-K | 40
-
 # Deferred Tax Assets and Liabilities
 
 | |2023|2022|
@@ -1312,7 +1269,6 @@ As of September 30, 2023, the total amount of gross unrecognized tax benefits wa
 The Company is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. Tax years after 2017 for the U.S. federal jurisdiction, and after 2014 in certain major foreign jurisdictions, remain subject to examination. Although the timing of resolution or closure of examinations is not certain, the Company believes it is reasonably possible that its gross unrecognized tax benefits could decrease in the next 12 months by as much as $4.5 billion.
 
 Apple Inc. | 2023 Form 10-K | 41
-
 # European Commission State Aid Decision
 
 On August 30, 2016, the European Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the “State Aid Decision”). The State Aid Decision ordered Ireland to calculate and recover additional taxes from the Company for the period June 2003 through December 2014. Irish legislative changes, effective as of January 2015, eliminated the application of the tax opinions from that date forward. The recovery amount was calculated to be €13.1 billion, plus interest of €1.2 billion. The Company and Ireland appealed the State Aid Decision to the General Court of the Court of Justice of the European Union (the “General Court”). On July 15, 2020, the General Court annulled the State Aid Decision. On September 25, 2020, the European Commission appealed the General Court’s decision to the European Court of Justice (the “ECJ”) and a hearing was held on May 23, 2023. A decision from the ECJ is expected in calendar year 2024. The Company believes it would be eligible to claim a U.S. foreign tax credit for a portion of any incremental Irish corporate income taxes potentially due related to the State Aid Decision.
@@ -1340,7 +1296,6 @@ The Company made $1.9 billion, $1.8 billion and $1.4 billion of fixed cash payme
 |Total lease liabilities| |$12,842|$12,411|
 
 Apple Inc. | 2023 Form 10-K | 42
-
 # Lease liability maturities as of September 30, 2023, are as follows (in millions):
 
 | |Operating Leases|Finance Leases|Total|
@@ -1376,7 +1331,6 @@ The Company issues unsecured short-term promissory notes pursuant to a commercia
 |Repayments of commercial paper|$2,645|$7,257|$6,567|
 |Proceeds from/(Repayments of) commercial paper, net|($2,645)|($1,309)|$1,379|
 |Total proceeds from/(repayments of) commercial paper, net|($3,978)|$3,955|$1,022|
-
 # Term Debt
 
 The Company has outstanding Notes, which are senior unsecured obligations with interest payable in arrears. The following table provides a summary of the Company’s term debt as of September 30, 2023 and September 24, 2022:
@@ -1413,7 +1367,6 @@ Share Repurchase Program
 During 2023, the Company repurchased 471 million shares of its common stock for $76.6 billion, excluding excise tax due under the Inflation Reduction Act of 2022. The Company’s share repurchase programs do not obligate the Company to acquire a minimum amount of shares. Under the programs, shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
 
 Apple Inc. | 2023 Form 10-K | 44
-
 # Shares of Common Stock
 
 | |2023|2022|2021|
@@ -1454,7 +1407,6 @@ The Apple Inc. 2014 Employee Stock Plan (the “2014 Plan”) is a shareholder-a
 The fair value as of the respective vesting dates of RSUs was $15.9 billion, $18.2 billion and $19.0 billion for 2023, 2022 and 2021, respectively. The majority of RSUs that vested in 2023, 2022 and 2021 were net share settled such that the Company withheld shares with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and remitted the cash to the appropriate taxing authorities. The total shares withheld were approximately 37 million, 41 million and 53 million for 2023, 2022 and 2021, respectively, and were based on the value of the RSUs on their respective vesting dates as determined by the Company’s closing stock price. Total payments to taxing authorities for employees’ tax obligations were $5.6 billion, $6.4 billion and $6.8 billion in 2023, 2022 and 2021, respectively.
 
 Apple Inc. | 2023 Form 10-K | 45
-
 # Share-Based Compensation
 
 | |2023|2022|2021|
@@ -1487,7 +1439,6 @@ The Company uses some custom components that are not commonly used by its compet
 Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in China mainland, India, Japan, South Korea, Taiwan, and Vietnam.
 
 Apple Inc. | 2023 Form 10-K | 46
-
 # Note 13 – Segment Information and Geographic Data
 
 The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region.
@@ -1519,7 +1470,6 @@ A reconciliation of the Company’s segment operating income to the Consolidated
 (1) Includes corporate marketing expenses, certain share-based compensation expenses, various nonrecurring charges, and other separately managed general and administrative costs.
 
 Apple Inc. | 2023 Form 10-K | 47
-
 # Net Sales and Long-Lived Assets
 
 | |2023|2022|2021|
@@ -1537,7 +1487,6 @@ Apple Inc. | 2023 Form 10-K | 47
 |Other countries|$43,715|$42,117|
 
 (1) China includes Hong Kong and Taiwan.
-
 # Report of Independent Registered Public Accounting Firm
 
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -1561,7 +1510,6 @@ The critical audit matter communicated below is a matter arising from the curren
 Uncertain Tax PositionsDescription of the MatterAs discussed in Note 7 to the financial statements, Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. As of September 30, 2023, the total amount of gross unrecognized tax benefits was $19.5 billion, of which $9.5 billion, if recognized, would impact Apple Inc.’s effective tax rate. In accounting for some of the uncertain tax positions, Apple Inc. uses significant judgment in the interpretation and application of complex domestic and international tax laws.Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.
 
 Apple Inc. | 2023 Form 10-K | 49
-
 How We Addressed the Matter in Our Audit
 
 We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions, and the development of the related disclosures.
@@ -1577,7 +1525,6 @@ San Jose, California
 November 2, 2023
 
 Apple Inc. | 2023 Form 10-K | 50
-
 # Report of Independent Registered Public Accounting Firm
 
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -1609,7 +1556,6 @@ San Jose, California
 November 2, 2023
 
 Apple Inc. | 2023 Form 10-K | 51
-
 # Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 
 None.
@@ -1640,7 +1586,6 @@ The Company’s management is responsible for establishing and maintaining adequ
 There were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2023, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
 
 Apple Inc. | 2023 Form 10-K | 52
-
 # Item 9B. Other Information
 
 Insider Trading Arrangements
@@ -1674,7 +1619,6 @@ The information required by this Item will be included in the 2024 Proxy Stateme
 The information required by this Item will be included in the 2024 Proxy Statement, and is incorporated herein by reference.
 
 Apple Inc. | 2023 Form 10-K | 53
-
 # Part IV
 
 # Item 15. Exhibit and Financial Statement Schedules
@@ -1716,7 +1660,6 @@ All financial statement schedules have been omitted, since the required informat
 |4.9|Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.|8-K|4.1|9/17/15|
 
 Apple Inc. | 2023 Form 10-K | 54
-
 |Exhibit Number|Exhibit Description|Form|Exhibit|Date|
 |---|---|---|---|---|
 |4.10|Officer’s Certificate of the Registrant, dated as of February 23, 2016, including forms of global notes representing the Floating Rate Notes due 2019, Floating Rate Notes due 2021, 1.300% Notes due 2018, 1.700% Notes due 2019, 2.250% Notes due 2021, 2.850% Notes due 2023, 3.250% Notes due 2026, 4.500% Notes due 2036 and 4.650% Notes due 2046.|8-K|4.1|2/23/16|
@@ -1738,7 +1681,6 @@ Apple Inc. | 2023 Form 10-K | 54
 |4.26|Officer’s Certificate of the Registrant, dated as of August 5, 2021, including forms of global notes representing the 1.400% Notes due 2028, 1.700% Notes due 2031, 2.700% Notes due 2051 and 2.850% Notes due 2061.|8-K|4.1|8/5/21|
 |4.27|Indenture, dated as of October 28, 2021, between the Registrant and The Bank of New York Mellon Trust Company, N.A., as Trustee.|S-3|4.1|10/29/21|
 |4.28|Officer’s Certificate of the Registrant, dated as of August 8, 2022, including forms of global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032, 3.950% Notes due 2052 and 4.100% Notes due 2062.|8-K|4.1|8/8/22|
-
 # Exhibit Information
 
 |Exhibit Number|Exhibit Description|Form|Exhibit|Date|
@@ -1774,7 +1716,6 @@ Apple Inc. | 2023 Form 10-K | 54
 |101**|Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.| | | |
 
 Apple Inc. | 2023 Form 10-K | 56
-
 |Exhibit Number|Exhibit Description|Form|Exhibit Date|
 |---|---|---|---|
 |104**|Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set.| | |
@@ -1792,7 +1733,6 @@ Apple Inc. | 2023 Form 10-K | 56
 None.
 
 Apple Inc. | 2023 Form 10-K | 57
-
 # SIGNATURES
 
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -1828,7 +1768,6 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, this report
 |Susan L. Wagner|Director|November 2, 2023|
 
 Apple Inc. | 2023 Form 10-K | 58
-
 # Exhibit 4.1
 
 # DESCRIPTION OF THE REGISTRANT’S SECURITIES REGISTERED PURSUANT TO SECTION 12 OF THE SECURITIES EXCHANGE ACT OF 1934
@@ -1865,7 +1804,6 @@ The Company’s entire Board of Directors or any individual director may be remo
 Vacancies created by the removal of a director must be filled only by approval of the shareholders, or by the unanimous written consent of all shares entitled to vote. The shareholders may elect a director at any time to fill a vacancy not filled by the directors, but any such election by written consent, other than to fill a vacancy created by removal, requires the consent of a majority of the outstanding shares entitled to vote thereon.
 
 An amendment of the Bylaws or the Articles may be adopted by the vote of the majority of the outstanding shares entitled to vote. Any amendment of the Bylaws specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa may only be adopted by the shareholders; provided, however, that an amendment of the Bylaws or the Articles reducing the fixed number or the minimum number of directors to less than five cannot be adopted if the votes cast against its adoption are equal to more than 16 2/3% of the outstanding shares entitled to vote.
-
 Any shareholders’ meeting may be adjourned from time to time by the vote of a majority of the shares present in person or represented by proxy.
 
 Dividends
@@ -1895,7 +1833,6 @@ In addition, as a California corporation, the Company is subject to the provisio
 Listing
 
 The Company’s Common Stock is listed on The Nasdaq Stock Market LLC under the trading symbol “AAPL.”
-
 # DESCRIPTION OF DEBT SECURITIES
 
 The following description of the Notes is a summary and does not purport to be complete. This description is qualified in its entirety by reference, as applicable, to the Indenture, dated as of April 29, 2013, between Apple Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (the “2013 Indenture”) and the Indenture, dated as of November 5, 2018, between Apple Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (the “2018 Indenture,” and together with the 2013 Indenture, the “Indentures”). References in this section to the “Company,” “us,” “we” and “our” are solely to Apple Inc. and not to any of its subsidiaries, unless the context requires otherwise.
@@ -1923,7 +1860,6 @@ We issued €1,400,000,000 aggregate principal amount of the 2026 Notes on Novem
 # The 2027 Notes
 
 We issued €1,000,000,000 aggregate principal amount of the 2027 Notes on September 17, 2015. The maturity date of the 2027 Notes is September 17, 2027, and interest at a rate of 2.000% per annum is paid annually on September 17 of each year, beginning on September 17, 2016, and on the maturity date. As of October 20, 2023, €1,000,000,000 aggregate principal amount of the 2027 Notes was outstanding.
-
 # The 1.375% 2029 Notes
 
 We issued €1,250,000,000 aggregate principal amount of the 1.375% 2029 Notes on May 24, 2017. The maturity date of the 1.375% 2029 Notes is May 24, 2029, and interest at a rate of 1.375% per annum is paid annually on May 24 of each year, beginning on May 24, 2018, and on the maturity date. As of October 20, 2023, €1,250,000,000 aggregate principal amount of the 1.375% 2029 Notes was outstanding.
@@ -1947,7 +1883,6 @@ The Notes are our senior unsecured indebtedness and rank equally with each other
 # Payment on the Notes
 
 All payments of principal of, the redemption price (if any), and interest and additional amounts (if any) on the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes are payable in euro, provided that, if the euro is unavailable to the Company due to the imposition of exchange controls or other circumstances beyond the Company’s control, or if the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes will be made in U.S. dollars, until the euro is again available to the Company or so used. The amount payable on any date in euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes so made in U.S. dollars will not constitute an event of default under such Notes or the applicable Indenture.
-
 With respect to the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, “Business Day” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
 
 All payments of principal of, the redemption price (if any), and interest and additional amounts (if any) on the 3.050% 2029 Notes and the 2042 Notes are payable in pounds sterling, or, if the United Kingdom adopts euro as its lawful currency, in euro. If pounds sterling or, in the event the Notes are redenominated into euro, euro is unavailable to the Company due to the imposition of exchange controls or other circumstances beyond the Company’s control or, in the event the notes are redenominated into euro, the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the 3.050% 2029 Notes and the 2042 Notes will be made in U.S. dollars until the pound sterling or euro, as the case may be, is again available to the Company or so used. The amount payable on any date in pounds sterling or, in the event such Notes are redenominated into euro, euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/pounds sterling or, in the event the Notes are redenominated into euro, the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the 3.050% 2029 Notes and the 2042 Notes so made in U.S. dollars will not constitute an event of default under such Notes or the 2013 Indenture.
@@ -1966,7 +1901,6 @@ The Company will, subject to the exceptions and limitations set forth below, pay
 - (a) being or having been engaged in a trade or business in the United States or having or having had a permanent establishment in the United States;
 - (b) having a current or former connection with the United States (other than a connection arising solely as a result of the ownership of the Notes, the receipt of any payment or the enforcement of any rights hereunder), including being or having been a citizen or resident of the United States;
 - (c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax;
-
 (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”);
 
 (e) being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or
@@ -1992,13 +1926,11 @@ The Company will, subject to the exceptions and limitations set forth below, pay
 (10) in the case of any combination of items (1) through (9) above.
 
 The Notes are subject in all cases to any tax, fiscal or other law or regulation or administrative or judicial interpretation applicable to the Notes. Except as specifically provided under this heading “—Payment of Additional Amounts,” the Company will not be required to make any payment for any Tax imposed by any government or a political subdivision or taxing authority of or in any government or political subdivision. As used under “—Payment of Additional Amounts” and under “—Redemption for Tax Reasons,” the term “United States” means the United States of America (including the states and the District of Columbia and any political subdivision thereof), and the term “United States person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United
-
 States person under any applicable Treasury regulations), or any estate or trust the income of which is subject to U.S. federal income taxation regardless of its source.
 
 Redemption for Tax ReasonsIf, as a result of any change in, or amendment to, or, in the case of the 0.000% 2025 Notes and the 2031 Notes, introduction of, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based upon a written opinion of independent counsel selected by us, will become obligated to pay additional amounts as described above under the heading “Payments of Additional Amounts” with respect to a series of the Notes, then we may at our option redeem, in whole, but not in part, in the case of the 2024 Notes, the 2026 Notes, the 2027 Notes, the 3.050% 2029 Notes and the 2042 Notes, the Notes of such series on not less than 30 nor more than 60 days’ prior notice, in the case of the 0.875% 2025 Notes and the 1.375% 2029 Notes, the Notes of such series on not less than 15 nor more than 60 days’ notice, and in the case of the 0.000% 2025 Notes and the 2031 Notes, the Notes of such series on not less than 10 nor more than 60 days’ prior notice, in each case at a redemption price equal to 100% of their principal amount, together with interest accrued but unpaid on those Notes to (and, in the case of the 0.000% 2025 Notes and the 2031 Notes, but not including) the date fixed for redemption.
 
 Optional RedemptionWe may redeem the 2024 Notes, the 2026 Notes, the 2027 Notes, the 3.050% 2029 Notes and the 2042 Notes at our option, at any time in whole or from time to time in part, at a redemption price equal to the greater of:• 100% of the principal amount of the Notes to be redeemed; or• the sum of the present values of the remaining scheduled payments of principal and interest thereon (not including any portion of such payments of interest accrued as of the date of redemption), discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below), plus 10 basis points in the case of the 2026 Notes, plus 15 basis points in the case of the 2024 Notes, the 3.050% 2029 Notes and the 2042 Notes and plus 20 basis points in the case of the 2027 Notes.We may redeem the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes and the 2031 Notes at our option, at any time in whole or from time to time in part, prior to the applicable Par Call Date at a redemption price equal to the greater of:• 100% of the principal amount of the Notes to be redeemed; or• the sum of the present values of the remaining scheduled payments of principal and interest thereon assuming that the Notes matured on the applicable Par Call Date (not including any portion of such payments of interest accrued as of the date of redemption), discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below), plus 10 basis points in the case of the 0.000% 2025 Notes, plus 15 basis points in the case of the 0.875% 2025 Notes and the 2031 Notes, and 20 basis points in the case of the 2029 Notes.“Par Call Date” means (i) with respect to the 0.000% 2025 Notes, August 15, 2025 (three months prior to the maturity date of the 0.000% 2025 Notes), (ii) with respect to the 0.875% 2025 Notes, February 24, 2025 (three months prior to the maturity date of the 0.875% 2025 Notes), (iii) with respect to the 1.375% 2029 Notes, February 24, 2029 (three months prior to the maturity date of 1.375% 2029 Notes) and (iv) with respect to the 2031 Notes, August 15, 2031 (three months prior to the maturity of the 2031 Notes).If any of the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes or the 2031 Notes are redeemed on or after the applicable Par Call Date, the redemption price for such Notes will equal 100% of the principal amount of the Notes being redeemed.In each case upon redemption of the Notes, we will pay accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
-
 # Installments of Interest
 
 Installments of interest on Notes being redeemed that are due and payable on interest payment dates falling on or prior to a redemption date shall be payable on the interest payment date to the holders as of the close of business on the relevant regular record date according to the Notes and the applicable Indenture.
@@ -2026,7 +1958,6 @@ The Indentures set forth limited covenants that apply to the Notes. However, the
 The Indentures provide that we may consolidate with or merge with or into any other person, and may sell, transfer, or lease or convey all or substantially all of our properties and assets to another person; provided that the following conditions are satisfied:
 
 - we are the continuing entity, or the resulting, surviving or transferee person (the “Successor”) is a person (if such person is not a corporation, then the Successor will include a corporate co-issuer of the debt securities) organized and existing under the laws of the United States of America, any state thereof or the District of Columbia and the Successor (if not us) will expressly assume, by supplemental indenture, all of our obligations under the debt securities and the applicable Indenture and, for each security that by its terms provides for conversion, provide for the right to convert such security in accordance with its terms;
-
 immediately after giving effect to such transaction, no default or event of default under the applicable Indenture has occurred and is continuing;
 
 in the case of the 2013 Indenture, the trustee receives from us an officers’ certificate and an opinion of counsel that the transaction and such supplemental indenture, as the case may be, complies with the applicable provisions of the 2013 Indenture.
@@ -2050,7 +1981,6 @@ Each of the following events are defined in the Indentures as an “event of def
 - file a petition in bankruptcy or answer or consent seeking reorganization or relief;
 - consent to the filing of such petition or the appointment of or taking possession by a custodian; or
 - take any comparable action under any foreign laws relating to insolvency;
-
 # (5) Court of Competent Jurisdiction Enters an Order or Decree
 
 |Conditions:| |
@@ -2083,13 +2013,11 @@ No holder of any debt securities of any series will have any right to institute 
 2. In the case of the 2013 Indenture, the holders of not less than 25% of the aggregate principal amount of the outstanding debt securities of such series, and in the case of the 2018 Indenture, the holders of not less than 33% of the aggregate principal amount of the outstanding debt securities of such series have requested the trustee to institute proceedings in respect of such event of default;
 3. The trustee has been offered indemnity reasonably satisfactory to it against its costs, expenses and liabilities in complying with such request;
 4. The trustee has failed to institute proceedings 60 days after the receipt of such notice, request and offer of indemnity; and
-
 # Modification and Waivers
 
 Modification and amendments of the Indentures and the Notes may be made by us and the trustee with the consent of the holders of not less than a majority in aggregate principal amount of the outstanding series of Notes affected thereby; provided, however, that no such modification or amendment may, without the consent of the holder of each outstanding Note of that series affected thereby:
 
 change the stated maturity of the principal of, or installment of interest on, any Note;reduce the principal amount of any Note or reduce the amount of the principal of any Note which would be due and payable upon a declaration of acceleration of the maturity thereof or reduce the rate of interest on any Note;reduce any premium payable on the redemption of any Note or change the date on which any Note may or must be redeemed (in the case of the 2018 Indenture, it being understood that a change to any notice requirement with respect to such date shall not be deemed to be a change of such date);change the coin or currency in which the principal of, premium, if any, or interest on any Note is payable;impair the right of any holder to institute suit for the enforcement of any payment on or after the stated maturity of any Note (or, in the case of redemption, on or after the redemption date);reduce the percentage in principal amount of the outstanding Notes, the consent of whose holders is required in order to take certain actions;reduce the requirements for quorum or voting by holders of Notes in the applicable Indenture or the Note;modify any of the provisions in the applicable Indenture regarding the waiver of past defaults and the waiver of certain covenants by the holders of Notes except to increase any percentage vote required or to provide that certain other provisions of the applicable Indenture cannot be modified or waived without the consent of the holder of each Notes affected thereby;make any change that adversely affects the right to convert or exchange any debt security or decreases the conversion or exchange rate or increases the conversion price of any convertible or exchangeable debt security, unless such decrease or increase is permitted by the terms of the debt securities; ormodify any of the above provisions.
-
 We and the trustee may, without the consent of any holders, modify or amend the terms of the Indentures and any series of Notes with respect to the following:
 
 - to add to our covenants for the benefit of holders of all or any series of the Notes or to surrender any right or power conferred upon us;
@@ -2109,7 +2037,6 @@ We and the trustee may, without the consent of any holders, modify or amend the 
 - to supplement any of the provisions of the applicable Indenture to such extent as shall be necessary to permit or facilitate the defeasance and discharge of any series of Notes pursuant to the Indenture; provided that any such action shall not adversely affect the interests of the holders of Notes of such series or any other series of debt securities in any material respect;
 - to comply with the rules or regulations of any securities exchange or automated quotation system on which any of the Notes may be listed or traded; and
 - to add to, change or eliminate any of the provisions of the applicable Indenture as shall be necessary or desirable in accordance with any amendments to the Trust Indenture Act of 1939, as amended, and in the case of the 2013 Indenture, provided that such action does not adversely affect the rights or interests of any holder of debt securities in any material respect.
-
 The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may, on behalf of the holders of all Notes of that series, waive compliance by us with certain restrictive provisions of the Indentures. The holders of not less than a majority in aggregate principal amount of the outstanding Notes of a series may, on behalf of the holders of all Notes of that series, waive any past default and its consequences under the applicable Indenture with respect to the Notes of that series, except a default (1) in the payment of principal or premium, if any, or interest on Notes of that series or (2) in respect of a covenant or provision of the applicable Indenture that cannot be modified or amended without the consent of the holder of each Note of that series. Upon any such waiver, such default will cease to exist, and any event of default arising therefrom will be deemed to have been cured, for every purpose of the Indenture; however, no such waiver will extend to any subsequent or other default or event of default or impair any rights consequent thereon.
 
 Discharge, Defeasance and Covenant Defeasance
@@ -2123,7 +2050,6 @@ If we effect covenant defeasance with respect to the Notes of any series, the am
 With respect to the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, the term “U.S. government obligations” shall instead mean (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.
 
 With respect to the 3.050% 2029 Notes and the 2042 Notes, the term “U.S. government obligations” shall instead mean (x) any security that is (i) a direct obligation of the United Kingdom government or (ii) an obligation of a person controlled or supervised by and acting as an agency or instrumentality of the United Kingdom government the payment of which is fully and unconditionally guaranteed by the United Kingdom government or the central bank of the United Kingdom government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.
-
 # We will be required to deliver to the trustee an opinion of counsel that the deposit and related defeasance will not cause the holders and beneficial owners of the Notes of that series to recognize income, gain or loss for federal income tax purposes. If we elect legal defeasance, that opinion of counsel must be based upon a ruling from the U.S. Internal Revenue Service or a change in law to that effect.
 
 We may exercise our legal defeasance option notwithstanding our prior exercise of our covenant defeasance option.
@@ -2145,7 +2071,6 @@ Any Note that is exchangeable as above is exchangeable for certificated notes is
 # The Trustee for the Notes
 
 The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have commercial deposits and custodial arrangements with The Bank of New York Mellon Trust Company, N.A. and its affiliates (“BNYM”). We may enter into similar or other banking relationships with BNYM in the future in the normal course of business. In addition, BNYM acts as trustee and as paying agent with respect to other debt securities issued by us, and may do so for future issuances of debt securities by us as well.
-
 # Subsidiaries of Apple Inc.
 
 |Subsidiary|Jurisdiction of Incorporation|
@@ -2170,7 +2095,6 @@ The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentu
 |iTunes K.K.|Japan|
 
 * Pursuant to Item 601(b)(21)(ii) of Regulation S-K, the names of other subsidiaries of Apple Inc. are omitted because, considered in the aggregate, they would not constitute a significant subsidiary as of the end of the year covered by this report.
-
 # Exhibit 23.1
 
 Consent of Independent Registered Public Accounting Firm
@@ -2193,7 +2117,6 @@ of our reports dated November 2, 2023 with respect to the consolidated financial
 San Jose, California
 
 November 2, 2023
-
 # Exhibit 31.1
 
 CERTIFICATION
@@ -2219,7 +2142,6 @@ By: /s/ Timothy D. Cook
 Timothy D. Cook
 
 Chief Executive Officer
-
 # Exhibit 31.2
 
 CERTIFICATION
@@ -2245,7 +2167,6 @@ By: /s/ Luca Maestri
 Luca Maestri
 
 Senior Vice President, Chief Financial Officer
-
 # Exhibit 32.1
 
 CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
@@ -2281,4 +2202,3 @@ Senior Vice President,
 Chief Financial Officer
 
 A signed original of this written statement required by Section 906 has been provided to Apple Inc. and will be retained by Apple Inc. and furnished to the Securities and Exchange Commission or its staff upon request.
-

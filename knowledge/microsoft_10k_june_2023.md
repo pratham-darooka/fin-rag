@@ -1,22 +1,10 @@
 # UNITED STATES SECURITIES AND EXCHANGE COMMISSIONWashington, D.C. 20549
 
-# FORM 10-K
+FORM 10-K
 
-☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-For the Fiscal Year Ended June 30, 2023
-OR
-☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-For the Transition Period From to
-Commission File Number 001-37845
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Fiscal Year Ended June 30, 2023 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Transition Period From to Commission File Number 001-37845
 
-MICROSOFT CORPORATION
-WASHINGTON 91-1144442
-(STATE OF INCORPORATION) (I.R.S. ID)
-ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399
-(425) 882-8080
-www.microsoft.com/investor
-
-# Securities registered pursuant to Section 12(b) of the Act:
+MICROSOFT CORPORATION WASHINGTON 91-1144442 (STATE OF INCORPORATION) (I.R.S. ID) ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399 (425) 882-8080 www.microsoft.com/investor
 
 |Title of each class|Trading Symbol|Name of exchange on which registered|
 |---|---|---|
@@ -24,49 +12,33 @@ www.microsoft.com/investor
 |3.125% Notes due 2028|MSFT|NASDAQ|
 |2.625% Notes due 2033|MSFT|NASDAQ|
 
-# Securities registered pursuant to Section 12(g) of the Act:
-
-None
+Securities registered pursuant to Section 12(g) of the Act: None
 
 Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
 
 Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
 
-Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
-months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
 
-Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of
-this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
 
-Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
-See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
 
-Large Accelerated Filer ☒ Accelerated Filer ☐
-Non-accelerated Filer ☐ Smaller Reporting Company ☐
-Emerging Growth Company ☐
+Large Accelerated Filer ☒ Accelerated Filer ☐ Non-accelerated Filer ☐ Smaller Reporting Company ☐ Emerging Growth Company ☐
 
-If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
-accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
 
-Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting
-under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
 
-If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of
-an error to previously issued financial statements. ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
 
-Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
-executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
 
 Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
 
-As of December 31, 2022, the aggregate market value of the registrant’s common stock held by non-affiliates of the registrant was $1.8 trillion based on the closing sale price as
-reported on the NASDAQ National Market System. As of July 24, 2023, there were 7,429,763,722 shares of common stock outstanding.
+As of December 31, 2022, the aggregate market value of the registrant’s common stock held by non-affiliates of the registrant was $1.8 trillion based on the closing sale price as reported on the NASDAQ National Market System. As of July 24, 2023, there were 7,429,763,722 shares of common stock outstanding.
 
-# DOCUMENTS INCORPORATED BY REFERENCE
-
-Portions of the definitive Proxy Statement to be delivered to shareholders in connection with the Annual Meeting of Shareholders to be held on December 7, 2023 are incorporated by
-reference into Part III.
-
+DOCUMENTS INCORPORATED BY REFERENCE Portions of the definitive Proxy Statement to be delivered to shareholders in connection with the Annual Meeting of Shareholders to be held on December 7, 2023 are incorporated by reference into Part III.
 # MICROSOFT CORPORATION
 
 # FORM 10-K
@@ -112,7 +84,6 @@ reference into Part III.
 |Item 15. Exhibit and Financial Statement Schedules|102|
 |Item 16. Form 10-K Summary|108|
 |Signatures|109|
-
 # PART I
 
 # Item 1
@@ -120,7 +91,6 @@ reference into Part III.
 Note About Forward-Looking Statements
 
 This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including the following sections: “Business” (Part I, Item 1 of this Form 10-K), “Risk Factors” (Part I, Item 1A of this Form 10-K), and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” (Part II, Item 7 of this Form 10-K). These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in “Risk Factors,” “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and “Quantitative and Qualitative Disclosures about Market Risk” (Part II, Item 7A of this Form 10-K). Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise.
-
 # PART I
 
 # Item 1
@@ -152,7 +122,6 @@ To achieve our vision, our research and development efforts focus on three inter
 # Reinvent Productivity and Business Processes
 
 At Microsoft, we provide technology and resources to help our customers create a secure, productive work environment. Our family of products plays a key role in the ways the world works, learns, and connects.
-
 # PART I
 
 # Item 1
@@ -178,7 +147,6 @@ Our hybrid infrastructure offers integrated, end-to-end security, compliance, id
 Nuance, a leader in conversational AI and ambient intelligence across industries including healthcare, financial services, retail, and telecommunications, joined Microsoft in 2022. Microsoft and Nuance enable organizations to accelerate their business goals with security-focused, cloud-based solutions infused with AI.
 
 We are accelerating our development of mixed reality solutions with new Azure services and devices. Microsoft Mesh enables organizations to create custom, immersive experiences for the workplace to help bring remote and hybrid workers and teams together.
-
 # PART I
 
 # Item 1
@@ -208,22 +176,21 @@ We are focused on helping customers use the breadth and depth of the Microsoft C
 - Transforming the workplace to deliver new modern, modular business applications, drive deeper insights, and improve how people communicate, collaborate, learn, work, and interact with one another.
 - Building and running cloud-based services in ways that utilize ubiquitous computing to unleash new experiences and opportunities for businesses and individuals.
 - Applying AI and ambient intelligence to drive insights, revolutionize many types of work, and provide substantive productivity gains using natural methods of communication.
-
 # PART I
 
 # Item 1
 
-•Tackling security from all angles with our integrated, end-to-end solutions spanning security, compliance, identity, and management, across all clouds and platforms.
+• Tackling security from all angles with our integrated, end-to-end solutions spanning security, compliance, identity, and management, across all clouds and platforms.
 
-•Inventing new gaming experiences that bring people together around their shared love for games on any devices and pushing the boundaries of innovation with console and PC gaming.
+• Inventing new gaming experiences that bring people together around their shared love for games on any devices and pushing the boundaries of innovation with console and PC gaming.
 
-•Using Windows to fuel our cloud business, grow our share of the PC market, and drive increased engagement with our services like Microsoft 365 Consumer, Microsoft Teams, Microsoft Edge, Bing, Xbox Game Pass, and more.
+• Using Windows to fuel our cloud business, grow our share of the PC market, and drive increased engagement with our services like Microsoft 365 Consumer, Microsoft Teams, Microsoft Edge, Bing, Xbox Game Pass, and more.
 
 Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions.
 
 # Corporate Social Responsibility
 
-# Commitment to Sustainability
+Commitment to Sustainability
 
 Microsoft’s approach to addressing climate change starts with the sustainability of our own business. In 2020, we committed to being a carbon negative, water positive, and zero waste company by 2030.
 
@@ -245,7 +212,6 @@ We are committed to addressing racial injustice and inequity in the United State
 - Strengthening our communities: using data, technology, and partnerships to help improve the lives of Black and African American people in the United States, including our employees and their communities.
 - Engaging our ecosystem: using our balance sheet and relationships with suppliers and partners to foster societal change and create new opportunities.
 - Increasing representation and strengthening inclusion: building on our momentum by adding a $150 million investment to strengthen inclusion and double the number of Black, African American, Hispanic, and Latinx leaders in the United States by 2025.
-
 # PART I
 
 # Item 1
@@ -261,7 +227,7 @@ We exceeded our 2020 goal to double the percentage of our transaction volumes wi
 
 We have made meaningful progress on representation and inclusion at Microsoft. As of June 2023, we are 93 percent of the way to our 2025 commitment to double the number of Black and African American people managers in the U.S. (below director level), and 107 percent of the way for Black and African American directors (people managers and individual contributors). We are 28 percent of the way for Hispanic and Latinx people managers (below director level) and 74 percent of the way for Hispanic and Latinx directors.
 
-Investing in Digital Skills
+# Investing in Digital Skills
 
 After helping over 80 million jobseekers around the world access digital skilling resources, we introduced a new Skills for Jobs initiative to support a more skills-based labor market, with greater flexibility and accessible learning paths to develop the right skills needed for the most in-demand jobs. Our Skills for Jobs initiative brings together learning resources, certification opportunities, and job-seeker tools from LinkedIn, GitHub, and Microsoft Learn, and is built on data insights drawn from LinkedIn’s Economic Graph.
 
@@ -271,10 +237,9 @@ Generative AI is creating unparalleled opportunities to empower workers globally
 
 # HUMAN CAPITAL RESOURCES
 
-Overview
+# Overview
 
 Microsoft aims to recruit, develop, and retain world-changing talent from a diversity of backgrounds. To foster their and our success, we seek to create an environment where people can thrive and do their best work. We strive to maximize the potential of our human capital resources by creating a respectful, rewarding, and inclusive work environment that enables our global employees to create products and services that further our mission.
-
 # PART I
 
 # Item 1
@@ -287,7 +252,9 @@ Microsoft’s culture is grounded in growth mindset. This means everyone is on a
 
 Our employee listening systems enable us to gather feedback directly from our workforce to inform our programs and employee needs globally. Employees participate in our Employee Signals surveys, which cover a variety of topics such as thriving, inclusion, team culture, wellbeing, and learning and development. We also collect Daily Signals employee survey responses, giving us real-time insights into ways we can support our employees. In addition to Employee Signals and Daily Signals surveys, we gain insights through onboarding, exit surveys, internal Viva Engage channels, employee Q&A sessions, and our internal AskHR Service support.
 
-Diversity and inclusion are core to our business model, and we hold ourselves accountable for driving global systemic change in our workforce and creating an inclusive work environment. We support multiple highly active Employee Resource Groups for women, families, racial and ethnic minorities, military, people with disabilities, and employees who identify as LGBTQIA+, where employees can go for support, networking, and community-building. As described in our 2022 Proxy Statement, annual performance and compensation reviews of our senior leadership team include an evaluation of their contributions to employee culture and diversity. To ensure accountability over time, we publicly disclose our progress on a multitude of workforce metrics including:
+Diversity and inclusion are core to our business model, and we hold ourselves accountable for driving global systemic change in our workforce and creating an inclusive work environment. We support multiple highly active Employee Resource Groups for women, families, racial and ethnic minorities, military, people with disabilities, and employees who identify as LGBTQIA+, where employees can go for support, networking, and community-building.
+
+As described in our 2022 Proxy Statement, annual performance and compensation reviews of our senior leadership team include an evaluation of their contributions to employee culture and diversity. To ensure accountability over time, we publicly disclose our progress on a multitude of workforce metrics including:
 
 - Detailed breakdowns of gender, racial, and ethnic minority representation in our employee population, with data by job types, levels, and segments of our business.
 - Our EEO-1 report (equal employment opportunity).
@@ -299,7 +266,6 @@ Total Rewards and Pay Equity
 We develop dynamic, sustainable, market-driven, and strategic programs with the goal of providing a highly differentiated portfolio to attract, reward, and retain top talent and enable our employees to thrive. These programs reinforce our culture and values such as collaboration and growth mindset. Managers evaluate and recommend rewards based on, for example, how well we leverage the work of others and contribute to the success of our colleagues. We monitor pay equity and career progress across multiple dimensions. Our total compensation opportunity is highly differentiated and is market competitive.
 
 In order to manage our costs in a dynamic, competitive environment, in fiscal year 2023 we announced that base salaries of salaried employees would remain at fiscal year 2022 levels. Pay increases continue to be available for rewards-eligible hourly and equivalent employees. We will continue our practice of investing in stock for all rewards-eligible employees, salaried and hourly, and investing in bonuses for all eligible employees.
-
 # PART I
 
 # Item 1
@@ -323,7 +289,6 @@ We offer a range of learning opportunities, including personalized opportunities
 All Microsoft employees globally access our single Viva Learning tool for both required and personal choice learning. This includes courses focused on our core principles and compliance matters, such as Business Conduct, Privacy, Security Foundations, and Harassment Prevention. We also deliver skills training for employees based on their profession and role discipline.
 
 We have over 27,000 people managers, all of whom must complete between 20-33 hours of compulsory training on leadership and management and are assigned additional targeted training on an ongoing basis related to people management, compliance, and culture.
-
 # PART I
 
 # Item 1
@@ -352,7 +317,6 @@ Office Commercial is designed to increase personal, team, and organizational pro
 # Office Consumer
 
 Office Consumer is designed to increase personal productivity and creativity through a range of products and services. Growth depends on our ability to reach new users, add value to our core product set, and continue to expand our product and service offerings into new markets. Office Consumer revenue is mainly affected by the percentage of customers that buy Office with their new devices and the continued shift from Office licensed on-premises to Microsoft 365 Consumer subscriptions. Office Consumer Services revenue is mainly affected by the demand for communication and storage through Skype, Outlook.com, and OneDrive, which is largely driven by subscriptions, advertising, and the sale of minutes.
-
 # PART I
 
 # Item 1
@@ -372,7 +336,6 @@ Competitors to Office include software and global application vendors, such as A
 LinkedIn faces competition from online professional networks, recruiting companies, talent management companies, and larger companies that are focusing on talent management and human resource services; job boards; traditional recruiting firms; and companies that provide learning and development products and services. Marketing Solutions competes with online and offline outlets that generate revenue from advertisers and marketers, and Sales Solutions competes with online and offline outlets for companies with lead generation and customer intelligence and insights. Dynamics competes with cloud-based and on-premises business solution providers such as Oracle, Salesforce, and SAP.
 
 12
-
 # Part I
 
 # Item 1
@@ -401,7 +364,6 @@ Enterprise Services, including Enterprise Support Services, Industry Solutions, 
 # Competition
 
 Azure faces diverse competition from companies such as Amazon, Google, IBM, Oracle, VMware, and open source offerings. Azure’s competitive advantage includes enabling a hybrid cloud, allowing deployment of existing datacenters with our public cloud into a single, cohesive infrastructure, and the ability to run at a scale that meets the needs of businesses of all sizes and complexities. Our AI offerings compete with AI products from hyperscalers such as Amazon Bedrock, Amazon CodeWhisperer, and Google AI, as well as products from other emerging competitors, many of which are also current or potential partners, including Meta’s LLaMA2 and other open source solutions. Our Enterprise Mobility + Security offerings also compete with products from a range of competitors including identity vendors, security solution vendors, and numerous other security point solution vendors. We believe our cloud’s global scale, coupled with our broad portfolio of identity and security solutions, allows us to effectively solve complex cybersecurity challenges for our customers and differentiates us from the competition.
-
 # PART I
 
 # Item 1
@@ -414,23 +376,19 @@ Our database, business intelligence, and data warehousing solutions offerings co
 
 Our Enterprise Services business competes with a wide range of companies that provide strategy and business planning, application development, and infrastructure services, including multinational consulting firms and small niche businesses focused on specific technologies.
 
-More Personal Computing
+# More Personal Computing
 
 Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our technology. This segment primarily comprises:
 
-- Windows, including Windows OEM licensing (“Windows OEM”) and other non-volume licensing of the Windows operating system; Windows Commercial, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows IoT.
-- Devices, including Surface, HoloLens, and PC accessories.
-- Gaming, including Xbox hardware and Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services.
-- Search and news advertising, comprising Bing (including Bing Chat), Microsoft News, Microsoft Edge, and third-party affiliates.
+Windows, including Windows OEM licensing (“Windows OEM”) and other non-volume licensing of the Windows operating system; Windows Commercial, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows IoT.Devices, including Surface, HoloLens, and PC accessories.Gaming, including Xbox hardware and Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services.Search and news advertising, comprising Bing (including Bing Chat), Microsoft News, Microsoft Edge, and third-party affiliates.
 
-Windows
+# Windows
 
 The Windows operating system is designed to deliver a more personal computing experience for users by enabling consistency of experience, applications, and information across their devices. Windows OEM revenue is impacted significantly by the number of Windows operating system licenses purchased by OEMs, which they pre-install on the devices they sell. In addition to computing device market volume, Windows OEM revenue is impacted by:
 
 - The mix of computing devices based on form factor and screen size.
 - Differences in device market demand between developed markets and growth markets.
 - Attachment of Windows to devices shipped.
-
 # PART I
 
 # Item 1
@@ -462,7 +420,6 @@ Our gaming platform is designed to provide a variety of entertainment through a 
 The gamer remains at the heart of the Xbox ecosystem. We are identifying new opportunities to attract gamers across a variety of different end points through our first- and third-party content and business diversification across subscriptions, ads, and digital stores. We’ve seen new devices from third-party manufacturers along with key PC and mobile end points that help us empower gamers to play in a way that is most convenient to them. We are focused on growing the platform and expanding to new ecosystems to engage as many gamers as possible.
 
 Xbox enables people to connect and share online gaming experiences that are accessible on Xbox consoles, Windows-enabled devices, and other devices. Xbox is designed to benefit users by providing access to a network of certified applications and services and to benefit our developer and partner ecosystems by providing access to a large customer base. Xbox revenue is mainly affected by subscriptions and sales of first- and third-party content, as well as advertising. Growth of our Gaming business is determined by the overall active user base through Xbox enabled content, availability of games, providing exclusive game content that gamers seek, the computational power and reliability of the devices used to access our content and services, and the ability to create new experiences through first-party content creators.
-
 # PART I
 
 # Item 1
@@ -473,14 +430,21 @@ Our Search and news advertising business is designed to deliver relevant search,
 
 Competition
 
-Windows faces competition from various software products and from alternative platforms and devices, mainly from Apple and Google. We believe Windows competes effectively by giving customers choice, value, flexibility, security, an easy-to-use interface, and compatibility with a broad range of hardware and software applications, including those that enable productivity. Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality industrial design and innovative technologies across various price points. These manufacturers, many of which are also current or potential partners and customers, include Apple and our Windows OEMs.
+Windows faces competition from various software products and from alternative platforms and devices, mainly from Apple and Google. We believe Windows competes effectively by giving customers choice, value, flexibility, security, an easy-to-use interface, and compatibility with a broad range of hardware and software applications, including those that enable productivity.
 
-Xbox and our cloud gaming services face competition from various online gaming ecosystems and game streaming services, including those operated by Amazon, Apple, Meta, and Tencent. We also compete with other providers of entertainment services such as video streaming platforms. Our gaming platform competes with console platforms from Nintendo and Sony, both of which have a large, established base of customers. We believe our gaming platform is effectively positioned against, and uniquely differentiated from, competitive products and services based on significant innovation in hardware architecture, user interface, developer tools, online gaming and entertainment services, and continued strong exclusive content from our own first-party game franchises as well as other digital content offerings. Our Search and news advertising business competes with Google and a wide array of websites, social platforms like Meta, and portals that provide content and online offerings to end users.
+Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality industrial design and innovative technologies across various price points. These manufacturers, many of which are also current or potential partners and customers, include Apple and our Windows OEMs.
+
+Xbox and our cloud gaming services face competition from various online gaming ecosystems and game streaming services, including those operated by Amazon, Apple, Meta, and Tencent. We also compete with other providers of entertainment services such as video streaming platforms. Our gaming platform competes with console platforms from Nintendo and Sony, both of which have a large, established base of customers. We believe our gaming platform is effectively positioned against, and uniquely differentiated from, competitive products and services based on significant innovation in hardware architecture, user interface, developer tools, online gaming and entertainment services, and continued strong exclusive content from our own first-party game franchises as well as other digital content offerings.
+
+Our Search and news advertising business competes with Google and a wide array of websites, social platforms like Meta, and portals that provide content and online offerings to end users.
 
 # OPERATIONS
 
-We have regional operations service centers that support our operations, including customer contract and order processing, billing, credit and collections, information processing, and vendor management and logistics. The center in Ireland supports the African, Asia-Pacific, European, and Middle East regions; and the centers in Arlington, Virginia, Atlanta, Georgia, Charlotte, North Carolina, Fargo, North Dakota, Fort Lauderdale, Florida, Redmond, Washington, Reno, Nevada, and Puerto Rico support the American regions. In addition to our operations centers, we also operate datacenters throughout each of these regions. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components. Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand.
+We have regional operations service centers that support our operations, including customer contract and order processing, billing, credit and collections, information processing, and vendor management and logistics. The center in Ireland supports the African, Asia-Pacific, European, and Middle East regions; and the centers in Arlington, Virginia, Atlanta, Georgia, Charlotte, North Carolina, Fargo, North Dakota, Fort Lauderdale, Florida, Redmond, Washington, Reno, Nevada, and Puerto Rico support the American regions.
 
+In addition to our operations centers, we also operate datacenters throughout each of these regions. We continue to identify and evaluate opportunities to expand our datacenter locations and increase our server capacity to meet the evolving needs of our customers, particularly given the growing demand for AI services. Our datacenters depend on the availability of permitted and buildable land, predictable energy, networking supplies, and servers, including graphics processing units (“GPUs”) and other components.
+
+Our devices are primarily manufactured by third-party contract manufacturers. For the majority of our products, we have the ability to use other manufacturers if a current vendor becomes unavailable or unable to meet our requirements. However, some of our products contain certain components for which there are very few qualified suppliers. Extended disruptions at these suppliers could impact our ability to manufacture devices on time to meet consumer demand.
 # PART I
 
 # Item 1
@@ -507,7 +471,6 @@ We strive to obtain information as early as possible about changing usage patter
 We protect our intellectual property investments in a variety of ways. We work actively in the U.S. and internationally to ensure the enforcement of copyright, trademark, trade secret, and other protections that apply to our software and hardware products, services, business plans, and branding. We are a leader among technology companies in pursuing patents and currently have a portfolio of over 70,000 U.S. and international patents issued and over 19,000 pending worldwide. While we employ much of our internally-developed intellectual property in our products and services, we also engage in outbound licensing of specific patented technologies that are incorporated into licensees’ products. From time to time, we enter into broader cross-license agreements with other technology companies covering entire groups of patents. We may also purchase or license technology that we incorporate into our products and services. At times, we make select intellectual property broadly available at no or low cost to achieve a strategic objective, such as promoting industry standards, advancing interoperability, supporting societal and/or environmental efforts, or attracting and enabling our external development community. Our increasing engagement with open source software will also cause us to license our intellectual property rights broadly in certain situations.
 
 While it may be necessary in the future to seek or renew licenses relating to various aspects of our products and services, we believe, based upon past experience and industry practice, such licenses generally can be obtained on commercially reasonable terms. We believe our continuing research and product development are not materially dependent on any single license or other agreement with a third party relating to the development of our products.
-
 # PART I
 
 # Item 1
@@ -531,7 +494,6 @@ There are two broad categories of OEMs. The largest category of OEMs are direct 
 # Direct
 
 Many organizations that license our products and services transact directly with us through Enterprise Agreements and Enterprise Services contracts, with sales support from system integrators, independent software vendors, web agencies, and partners that advise organizations on licensing our products and services (“Enterprise Agreement Software Advisors” or “ESA”). Microsoft offers direct sales programs targeted to reach small, medium, and corporate customers, in addition to those offered through the reseller channel. A large network of partner advisors support many of these sales. We also sell commercial and consumer products and services directly to customers, such as cloud services, search, and gaming, through our digital marketplaces and online stores. Additionally, our Microsoft Experience Centers are designed to facilitate deeper engagement with our partners and customers across industries.
-
 # PART I
 
 # Item 1
@@ -541,34 +503,51 @@ Distributors and Resellers
 Organizations also license our products and services indirectly, primarily through licensing solution partners (“LSP”), distributors, value-added resellers
 (“VAR”), and retailers. Although each type of reselling partner may reach organizations of all sizes, LSPs are primarily engaged with large organizations,
 distributors resell primarily to VARs, and VARs typically reach small and medium organizations. ESAs are also typically authorized as LSPs and operate
-as resellers for our other volume licensing programs. Microsoft Cloud Solution Provider is our main partner program for reselling cloud services. We distribute our retail packaged products primarily through independent non-exclusive distributors, authorized replicators, resellers, and retail outlets. Individual consumers obtain these products primarily through retail outlets. We distribute our devices through third-party retailers. We have a network of field sales representatives and field support personnel that solicit orders from distributors and resellers and provide product training and sales support.
+as resellers for our other volume licensing programs. Microsoft Cloud Solution Provider is our main partner program for reselling cloud services.
+We distribute our retail packaged products primarily through independent non-exclusive distributors, authorized replicators, resellers, and retail outlets.
+Individual consumers obtain these products primarily through retail outlets. We distribute our devices through third-party retailers. We have a network of
+field sales representatives and field support personnel that solicit orders from distributors and resellers and provide product training and sales support.
 
-Our Dynamics business solutions are also licensed to enterprises through a global network of channel partners providing vertical solutions and specialized services.
+Our Dynamics business solutions are also licensed to enterprises through a global network of channel partners providing vertical solutions and
+specialized services.
 
 # LICENSING OPTIONS
 
-We offer options for organizations that want to purchase our cloud services, on-premises software, and SA. We license software to organizations under volume licensing agreements to allow the customer to acquire multiple licenses of products and services instead of having to acquire separate licenses through retail channels. We use different programs designed to provide flexibility for organizations of various sizes. While these programs may differ in various parts of the world, generally they include those discussed below.
+We offer options for organizations that want to purchase our cloud services, on-premises software, and SA. We license software to organizations under
+volume licensing agreements to allow the customer to acquire multiple licenses of products and services instead of having to acquire separate licenses
+through retail channels. We use different programs designed to provide flexibility for organizations of various sizes. While these programs may differ in
+various parts of the world, generally they include those discussed below.
 
-SA conveys rights to new software and upgrades for perpetual licenses released over the contract period. It also provides support, tools, training, and other licensing benefits to help customers deploy and use software efficiently. SA is included with certain volume licensing agreements and is an optional purchase with others.
+SA conveys rights to new software and upgrades for perpetual licenses released over the contract period. It also provides support, tools, training, and
+other licensing benefits to help customers deploy and use software efficiently. SA is included with certain volume licensing agreements and is an optional
+purchase with others.
 
 # Volume Licensing Programs
 
 Enterprise Agreement
 
-Enterprise Agreements offer large organizations a manageable volume licensing program that gives them the flexibility to buy cloud services and software licenses under one agreement. Enterprise Agreements are designed for medium or large organizations that want to license cloud services and on-premises software organization-wide over a three-year period. Organizations can elect to purchase perpetual licenses or subscribe to licenses. SA is included.
+Enterprise Agreements offer large organizations a manageable volume licensing program that gives them the flexibility to buy cloud services and
+software licenses under one agreement. Enterprise Agreements are designed for medium or large organizations that want to license cloud services and
+on-premises software organization-wide over a three-year period. Organizations can elect to purchase perpetual licenses or subscribe to licenses. SA is
+included.
 
 Microsoft Customer Agreement
 
-A Microsoft Customer Agreement is a simplified purchase agreement presented, accepted, and stored through a digital experience. A Microsoft Customer Agreement is a non-expiring agreement that is designed to support all customers over time, whether purchasing through a partner or directly from Microsoft.
+A Microsoft Customer Agreement is a simplified purchase agreement presented, accepted, and stored through a digital experience. A Microsoft
+Customer Agreement is a non-expiring agreement that is designed to support all customers over time, whether purchasing through a partner or directly
+from Microsoft.
 
 Microsoft Online Subscription Agreement
 
-A Microsoft Online Subscription Agreement is designed for small and medium organizations that want to subscribe to, activate, provision, and maintain cloud services seamlessly and directly via the web. The agreement allows customers to acquire monthly or annual subscriptions for cloud-based services.
+A Microsoft Online Subscription Agreement is designed for small and medium organizations that want to subscribe to, activate, provision, and maintain
+cloud services seamlessly and directly via the web. The agreement allows customers to acquire monthly or annual subscriptions for cloud-based
+services.
 
 Microsoft Products and Services Agreement
 
-Microsoft Products and Services Agreements are designed for medium and large organizations that want to license cloud services and on-premises software as needed, with no organization-wide commitment, under a single, non-expiring agreement. Organizations purchase perpetual licenses or subscribe to licenses. SA is optional for customers that purchase perpetual licenses.
-
+Microsoft Products and Services Agreements are designed for medium and large organizations that want to license cloud services and on-premises
+software as needed, with no organization-wide commitment, under a single, non-expiring agreement. Organizations purchase perpetual licenses or
+subscribe to licenses. SA is optional for customers that purchase perpetual licenses.
 # PART I
 
 # Item 1
@@ -605,10 +584,9 @@ Our customers include individual consumers, small and medium organizations, larg
 |Bradford L. Smith|64|Vice Chair and President|
 |Christopher D. Young|51|Executive Vice President, Business Development, Strategy, and Ventures|
 
-Mr. Nadella was appointed Chairman of the Board in June 2021 and Chief Executive Officer in February 2014. He served in various roles within Microsoft before his current position.
+Mr. Nadella was appointed Chairman of the Board in June 2021 and Chief Executive Officer in February 2014. He served as Executive Vice President, Cloud and Enterprise from July 2013 until that time. From 2011 to 2013, Mr. Nadella served as President, Server and Tools. From 2009 to 2011, he was Senior Vice President, Online Services Division. From 2008 to 2009, he was Senior Vice President, Search, Portal, and Advertising. Since joining Microsoft in 1992, Mr. Nadella’s roles also included Vice President of the Business Division. Mr. Nadella also serves on the Board of Directors of Starbucks Corporation.
 
-Mr. Althoff was appointed Executive Vice President and Chief Commercial Officer in July 2021. He also held other positions within Microsoft prior to his current role.
-
+Mr. Althoff was appointed Executive Vice President and Chief Commercial Officer in July 2021. He served as Executive Vice President, Worldwide Commercial Business from July 2017 until that time. Prior to that, Mr. Althoff served as the President of Microsoft North America. Mr. Althoff joined Microsoft in March 2013 as President of Microsoft North America.
 # PART I
 
 # Item 1
@@ -619,7 +597,6 @@ Mr. Althoff was appointed Executive Vice President and Chief Commercial Officer 
 |Ms. Hood|Executive Vice President and Chief Financial Officer|July 2013|
 |Mr. Smith|Vice Chair and President|September 2021|
 |Mr. Young|Executive Vice President, Business Development, Strategy, and Ventures|November 2020|
-
 # PART I
 
 # Item 1
@@ -639,7 +616,6 @@ Our Internet address is www.microsoft.com. At our Investor Relations website, ww
 We publish a variety of reports and resources related to our Corporate Social Responsibility programs and progress on our Reports Hub website, www.microsoft.com/corporate-responsibility/reports-hub, including reports on sustainability, responsible sourcing, accessibility, digital trust, and public policy engagement.
 
 The information found on these websites is not part of, or incorporated by reference into, this or any other report we file with, or furnish to, the SEC. In addition to these channels, we use social media to communicate to the public. It is possible that the information we post on social media could be deemed to be material to investors. We encourage investors, the media, and others interested in Microsoft to review the information we post on the social media channels listed on our Investor Relations website.
-
 # PART I
 
 # Item 1A
@@ -660,12 +636,11 @@ Competition among platform-based ecosystems
 
 An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth. Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins. We face significant competition from firms that provide competing platforms.
 
-- A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, wearables, and other endpoint devices. Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces. They may also be able to claim security and performance benefits from their vertically integrated offer. We also offer some vertically-integrated hardware and software products and services. To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
-- We derive substantial revenue from licenses of Windows operating systems on PCs. We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers. These devices compete on multiple bases including price and the perceived utility of the device and its platform. Users are increasingly turning to these devices to perform functions that in the past were performed by personal computers. Even if many users view these devices as complementary to a personal computer, the prevalence of these devices may make it more difficult to attract application developers to our PC operating system platforms. Competing with operating systems licensed at low or no cost may decrease our PC operating system margins. Popular products or services offered on competing platforms could increase their competitive strength. In addition, some of our devices compete with products made by our original equipment manufacturer (“OEM”) partners, which may affect their commitment to our platform.
-- Competing platforms have content and application marketplaces with scale and significant installed bases. The variety and utility of content and applications available on a platform are important to device purchasing decisions. Users may incur costs to move data and buy new content and applications when switching platforms. To compete, we must successfully enlist developers to write applications for our platform and ensure that these applications have high quality, security, customer appeal, and value. Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins. Competitors’ rules governing their content and applications marketplaces may restrict our ability to distribute products and services through them in accordance with our technical and business model objectives.
-
-23
-
+| |Competing vertically-integrated model|Windows operating systems on PCs|Content and application marketplaces|
+|---|---|---|---|
+|Overview|A single firm controls the software and hardware elements of a product and related services.|Derive substantial revenue from licenses of Windows operating systems on PCs.|Competing platforms have content and application marketplaces with scale and significant installed bases.|
+|Competition|Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform.|Face significant competition from competing platforms developed for new devices and form factors.|The variety and utility of content and applications available on a platform are important to device purchasing decisions.|
+|Impact|May increase cost of revenue and reduce operating margins.|Competition may decrease PC operating system margins.|Efforts to compete with competitors’ content and application marketplaces may increase cost of revenue and lower operating margins.|
 # PART I
 
 # Item 1A
@@ -688,6 +663,7 @@ Besides software development costs, we are incurring costs to build and maintain
 - Ensuring our cloud-based services meet the reliability expectations of our customers and maintain the security of their data as well as help them meet their own compliance needs.
 - Making our suite of cloud-based services platform-agnostic, available on a wide range of devices and ecosystems, including those of our competitors.
 
+24
 # PART I
 
 # Item 1A
@@ -701,7 +677,6 @@ Some users may engage in fraudulent or abusive activities through our cloud-base
 We make significant investments in products and services that may not achieve expected returns. We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Bing, SQL Server, Windows Server, Azure, Office 365, Xbox, LinkedIn, and other products and services. In addition, we are focused on developing new AI platform services and incorporating AI into existing products and services. We also invest in the development and acquisition of a variety of hardware for productivity, communication, and entertainment, including PCs, tablets, gaming devices, and HoloLens. Investments in new technology are speculative. Commercial success depends on many factors, including innovativeness, developer support, and effective distribution and marketing. If customers do not perceive our latest offerings as providing significant new functionality or other value, they may reduce their purchases of new software and hardware products or upgrades, unfavorably affecting revenue. We may not achieve significant revenue from new product, service, and distribution channel investments for several years, if at all. New products and services may not be profitable, and even if they are profitable, operating margins for some new products and businesses will not be as high as the margins we have experienced historically. We may not get engagement in certain features, like Microsoft Edge, Bing, and Bing Chat, that drive post-sale monetization opportunities. Our data handling practices across our products and services will continue to be under scrutiny. Perceptions of mismanagement, driven by regulatory activity or negative public reaction to our practices or product experiences, could negatively impact product and feature adoption, product design, and product quality. Developing new technologies is complex. It can require long development and testing periods. Significant delays in new releases or significant problems in creating new products or services could adversely affect our revenue.
 
 Acquisitions, joint ventures, and strategic alliances may have an adverse effect on our business. We expect to continue making acquisitions and entering into joint ventures and strategic alliances as part of our long-term business strategy. For example, in March 2021 we completed our acquisition of ZeniMax Media Inc. for $8.1 billion, and in March 2022 we completed our acquisition of Nuance Communications, Inc. for $18.8 billion. In January 2022 we announced a definitive agreement to acquire Activision Blizzard, Inc. for $68.7 billion. In January 2023 we announced the third phase of our OpenAI strategic partnership. Acquisitions and other transactions and arrangements involve significant challenges and risks, including that they do not advance our business strategy, that we get an unsatisfactory return on our investment, that they raise new compliance-related obligations and challenges, that we have difficulty integrating and retaining new employees, business systems, and technology, that they distract management from our other businesses, or that announced transactions may not be completed. If an arrangement fails to adequately anticipate changing circumstances and interests of a party, it may result in early termination or renegotiation of the arrangement. The success of these transactions and arrangements will depend in part on our ability to leverage them to enhance our existing products and services or develop compelling new ones, as well as acquired companies’ ability to meet our policies and processes in areas such as data governance, privacy, and cybersecurity. It may take longer than expected to realize the full benefits from these transactions and arrangements such as increased revenue or enhanced efficiencies, or the benefits may ultimately be smaller than we expected. These events could adversely affect our consolidated financial statements.
-
 # PART I
 
 # Item 1A
@@ -721,7 +696,6 @@ Cyberthreats are constantly evolving and becoming increasingly sophisticated and
 In addition, our internal IT environment continues to evolve. Often, we are early adopters of new devices and technologies. We embrace new ways of sharing data and communicating internally and with partners and customers using methods such as social networking and other consumer-oriented technologies. Increasing use of generative AI models in our internal systems may create new attack methods for adversaries. Our business policies and internal security controls may not keep pace with these changes as new threats emerge, or emerging cybersecurity regulations in jurisdictions worldwide.
 
 26
-
 # PART I
 
 # Item 1A
@@ -737,7 +711,6 @@ Cyberattacks may adversely impact our customers even if our production services 
 Development and deployment of defensive measures
 
 To defend against security threats to our internal IT systems, our cloud-based services, and our customers’ systems, we must continuously engineer more secure products and services, enhance security, threat detection, and reliability features, improve the deployment of software updates to address security vulnerabilities in our own products as well as those provided by others, develop mitigation technologies that help to secure customers from attacks even when software updates are not deployed, maintain the digital security infrastructure that protects the integrity of our network, products, and services, and provide security tools such as firewalls, anti-virus software, and advanced security and information about the need to deploy security measures and the impact of doing so. Customers in certain industries such as financial services, health care, and government may have enhanced or specialized requirements to which we must engineer our products and services.
-
 # PART I
 
 # Item 1A
@@ -755,17 +728,17 @@ Abuse of our platforms may harm our reputation or user engagement.
 # Advertising, professional, marketplace, and gaming platform abuses
 
 For platform products and services that provide content or host ads that come from or can be influenced by third parties, including GitHub, LinkedIn, Microsoft Advertising, Microsoft News, Microsoft Store, Bing, and Xbox, our reputation or user engagement may be negatively affected by activity that is hostile or inappropriate. This activity may come from users impersonating other people or organizations including through the use of AI technologies, dissemination of information that may be viewed as misleading or intended to manipulate the opinions of our users, or the use of our products or services that violates our terms of service or otherwise for objectionable or illegal ends. Preventing or responding to these actions may require us to make substantial investments in people and technology and these investments may not be successful, adversely affecting our business and consolidated financial statements.
-
 # PART I
 
 # Item 1A
 
-Other digital safety abuses Our hosted consumer services as well as our enterprise services may be used to generate or disseminate harmful or illegal content in violation of our terms or applicable law. We may not proactively discover such content due to scale, the limitations of existing technologies, and conflicting legal frameworks. When discovered by users and others, such content may negatively affect our reputation, our brands, and user engagement. Regulations and other initiatives to make platforms responsible for preventing or eliminating harmful content online have been enacted, and we expect this to continue. We may be subject to enhanced regulatory oversight, civil or criminal liability, or reputational damage if we fail to comply with content moderation regulations, adversely affecting our business and consolidated financial statements. The development of the IoT presents security, privacy, and execution risks. To support the growth of the intelligent cloud and the intelligent edge, we are developing products, services, and technologies to power the IoT. The IoT’s great potential also carries substantial risks. IoT products and services may contain defects in design, manufacture, or operation that make them insecure or ineffective for their intended purposes. An IoT solution has multiple layers of hardware, sensors, processors, software, and firmware, several of which we may not develop or control. Each layer, including the weakest layer, can impact the security of the whole system. Many IoT devices have limited interfaces and ability to be updated or patched. IoT solutions may collect large amounts of data, and our handling of IoT data may not satisfy customers or regulatory requirements. IoT scenarios may increasingly affect personal health and safety. If IoT solutions that include our technologies do not work as intended, violate the law, or harm individuals or businesses, we may be subject to legal claims or enforcement actions. These risks, if realized, may increase our costs, damage our reputation or brands, or negatively impact our revenues or margins.
+Other digital safety abuses
+
+Our hosted consumer services as well as our enterprise services may be used to generate or disseminate harmful or illegal content in violation of our terms or applicable law. We may not proactively discover such content due to scale, the limitations of existing technologies, and conflicting legal frameworks. When discovered by users and others, such content may negatively affect our reputation, our brands, and user engagement. Regulations and other initiatives to make platforms responsible for preventing or eliminating harmful content online have been enacted, and we expect this to continue. We may be subject to enhanced regulatory oversight, civil or criminal liability, or reputational damage if we fail to comply with content moderation regulations, adversely affecting our business and consolidated financial statements.
+
+The development of the IoT presents security, privacy, and execution risks. To support the growth of the intelligent cloud and the intelligent edge, we are developing products, services, and technologies to power the IoT. The IoT’s great potential also carries substantial risks. IoT products and services may contain defects in design, manufacture, or operation that make them insecure or ineffective for their intended purposes. An IoT solution has multiple layers of hardware, sensors, processors, software, and firmware, several of which we may not develop or control. Each layer, including the weakest layer, can impact the security of the whole system. Many IoT devices have limited interfaces and ability to be updated or patched. IoT solutions may collect large amounts of data, and our handling of IoT data may not satisfy customers or regulatory requirements. IoT scenarios may increasingly affect personal health and safety. If IoT solutions that include our technologies do not work as intended, violate the law, or harm individuals or businesses, we may be subject to legal claims or enforcement actions. These risks, if realized, may increase our costs, damage our reputation or brands, or negatively impact our revenues or margins.
 
 Issues in the development and use of AI may result in reputational or competitive harm or liability. We are building AI into many of our offerings, including our productivity services, and we are also making AI available for our customers to use in solutions that they build. This AI may be developed by Microsoft or others, including our strategic partner, OpenAI. We expect these elements of our business to grow. We envision a future in which AI operating in our devices, applications, and the cloud helps our customers be more productive in their work and personal lives. As with many innovations, AI presents risks and challenges that could affect its adoption, and therefore our business. AI algorithms or training methodologies may be flawed. Datasets may be overbroad, insufficient, or contain biased information. Content generated by AI systems may be offensive, illegal, or otherwise harmful. Ineffective or inadequate AI development or deployment practices by Microsoft or others could result in incidents that impair the acceptance of AI solutions or cause harm to individuals, customers, or society, or result in our products and services not working as intended. Human review of certain outputs may be required. As a result of these and other challenges associated with innovative technologies, our implementation of AI systems could subject us to competitive harm, regulatory action, legal liability, including under new proposed legislation regulating AI in jurisdictions such as the European Union (“EU”), new applications of existing data protection, privacy, intellectual property, and other laws, and brand or reputational harm. Some AI scenarios present ethical issues or may have broad impacts on society. If we enable or offer AI solutions that have unintended consequences, unintended usage or customization by our customers and partners, or are controversial because of their impact on human rights, privacy, employment, or other social, economic, or political issues, we may experience brand or reputational harm, adversely affecting our business and consolidated financial statements.
-
-29
-
 # PART I
 
 # Item 1A
@@ -783,7 +756,6 @@ There are limited suppliers for certain device and datacenter components. Our co
 # LEGAL, REGULATORY, AND LITIGATION RISKS
 
 Government litigation and regulatory activity relating to competition rules may limit how we design and market our products. Government agencies closely scrutinize us under U.S. and foreign competition laws. Governments are actively enforcing competition laws and regulations, and this includes scrutiny in potentially large markets such as the EU, the U.S., and China. Some jurisdictions also allow competitors or consumers to assert claims of anti-competitive conduct. U.S. federal and state antitrust authorities have previously brought enforcement actions and continue to scrutinize our business.
-
 # PART I
 
 # Item 1A
@@ -799,7 +771,6 @@ Laws and regulations relating to anti-corruption and trade could result in incre
 Increasing trade laws, policies, sanctions, and other regulatory requirements also affect our operations in and outside the U.S. relating to trade and investment. Economic sanctions in the U.S., the EU, and other countries prohibit most business with restricted entities or countries. U.S. export controls restrict Microsoft from offering many of its products and services to, or making investments in, certain entities in specified countries. U.S. import controls restrict us from integrating certain information and communication technologies into our supply chain and allow for government review of transactions involving information and communications technology from countries determined to be foreign adversaries. Supply chain regulations may impact the availability of goods or result in additional regulatory scrutiny. Periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine, may result in (1) new and rapidly evolving sanctions and trade restrictions, which may impair trade with sanctioned individuals and countries, and (2) negative impacts to regional trade ecosystems among our customers, partners, and us. Non-compliance with sanctions as well as general ecosystem disruptions could result in reputational harm, operational delays, monetary fines, loss of revenues, increased costs, loss of export privileges, or criminal sanctions.
 
 31
-
 # PART I
 
 # Item 1A
@@ -812,6 +783,7 @@ Our investment in gaining insights from data is becoming central to the value of
 
 Existing and increasing legal and regulatory requirements could adversely affect our results of operations. We are subject to a wide range of laws, regulations, and legal requirements in the U.S. and globally, including those that may apply to our products and online services offerings, and those that impose requirements related to user privacy, telecommunications, data storage and protection, advertising, and online content. Laws in several jurisdictions, including EU Member State laws under the European Electronic Communications Code, increasingly define certain of our services as regulated telecommunications services. This trend may continue and will result in these offerings being subjected to additional data protection, security, law enforcement surveillance, and other obligations. Regulators and private litigants may assert that our collection, use, and management of customer data and other information is inconsistent with their laws and regulations, including laws that apply to the tracking of users via technology such as cookies. New environmental, social, and governance laws and regulations are expanding mandatory disclosure, reporting, and diligence requirements. Legislative or regulatory action relating to cybersecurity requirements may increase the costs to develop, implement, or secure our products and services. Compliance with evolving digital accessibility laws and standards will require engineering and is important to our efforts to empower all people and organizations to achieve more. Legislative and regulatory action is emerging in the areas of AI and content moderation, which could increase costs or restrict opportunity. For example, in the EU, an AI Act is being considered, and may entail increased costs or decreased opportunities for the operation of our AI services in the European market.
 
+32
 # PART I
 
 # Item 1A
@@ -827,12 +799,11 @@ We may have additional tax liabilities. We are subject to income taxes in the U.
 We are regularly under audit by tax authorities in different jurisdictions. Although we believe that our provision for income taxes and our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken. In addition, economic and political pressures to increase tax revenue in various jurisdictions may make resolving tax disputes favorably more difficult. We are currently under Internal Revenue Service audit for prior tax years, with the primary unresolved issues relating to transfer pricing. The final resolution of those audits, and other audits or litigation, may differ from the amounts recorded in our consolidated financial statements and may materially affect our consolidated financial statements in the period or periods in which that determination is made.
 
 We earn a significant amount of our operating income outside the U.S. A change in the mix of earnings and losses in countries with differing statutory tax rates, changes in our business or structure, or the expiration of or disputes about certain tax agreements in a particular country may result in higher effective tax rates for the company. In addition, changes in U.S. federal and state or international tax laws applicable to corporate multinationals, other fundamental law changes currently being considered by many countries, including in the U.S., and changes in taxing jurisdictions’ administrative interpretations, decisions, policies, and positions may materially adversely impact our consolidated financial statements.
-
 # PART I
 
 # Item 1A
 
-# INTELLECTUAL PROPERTY RISKS
+INTELLECTUAL PROPERTY RISKS
 
 We face risks related to the protection and utilization of our intellectual property that may result in our business and operating results may be harmed. Protecting our intellectual property rights and combating unlicensed copying and use of our software and other intellectual property on a global basis is difficult. Similarly, the absence of harmonized patent laws makes it more difficult to ensure consistent respect for patent rights. Changes in the law may continue to weaken our ability to prevent the use of patented technology or collect revenue for licensing our patents. Additionally, licensees of our patents may fail to satisfy their obligations to pay us royalties or may contest the scope and extent of their obligations. Finally, our increasing engagement with open source software will also cause us to license our intellectual property rights broadly in certain situations. If we are unable to protect our intellectual property, our revenue may be adversely affected.
 
@@ -840,7 +811,7 @@ Source code, the detailed program commands for our operating systems and other s
 
 Third parties may claim that we infringe their intellectual property. From time to time, others claim we infringe their intellectual property rights. To resolve these claims, we may enter into royalty and licensing agreements on terms that are less favorable than currently available, stop selling or redesign affected products or services, or pay damages to satisfy indemnification commitments with our customers. Adverse outcomes could also include monetary damages or injunctive relief that may limit or prevent importing, marketing, and selling our products or services that have infringing technologies. We have paid significant amounts to settle claims related to the use of technology and intellectual property rights and to procure intellectual property rights as part of our strategy to manage this risk, and may continue to do so.
 
-# GENERAL RISKS
+GENERAL RISKS
 
 If our reputation or our brands are damaged, our business and operating results may be harmed. Our reputation and brands are globally recognized and are important to our business. Our reputation and brands affect our ability to attract and retain consumer, business, and public-sector customers. There are numerous ways our reputation or brands could be damaged. These include product safety or quality issues, our environmental impact and sustainability, supply chain practices, or human rights record. We may experience backlash from customers, government entities, advocacy groups, employees, and other stakeholders that disagree with our product offering decisions or public policy positions. Damage to our reputation or our brands may occur from, among other things:
 
@@ -855,7 +826,6 @@ Adverse economic or market conditions may harm our business. Worsening economic 
 Our product distribution system relies on an extensive partner and retail network. OEMs building devices that run our software have also been a significant means of distribution. The impact of economic conditions on our partners, such as the bankruptcy of a major distributor, OEM, or retailer, could cause sales channel disruption.
 
 Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased. As a result, allowances for doubtful accounts and write-offs of accounts receivable may increase.
-
 # PART I
 
 # Item 1A
@@ -871,7 +841,6 @@ The occurrence of regional epidemics or a global pandemic, such as COVID-19, may
 We may incur increased costs to effectively manage these aspects of our business. If we are unsuccessful, it may adversely impact our revenues, cash flows, market share growth, and reputation.
 
 The long-term effects of climate change on the global economy and the IT industry in particular are unclear. Environmental regulations or changes in the supply, demand, or available sources of energy or other resources may affect the availability or cost of goods and services, including natural resources, necessary to run our business. Changes in climate where we operate may increase the costs of powering and cooling computer hardware we use to develop software and provide cloud-based services.
-
 # PART I
 
 # Item 1A
@@ -879,7 +848,6 @@ The long-term effects of climate change on the global economy and the IT industr
 Our global business exposes us to operational and economic risks. Our customers are located throughout the world and a significant part of our revenue comes from international sales. The global nature of our business creates operational, economic, and geopolitical risks. Our results of operations may be affected by global, regional, and local economic developments, monetary policy, inflation, and recession, as well as political and military disputes. In addition, our international growth strategy includes certain markets, the developing nature of which presents several risks, including deterioration of social, political, labor, or economic conditions in a country or region, and difficulties in staffing and managing foreign operations. Emerging nationalist and protectionist trends and concerns about human rights, the environment, and political expression in specific countries may significantly alter the trade and commercial environments. Changes to trade policy or agreements as a result of populism, protectionism, or economic nationalism may result in higher tariffs, local sourcing initiatives, and non-local sourcing restrictions, export controls, investment restrictions, or other developments that make it more difficult to sell our products in foreign countries. Disruptions of these kinds in developed or emerging markets could negatively impact demand for our products and services, impair our ability to operate in certain regions, or increase operating costs. Although we hedge a portion of our international currency exposure, significant fluctuations in foreign exchange rates between the U.S. dollar and foreign currencies may adversely affect our results of operations.
 
 Our business depends on our ability to attract and retain talented employees. Our business is based on successfully attracting and retaining talented employees representing diverse backgrounds, experiences, and skill sets. The market for highly skilled workers and leaders in our industry is extremely competitive. Maintaining our brand and reputation, as well as a diverse and inclusive work environment that enables all our employees to thrive, are important to our ability to recruit and retain employees. We are also limited in our ability to recruit internationally by restrictive domestic immigration laws. Changes to U.S. immigration policies that restrain the flow of technical and professional talent may inhibit our ability to adequately staff our research and development efforts. If we are less successful in our recruiting efforts, or if we cannot retain highly skilled workers and key leaders, our ability to develop and deliver successful products and services may be adversely affected. Effective succession planning is also important to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. How employment-related laws are interpreted and applied to our workforce practices may result in increased operating costs and less flexibility in how we meet our workforce needs. Our global workforce is predominantly non-unionized, although we do have some employees in the U.S. and internationally who are represented by unions or works councils. In the U.S., there has been a general increase in workers exercising their right to form or join a union. The unionization of significant employee populations could result in higher costs and other operational changes necessary to respond to changing conditions and to establish new relationships with worker representatives.
-
 # PART I
 
 # Item 1B. UNRESOLVED STAFF COMMENTS
@@ -908,7 +876,6 @@ Refer to Note 15 – Contingencies of the Notes to Financial Statements (Part II
 # Item 4. MINE SAFETY DISCLOSURES
 
 Not applicable.
-
 # PART II
 
 # Item 5
@@ -941,14 +908,16 @@ Our Board of Directors declared the following dividends during the fourth quarte
 |June 13, 2023|August 17, 2023|September 14, 2023|$0.68|$5,054|
 
 We returned $9.7 billion to shareholders in the form of share repurchases and dividends in the fourth quarter of fiscal year 2023. Refer to Note 16 – Stockholders’ Equity of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion regarding share repurchases and dividends.
+# Part II
 
-# PART II
+Item 6
 
 ITEM 6. [RESERVED]
 
 39
+# Item 7
 
-# ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
 The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to help the reader understand the results of operations and financial condition of Microsoft Corporation. MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and the accompanying Notes to Financial Statements (Part II, Item 8 of this Form 10-K). This section generally discusses the results of our operations for the year ended June 30, 2023 compared to the year ended June 30, 2022. For a discussion of the year ended June 30, 2022 compared to the year ended June 30, 2021, please refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2022.
 
@@ -970,10 +939,9 @@ Highlights from fiscal year 2023 compared with fiscal year 2022 included:
 - Xbox content and services revenue decreased 3%.
 - Search and news advertising revenue excluding traffic acquisition costs increased 11%.
 
-# Industry Trends
+Industry Trends
 
 Our industry is dynamic and highly competitive, with frequent changes in both technologies and business models. Each industry shift is an opportunity to conceive new products, new technologies, or new ideas that can further transform the industry and our business. At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.
-
 # Part II
 
 # Item 7
@@ -999,16 +967,13 @@ Our revenue fluctuates quarterly and is generally higher in the second and fourt
 Change in Accounting Estimate
 
 In July 2022, we completed an assessment of the useful lives of our server and network equipment. Due to investments in software that increased efficiencies in how we operate our server and network equipment, as well as advances in technology, we determined we should increase the estimated useful lives of both server and network equipment from four years to six years. This change in accounting estimate was effective beginning fiscal year 2023. Based on the carrying amount of server and network equipment included in property and equipment, net as of June 30, 2022, the effect of this change in estimate for fiscal year 2023 was an increase in operating income of $3.7 billion and net income of $3.0 billion, or $0.40 per both basic and diluted share.
-
 # Part II
 
 # Item 7
 
 Reportable Segments
 
-We report our financial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. The segment amounts included in MD&A are presented on a basis consistent with our internal management reporting. We have recast certain prior period amounts to conform to the way we internally manage and monitor our business.
-
-Additional information on our reportable segments is contained in Note 19 – Segment Information and Geographic Data of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+We report our financial performance based on the following segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. The segment amounts included in MD&A are presented on a basis consistent with our internal management reporting. We have recast certain prior period amounts to conform to the way we internally manage and monitor our business. Additional information on our reportable segments is contained in Note 19 – Segment Information and Geographic Data of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
 
 Metrics
 
@@ -1023,41 +988,39 @@ Our commercial business primarily consists of Server products and cloud services
 Commercial remaining performance obligationMicrosoft Cloud revenueMicrosoft Cloud gross margin percentageCommercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periodsRevenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud propertiesGross margin percentage for our Microsoft Cloud business
 
 42
-
 # Part II
 
 # Item 7
 
-|Productivity and Business Processes and Intelligent Cloud Metrics| | | | |
-|---|---|---|---|---|
-|Office Commercial products and cloud services revenue growth| | | | |
-|Office Consumer products and cloud services revenue growth| | | | |
-|Office 365 Commercial seat growth| | | | |
-|Microsoft 365 Consumer subscribers| | | | |
-| |Dynamics products and cloud services revenue growth| | | |
-|LinkedIn revenue growth| | | | |
-| |Server products and cloud services revenue growth| | | |
-|Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Microsoft 365 Copilot| | | | |
-|Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services| | | | |
-|The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription| | | | |
-| |The number of Microsoft 365 Consumer subscribers at end of period| | | |
-|Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM (including Customer Insights), Power Apps, and Power Automate; and on-premises ERP and CRM applications| | | | |
-|Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions| | | | |
-|Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub| | | | |
+|Productivity and Business Processes and Intelligent Cloud Metrics| |
+|---|---|
+|Office Commercial products and cloud services revenue growth| |
+|Office Consumer products and cloud services revenue growth| |
+|Office 365 Commercial seat growth| |
+|Microsoft 365 Consumer subscribers| |
+|Dynamics products and cloud services revenue growth| |
+|LinkedIn revenue growth| |
+|Server products and cloud services revenue growth| |
+|Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Microsoft 365 Copilot| |
+|Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services| |
+|The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription| |
+|The number of Microsoft 365 Consumer subscribers at end of period| |
+|Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM (including Customer Insights), Power Apps, and Power Automate; and on-premises ERP and CRM applications| |
+|Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions| |
+|Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub| |
 
-|More Personal Computing Metrics| | |
-|---|---|---|
-|Windows OEM revenue growth| | |
-|Windows Commercial products and cloud services revenue growth| | |
-|Devices revenue growth| | |
-|Xbox content and services revenue growth| | |
-|Search and news advertising revenue (ex TAC) growth| | |
-| |Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel| |
-|Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings| | |
-| |Revenue from Devices, including Surface, HoloLens, and PC accessories| |
-|Revenue from Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services| | |
-|Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners| | |
-
+|More Personal Computing Metrics| |
+|---|---|
+|Windows OEM revenue growth| |
+|Windows Commercial products and cloud services revenue growth| |
+|Devices revenue growth| |
+|Xbox content and services revenue growth| |
+|Search and news advertising revenue (ex TAC) growth| |
+|Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel| |
+|Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings| |
+|Revenue from Devices, including Surface, HoloLens, and PC accessories| |
+|Revenue from Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services| |
+|Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners| |
 # PART II
 
 # Item 7
@@ -1077,27 +1040,18 @@ Commercial remaining performance obligationMicrosoft Cloud revenueMicrosoft Clou
 Adjusted gross margin, operating income, net income, and diluted earnings per share (“EPS”) are non-GAAP financial measures. Current year non-GAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Prior year non-GAAP financial measures exclude the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022. Refer to Note 12 – Income Taxes of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results.
 
 Fiscal Year 2023 Compared with Fiscal Year 2022
-
 Revenue increased $13.6 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal Computing revenue decreased driven by Windows and Devices.
-
 Cost of revenue increased $3.2 billion or 5% driven by growth in Microsoft Cloud, offset in part by the change in accounting estimate.
-
 Gross margin increased $10.4 billion or 8% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.
 
 Gross margin percentage increased slightly. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 1 point driven by declines in Intelligent Cloud and More Personal Computing, offset in part by sales mix shift between our segments.
-
 Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by a decline in Azure and other cloud services and sales mix shift to Azure and other cloud services, offset in part by improvement in Office 365 Commercial.
-
 Operating expenses increased $5.3 billion or 10% driven by employee severance expenses, 2 points of growth from the Nuance and Xandr acquisitions, investments in cloud engineering, and LinkedIn.
-
 Operating income increased $5.1 billion or 6% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.
-
 Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 4%, 4%, and 6%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.
-
 Current year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. Prior year net income and diluted EPS were positively impacted by the net tax benefit related to the transfer of intangible properties, which resulted in an increase to net income and diluted EPS of $3.3 billion and $0.44, respectively.
 
 44
-
 # Part II
 
 # Item 7
@@ -1105,9 +1059,6 @@ Current year gross margin, operating income, net income, and diluted EPS were ne
 | |2023|2022|Percentage Change|
 |---|---|---|---|
 |Revenue|$211,915|$198,270|7%|
-|Productivity and Business Processes|$69,274|$63,364|9%|
-|Intelligent Cloud|$87,907|$74,965|17%|
-|More Personal Computing|$54,734|$59,941|(9%)|
 
 | |Operating Income|
 |---|---|
@@ -1118,7 +1069,7 @@ Current year gross margin, operating income, net income, and diluted EPS were ne
 
 # Reportable Segments
 
-Fiscal Year 2023 Compared with Fiscal Year 2022
+# Fiscal Year 2023 Compared with Fiscal Year 2022
 
 # Productivity and Business Processes
 
@@ -1142,8 +1093,7 @@ Revenue increased $12.9 billion or 17%.
 
 - Server products and cloud services revenue increased $12.6 billion or 19% driven by Azure and other cloud services. Azure and other cloud services revenue grew 29% driven by growth in our consumption-based services. Server products revenue decreased 1%.
 - Enterprise Services revenue increased $315 million or 4% driven by growth in Enterprise Support Services, offset in part by a decline in Industry Solutions (formerly Microsoft Consulting Services).
-
-# PART II
+# Part II
 
 # Item 7
 
@@ -1177,7 +1127,6 @@ Operating income decreased $4.0 billion or 20%.
 | |Driven by a decline in Devices, offset in part by investments in Search and news advertising, including 2 points of growth from the Xandr acquisition.|
 
 Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%, and 6%, respectively. Operating expenses included a favorable foreign currency impact of 2%.
-
 # OPERATING EXPENSES
 
 # Research and Development
@@ -1212,7 +1161,6 @@ Fiscal Year 2023 Compared with Fiscal Year 2022: Sales and marketing expenses in
 General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees.
 
 Fiscal Year 2023 Compared with Fiscal Year 2022: General and administrative expenses increased $1.7 billion or 28% driven by employee severance expenses and a charge related to a non-public preliminary draft decision provided by the Irish Data Protection Commission. General and administrative included a favorable foreign currency impact of 2%.
-
 # PART II
 
 # Item 7
@@ -1221,14 +1169,14 @@ Fiscal Year 2023 Compared with Fiscal Year 2022: General and administrative expe
 
 The components of other income (expense), net were as follows:
 
-| |Year Ended June 30,|2023|2022|
+| |Year Ended June 30|2023|2022|
 |---|---|---|---|
 |Interest and dividends income|$2,994|$2,094| |
-|Interest expense|$(1,968)|$(2,063)| |
-|Net recognized gains on investments|$260|$461| |
-|Net losses on derivatives|$(456)|$(52)| |
-|Net gains (losses) on foreign currency remeasurements|$181|$(75)| |
-|Other, net|$(223)|$(32)| |
+|Interest expense|($1,968)|($2,063)| |
+|Net recognized gains on investments|260|461| |
+|Net losses on derivatives|($456)|($52)| |
+|Net gains (losses) on foreign currency remeasurements|181|($75)| |
+|Other, net|($223)|($32)| |
 |Total|$788|$333| |
 
 We use derivative instruments to manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net.
@@ -1252,7 +1200,6 @@ The mix of income before income taxes between the U.S. and foreign countries imp
 Uncertain Tax Positions
 
 We settled a portion of the Internal Revenue Service (“IRS”) audit for tax years 2004 to 2006 in fiscal year 2011. In February 2012, the IRS withdrew its 2011 Revenue Agents Report related to unresolved issues for tax years 2004 to 2006 and reopened the audit phase of the examination. We also settled a portion of the IRS audit for tax years 2007 to 2009 in fiscal year 2016, and a portion of the IRS audit for tax years 2010 to 2013 in fiscal year 2018. In the second quarter of fiscal year 2021, we settled an additional portion of the IRS audits for tax years 2004 to 2013 and made a payment of $1.7 billion, including tax and interest. We remain under audit for tax years 2004 to 2017.
-
 # PART II
 
 # Item 7
@@ -1275,35 +1222,61 @@ Adjusted gross margin, operating income, net income, and diluted EPS are non-GAA
 |Adjusted operating income (non-GAAP)|$89,694|$83,383|8%|
 |Net income|$72,361|$72,738|(1)%|
 |Severance, hardware-related impairment, and lease consolidation costs|946|0|*|
-|Net income tax benefit related to transfer of intangible properties|0|(3,291)|*|
+|Net income tax benefit related to transfer of intangible properties|0|$(3,291)|*|
 |Adjusted net income (non-GAAP)|$73,307|$69,447|6%|
 |Diluted earnings per share|$9.68|$9.65|0%|
 |Severance, hardware-related impairment, and lease consolidation costs|0.13|0|*|
-|Net income tax benefit related to transfer of intangible properties|0|(0.44)|*|
+|Net income tax benefit related to transfer of intangible properties|0|$(0.44)|*|
 |Adjusted diluted earnings per share (non-GAAP)|$9.81|$9.21|7%|
 
 * Not meaningful.
-
-# Part II
+# PART II
 
 # Item 7
 
-# Liquidity and Capital Resources
+# LIQUIDITY AND CAPITAL RESOURCES
 
-We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets to continue to be sufficient to fund our operating activities and cash commitments for investing and financing activities, such as dividends, share repurchases, debt maturities, material capital expenditures, and the transition tax related to the Tax Cuts and Jobs Act (“TCJA”), for at least the next 12 months and thereafter for the foreseeable future.
+We expect existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets to continue to be sufficient
+to fund our operating activities and cash commitments for investing and financing activities, such as dividends, share repurchases, debt maturities,
+material capital expenditures, and the transition tax related to the Tax Cuts and Jobs Act (“TCJA”), for at least the next 12 months and thereafter for the
+foreseeable future.
 
 # Cash, Cash Equivalents, and Investments
 
-Cash, cash equivalents, and short-term investments totaled $111.3 billion and $104.8 billion as of June 30, 2023 and 2022, respectively. Equity investments were $9.9 billion and $6.9 billion as of June 30, 2023 and 2022, respectively. Our short-term investments are primarily intended to facilitate liquidity and capital preservation. They consist predominantly of highly liquid investment-grade fixed-income securities, diversified among industries and individual issuers. The investments are predominantly U.S. dollar-denominated securities, but also include foreign currency-denominated securities to diversify risk. Our fixed-income investments are exposed to interest rate risk and credit risk. The credit risk and average maturity of our fixed-income portfolio are managed to achieve economic returns that correlate to certain fixed-income indices. The settlement risk related to these investments is insignificant given that the short-term investments held are primarily highly liquid investment-grade fixed-income securities.
+Cash, cash equivalents, and short-term investments totaled $111.3 billion and $104.8 billion as of June 30, 2023 and 2022, respectively. Equity
+investments were $9.9 billion and $6.9 billion as of June 30, 2023 and 2022, respectively. Our short-term investments are primarily intended to facilitate
+liquidity and capital preservation. They consist predominantly of highly liquid investment-grade fixed-income securities, diversified among industries and
+individual issuers. The investments are predominantly U.S. dollar-denominated securities, but also include foreign currency-denominated securities to
+diversify risk. Our fixed-income investments are exposed to interest rate risk and credit risk. The credit risk and average maturity of our fixed-income
+portfolio are managed to achieve economic returns that correlate to certain fixed-income indices. The settlement risk related to these investments is
+insignificant given that the short-term investments held are primarily highly liquid investment-grade fixed-income securities.
 
 # Valuation
 
-In general, and where applicable, we use quoted prices in active markets for identical assets or liabilities to determine the fair value of our financial instruments. This pricing methodology applies to our Level 1 investments, such as U.S. government securities, common and preferred stock, and mutual funds. If quoted prices in active markets for identical assets or liabilities are not available to determine fair value, then we use quoted prices for similar assets and liabilities or inputs other than the quoted prices that are observable either directly or indirectly. This pricing methodology applies to our Level 2 investments, such as commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Level 3 investments are valued using internally-developed models with unobservable inputs. Assets and liabilities measured at fair value on a recurring basis using unobservable inputs are an immaterial portion of our portfolio. A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted market price in an active market or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades. Our broker-priced investments are generally classified as Level 2 investments because the broker prices these investments based on similar assets without applying significant adjustments. In addition, all our broker-priced investments have a sufficient level of trading volume to demonstrate that the fair values used are appropriate for these investments. Our fair value processes include controls that are designed to ensure appropriate fair values are recorded. These controls include model validation, review of key model inputs, analysis of period-over-period fluctuations, and independent recalculation of prices where appropriate.
+In general, and where applicable, we use quoted prices in active markets for identical assets or liabilities to determine the fair value of our financial
+instruments. This pricing methodology applies to our Level 1 investments, such as U.S. government securities, common and preferred stock, and mutual
+funds. If quoted prices in active markets for identical assets or liabilities are not available to determine fair value, then we use quoted prices for similar
+assets and liabilities or inputs other than the quoted prices that are observable either directly or indirectly. This pricing methodology applies to our Level 2
+investments, such as commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed
+securities, corporate notes and bonds, and municipal securities. Level 3 investments are valued using internally-developed models with unobservable
+inputs. Assets and liabilities measured at fair value on a recurring basis using unobservable inputs are an immaterial portion of our portfolio.
+A majority of our investments are priced by pricing vendors and are generally Level 1 or Level 2 investments as these vendors either provide a quoted
+market price in an active market or use observable inputs for their pricing without applying significant adjustments. Broker pricing is used mainly when a
+quoted price is not available, the investment is not priced by our pricing vendors, or when a broker price is more reflective of fair values in the market in
+which the investment trades. Our broker-priced investments are generally classified as Level 2 investments because the broker prices these investments
+based on similar assets without applying significant adjustments. In addition, all our broker-priced investments have a sufficient level of trading volume to
+demonstrate that the fair values used are appropriate for these investments. Our fair value processes include controls that are designed to ensure
+appropriate fair values are recorded. These controls include model validation, review of key model inputs, analysis of period-over-period fluctuations, and
+independent recalculation of prices where appropriate.
 
 # Cash Flows
 
-Cash from operations decreased $1.5 billion to $87.6 billion for fiscal year 2023, mainly due to an increase in cash paid to employees and suppliers and cash used to pay income taxes, offset in part by an increase in cash received from customers. Cash used in financing decreased $14.9 billion to $43.9 billion for fiscal year 2023, mainly due to a $10.5 billion decrease in common stock repurchases and a $6.3 billion decrease in repayments of debt, offset in part by a $1.7 billion increase in dividends paid. Cash used in investing decreased $7.6 billion to $22.7 billion for fiscal year 2023, due to a $20.4 billion decrease in cash used for acquisitions of companies, net of cash acquired, and purchases of intangible and other assets, offset in part by a $8.2 billion decrease in cash from net investment purchases, sales, and maturities, and a $4.2 billion increase in additions to property and equipment.
-
+Cash from operations decreased $1.5 billion to $87.6 billion for fiscal year 2023, mainly due to an increase in cash paid to employees and suppliers and
+cash used to pay income taxes, offset in part by an increase in cash received from customers. Cash used in financing decreased $14.9 billion to $43.9
+billion for fiscal year 2023, mainly due to a $10.5 billion decrease in common stock repurchases and a $6.3 billion decrease in repayments of debt, offset
+in part by a $1.7 billion increase in dividends paid. Cash used in investing decreased $7.6 billion to $22.7 billion for fiscal year 2023, due to a $20.4 billion
+decrease in cash used for acquisitions of companies, net of cash acquired, and purchases of intangible and other assets, offset in part by a $8.2 billion
+decrease in cash from net investment purchases, sales, and maturities, and a $4.2 billion increase in additions to property and equipment.
 # Part II
 
 # Item 7
@@ -1317,8 +1290,9 @@ Unearned Revenue
 Unearned revenue comprises mainly unearned revenue related to volume licensing programs, which may include Software Assurance (“SA”) and cloud services. Unearned revenue is generally invoiced annually at the beginning of each contract period for multi-year agreements and recognized ratably over the coverage period. Unearned revenue also includes payments for other offerings for which we have been paid in advance and earn the revenue when we transfer control of the product or service. Refer to Note 1 – Accounting Policies of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K) for further discussion.
 
 **Expected Future Recognition of Unearned Revenue as of June 30, 2023**
-| |Three Months Ending|
+| |In millions|
 |---|---|
+|Three Months Ending| |
 |September 30, 2023|$19,673|
 |December 31, 2023|$15,600|
 |March 31, 2024|$10,801|
@@ -1332,15 +1306,14 @@ Material Cash Requirements and Other Obligations
 
 Contractual Obligations
 
-**Payments Due by Fiscal Year for Outstanding Contractual Obligations as of June 30, 2023**
-| |2024|Thereafter|Total|
-|---|---|---|---|
-|Long-term debt: (a) Principal payments|$5,250|$47,616|$52,866|
-|Construction commitments (b) Interest payments|$1,379|$19,746|$21,125|
-|Operating and finance leases, including imputed interest (c)|$12,237|$1,218|$13,455|
-| |$5,988|$73,852|$79,840|
-|Purchase commitments (d)|$64,703|$3,115|$67,818|
-|Total|$89,557|$145,547|$235,104|
+|In millions| | |2024|Thereafter|Total|
+|---|---|---|---|---|---|
+|Long-term debt:(a)|Principal payments|$5,250|$47,616|$52,866| |
+|Construction commitments(b)|Interest payments|$1,379|$19,746|$21,125| |
+| |Operating and finance leases, including imputed interest(c)|$12,237|$1,218|$13,455| |
+| |$5,988|$73,852|$79,840| | |
+|Purchase commitments(d)|$64,703|$3,115|$67,818| | |
+|Total|$89,557|$145,547|$235,104| | |
 
 (a) Refer to Note 11 – Debt of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
 
@@ -1349,7 +1322,6 @@ Contractual Obligations
 (c) Refer to Note 14 – Leases of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
 
 (d) Purchase commitments primarily relate to datacenters and include open purchase orders and take-or-pay contracts that are not presented as construction commitments above.
-
 # Part II
 
 # Item 7
@@ -1377,7 +1349,6 @@ We will continue to invest in sales, marketing, product support infrastructure, 
 Critical Accounting Estimates
 
 Our consolidated financial statements and accompanying notes are prepared in accordance with GAAP. Preparing consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Critical accounting estimates are those estimates that involve a significant level of estimation uncertainty and could have a material impact on our financial condition or results of operations. We have critical accounting estimates in the areas of revenue recognition, impairment of investment securities, goodwill, research and development costs, legal and other contingencies, income taxes, and inventories.
-
 # PART II
 
 # Item 7
@@ -1399,9 +1370,6 @@ Impairment of Investment Securities
 We review debt investments quarterly for credit losses and impairment. If the cost of an investment exceeds its fair value, we evaluate, among other factors, general market conditions, credit quality of debt instrument issuers, and the extent to which the fair value is less than cost. This determination requires significant judgment. In making this judgment, we employ a systematic methodology that considers available quantitative and qualitative evidence in evaluating potential impairment of our investments. In addition, we consider specific adverse conditions related to the financial health of, and business outlook for, the investee. If we have plans to sell the security or it is more likely than not that we will be required to sell the security before recovery, then a decline in fair value below cost is recorded as an impairment charge in other income (expense), net and a new cost basis in the investment is established. If market, industry, and/or investee conditions deteriorate, we may incur future impairments.
 
 Equity investments without readily determinable fair values are written down to fair value if a qualitative assessment indicates that the investment is impaired and the fair value of the investment is less than carrying value. We perform a qualitative assessment on a periodic basis. We are required to estimate the fair value of the investment to determine the amount of the impairment loss. Once an investment is determined to be impaired, an impairment charge is recorded in other income (expense), net.
-
-53
-
 # PART II
 
 # Item 7
@@ -1421,7 +1389,6 @@ Costs incurred internally in researching and developing a computer software prod
 Legal and Other Contingencies
 
 The outcomes of legal proceedings and claims brought against us are subject to significant uncertainty. An estimated loss from a loss contingency such as a legal proceeding or claim is accrued by a charge to income if it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. In determining whether a loss should be accrued we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our consolidated financial statements.
-
 # Part II
 
 # Item 7
@@ -1433,7 +1400,6 @@ The objectives of accounting for income taxes are to recognize the amount of tax
 Inventories
 
 Inventories are stated at average cost, subject to the lower of cost or net realizable value. Cost includes materials, labor, and manufacturing overhead related to the purchase and production of inventories. Net realizable value is the estimated selling price less estimated costs of completion, disposal, and transportation. We regularly review inventory quantities on hand, future purchase commitments with our suppliers, and the estimated utility of our inventory. These reviews include analysis of demand forecasts, product life cycle status, product development plans, current sales levels, pricing strategy, and component cost trends. If our review indicates a reduction in utility below carrying value, we reduce our inventory to a new cost basis through a charge to cost of revenue.
-
 # PART II
 
 # Item 7
@@ -1458,14 +1424,11 @@ Alice L. Jolla
 Corporate Vice President and Chief Accounting Officer
 
 56
-
 # PART II
 
 # Item 7A
 
 # ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
-
-RISKS
 
 We are exposed to economic risk from foreign exchange rates, interest rates, credit risk, and equity prices. We use derivatives instruments to manage these risks, however, they may still impact our consolidated financial statements.
 
@@ -1494,7 +1457,6 @@ Securities held in our equity investments portfolio are subject to price risk.
 |Interest rate|100 basis point increase in U.S. treasury interest rates|$ (1,832) Fair Value|
 |Credit|100 basis point increase in credit spreads|$ (354) Fair Value|
 |Equity|10% decrease in equity market prices|$ (705) Earnings|
-
 # ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
 
 # INCOME STATEMENTS
@@ -1526,8 +1488,7 @@ Securities held in our equity investments portfolio are subject to price risk.
 |Diluted|7,472|7,540|7,608| |
 
 Refer to accompanying notes.
-
-# PART II
+# Part II
 
 # Item 8
 
@@ -1542,8 +1503,7 @@ Refer to accompanying notes.
 |Comprehensive income|$ 70,696|$ 66,238|$ 59,897| |
 
 Refer to accompanying notes.
-
-# Part II
+# PART II
 
 # Item 8
 
@@ -1554,54 +1514,51 @@ Refer to accompanying notes.
 |Assets| | |
 |Current assets:| | |
 |Cash and cash equivalents|$34,704|$13,931|
-|Short-term investments|76,558|90,826|
-|Total cash, cash equivalents, and short-term investments|111,262|104,757|
-|Accounts receivable, net of allowance for doubtful accounts of $650 and $633|48,688|44,261|
-|Inventories|2,500|3,742|
-|Other current assets|21,807|16,924|
-|Total current assets|184,257|169,684|
-|Property and equipment, net of accumulated depreciation of $68,251 and $59,660|95,641|74,398|
-|Operating lease right-of-use assets|14,346|13,148|
-|Equity investments|9,879|6,891|
-|Goodwill|67,886|67,524|
-|Intangible assets, net|9,366|11,298|
-|Other long-term assets|30,601|21,897|
+|Short-term investments|$76,558|$90,826|
+|Total cash, cash equivalents, and short-term investments|$111,262|$104,757|
+|Accounts receivable, net of allowance for doubtful accounts of $650 and $633|$48,688|$44,261|
+|Inventories|$2,500|$3,742|
+|Other current assets|$21,807|$16,924|
+|Total current assets|$184,257|$169,684|
+|Property and equipment, net of accumulated depreciation of $68,251 and $59,660|$95,641|$74,398|
+|Operating lease right-of-use assets|$14,346|$13,148|
+|Equity investments|$9,879|$6,891|
+|Goodwill|$67,886|$67,524|
+|Intangible assets, net|$9,366|$11,298|
+|Other long-term assets|$30,601|$21,897|
 |Total assets|$411,976|$364,840|
 
-| |June 30, 2023|2022|
-|---|---|---|
 |Liabilities and stockholders’ equity| | |
+|---|---|---|
 |Current liabilities:| | |
 |Accounts payable|$18,095|$19,000|
-|Current portion of long-term debt|5,247|2,749|
-|Accrued compensation|11,009|10,661|
-|Short-term income taxes|4,152|4,067|
-|Short-term unearned revenue|50,901|45,538|
-|Other current liabilities|14,745|13,067|
-|Total current liabilities|104,149|95,082|
-|Long-term debt|41,990|47,032|
-|Long-term income taxes|25,560|26,069|
-|Long-term unearned revenue|2,912|2,870|
-|Deferred income taxes|433|230|
-|Operating lease liabilities|12,728|11,489|
-|Other long-term liabilities|17,981|15,526|
-|Total liabilities|205,753|198,298|
+|Current portion of long-term debt|$5,247|$2,749|
+|Accrued compensation|$11,009|$10,661|
+|Short-term income taxes|$4,152|$4,067|
+|Short-term unearned revenue|$50,901|$45,538|
+|Other current liabilities|$14,745|$13,067|
+|Total current liabilities|$104,149|$95,082|
+|Long-term debt|$41,990|$47,032|
+|Long-term income taxes|$25,560|$26,069|
+|Long-term unearned revenue|$2,912|$2,870|
+|Deferred income taxes|$433|$230|
+|Operating lease liabilities|$12,728|$11,489|
+|Other long-term liabilities|$17,981|$15,526|
+|Total liabilities|$205,753|$198,298|
 
 Commitments and contingencies
 
-| |June 30, 2023|2022|
-|---|---|---|
 |Stockholders’ equity:| | |
-|Common stock and paid-in capital – shares authorized 24,000; outstanding 7,432 and 7,464|93,718|86,939|
-|Retained earnings|118,848|84,281|
-|Accumulated other comprehensive loss|(6,343)|(4,678)|
-|Total stockholders’ equity|206,223|166,542|
+|---|---|---|
+|Common stock and paid-in capital – shares authorized 24,000; outstanding 7,432 and 7,464|$93,718|$86,939|
+|Retained earnings|$118,848|$84,281|
+|Accumulated other comprehensive loss|($6,343)|($4,678)|
+|Total stockholders’ equity|$206,223|$166,542|
 |Total liabilities and stockholders’ equity|$411,976|$364,840|
 
 Refer to accompanying notes.
 
 60
-
 # Part II
 
 # Item 8
@@ -1647,14 +1604,15 @@ Refer to accompanying notes.
 |Other, net| |(3,116)|(2,825)|(922)|
 |Net cash used in investing| |(22,680)|(30,311)|(27,577)|
 
-|Effect of foreign exchange rates on cash and cash equivalents| |(194)|(141)|(29)|
-|---|---|---|---|---|
-|Net change in cash and cash equivalents| |20,773|(293)|648|
-|Cash and cash equivalents, beginning of period| |13,931|14,224|13,576|
-|Cash and cash equivalents, end of period| |$34,704|$13,931|$14,224|
+Effect of foreign exchange rates on cash and cash equivalents: ($194), ($141), ($29)
+
+Net change in cash and cash equivalents: $20,773, ($293), $648
+
+Cash and cash equivalents, beginning of period: $13,931, $14,224, $13,576
+
+Cash and cash equivalents, end of period: $34,704, $13,931, $14,224
 
 Refer to accompanying notes.
-
 # STOCKHOLDERS’ EQUITY STATEMENTS
 
 | |2023|2022|2021|
@@ -1667,23 +1625,22 @@ Refer to accompanying notes.
 |Other, net|(2)|173|17|
 |Balance, end of period|93,718|86,939|83,111|
 |Retained earnings| | | |
-|Balance, beginning of period|84,281|57,055|34,566|
+|Balance, beginning of period|$84,281|$57,055|$34,566|
 |Net income|72,361|72,738|61,271|
 |Common stock cash dividends|(20,226)|(18,552)|(16,871)|
 |Common stock repurchased|(17,568)|(26,960)|(21,879)|
 |Cumulative effect of accounting changes|0|0|(32)|
 |Balance, end of period|118,848|84,281|57,055|
 |Accumulated other comprehensive income (loss)| | | |
-|Balance, beginning of period|(4,678)|1,822|3,186|
-|Other comprehensive loss|(1,665)|(6,500)|(1,374)|
+|Balance, beginning of period|($4,678)|$1,822|$3,186|
+|Other comprehensive loss|($1,665)|($6,500)|($1,374)|
 |Cumulative effect of accounting changes|0|0|10|
-|Balance, end of period|(6,343)|(4,678)|1,822|
+|Balance, end of period|($6,343)|($4,678)|$1,822|
 |Total stockholders’ equity|$206,223|$166,542|$141,988|
 
 Cash dividends declared per common share: $2.72 (2023), $2.48 (2022), $2.24 (2021)
 
 Refer to accompanying notes.
-
 # PART II
 
 # Item 8
@@ -1719,7 +1676,6 @@ Product Revenue and Service and Other Revenue
 Product revenue includes sales from operating systems, cross-device productivity and collaboration applications, server applications, business solution applications, desktop and server management tools, software development tools, video games, and hardware such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories.
 
 Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and Xbox; solution support; and consulting services. Service and other revenue also includes sales from online advertising and LinkedIn.
-
 # PART II
 
 # Item 8
@@ -1747,7 +1703,6 @@ Significant Judgments
 Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time. Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation. Revenue from Office 365 is recognized ratably over the period in which the cloud services are provided.
 
 64
-
 # Part II
 
 # Item 8
@@ -1773,7 +1728,6 @@ Payment terms and conditions vary by contract type, although terms generally inc
 As of June 30, 2023 and 2022, long-term accounts receivable, net of allowance for doubtful accounts, was $4.5 billion and $3.8 billion, respectively, and is included in other long-term assets in our consolidated balance sheets.
 
 The allowance for doubtful accounts reflects our best estimate of probable losses inherent in the accounts receivable balance. We determine the allowance based on known troubled accounts, historical experience, and other currently available evidence.
-
 # Part II
 
 # Item 8
@@ -1808,7 +1762,6 @@ We apply a practical expedient to expense costs as incurred for costs to obtain 
 Cost of Revenue
 
 Cost of revenue includes: manufacturing and distribution costs for products sold and programs licensed; operating costs related to product support service centers and product distribution centers; costs incurred to include software on PCs sold by original equipment manufacturers (“OEM”), to drive traffic to our websites, and to acquire online advertising space; costs incurred to support and maintain cloud-based and other online products and services, including datacenter costs and royalties; warranty costs; inventory valuation adjustments; costs associated with the delivery of consulting services; and the amortization of capitalized software development costs. Capitalized software development costs are amortized over the estimated lives of the products.
-
 # PART II
 
 # Item 8
@@ -1836,7 +1789,6 @@ On January 18, 2023, we announced a decision to reduce our overall workforce by 
 Income Taxes
 
 Income tax expense includes U.S. and international income taxes, and interest and penalties on uncertain tax positions. Certain income and expenses are not reported in tax returns and financial statements in the same year. The tax effect of such temporary differences is reported as deferred income taxes. Deferred tax assets are reported net of a valuation allowance when it is more likely than not that a tax benefit will not be realized. All deferred income taxes are classified as long-term in our consolidated balance sheets.
-
 # PART II
 
 # Item 8
@@ -1862,8 +1814,7 @@ For derivative instruments designated as cash flow hedges, gains and losses are 
 For derivative instruments that are not designated as hedges, gains and losses from changes in fair values are primarily recognized in other income (expense), net.
 
 68
-
-# PART II
+# Part II
 
 # Item 8
 
@@ -1876,9 +1827,7 @@ We account for certain assets and liabilities at fair value. The hierarchy below
 |Level 2|inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Our Level 2 derivative assets and liabilities include certain cleared swap contracts and over-the-counter forward, option, and swap contracts.|
 |Level 3|inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models. Our Level 3 assets and liabilities include investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets, when they are recorded at fair value due to an impairment charge. Unobservable inputs used in the models are significant to the fair values of the assets and liabilities.|
 
-We measure equity investments without readily determinable fair values on a nonrecurring basis. The fair values of these investments are determined based on valuation techniques using the best information available, and may include quoted market prices, market comparables, and discounted cash flow projections.
-
-Our other current financial assets and current financial liabilities have fair values that approximate their carrying values.
+We measure equity investments without readily determinable fair values on a nonrecurring basis. The fair values of these investments are determined based on valuation techniques using the best information available, and may include quoted market prices, market comparables, and discounted cash flow projections. Our other current financial assets and current financial liabilities have fair values that approximate their carrying values.
 
 # Inventories
 
@@ -1891,7 +1840,6 @@ Property and equipment is stated at cost less accumulated depreciation, and depr
 # Leases
 
 We determine if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”) assets, other current liabilities, and operating lease liabilities in our consolidated balance sheets. Finance leases are included in property and equipment, other current liabilities, and other long-term liabilities in our consolidated balance sheets.
-
 # PART II
 
 # Item 8
@@ -1900,19 +1848,17 @@ ROU assets represent our right to use an underlying asset for the lease term and
 
 We have lease agreements with lease and non-lease components, which are generally accounted for separately. For certain equipment leases, such as vehicles, we account for the lease and non-lease components as a single lease component. Additionally, for certain equipment leases, we apply a portfolio approach to effectively account for the operating lease ROU assets and liabilities.
 
-Goodwill
+# Goodwill
 
 Goodwill is tested for impairment at the reporting unit level (operating segment or one level below an operating segment) on an annual basis (May 1) and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value.
 
-Intangible Assets
+# Intangible Assets
 
 Our intangible assets are subject to amortization and are amortized using the straight-line method over their estimated period of benefit, ranging from one to 20 years. We evaluate the recoverability of intangible assets periodically by taking into account events or circumstances that may warrant revised estimates of useful lives or that indicate the asset may be impaired.
 
-NOTE 2 — EARNINGS PER SHARE
+# NOTE 2 — EARNINGS PER SHARE
 
-Basic earnings per share (“EPS”) is computed based on the weighted average number of shares of common stock outstanding during the period. Diluted EPS is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock awards.
-
-The components of basic and diluted EPS were as follows:
+Basic earnings per share (“EPS”) is computed based on the weighted average number of shares of common stock outstanding during the period. Diluted EPS is computed based on the weighted average number of shares of common stock plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock awards. The components of basic and diluted EPS were as follows:
 
 | |Year Ended June 30|2023|2022|2021|
 |---|---|---|---|---|
@@ -1923,12 +1869,11 @@ The components of basic and diluted EPS were as follows:
 
 Earnings Per Share
 
-Basic (A/B) - $9.72, $9.70, $8.12
+Basic (A/B) $9.72 $9.70 $8.12
 
-Diluted (A/C) - $9.68, $9.65, $8.05
+Diluted (A/C) $9.68 $9.65 $8.05
 
 Anti-dilutive stock-based awards excluded from the calculations of diluted EPS were immaterial during the periods presented.
-
 # PART II
 
 # Item 8
@@ -1947,7 +1892,7 @@ The components of other income (expense), net were as follows:
 |Other, net|(223)|(32)|98| |
 |Total|$ 788|$ 333|$ 1,186| |
 
-Net Recognized Gains (Losses) on Investments
+# Net Recognized Gains (Losses) on Investments
 
 Net recognized gains (losses) on debt investments were as follows:
 
@@ -1963,10 +1908,9 @@ Net recognized gains (losses) on equity investments were as follows:
 | |Year Ended June 30| |2023|2022|2021|
 |---|---|---|---|---|---|
 |Net realized gains on investments sold|$ 75|$ 29|$ 123| | |
-|Net unrealized gains on investments still held|303|509|1,057| | |
+|Net unrealized gains on investments still held|$ 303|$ 509|$ 1,057| | |
 |Impairments of investments|(20)|(20)|(11)| | |
 |Total|$ 358|$ 518|$ 1,169| | |
-
 # Part II
 
 # Item 8
@@ -2000,111 +1944,134 @@ Investment Components
 |Total| | | | |$121,141|$34,704|$76,558|$9,879|
 
 72
-
 # PART II
 
 # Item 8
 
-| |Fair Value|Adjusted Cost Basis|Unrealized Gains|Unrealized Losses|Recorded Basis|Cash and Cash Equivalents|Short-term Investments|Equity Investments|
-|---|---|---|---|---|---|---|---|---|
-|Commercial paper|Level 2|$2,500|$0|$0|$2,500|$2,498|$2|$0|
-|Certificates of deposit|Level 2|$2,071|$0|$0|$2,071|$2,032|$39|$0|
-|U.S. government securities|Level 1|$79,696|$29|($2,178)|$77,547|$9|$77,538|$0|
-|U.S. agency securities|Level 2|$419|$0|($9)|$410|$0|$410|$0|
-|Foreign government bonds|Level 2|$506|$0|($24)|$482|$0|$482|$0|
-|Mortgage- and asset-backed securities|Level 2|$727|$1|($30)|$698|$0|$698|$0|
-|Corporate notes and bonds|Level 2|$11,661|$4|($554)|$11,111|$0|$11,111|$0|
-|Corporate notes and bonds|Level 3|$67|$0|$0|$67|$0|$67|$0|
-|Municipal securities|Level 2|$368|$19|($13)|$374|$0|$374|$0|
-|Municipal securities|Level 3|$103|$0|($6)|$97|$0|$97|$0|
-|Total debt investments| |$98,118|$53|($2,814)|$95,357|$4,539|$90,818|$0|
+|Cash and Cash Equivalents|Short-term Investments|Equity Investments|
+|---|---|---|
+| | | |
+|June 30, 2022| | |
+| | | |
+| | | |
 
-| | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-|Equity investments|Level 1| | | |$1,590|$1,134|$0|$456|
-|Equity investments|Other| | | |$6,435|$0|$0|$6,435|
-|Total equity investments| | | | |$8,025|$1,134|$0|$6,891|
+|(In millions)|Level|Fair Value|Adjusted Cost Basis|Unrealized Gains|Unrealized Losses|Recorded Basis|
+|---|---|---|---|---|---|---|
+|Commercial paper|Level 2|$2,500|$0|$0|$2,500|$2,498|
+|Certificates of deposit|Level 2|$2,071|$0|$0|$2,071|$2,032|
+|U.S. government securities|Level 1|$79,696|$29|($2,178)|$77,547|$9|
+|U.S. agency securities|Level 2|$419|$0|($9)|$410|$0|
+|Foreign government bonds|Level 2|$506|$0|($24)|$482|$0|
+|Mortgage- and asset-backed securities|Level 2|$727|$1|($30)|$698|$0|
+|Corporate notes and bonds|Level 2|$11,661|$4|($554)|$11,111|$0|
+|Corporate notes and bonds|Level 3|$67|$0|$0|$67|$0|
+|Municipal securities|Level 2|$368|$19|($13)|$374|$0|
+|Municipal securities|Level 3|$103|$0|($6)|$97|$0|
+|Total debt investments| |$98,118|$53|($2,814)|$95,357|$4,539|
 
-| | | | | | | | | |
+|Changes in Fair Value|Recorded in Other Comprehensive Income| | | | | | | |
 |---|---|---|---|---|---|---|---|---|
-|Cash| | | | |$8,258|$8,258|$0|$0|
-|Derivatives, net(a)| | | | |$8|$0|$8|$0|
-|Total| | | | |$111,648|$13,931|$90,826|$6,891|
+|Equity investments|Level 1| | |$1,590|$1,134|$456| | |
+|Equity investments|Other| | |$6,435|$0|$6,435| | |
+|Total equity investments| | | |$8,025|$1,134|$6,891| | |
+
+|Cash| |$8,258|$8,258|$0|$0|
+|---|---|---|---|---|---|
+|Derivatives, net(a)| |$8|$0|$8|$0|
+|Total| |$111,648|$13,931|$90,826|$6,891|
 
 (a) Refer to Note 5 – Derivatives for further information on the fair value of our derivative instruments.
 
 Equity investments presented as “Other” in the tables above include investments without readily determinable fair values measured using the equity method or measured at cost with adjustments for observable changes in price or impairments, and investments measured at fair value using net asset value as a practical expedient which are not categorized in the fair value hierarchy. As of June 30, 2023 and 2022, equity investments without readily determinable fair values measured at cost with adjustments for observable changes in price or impairments were $4.2 billion and $3.8 billion, respectively.
 
 73
-
 # Part II
 
 # Item 8
 
-|(In millions)|Fair Value|Less than 12 Months| | |12 Months or Greater|Total| | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unrealized Losses|Fair Value|Unrealized Losses|Fair Value|Unrealized Losses| | | | | | | | | | |
-|U.S. government and agency securities|$7,950|($336)|$45,273|($3,534)|$53,223|($3,870)| | | | | | | | |
-|Foreign government bonds|$77|($5)|$391|($19)|$468|($24)| | | | | | | | |
-|Mortgage- and asset-backed securities|$257|($5)|$412|($34)|$669|($39)| | | | | | | | |
-|Corporate notes and bonds|$2,326|($49)|$7,336|($534)|$9,662|($583)| | | | | | | | |
-|Municipal securities|$111|($3)|$186|($31)|$297|($34)| | | | | | | | |
-| | | | | | | | |Total|$10,721|($398)|$53,598|($4,152)|$64,319|($4,550)|
+Unrealized Losses on Debt Investments
 
-|(In millions)|Fair Value|Less than 12 Months| | |12 Months or Greater|Total| | | | | | | | |
+| | |Less than 12 Months| | |12 Months or Greater| |Total| | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | |Unrealized Losses|Fair Value|Unrealized Losses|Fair Value|Unrealized Losses| | | | | | | | |
-|June 30, 2022| | | | | | | | | | | | | | |
-|U.S. government and agency securities|$59,092|($1,835)|$2,210|($352)|$61,302|($2,187)| | | | | | | | |
-|Foreign government bonds|$418|($18)|$27|($6)|$445|($24)| | | | | | | | |
-|Mortgage- and asset-backed securities|$510|($26)|$41|($4)|$551|($30)| | | | | | | | |
-|Corporate notes and bonds|$9,443|($477)|$786|($77)|$10,229|($554)| | | | | | | | |
-|Municipal securities|$178|($12)|$74|($7)|$252|($19)| | | | | | | | |
-| | | | | | | | |Total|$69,641|($2,368)|$3,138|($446)|$72,779|($2,814)|
+| |Fair Value|Unrealized Losses|Fair Value|Unrealized Losses|Fair Value|Losses| | | | | | | | |
+|U.S. government and agency securities|$7,950|$(336)|$45,273|$(3,534)|$53,223|$(3,870)| | | | | | | | |
+|Foreign government bonds|$77|$(5)|$391|$(19)|$468|$(24)| | | | | | | | |
+|Mortgage- and asset-backed securities|$257|$(5)|$412|$(34)|$669|$(39)| | | | | | | | |
+|Corporate notes and bonds|$2,326|$(49)|$7,336|$(534)|$9,662|$(583)| | | | | | | | |
+|Municipal securities|$111|$(3)|$186|$(31)|$297|$(34)| | | | | | | | |
+| | | | | | | | |Total|$10,721|$(398)|$53,598|$(4,152)|$64,319|$(4,550)|
+
+| | |Less than 12 Months| | |12 Months or Greater| |Total| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Fair Value|Unrealized Losses|Fair Value|Unrealized Losses|Fair Value|Losses| | | | | | | | |
+|U.S. government and agency securities|$59,092|$(1,835)|$2,210|$(352)|$61,302|$(2,187)| | | | | | | | |
+|Foreign government bonds|$418|$(18)|$27|$(6)|$445|$(24)| | | | | | | | |
+|Mortgage- and asset-backed securities|$510|$(26)|$41|$(4)|$551|$(30)| | | | | | | | |
+|Corporate notes and bonds|$9,443|$(477)|$786|$(77)|$10,229|$(554)| | | | | | | | |
+|Municipal securities|$178|$(12)|$74|$(7)|$252|$(19)| | | | | | | | |
+| | | | | | | | |Total|$69,641|$(2,368)|$3,138|$(446)|$72,779|$(2,814)|
 
 Unrealized losses from fixed-income securities are primarily attributable to changes in interest rates. Management does not believe any remaining unrealized losses represent impairments based on our evaluation of available evidence.
 
-# Debt Investment Maturities
+Debt Investment Maturities
 
-|(In millions)|Cost Basis|Estimated Fair Value|
+| |Adjusted Cost Basis|Estimated Fair Value|
 |---|---|---|
 |Due in one year or less|$38,182|$38,048|
 |Due after one year through five years|$47,127|$44,490|
 |Due after five years through 10 years|$13,262|$11,628|
 |Due after 10 years|$1,298|$1,166|
 |Total|$99,869|$95,332|
-
 # Part II
 
 # Item 8
 
 NOTE 5 — DERIVATIVES
 
-We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and to facilitate portfolio diversification. Our objectives for holding derivatives include reducing, eliminating, and efficiently managing the economic impact of these exposures as effectively as possible. Our derivative programs include strategies that both qualify and do not qualify for hedge accounting treatment.
+We use derivative instruments to manage risks related to foreign currencies, interest rates, equity prices, and credit; to enhance investment returns; and
+to facilitate portfolio diversification. Our objectives for holding derivatives include reducing, eliminating, and efficiently managing the economic impact of
+these exposures as effectively as possible. Our derivative programs include strategies that both qualify and do not qualify for hedge accounting
+treatment.
 
 Foreign Currencies
 
-Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to maximize the economic effectiveness of our foreign currency hedge positions.
+Certain forecasted transactions, assets, and liabilities are exposed to foreign currency risk. We monitor our foreign currency exposures daily to maximize
+the economic effectiveness of our foreign currency hedge positions.
 
-Foreign currency risks related to certain non-U.S. dollar-denominated investments are hedged using foreign exchange forward contracts that are designated as fair value hedging instruments. Foreign currency risks related to certain Euro-denominated debt are hedged using foreign exchange forward contracts that are designated as cash flow hedging instruments. Certain options and forwards not designated as hedging instruments are also used to manage the variability in foreign exchange rates on certain balance sheet amounts and to manage other foreign currency exposures.
+Foreign currency risks related to certain non-U.S. dollar-denominated investments are hedged using foreign exchange forward contracts that are
+designated as fair value hedging instruments. Foreign currency risks related to certain Euro-denominated debt are hedged using foreign exchange
+forward contracts that are designated as cash flow hedging instruments.
+
+Certain options and forwards not designated as hedging instruments are also used to manage the variability in foreign exchange rates on certain balance
+sheet amounts and to manage other foreign currency exposures.
 
 Interest Rate
 
-Interest rate risks related to certain fixed-rate debt are hedged using interest rate swaps that are designated as fair value hedging instruments to effectively convert the fixed interest rates to floating interest rates. Securities held in our fixed-income portfolio are subject to different interest rate risks based on their maturities. We manage the average maturity of our fixed-income portfolio to achieve economic returns that correlate to certain broad-based fixed-income indices using option, futures, and swap contracts. These contracts are not designated as hedging instruments and are included in “Other contracts” in the tables below.
+Interest rate risks related to certain fixed-rate debt are hedged using interest rate swaps that are designated as fair value hedging instruments to
+effectively convert the fixed interest rates to floating interest rates.
+
+Securities held in our fixed-income portfolio are subject to different interest rate risks based on their maturities. We manage the average maturity of our
+fixed-income portfolio to achieve economic returns that correlate to certain broad-based fixed-income indices using option, futures, and swap contracts.
+These contracts are not designated as hedging instruments and are included in “Other contracts” in the tables below.
 
 Equity
 
-Securities held in our equity investments portfolio are subject to market price risk. At times, we may hold options, futures, and swap contracts. These contracts are not designated as hedging instruments.
+Securities held in our equity investments portfolio are subject to market price risk. At times, we may hold options, futures, and swap contracts. These
+contracts are not designated as hedging instruments.
 
 Credit
 
-Our fixed-income portfolio is diversified and consists primarily of investment-grade securities. We use credit default swap contracts to manage credit exposures relative to broad-based indices and to facilitate portfolio diversification. These contracts are not designated as hedging instruments and are included in “Other contracts” in the tables below.
+Our fixed-income portfolio is diversified and consists primarily of investment-grade securities. We use credit default swap contracts to manage credit
+exposures relative to broad-based indices and to facilitate portfolio diversification. These contracts are not designated as hedging instruments and are
+included in “Other contracts” in the tables below.
 
 Credit-Risk-Related Contingent Features
 
-Certain of our counterparty agreements for derivative instruments contain provisions that require our issued and outstanding long-term unsecured debt to maintain an investment grade credit rating and require us to maintain minimum liquidity of $1.0 billion. To the extent we fail to meet these requirements, we will be required to post collateral, similar to the standard convention related to over-the-counter derivatives. As of June 30, 2023, our long-term unsecured debt rating was AAA, and cash investments were in excess of $1.0 billion. As a result, no collateral was required to be posted.
-
-# Part II
+Certain of our counterparty agreements for derivative instruments contain provisions that require our issued and outstanding long-term unsecured debt to
+maintain an investment grade credit rating and require us to maintain minimum liquidity of $1.0 billion. To the extent we fail to meet these requirements,
+we will be required to post collateral, similar to the standard convention related to over-the-counter derivatives. As of June 30, 2023, our long-term
+unsecured debt rating was AAA, and cash investments were in excess of $1.0 billion. As a result, no collateral was required to be posted.
+# PART II
 
 # Item 8
 
@@ -2135,7 +2102,7 @@ Certain of our counterparty agreements for derivative instruments contain provis
 |Other contracts|$5|($6)|$15|($17)|
 |Gross amounts of derivatives|469|($805)|356|($551)|
 |Gross amounts of derivatives offset in the balance sheet|(202)|206|(130)|133|
-|Cash collateral received|0|(125)|0|(75)|
+|Cash collateral received|0|($125)|0|($75)|
 |Net amounts of derivatives|$267|($724)|$226|($493)|
 
 Reported as
@@ -2143,7 +2110,7 @@ Reported as
 | |June 30, 2023|June 30, 2022|
 |---|---|---|
 |Short-term investments|$6|$0|
-|Other current assets|$245|$218|
+|Other current assets|$245|$0|
 |Other long-term assets|$16|$0|
 |Other current liabilities|0|($341)|
 |Other long-term liabilities|0|($383)|
@@ -2155,24 +2122,21 @@ Total
 | |$267|($724)|
 | |$226|($493)|
 
-Gross derivative assets and liabilities subject to legally enforceable master netting agreements for which we have elected to offset were $442 million and $804 million, respectively, as of June 30, 2023, and $343 million and $550 million, respectively, as of June 30, 2022.
+Gross derivative assets and liabilities subject to legally enforceable master netting agreements for which we have elected to offset were $442 million and
+$804 million, respectively, as of June 30, 2023, and $343 million and $550 million, respectively, as of June 30, 2022.
 
 # Fair Value of Derivatives Instruments
 
 | |Level 1|Level 2|Level 3|Total|
 |---|---|---|---|---|
-|June 30, 2023| | | | |
+| |June 30, 2023|June 30, 2023|June 30, 2022|June 30, 2022|
 |Derivative assets|$0|$462|$7|$469|
 |Derivative liabilities|0|($805)|0|($805)|
-|June 30, 2022| | | | |
-|Derivative assets|$1|$349|$6|$356|
-|Derivative liabilities|0|($551)|0|($551)|
-
 # PART II
 
 # Item 8
 
-| |Year Ended June 30|2023|2022|2021|
+| |Year Ended June 30,|2023|2022|2021|
 |---|---|---|---|---|
 |Designated as Fair Value Hedging Instruments| | | | |
 |Foreign exchange contracts|Derivatives|$ 0|$ 49|$ 193|
@@ -2187,20 +2151,19 @@ Gross derivative assets and liabilities subject to legally enforceable master ne
 |Equity contracts| |(420)|13|(6)|
 |Other contracts| |(41)|(85)|15|
 
-| |Year Ended June 30|2023|2022|2021|
+| |Year Ended June 30,|2023|2022|2021|
 |---|---|---|---|---|
 |Designated as Cash Flow Hedging Instruments| | | | |
-|Foreign exchange contracts|Included in effectiveness assessment|$ 34|($ 57)|$ 34|
+|Foreign exchange contracts|Included in effectiveness assessment|$ 34|$(57)|$ 34|
 
-NOTE 6 — INVENTORIES
+# NOTE 6 — INVENTORIES
 
-| |June 30|2023|2022|
+| |June 30,|2023|2022|
 |---|---|---|---|
 |Raw materials|$ 709|$ 1,144| |
 |Work in process|23|82| |
-|Finished goods|$ 1,768|$ 2,516| |
+|Finished goods|1,768|2,516| |
 |Total|$ 2,500|$ 3,742| |
-
 # Part II
 
 # Item 8
@@ -2248,10 +2211,7 @@ Following are the details of the purchase price allocated to the intangible asse
 |Technology-based|$1,540| | |5 years|
 |Marketing-related|$215| | |4 years|
 |Total|$4,365|7 years| | |
-
-# Part II
-
-# Item 8
+# Part II Item 8
 
 ZeniMax Media Inc.
 
@@ -2282,7 +2242,7 @@ Activision Blizzard, Inc.
 
 On January 18, 2022, we entered into a definitive agreement to acquire Activision Blizzard, Inc. (“Activision Blizzard”) for $95.00 per share in an all-cash transaction valued at $68.7 billion, inclusive of Activision Blizzard’s net cash. Activision Blizzard is a leader in game development and an interactive entertainment content publisher. The acquisition will accelerate the growth in our gaming business across mobile, PC, console, and cloud gaming. The acquisition has been approved by Activision Blizzard’s shareholders. We continue to work toward closing the transaction subject to obtaining required regulatory approvals and satisfaction of other customary closing conditions. Microsoft and Activision Blizzard have jointly agreed to extend the merger agreement through October 18, 2023 to allow for additional time to resolve remaining regulatory concerns.
 
-# Note 9 — Goodwill
+NOTE 9 — GOODWILL
 
 Changes in the carrying amount of goodwill were as follows:
 
@@ -2292,7 +2252,6 @@ Changes in the carrying amount of goodwill were as follows:
 |Intelligent Cloud|$13,256|$16,879|$47|$30,182|$223|$64|$30,469|
 |More Personal Computing|$12,138|$648|($255)|$12,531|$0|$111|$12,642|
 |Total|$49,711|$18,126|($313)|$67,524|$234|$128|$67,886|
-
 # PART II
 
 # Item 8
@@ -2309,7 +2268,7 @@ No instances of impairment were identified in our May 1, 2023, May 1, 2022, or M
 
 The components of intangible assets, all of which are finite-lived, were as follows:
 
-| | |June 30, 2023|June 30, 2022| | | |
+|(In millions)| |June 30, 2023|June 30, 2022| | | |
 |---|---|---|---|---|---|---|
 |Gross Carrying Amount|Accumulated Amortization|Net Carrying Amount|Gross Carrying Amount|Accumulated Amortization|Net Carrying Amount| |
 |Technology-based|$11,245|$(7,589)|$3,656|$11,277|$(6,958)|$4,319|
@@ -2322,24 +2281,21 @@ No material impairments of intangible assets were identified during fiscal years
 
 The components of intangible assets acquired during the periods presented were as follows:
 
-| |Year Ended June 30, 2023|Year Ended June 30, 2023|Year Ended June 30, 2022|Year Ended June 30, 2022|
-|---|---|---|
-| |Amount|Weighted Average Life|Amount|Weighted Average Life|
-|Technology-based|$522|7 years|$2,611|4 years|
-|Customer-related|$0|0 years|$2,837|9 years|
-|Marketing-related|$7|5 years|$233|4 years|
-|Contract-based|$12|3 years|$0|0 years|
-|Total|$541|6 years|$5,681|7 years|
+|(In millions)|Year Ended June 30, 2023|Year Ended June 30, 2022| | | | |
+|---|---|---|---|---|---|---|
+| |Amount|Weighted Average Life|Amount|Weighted Average Life| | |
+|Technology-based|$522| | |7 years|$2,611|4 years|
+|Customer-related|$0| | |0 years|$2,837|9 years|
+|Marketing-related|$7| | |5 years|$233|4 years|
+|Contract-based|$12| | |3 years|$0|0 years|
+|Total|$541| | |6 years|$5,681|7 years|
 
 Intangible assets amortization expense was $2.5 billion, $2.0 billion, and $1.6 billion for fiscal years 2023, 2022, and 2021, respectively.
-
 # PART II
 
 # Item 8
 
-The following table outlines the estimated future amortization expense related to intangible assets held as of June 30, 2023:
-
-|Year Ending June 30,|Amount ($ in millions)|
+|Year Ending June 30,| |
 |---|---|
 |2024|$2,363|
 |2025|$1,881|
@@ -2349,7 +2305,7 @@ The following table outlines the estimated future amortization expense related t
 |Thereafter|$2,160|
 |Total|$9,366|
 
-NOTE 11 — DEBT
+# NOTE 11 — DEBT
 
 |(In millions, issuance by calendar year)|Maturities (calendar year)|Stated Interest Rate|Effective Interest Rate|June 30, 2023|June 30, 2022|
 |---|---|---|---|---|---|
@@ -2364,13 +2320,6 @@ NOTE 11 — DEBT
 |2017 issuance of $17.0 billion|2024 – 2057|2.88% – 4.50%|3.04% – 4.53%|$8,945|$8,945|
 |2020 issuance of $10.0 billion|2050 – 2060|2.53% – 2.68%|2.53% – 2.68%|$10,000|$10,000|
 |2021 issuance of $8.2 billion|2052 – 2062|2.92% – 3.04%|2.92% – 3.04%|$8,185|$8,185|
-|Total face value| | | |$52,866|$55,511|
-|Unamortized discount and issuance costs| | | |($438)|($471)|
-|Hedge fair value adjustments (a)| | | |($106)|($68)|
-|Premium on debt exchange| | | |($5,085)|($5,191)|
-|Total debt| | | |$47,237|$49,781|
-|Current portion of long-term debt| | | |($5,247)|($2,749)|
-|Long-term debt| | | |$41,990|$47,032|
 
 (a) Refer to Note 5 – Derivatives for further information on the interest rate swaps related to fixed-rate debt.
 
@@ -2381,7 +2330,6 @@ The estimated fair values are based on Level 2 inputs.
 Debt in the table above is comprised of senior unsecured obligations and ranks equally with our other outstanding obligations. Interest is paid semi-annually, except for the Euro-denominated debt, which is paid annually. Cash paid for interest on our debt for fiscal years 2023, 2022, and 2021 was $1.7 billion, $1.9 billion, and $2.0 billion, respectively.
 
 81
-
 # PART II
 
 # Item 8
@@ -2408,37 +2356,36 @@ Provision for Income Taxes
 |Foreign|$6,678|$6,672|$5,467|
 |Current taxes|$23,009|$16,680|$9,981|
 |Deferred Taxes| | | |
-|U.S. federal|$(6,146)|$(4,815)|$25|
-|U.S. state and local|$(477)|$(1,062)|$(204)|
+|U.S. federal|($6,146)|($4,815)|$25|
+|U.S. state and local|($477)|($1,062)|($204)|
 |Foreign|$564|$175|$29|
-|Deferred taxes|$(6,059)|$(5,702)|$(150)|
+|Deferred taxes|($6,059)|($5,702)|($150)|
 |Provision for income taxes|$16,950|$10,978|$9,831|
-
-# PART II
+# Part II
 
 # Item 8
 
-| |Year Ended June 30,|2023|2022|2021|
-|---|---|---|---|---|
-|U.S.|$52,917|$47,837|$34,972| |
-|Foreign|$36,394|$35,879|$36,130| |
-|Income before income taxes|$89,311|$83,716|$71,102| |
+| |2023|2022|2021|
+|---|---|---|---|
+|U.S.|$52,917|$47,837|$34,972|
+|Foreign|$36,394|$35,879|$36,130|
+|Income before income taxes|$89,311|$83,716|$71,102|
 
 Effective Tax Rate
 
-| |Year Ended June 30,|2023|2022|2021|
-|---|---|---|---|---|
-|Federal statutory rate|21.0%|21.0%|21.0%| |
-|Effect of:| | | | |
-|Foreign earnings taxed at lower rates|(1.8)%|(1.3)%|(2.7)%| |
-|Impact of intangible property transfers|0%|(3.9)%|0%| |
-|Foreign-derived intangible income deduction|(1.3)%|(1.1)%|(1.3)%| |
-|State income taxes, net of federal benefit|1.6%|1.4%|1.4%| |
-|Research and development credit|(1.1)%|(0.9)%|(0.9)%| |
-|Excess tax benefits relating to stock-based compensation|(0.7)%|(1.9)%|(2.4)%| |
-|Interest, net|0.8%|0.5%|0.5%| |
-|Other reconciling items, net|0.5%|(0.7)%|(1.8)%| |
-|Effective rate|19.0%|13.1%|13.8%| |
+| |2023|2022|2021|
+|---|---|---|---|
+|Federal statutory rate|21.0%|21.0%|21.0%|
+|Effect of:| | | |
+|Foreign earnings taxed at lower rates|(1.8)%|(1.3)%|(2.7)%|
+|Impact of intangible property transfers|0%|(3.9)%|0%|
+|Foreign-derived intangible income deduction|(1.3)%|(1.1)%|(1.3)%|
+|State income taxes, net of federal benefit|1.6%|1.4%|1.4%|
+|Research and development credit|(1.1)%|(0.9)%|(0.9)%|
+|Excess tax benefits relating to stock-based compensation|(0.7)%|(1.9)%|(2.4)%|
+|Interest, net|0.8%|0.5%|0.5%|
+|Other reconciling items, net|0.5%|(0.7)%|(1.8)%|
+|Effective rate|19.0%|13.1%|13.8%|
 
 In the first quarter of fiscal year 2022, we transferred certain intangible properties from our Puerto Rico subsidiary to the U.S. The transfer of intangible properties resulted in a $3.3 billion net income tax benefit in the first quarter of fiscal year 2022, as the value of future U.S. tax deductions exceeded the current tax liability from the U.S. global intangible low-taxed income (“GILTI”) tax.
 
@@ -2446,6 +2393,7 @@ We have historically paid India withholding taxes on software sales through dist
 
 The decrease from the federal statutory rate in fiscal year 2023 is primarily due to earnings taxed at lower rates in foreign jurisdictions resulting from producing and distributing our products and services through our foreign regional operations center in Ireland. The decrease from the federal statutory rate in fiscal year 2022 is primarily due to the net income tax benefit related to the transfer of intangible properties, earnings taxed at lower rates in foreign jurisdictions resulting from producing and distributing our products and services through our foreign regional operations center in Ireland, and tax benefits relating to stock-based compensation. The decrease from the federal statutory rate in fiscal year 2021 is primarily due to earnings taxed at lower rates in foreign jurisdictions resulting from producing and distributing our products and services through our foreign regional operations centers in Ireland and Puerto Rico, tax benefits relating to stock-based compensation, and tax benefits from the India Supreme Court decision on withholding taxes. In fiscal year 2023, our foreign regional operating center in Ireland, which is taxed at a rate lower than the U.S. rate, generated 81% of our foreign income before tax. In fiscal years 2022 and 2021, our foreign regional operating centers in Ireland and Puerto Rico, which are taxed at rates lower than the U.S. rate, generated 71% and 82% of our foreign income before tax. Other reconciling items, net consists primarily of tax credits and GILTI tax, and in fiscal year 2021, includes tax benefits from the India Supreme Court decision on withholding taxes. In fiscal years 2023, 2022, and 2021, there were no individually significant other reconciling items.
 
+83
 # PART II
 
 # Item 8
@@ -2489,7 +2437,6 @@ Deferred income tax balances reflect the effects of temporary differences betwee
 As of June 30, 2023, we had federal, state, and foreign net operating loss carryforwards of $509 million, $1.2 billion, and $2.3 billion, respectively. The federal and state net operating loss carryforwards have varying expiration dates ranging from fiscal year 2024 to 2043 or indefinite carryforward periods, if not utilized. The majority of our foreign net operating loss carryforwards do not expire. Certain acquired net operating loss carryforwards are subject to an annual limitation but are expected to be realized with the exception of those which have a valuation allowance. As of June 30, 2023, we had $456 million federal capital loss carryforwards for U.S. tax purposes from our acquisition of Nuance. The federal capital loss carryforwards are subject to an annual limitation and will expire in fiscal year 2025.
 
 84
-
 # PART II
 
 # Item 8
@@ -2520,7 +2467,6 @@ We settled a portion of the Internal Revenue Service (“IRS”) audit for tax y
 As of June 30, 2023, the primary unresolved issues for the IRS audits relate to transfer pricing, which could have a material impact on our consolidated financial statements when the matters are resolved. We believe our allowances for income tax contingencies are adequate. We have not received a proposed assessment for the unresolved key transfer pricing issues. We do not expect a final resolution of these issues in the next 12 months. Based on the information currently available, we do not anticipate a significant increase or decrease to our tax contingencies for these issues within the next 12 months.
 
 We are subject to income tax in many jurisdictions outside the U.S. Our operations in certain jurisdictions remain subject to examination for tax years 1996 to 2022, some of which are currently under audit by local tax authorities. The resolution of each of these audits is not expected to be material to our consolidated financial statements.
-
 # Part II
 
 # Item 8
@@ -2561,27 +2507,32 @@ The components of lease expense were as follows:
 |---|---|---|---|
 |Operating lease cost|$2,875|$2,461|$2,127|
 
-|Finance lease cost:| | | | |
+| | | | | |
 |---|---|---|---|---|
+|Finance lease cost:| | | | |
 |Amortization of right-of-use assets|$1,352|$980|$921| |
 |Interest on lease liabilities|$501|$429|$386| |
 |Total finance lease cost|$1,853|$1,409|$1,307| |
 
 Supplemental cash flow information related to leases was as follows:
 
-| | |2023| |2022|2021|
-|---|---|---|---|---|---|
-|Cash paid for amounts included in the measurement of lease liabilities:| | | | | |
-|Operating cash flows from operating leases|$2,706|$2,368|$2,052| | |
-|Operating cash flows from finance leases|$501|$429|$386| | |
-|Financing cash flows from finance leases|$1,056|$896|$648| | |
-|Right-of-use assets obtained in exchange for lease obligations:| | | | | |
-|Operating leases|$3,514|$5,268|$4,380| | |
-|Finance leases|$3,128|$4,234|$3,290| | |
+| |2023|2022|2021|
+|---|---|---|---|
+|Cash paid for amounts included in the measurement of lease liabilities:| | | |
+|Operating cash flows from operating leases|$2,706|$2,368|$2,052|
+|Operating cash flows from finance leases|$501|$429|$386|
+|Financing cash flows from finance leases|$1,056|$896|$648|
 
+| | | | |
+|---|---|---|---|
+|Right-of-use assets obtained in exchange for lease obligations:| | | |
+|Operating leases|$3,514|$5,268|$4,380|
+|Finance leases|$3,128|$4,234|$3,290|
 # Part II
 
 # Item 8
+
+Supplemental balance sheet information related to leases was as follows:
 
 | |June 30, 2023|2022|
 |---|---|---|
@@ -2612,7 +2563,7 @@ Weighted Average Discount Rate
 | | |2.9%|2.1%|
 | | |3.4%|3.1%|
 
-# The following table outlines maturities of our lease liabilities as of June 30, 2023:
+The following table outlines maturities of our lease liabilities as of June 30, 2023:
 
 | |Operating Leases|Finance Leases|
 |---|---|---|
@@ -2628,8 +2579,7 @@ Weighted Average Discount Rate
 |Total|$15,137|$17,067|
 
 As of June 30, 2023, we have additional operating and finance leases, primarily for datacenters, that have not yet commenced of $7.7 billion and $34.4 billion, respectively. These operating and finance leases will commence between fiscal year 2024 and fiscal year 2030 with lease terms of 1 year to 18 years.
-
-# PART II
+# Part II
 
 # Item 8
 
@@ -2652,7 +2602,6 @@ We also are subject to a variety of other claims and suits that arise from time 
 As of June 30, 2023, we accrued aggregate legal liabilities of $617 million. While we intend to defend these matters vigorously, adverse outcomes that we estimate could reach approximately $600 million in aggregate beyond recorded amounts are reasonably possible. Were unfavorable final outcomes to occur, there exists the possibility of a material adverse impact in our consolidated financial statements for the period in which the effects become reasonably estimable.
 
 88
-
 # Part II
 
 # Item 8
@@ -2660,8 +2609,6 @@ As of June 30, 2023, we accrued aggregate legal liabilities of $617 million. Whi
 # NOTE 16 — STOCKHOLDERS’ EQUITY
 
 Shares Outstanding
-
-Shares of common stock outstanding were as follows:
 
 |Year Ended June 30|2023|2022|2021|
 |---|---|---|---|
@@ -2688,16 +2635,13 @@ We repurchased the following shares of common stock under the share repurchase p
 |Total|69|$18,400|95|$28,033|101|$22,970|
 
 89
-
-# PART II
+# Part II
 
 # Item 8
 
 All repurchases were made using cash resources. Shares repurchased during fiscal year 2023 and the fourth and third quarters of fiscal year 2022 were under the share repurchase program approved on September 14, 2021. Shares repurchased during the second quarter of fiscal year 2022 were under the share repurchase programs approved on both September 14, 2021 and September 18, 2019. All other shares repurchased were under the share repurchase program approved on September 18, 2019. The above table excludes shares repurchased to settle employee tax withholding related to the vesting of stock awards of $3.8 billion, $4.7 billion, and $4.4 billion for fiscal years 2023, 2022, and 2021, respectively.
 
 # Dividends
-
-Our Board of Directors declared the following dividends:
 
 |Declaration Date|Record Date|Payment Date|Dividend Per Share|Amount (In millions)|
 |---|---|---|---|---|
@@ -2716,7 +2660,6 @@ Our Board of Directors declared the following dividends:
 |Total| | |$2.48|$18,550|
 
 The dividend declared on June 13, 2023 was included in other current liabilities as of June 30, 2023.
-
 # Part II
 
 # Item 8
@@ -2727,24 +2670,24 @@ The dividend declared on June 13, 2023 was included in other current liabilities
 |---|---|---|---|---|
 |Derivatives| | | | |
 |Balance, beginning of period| |$(13)|$(19)|$(38)|
-|Unrealized gains (losses), net of tax of $9, $(15), and $9| |34|-57|34|
-|Reclassification adjustments for (gains) losses included in other income (expense), net| |-61|79|-17|
-|Tax expense (benefit) included in provision for income taxes| |13|-16|2|
-|Amounts reclassified from accumulated other comprehensive income (loss)| |-48|63|-15|
-|Net change related to derivatives, net of tax of $(4), $1, and $7| |-14|6|19|
+|Unrealized gains (losses), net of tax of $9, $(15), and $9| |34|(57)|34|
+|Reclassification adjustments for (gains) losses included in other income (expense), net| |(61)|79|(17)|
+|Tax expense (benefit) included in provision for income taxes| |13|(16)|2|
+|Amounts reclassified from accumulated other comprehensive income (loss)| |(48)|63|(15)|
+|Net change related to derivatives, net of tax of $(4), $1, and $7| |(14)|6|19|
 |Balance, end of period| |$(27)|$(13)|$(19)|
 |Investments| | | | |
 |Balance, beginning of period| |$(2,138)|$3,222|$5,478|
-|Unrealized losses, net of tax of $(393), $(1,440), and $(589)| |-1,523|-5,405|-2,216|
-|Reclassification adjustments for (gains) losses included in other income (expense), net| |99|57|-63|
-|Tax expense (benefit) included in provision for income taxes| |-20|-12|13|
-|Amounts reclassified from accumulated other comprehensive income (loss)| |79|45|-50|
-|Net change related to investments, net of tax of $(373), $(1,428), and $(602)| |-1,444|-5,360|-2,266|
+|Unrealized losses, net of tax of $(393), $(1,440), and $(589)| |$(1,523)|$(5,405)|$(2,216)|
+|Reclassification adjustments for (gains) losses included in other income (expense), net| |99|57|(63)|
+|Tax expense (benefit) included in provision for income taxes| |(20)|(12)|13|
+|Amounts reclassified from accumulated other comprehensive income (loss)| |79|45|(50)|
+|Net change related to investments, net of tax of $(373), $(1,428), and $(602)| |$(1,444)|$(5,360)|$(2,266)|
 |Cumulative effect of accounting changes| |0|0|10|
 |Balance, end of period| |$(3,582)|$(2,138)|$3,222|
 |Translation Adjustments and Other| | | | |
 |Balance, beginning of period| |$(2,527)|$(1,381)|$(2,254)|
-|Translation adjustments and other, net of tax of $0, $0, and $(9)| |-207|-1,146|873|
+|Translation adjustments and other, net of tax of $0, $0, and $(9)| |$(207)|$(1,146)|873|
 |Balance, end of period| |$(2,734)|$(2,527)|$(1,381)|
 |Accumulated other comprehensive income (loss), end of period| |$(6,343)|$(4,678)|$1,822|
 
@@ -2762,7 +2705,6 @@ Stock-based compensation expense and related income tax benefits were as follows
 Stock Plans
 
 Stock awards entitle the holder to receive shares of Microsoft common stock as the award vests. Stock awards generally vest over a service period of four years or five years.
-
 # Part II
 
 # Item 8
@@ -2807,8 +2749,7 @@ Employees purchased the following shares during the periods presented:
 |Average price per share|$245.59|$259.55|$207.88|
 
 As of June 30, 2023, 74 million shares of our common stock were reserved for future issuance through the ESPP.
-
-# Part II
+# PART II
 
 # Item 8
 
@@ -2822,16 +2763,32 @@ In its operation of the business, management, including our chief operating deci
 
 We have recast certain prior period amounts to conform to the way we internally manage and monitor our business.
 
-Our reportable segments are described below:
+Our reportable segments are described below.
 
-Productivity and Business ProcessesOur Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services, spanning a variety of devices and platforms. This segment primarily comprises:- Office Commercial (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Microsoft 365 Copilot.- Office Consumer, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services.- LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.- Dynamics business solutions, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM (including Customer Insights), Power Apps, and Power Automate; and on-premises ERP and CRM applications.
+# Productivity and Business Processes
 
-Intelligent CloudOur Intelligent Cloud segment consists of our public, private, and hybrid server products and cloud services that can power modern business and developers. This segment primarily comprises:- Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub.- Enterprise Services, including Enterprise Support Services, Industry Solutions (formerly Microsoft Consulting Services), and Nuance professional services.
+Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services, spanning a variety of devices and platforms. This segment primarily comprises:
 
-More Personal ComputingOur More Personal Computing segment consists of products and services that put customers at the center of the experience with our technology. This segment primarily comprises:- Windows, including Windows OEM licensing and other non-volume licensing of the Windows operating system; Windows Commercial, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows Internet of Things.- Devices, including Surface, HoloLens, and PC accessories.
+- Office Commercial (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Microsoft 365 Copilot.
+- Office Consumer, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services.
+- LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.
+- Dynamics business solutions, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM (including Customer Insights), Power Apps, and Power Automate; and on-premises ERP and CRM applications.
+
+# Intelligent Cloud
+
+Our Intelligent Cloud segment consists of our public, private, and hybrid server products and cloud services that can power modern business and developers. This segment primarily comprises:
+
+- Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub.
+- Enterprise Services, including Enterprise Support Services, Industry Solutions (formerly Microsoft Consulting Services), and Nuance professional services.
+
+# More Personal Computing
+
+Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our technology. This segment primarily comprises:
+
+- Windows, including Windows OEM licensing and other non-volume licensing of the Windows operating system; Windows Commercial, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings; patent licensing; and Windows Internet of Things.
+- Devices, including Surface, HoloLens, and PC accessories.
 
 93
-
 # PART II
 
 # Item 8
@@ -2846,31 +2803,31 @@ In addition, certain costs are incurred at a corporate level and allocated to ou
 
 Segment revenue and operating income were as follows during the periods presented:
 
-**In millions**
-|Year Ended June 30|2023|2022|2021|
-|---|---|---|---|
-|Revenue|$69,274|$63,364|$53,915|
-|Productivity and Business Processes|$87,907|$74,965|$59,728|
-|Intelligent Cloud|$54,734|$59,941|$54,445|
-|Total|$211,915|$198,270|$168,088|
-|Operating Income|$34,189|$29,690|$24,351|
-|Productivity and Business Processes|$37,884|$33,203|$26,471|
-|Intelligent Cloud|$16,450|$20,490|$19,094|
-|Total|$88,523|$83,383|$69,916|
+| |Year Ended June 30|2023|2022|2021|
+|---|---|---|---|---|
+|Revenue|Productivity and Business Processes|$69,274|$63,364|$53,915|
+| |Intelligent Cloud|$87,907|$74,965|$59,728|
+| |More Personal Computing|$54,734|$59,941|$54,445|
+|Total| |$211,915|$198,270|$168,088|
+
+| |Operating Income| | | |
+|---|---|---|---|---|
+| |Productivity and Business Processes|$34,189|$29,690|$24,351|
+| |Intelligent Cloud|$37,884|$33,203|$26,471|
+| |More Personal Computing|$16,450|$20,490|$19,094|
+|Total| |$88,523|$83,383|$69,916|
 
 No sales to an individual customer or country other than the United States accounted for more than 10% of revenue for fiscal years 2023, 2022, or 2021.
 
 Revenue, classified by the major geographic areas in which our customers were located, was as follows:
 
-**In millions**
-|Year Ended June 30|2023|2022|2021|
-|---|---|---|---|
-|United States (a)|$106,744|$100,218|$83,953|
-|Other countries|$105,171|$98,052|$84,135|
-|Total|$211,915|$198,270|$168,088|
+| |Year Ended June 30|2023|2022|2021|
+|---|---|---|---|---|
+|United States (a)|$106,744|$100,218|$83,953| |
+|Other countries|$105,171|$98,052|$84,135| |
+|Total| |$211,915|$198,270|$168,088|
 
 (a) Includes billings to OEMs and certain multinational organizations because of the nature of these businesses and the impracticability of determining the geographic source of the revenue.
-
 # Part II
 
 # Item 8
@@ -2897,7 +2854,6 @@ Our Microsoft Cloud revenue, which includes Azure and other cloud services, Offi
 |Ireland|$16,359|$15,505|$13,303| | |
 |Other countries|$56,500|$44,433|$38,858| | |
 |Total|$187,239|$166,368|$128,314| | |
-
 # PART II
 
 # Item 8
@@ -2950,7 +2906,6 @@ The Company recognizes revenue upon transfer of control of promised products or 
 consideration the Company expects to receive in exchange for those products or services. The Company offers customers the ability to acquire
 multiple licenses of software products and services, including cloud-based services, in its customer agreements through its volume licensing
 programs.
-
 # PART II
 
 # Item 8
@@ -2972,12 +2927,16 @@ Our principal audit procedures related to the Company's revenue recognition for 
 - We evaluated management's significant accounting policies related to these customer agreements for reasonableness.
 - We selected a sample of customer agreements and performed the following procedures:
 
-- Obtained and read contract source documents for each selection, including master agreements, and other documents that were part of the agreement.
-- Tested management's identification and treatment of contract terms.
-- Assessed the terms in the customer agreement and evaluated the appropriateness of management's application of their accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions.
-
-- We evaluated the reasonableness of management's estimate of stand-alone selling prices for products and services that are not sold separately.
-- We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements.
+| |Audit Procedures|
+|---|---|
+|•|We tested the effectiveness of controls related to the identification of distinct performance obligations, the determination of the timing of revenue recognition, and the estimation of variable consideration.|
+|•|We evaluated management's significant accounting policies related to these customer agreements for reasonableness.|
+|•|We selected a sample of customer agreements and performed the following procedures:|
+| |- Obtained and read contract source documents for each selection, including master agreements, and other documents that were part of the agreement.|
+| |- Tested management's identification and treatment of contract terms.|
+| |- Assessed the terms in the customer agreement and evaluated the appropriateness of management's application of their accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions.|
+|•|We evaluated the reasonableness of management's estimate of stand-alone selling prices for products and services that are not sold separately.|
+|•|We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements.|
 
 Income Taxes – Uncertain Tax Positions – Refer to Note 12 to the financial statements
 
@@ -2988,7 +2947,6 @@ The Company's long-term income taxes liability includes uncertain tax positions 
 Conclusions on recognizing and measuring uncertain tax positions involve significant estimates and management judgment and include complex considerations of the Internal Revenue Code, related regulations, tax case laws, and prior-year audit settlements. Given the complexity and the subjective nature of the transfer pricing issues that remain unresolved with the IRS, evaluating management's estimates relating to their determination of uncertain tax positions required extensive audit effort and a high degree of auditor judgment, including involvement of our tax specialists.
 
 97
-
 # Part II
 
 # Item 8
@@ -3011,7 +2969,6 @@ July 27, 2023
 We have served as the Company's auditor since 1983.
 
 98
-
 # PART II
 
 # Item 9, 9A
@@ -3031,7 +2988,6 @@ Our management is responsible for establishing and maintaining adequate internal
 Management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2023. There were no changes in our internal control over financial reporting during the quarter ended June 30, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2023; their report is included in Item 9A.
 
 99
-
 # PART II
 
 # Item 9A
@@ -3065,7 +3021,6 @@ Seattle, Washington
 July 27, 2023
 
 100
-
 # PART II, III
 
 # Item 9B, 9C, 10, 11, 12, 13, 14
@@ -3102,7 +3057,6 @@ The information set forth in the Proxy Statement under the captions “Director 
 Information concerning fees and services provided by our principal accountant, Deloitte & Touche LLP (PCAOB ID No. 34), appears in the Proxy Statement under the headings “Fees Billed by Deloitte & Touche” and “Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditor” and is incorporated herein by reference.
 
 101
-
 # PART IV
 
 # Item 15
@@ -3134,7 +3088,6 @@ The financial statements are set forth under Part II, Item 8 of this Form 10-K, 
 |4.1|Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee (“Base Indenture”)|S-3ASR|4.1|10/29/2015| | |
 |4.2|Form of First Supplemental Indenture for 2.95% Notes due 2014, 4.20% Notes due 2019, and 5.20% Notes due 2039, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Base Indenture|8-K|4.2|5/15/2009| | |
 |4.5|Form of Second Supplemental Indenture for 0.875% Notes due 2013, 1.625% Notes due 2015, 3.00% Notes due 2020, and 4.50% Notes due 2040, dated as of September 27, 2010, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K|4.2|9/27/2010| | |
-
 # PART IV
 
 # Item 15
@@ -3145,17 +3098,17 @@ The financial statements are set forth under Part II, Item 8 of this Form 10-K, 
 |4.7|Fourth Supplemental Indenture for 0.875% Notes due 2017, 2.125% Notes due 2022, and 3.500% Notes due 2042, dated as of November 7, 2012, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |11/7/2012|
 |4.8|Fifth Supplemental Indenture for 2.625% Notes due 2033, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |5/1/2013|
 |4.9|Sixth Supplemental Indenture for 1.000% Notes due 2018, 2.375% Notes due 2023, and 3.750% Notes due 2043, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |5/1/2013|
+# PART IV
 
-# PART IV - Item 15
+# Item 15
 
 |Exhibit Number|Exhibit Description|Filed Herewith|Form|Period Ending|Exhibit Filing Date|
 |---|---|---|---|---|---|
-|4.10|Seventh Supplemental Indenture for 2.125% Notes due 2021 and 3.125% Notes due 2028, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |4.1 - 12/6/2013|
-|4.11|Eighth Supplemental Indenture for 1.625% Notes due 2018, 3.625% Notes due 2023, and 4.875% Notes due 2043, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |4.2 - 12/6/2013|
-|4.12|Ninth Supplemental Indenture for 1.850% Notes due 2020, 2.375% Notes due 2022, 2.700% Notes due 2025, 3.500% Notes due 2035, 3.750% Notes due 2045, and 4.000% Notes due 2055, dated as of February 12, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee|8-K| | |4.1 - 2/12/2015|
-|4.13|Tenth Supplemental Indenture for 1.300% Notes due 2018, 2.000% Notes due 2020, 2.650% Notes due 2022, 3.125% Notes due 2025, 4.200% Notes due 2035, 4.450% Notes due 2045, and 4.750% Notes due 2055, dated as of November 3, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee|8-K| | |4.1 - 11/3/2015|
-
-# PART IV
+|4.10|Seventh Supplemental Indenture for 2.125% Notes due 2021 and 3.125% Notes due 2028, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |4.1 12/6/2013|
+|4.11|Eighth Supplemental Indenture for 1.625% Notes due 2018, 3.625% Notes due 2023, and 4.875% Notes due 2043, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee|8-K| | |4.2 12/6/2013|
+|4.12|Ninth Supplemental Indenture for 1.850% Notes due 2020, 2.375% Notes due 2022, 2.700% Notes due 2025, 3.500% Notes due 2035, 3.750% Notes due 2045, and 4.000% Notes due 2055, dated as of February 12, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee|8-K| | |4.1 2/12/2015|
+|4.13|Tenth Supplemental Indenture for 1.300% Notes due 2018, 2.000% Notes due 2020, 2.650% Notes due 2022, 3.125% Notes due 2025, 4.200% Notes due 2035, 4.450% Notes due 2045, and 4.750% Notes due 2055, dated as of November 3, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee|8-K| | |4.1 11/3/2015|
+# PART IV - Item 15
 
 |Exhibit Number|Exhibit Description|Filed Herewith|Form|Period Ending|Exhibit Filing Date|
 |---|---|---|---|---|---|
@@ -3166,7 +3119,6 @@ The financial statements are set forth under Part II, Item 8 of this Form 10-K, 
 |4.18|Description of Securities|10-K|6/30/2019|4.16|8/1/2019|
 |10.1*|Microsoft Corporation 2001 Stock Plan|10-Q|9/30/2016|10.1|10/20/2016|
 |10.4*|Microsoft Corporation Employee Stock Purchase Plan|10-K|6/30/2012|10.4|7/26/2012|
-
 # PART IV - Item 15
 
 |Exhibit Number|Exhibit Description|Filed Herewith|Form|Period Ending|Exhibit Filing Date|
@@ -3186,7 +3138,6 @@ The financial statements are set forth under Part II, Item 8 of this Form 10-K, 
 |10.21*|Form of Executive Incentive Plan Performance Stock Award Agreement under the Microsoft Corporation 2001 Stock Plan|10-Q|9/30/2016|10.25|10/20/2016|
 |10.22*|Senior Executive Severance Benefit Plan|10-Q|9/30/2016|10.22|10/20/2016|
 |10.23*|Offer Letter, dated February 3, 2014, between Microsoft Corporation and Satya Nadella|8-K| |10.1|2/4/2014|
-
 # PART IV
 
 |Exhibit Number|Exhibit Description|Filed Herewith|Form|Period Ending|Exhibit Filing Date|
@@ -3213,7 +3164,6 @@ The financial statements are set forth under Part II, Item 8 of this Form 10-K, 
 * Indicates a management contract or compensatory plan or arrangement.
 
 ** Furnished, not filed.
-
 # PART IV
 
 # Item 16
@@ -3223,7 +3173,6 @@ ITEM 16. FORM 10-K SUMMARY
 None.
 
 108
-
 # SIGNATURES
 
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned; thereunto duly authorized, in the City of Redmond, State of Washington, on July 27, 2023.
@@ -3247,8 +3196,7 @@ MICROSOFT CORPORATION
 |/s/ AMY E. HOOD|Executive Vice President and Chief Financial Officer Amy E. Hood (Principal Financial Officer)|
 |/s/ ALICE L. JOLLA|Corporate Vice President and Chief Accounting Officer Alice L. Jolla (Principal Accounting Officer)|
 
-109
-
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of Registrant and in the capacities indicated on July 27, 2023.
 |Name|Where Incorporated|
 |---|---|
 |Microsoft Ireland Research|Ireland|
@@ -3258,7 +3206,6 @@ MICROSOFT CORPORATION
 |LinkedIn Corporation|United States|
 |LinkedIn Ireland Unlimited Company|Ireland|
 |Nuance Communications, Inc.|United States|
-
 # Exhibit 23.1
 
 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
@@ -3269,7 +3216,6 @@ We consent to the incorporation by reference in Registration Statement Nos. 333-
 
 Seattle, Washington
 July 27, 2023
-
 # Exhibit 31.1
 
 # CERTIFICATION
@@ -3295,7 +3241,6 @@ Satya Nadella
 Chief Executive Officer
 
 July 27, 2023
-
 # Exhibit 31.2
 
 # CERTIFICATION
@@ -3319,7 +3264,6 @@ Amy E. Hood
 Executive Vice President and Chief Financial Officer
 
 July 27, 2023
-
 # Exhibit 32.1
 
 CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350)
@@ -3331,10 +3275,7 @@ In connection with the Annual Report of Microsoft Corporation, a Washington corp
 
 /s/ SATYA NADELLA<br/>Satya Nadella<br/>Chief Executive Officer
 
-July 27, 2023
-
-[A signed original of this written statement required by Section 906 has been provided to Microsoft Corporation and will be retained by Microsoft Corporation and furnished to the Securities and Exchange Commission or its staff upon request.]
-
+July 27, 2023<br/>[A signed original of this written statement required by Section 906 has been provided to Microsoft Corporation and will be retained by Microsoft Corporation and furnished to the Securities and Exchange Commission or its staff upon request.]
 # Exhibit 32.2
 
 CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350)
@@ -3351,6 +3292,4 @@ Executive Vice President and Chief Financial Officer
 July 27, 2023
 
 [A signed original of this written statement required by Section 906 has been provided to Microsoft Corporation and will be retained by Microsoft Corporation and furnished to the Securities and Exchange Commission or its staff upon request.]
-
-
 

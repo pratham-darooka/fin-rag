@@ -7,15 +7,10 @@ Washington, D.C. 20549
 (Mark One)
 
 ☒ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-
 For the fiscal year ended December 31, 2019
-
 OR
-
 ☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-
 For the transition period from_____ to _____
-
 Commission File Number: 001-38902
 
 # UBER TECHNOLOGIES, INC.
@@ -23,17 +18,12 @@ Commission File Number: 001-38902
 (Exact name of registrant as specified in its charter)
 
 Delaware 45-2647441
-
 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)
 
 1455 Market Street, 4th Floor
-
 San Francisco, California 94103
-
 (Address of principal executive offices, including zip code)
-
 (415) 612-8582
-
 (Registrant’s telephone number, including area code)
 
 Securities registered pursuant to Section 12(b) of the Act:
@@ -53,7 +43,6 @@ Indicate by check mark whether the registrant (1) has filed all reports required
 Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
 
 Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
-
 Large accelerated filer ☐ Accelerated filer ☐ Non-accelerated filer ☒ Smaller reporting company ☐ Emerging growth company ☐
 
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
@@ -67,7 +56,6 @@ The number of shares of the registrant's common stock outstanding as of February
 DOCUMENTS INCORPORATED BY REFERENCE
 
 Portions of the registrant’s Definitive Proxy Statement relating to the Annual Meeting of Stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. Such Definitive Proxy Statement will be filed with the Securities and Exchange Commission within 120 days after the end of the registrant’s fiscal year ended December 31, 2019.
-
 # UBER TECHNOLOGIES, INC.
 
 # TABLE OF CONTENTS
@@ -113,8 +101,7 @@ Special Note Regarding Forward-Looking Statements
 |Item 16. Form 10-K Summary|140|
 |Exhibit Index|141|
 |Signatures|143|
-
-SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+# SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
 
 This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical facts contained in this Annual Report on Form 10-K, including statements regarding our future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “hope,” “intend,” “may,” “might,” “objective,” “ongoing,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following:
 
@@ -143,11 +130,9 @@ This Annual Report on Form 10-K contains forward-looking statements within the m
 - our ability to implement, maintain, and improve our internal control over financial reporting.
 
 Actual events or results may differ from those expressed in forward-looking statements. As such, you should not rely on forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Annual Report on Form 10-K primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, operating results, prospects, strategy, and financial needs. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, assumptions, and other factors described in the section titled “Risk Factors” and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a highly competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Annual Report on Form 10-K. The results, events and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events or circumstances could differ materially from those described in the forward-looking statements.
-
 In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this Annual Report on Form 10-K. While we believe that such information provides a reasonable basis for these statements, such information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements.
 
 The forward-looking statements made in this Annual Report on Form 10-K speak only as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Annual Report on Form 10-K to reflect events or circumstances after the date of this Annual Report on Form 10-K or to reflect new information, actual results, revised expectations, or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements.
-
 # PART I
 
 # ITEM 1. BUSINESS
@@ -155,39 +140,37 @@ The forward-looking statements made in this Annual Report on Form 10-K speak onl
 # Overview
 
 We are a technology platform that uses a massive
-
 # Platform Overview
 
-Freight is a platform designed to automate and speed up logistics transactions from end to end. It connects carriers with shippers, offering carriers transparent pricing and the ability to book shipments instantly.
+Freight is a platform designed to automate and speed up logistics transactions from start to finish. It connects carriers with shippers, offering carriers transparent pricing upfront and the convenience of booking shipments instantly.
 
-Shippers, ranging from small to global enterprises, can create and tender shipments quickly, secure capacity with upfront pricing, and track shipments in real-time. These features provide significant efficiency improvements over traditional freight brokerage providers.
+Freight serves a wide range of shippers, from small to large businesses, by enabling them to create and tender shipments quickly, secure capacity with upfront pricing, and track shipments in real-time from pickup to delivery. These features are seen as significant efficiency improvements compared to traditional freight brokerage providers.
 
 In March 2019, Freight expanded its offering into Europe, aiming to address similar pain points experienced by European shippers and carriers as those in the U.S.
 
 # Other Bets
 
-The Other Bets segment includes various investment stage offerings. The primary investment is in New Mobility, which provides consumers access to rides through modes like dockless e-bikes and e-scooters. New Mobility also encompasses Transit, UberWorks, and the Platform Incubator group, focusing on innovating new services on the platform for long-term growth.
+The Other Bets segment includes various investment stage offerings. The primary investment in this segment is the New Mobility offering, which provides consumers access to rides through different modes such as dockless e-bikes and e-scooters. New Mobility also encompasses Transit, UberWorks, and the Platform Incubator group, responsible for innovating new services on the platform to drive long-term growth and customer engagement.
 
-Investments in new transportation modes aim to cater to a wider range of consumer needs and bring more trips onto the platform. Dockless e-bikes and e-scooters are expected to replace some vehicle trips, especially in urban areas with heavy traffic.
+Investments are being made in new transportation modes to cater to a broader range of consumer needs, with a focus on dockless e-bikes and e-scooters as alternatives for urban commuting, aiming to reduce vehicle trips over time.
 
 # ATG and Other Technology Programs
 
-The ATG and Other Technology Programs segment is primarily involved in developing autonomous vehicle and ridesharing technologies, including Uber Elevate.
+The ATG and Other Technology Programs segment is primarily dedicated to developing and commercializing autonomous vehicle and ridesharing technologies, including Uber Elevate.
 
-ATG focuses on autonomous vehicle technologies to provide safer and more efficient rides and deliveries, potentially leading to lower prices. The transition to autonomous vehicles is expected to involve a period of hybrid autonomy, combining autonomous vehicles with Drivers to serve specific use cases.
+ATG focuses on autonomous vehicle technologies to provide safer and more efficient rides and deliveries, potentially leading to lower prices. The company envisions a gradual transition to autonomous vehicles, coexisting with human drivers for the foreseeable future. Partnerships with OEMs, suppliers like Toyota and DENSO, and technology companies are crucial for leveraging the network during this transition.
 
 # Platform Synergies
 
 # Our Platform
 
-The foundation of the platform includes a massive network, leading technology, operational excellence, and product expertise, enabling seamless movement from one point to another.
+The foundation of the platform includes a massive network, leading technology, operational excellence, and product expertise, all working together to facilitate movement from one point to another.
 
 |Massive Network|Leading Technology|Operational Excellence|Product Expertise|
 |---|---|---|---|
-|Our network comprises millions of Drivers, consumers, Restaurants, shippers, carriers, dockless e-bikes, and e-scooters, supported by data, technology, and shared infrastructure.|We have developed proprietary marketplace, routing, and payments technologies, enhancing efficiency in launching and operating businesses.|Regional operations teams leverage market-specific knowledge to launch and scale products, support users, and build relationships with cities and regulators.|Our products are designed to set the standard for on-demand movement, offering intuitive interfaces, evolving features, and ensuring safety and trust.|
+|Our network comprises millions of Drivers, consumers, Restaurants, shippers, carriers, and dockless e-bikes and e-scooters, supported by data, technology, and shared infrastructure.|We have developed proprietary marketplace, routing, and payments technologies, enabling efficient launch and operation of businesses.|Regional operations teams leverage market-specific knowledge to launch and scale products, support users, and build relationships with cities and regulators.|Our products are designed to set the standard for on-demand movement, offering intuitive interfaces, evolving features, and ensuring safety and trust.|
 
-The platform will continue to invest in new offerings to strengthen the existing platform and services.
-
+The company plans to invest in new platform offerings to enhance its current services and strengthen the platform further.
 We believe that all of these synergies serve the customer experience, enabling us to attract new platform users and to deepen engagement with existing platform users. Both of these dynamics grow our network scale and liquidity, which further increases the value of our platform to platform users. For example, Eats attracts new consumers to our network—for the three months ended December 31, 2019, over 45% of first-time Eats consumers were new to our platform. Additionally, for the three months ended December 31, 2019, consumers who used both Rides and Eats had 15.9 Trips per month on average, compared to 5.7 Trips per month on average for consumers who used a single offering in cities where both Rides and Eats were offered. We believe that these trends will continue as we further expand Eats from approximately 6,000 cities into additional cities where we already offer Rides. Our city counts are as of January 1, 2020.
 
 With our platform, we are making it even easier for our consumers to unlock convenience. We are working on developing a “Super App,” which will combine our multiple offerings into a single app and is designed to remove friction for our consumers, positioning Uber to become the operating system for your everyday life. We have already taken steps in this regard as we already have integrated the Eats App, as well as bikes and scooters into our Rides application. With Uber Rewards, we are developing programs to take care of our best consumers for the long term, while helping them get the most out of our platform. Our subscription programs are designed to make utilizing our suite of products a seamless and rewarding experience for our consumers.
@@ -198,61 +181,67 @@ We compete on a global basis in highly fragmented markets. We face significant c
 
 |Rides|Eats|Freight|Other Bets|ATG and Other Technology Programs|
 |---|---|---|---|---|
-|Our Rides offering competes with personal vehicle ownership and usage, traditional transportation services, public transportation, and other ridesharing companies.|Our Eats offering competes with numerous companies in the meal delivery space, restaurants, meal kit delivery services, grocery delivery services, and traditional grocers.|Our Freight offering competes with global and North American freight brokers.|Our Other Bets segment products compete for riders in the bike and scooter space.|Our ATG and Other Technology Programs segment competes in the development of autonomous vehicle technologies.|
+|Our Rides offering competes with personal vehicle ownership and usage, which accounts for the majority of passenger miles in the markets that we serve, and traditional transportation services, including taxicab companies and taxi-hailing services, and livery services. In addition, public transportation can be a superior substitute to our Rides offering and in many cases, offers a faster and lower-cost travel option in many cities. We also compete with other ridesharing companies, including certain of our minority-owned affiliates, for drivers and riders, including Lyft, OLA, Didi, Taxify, and our Yandex.Taxi joint venture.|Our Eats offering competes with numerous companies in the meal delivery space in various regions for drivers, consumers, and restaurants, including GrubHub, DoorDash, Deliveroo, Postmates, Delivery Hero, Just Eat, Takeaway.com, and Amazon. Our Eats offering also competes with restaurants, meal kit delivery services, grocery delivery services, and traditional grocers.|Our Freight offering competes with global and North American freight brokers such as C.H. Robinson, Total Quality Logistics, XPO Logistics, Convoy, Echo Global Logistics, Coyote, Transfix, DHL, and NEXT Trucking.|Our Other Bets segment products compete for riders in the bike and scooter space, including Motivate (an affiliate of Lyft), Lime, Bird, and Skip.|Our ATG and Other Technology Programs segment competes with OEMs and other technology companies in the development of autonomous vehicle technologies and the deployment of autonomous vehicles, including Waymo, Cruise Automation, Tesla, Apple, Zoox, Aptiv, Aurora, and Nuro.|
 
-# Government Regulation
+Government Regulation
 
 We operate in a particularly complex legal and regulatory environment. Our business is subject to a variety of U.S. federal, state, local and foreign laws, rules, and regulations, including those related to Internet activities, privacy, data protection, intellectual property, competition, consumer protection, payments, transportation services, transportation network companies, licensing regulations and taxation. These laws and regulations are constantly evolving and may be interpreted, applied, created, or amended, in a manner that could harm our business. Examples of certain laws and regulations we are subject to are described below.
 
-# Rides and Other Bets
+Rides and Other Bets
 
 Our platform, and in particular our Rides products, are subject to differing, and sometimes conflicting, laws, rules, and regulations in the numerous jurisdictions in which we operate. A large number of proposals are before various national, regional, and local legislative bodies and regulatory entities, both within the United States and in foreign jurisdictions, regarding issues related to our business model.
 
-In the United States, many state and local laws, rules, and regulations impose legal restrictions and other requirements on operating our Rides products, including licensing, insurance, screening, and background check requirements. Outside of the United States, certain jurisdictions have adopted similar laws, rules, and regulations while other jurisdictions have not adopted any laws, rules, and regulations which govern our Rides business. Further, certain jurisdictions, including Argentina, Germany, Italy, Japan, South Korea, and Spain, the six countries that we have identified as near-term priorities, have adopted laws, rules, and regulations banning certain ridesharing products.
+In the United States, many state and local laws, rules, and regulations impose legal restrictions and other requirements on operating our Rides products, including licensing, insurance, screening, and background check requirements. Outside of the United States, certain jurisdictions have adopted similar laws, rules, and regulations while other jurisdictions have not adopted any laws, rules, and regulations which govern our Rides business. Further, certain jurisdictions, including Argentina, Germany, Italy, Japan, South Korea, and Spain, the six countries that we have identified as near-term priorities, have adopted laws, rules, and regulations banning certain ridesharing products
+or imposing extensive operational restrictions. This uncertainty and fragmented regulatory environment creates significant complexities for our business and operating model.
 
-# Regulatory Environment Impacting Business Operations
+Substantially all states in the United States and numerous municipalities in the United States and around the world have adopted Transportation Network Company (“TNC”) regulations. These regulations generally focus on companies that operate websites or mobile apps that connect individual drivers with their own vehicles to passengers willing to pay to be driven to their destinations. These regulations often require TNCs to comply with rules regarding, among other things, background checks, vehicle inspections, accessible vehicles, driver and consumer safety, insurance, driver training, driver conduct, and other similar matters.
 
-Substantially all states in the United States and numerous municipalities worldwide have regulations for Transportation Network Company (TNC) operations. These regulations cover areas such as background checks, vehicle inspections, safety, insurance, and driver training.
+In addition, many jurisdictions have municipal bodies that adopted and will adopt regulations that govern our business. For example:
 
-Specific examples of regulatory impacts include:
+- In London, Transport for London (“TfL”) denied our application for a new license on November 25, 2019. Rides Drivers who use Uber in London are licensed by TfL and as part of the licensing process undertake the same enhanced background checks as black cab drivers. We are continuing to operate in London, while we have appealed this decision and expect a hearing in Westminster Magistrates Court in mid-2020.
+- In January 2019, we suspended our Rides products in Barcelona after the regional government enacted regulations mandating minimum wait times before riders could be picked up by ridesharing drivers.
+- In addition, in August 2018, New York City approved regulations for the local for-hire market (which includes our Ridesharing products), including a cap on the number of new vehicle licenses issued to drivers who offer for-hire services. In December 2018, New York City also established a standard for time and distance designed to target minimum hourly earnings for drivers providing for-hire services in New York City and surrounding areas. These minimum rates took effect in February 2019, and the regulator will update them periodically. We continue to work through adjustments with respect to rider promotions, driver supply, and other aspects of our business in response to these regulations; however, these regulations had a negative impact on our financial performance in New York City throughout 2019 and may have a similar adverse impact in the future. In August 2019, New York City issued a regulation to limit how much time drivers providing ride-hailing services can spend cruising streets in busy areas of Manhattan without passengers. In December 2019, a New York state judge struck down this regulation, which was to come into effect in February 2020. New York City is appealing this ruling. Additionally, in November 2019, a ballot measure to impose a surcharge on ridesharing trips in San Francisco was approved by voters in San Francisco. This surcharge took effect on January 1, 2020.
+- In December 2017, the Court of Justice of the European Union (“CJEU”) ruled in the Elite referral case that the peer-to-peer Ridesharing service UberPOP was inherently linked to a transport service and, accordingly, must be classified as “a service in the field of transport” within the meaning of applicable European Union (“EU”) legislation rather than an information society service. This ruling requires us to comply with national laws, rules, and regulations, if any, governing transport services in respect of the specific UberPOP product. The majority of our Ridesharing products in the EU currently operate under licensing regimes where one or more of Drivers, vehicles, or we are required to register or hold licenses to provide services. As such, while Member States can decide how to interpret this CJEU ruling in their national laws, rules, and regulations in accordance with applicable EU law, we believe the ruling will have a limited impact on our business and operations.
+- In 2015, German authorities banned our peer-to-peer ridesharing product, UberPOP, after a court ruled that it violated local applicable laws, including transport laws, by intermediating riders with drivers operating without professional licenses.
+- In Italy, while we currently have limited ridesharing operations through our licensed ridesharing product, UberBLACK, in Rome and Milan and a taxi product in Turin, we continue to face limitations due to extensive operational requirements faced by licensed drivers.
 
-|Location|Regulation Impact|
+In addition to the foregoing, many jurisdictions have adopted regulations that apply to how we classify the Drivers who use our platform. For example, in California, State Assembly Bill 5 (“AB5”), which went into effect in January 2020, codifies a test to determine whether a worker is an employee under California law. AB5 provides a mechanism for determining whether workers of a hiring entity are employees or independent contractors, but AB5 does not result in any immediate change in how workers are classified. If the State of California, cities or municipalities, or workers disagree with how a hiring entity classifies workers, AB5 sets forth the test for evaluating their classification. As we explore legal options, we have received and expect to continue to receive claims by or on behalf of Drivers that claim that the Drivers have been misclassified, and should be classified as employees. See the section titled “Risk Factors” included in Part I, Item 1A and “Note 15 - Commitments and Contingencies”to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
+
+For example, we are currently appealing the loss of our license to operate in London. See the section titled “Risk Factors” included in Part I, Item 1A, “Risk Factors” for more information. This uncertainty and fragmented regulatory environment creates significant complexities for our business and operating model.
+
+As we continue to expand our offerings, we may be subject to additional regulations separate from those that apply to our Rides products, such as regulations related to our dockless e-bike and e-scooter and other products in our Other Bets segment.
+
+|Regulation|Impact|
 |---|---|
-|London|TfL denied a new license application, currently appealing the decision.|
-|Barcelona|Rides products suspended due to minimum wait time regulations.|
-|New York City|Approved regulations including vehicle license caps and minimum earnings standards for drivers.|
-|European Union|CJEU ruling on UberPOP requiring compliance with transport service laws.|
-|Germany|UberPOP banned for violating local transport laws.|
-|Italy|Operational limitations due to extensive requirements for licensed drivers.|
-
-Additionally, regulations like California's AB5 impact worker classification, potentially leading to claims of misclassification by drivers.
-
-As the company expands into new offerings, it may face additional regulations beyond those affecting Rides products, such as regulations for dockless e-bikes and e-scooters in the Other Bets segment.
-
+|Transport for London (“TfL”) denial of new license|Appealed decision, expect hearing in mid-2020|
+|Suspension of Rides products in Barcelona|Due to regulations mandating minimum wait times|
+|New York City regulations|Cap on new vehicle licenses, standard for time and distance, impact on financial performance|
+|CJEU ruling on UberPOP|Compliance with transport service regulations|
+|German ban on UberPOP|Violation of local laws, including transport laws|
+|Operational limitations in Italy|Due to extensive operational requirements|
 # ATG and Other Technology Programs
 
 There are no federal U.S. laws expressly regulating the safety of autonomous vehicles or systems; however, various federal agencies, including the National Highway Traffic Safety Administration, have established guidelines regarding the development of automated driving systems. The U.S. Congress has passed and may continue to consider legislation relating to the regulation of autonomous vehicle testing or general deployment. Certain U.S. states and localities have imposed legal restrictions or other requirements on the testing or general deployment of autonomous vehicles, and many other states are considering them. Autonomous vehicle laws, rules, and regulations are expected to continue to evolve in numerous jurisdictions in the United States and in foreign countries and may impose restrictions on our ability to develop, test and commercially deploy autonomous vehicles on our network.
 
-Data Protection and Privacy
+# Data Protection and Privacy
 
 Our technology platform, and the user data it collects and processes to run our business, are an integral part of our business model and, as a result, our compliance with laws dealing with the collection and processing of personal data is core to our strategy to improve platform user experience and build trust. Regulators around the world have adopted or proposed requirements regarding the collection, use, transfer, security, storage, destruction, and other processing of personally identifiable information and other data relating to individuals, and these laws are increasing in number, enforcement, fines, and other penalties. Two examples of such regulations that have significant implications for our platform are the General Data Protection Regulation (the “GDPR”), a data privacy security law which went into effect in May 2018 and implemented more stringent requirements for processing personal data relating to individuals in the EU, and the California Consumer Privacy Act (the “CCPA”), which went into effect in January 2020 and established new consumer rights and data privacy and security requirements for covered businesses.
 
-Payments and Financial Services
+# Payments and Financial Services
 
 Most jurisdictions in which we operate have laws that govern payment and financial services activities. For example, our subsidiary in the Netherlands, Uber Payments B.V., is registered and authorized as an electronic money institution in support of certain payment activities in the European Economic Area (the “EEA”). Regulators in certain additional jurisdictions may determine that certain aspects of our business are subject to these laws and could require us to obtain licenses to continue to operate in such jurisdictions. In addition, laws related to money transmission and online payments are evolving, and changes in such laws could affect our ability to provide payment processing on our platform. We are continuing to evaluate our options for seeking further licenses and approvals in several other jurisdictions to optimize payment solutions and support future growth of our business.
 
-Antitrust
+# Antitrust
 
 Competition authorities closely scrutinize us under U.S. and foreign antitrust and competition laws. An increasing number of governments are enforcing competition laws and are doing so with increased scrutiny, including governments in large markets such as the EU, the United States, Brazil, and India, particularly surrounding issues of predatory pricing, price-fixing, and abuse of market power. In addition, governmental agencies and regulators may, among other things, prohibit future acquisitions, divestitures, or combinations we plan to make, impose significant fines or penalties, require divestiture of certain of our assets, or impose other restrictions that limit or require us to modify our operations, including limitations on our contractual relationships with platform users or restrictions on our pricing models.
 
-Intellectual Property
+# Intellectual Property
 
 We believe that our intellectual property is essential to our business and affords us a competitive advantage in the markets in which we operate. Our intellectual property includes the content of our website, mobile applications, registered domain names, software code, firmware, hardware and hardware designs, registered and unregistered trademarks, trademark applications, copyrights, trade secrets, inventions (whether or not patentable), patents, and patent applications. To protect our intellectual property, we rely on a combination of copyright, trademark, patent, and trade secret laws, contractual provisions, end-user policies, and disclosure restrictions. Upon discovery of potential infringement of our intellectual property, we assess and when necessary, take action to protect our rights as appropriate. We also enter into confidentiality agreements and invention assignment agreements with our employees and consultants and seek to control access to, and distribution of, our proprietary information in a commercially prudent manner.
 
-Research and Development
+# Research and Development
 
 Because the industries in which we compete are characterized by rapid technological advances, our ability to compete successfully depends heavily upon our ability to ensure a continual and timely flow of competitive new offerings and technologies, including: autonomous vehicle technologies, dockless e-bikes and e-scooters, as well as certain offerings and technologies related to Freight, and Uber Elevate. We continue to develop new technologies to enhance existing offerings and services, and to expand the range of our offerings through research and development (“R&D”) and acquisition of third-party businesses and technology.
-
 # Seasonality
 
 Rides
@@ -286,30 +275,24 @@ The personal mobility, meal delivery, and logistics industries are highly compet
 Our platform provides offerings in the personal mobility, meal delivery, and logistics industries. We compete on a global basis, and the markets in which we compete are highly fragmented. We face significant competition in each of the personal mobility, meal delivery, and logistics industries globally from existing, well-established, and low-cost alternatives, and in the future we expect to face competition from new market entrants given the low barriers to entry that characterize these industries. In addition, within each of these markets, the cost to switch between products is low. Consumers have a propensity to shift to the lowest-cost or highest-quality provider; Drivers have a propensity to shift to the platform with the highest earnings potential; restaurants have a propensity to shift to the delivery platform that offers the lowest service fee for their meals and provides the highest volume of orders; and shippers and carriers have a propensity to shift to the platform with the best price and most convenient service for hauling shipments.
 
 Further, while we work to expand globally and introduce new products and offerings across a range of industries, many of our competitors remain focused on a limited number of products or on a narrow geographic scope, allowing them to develop specialized expertise and employ resources in a more targeted manner than we do. As we and our competitors introduce new products and offerings, and as existing products evolve, we expect to become subject to additional competition. In addition, our competitors may adopt certain
-
-# of our product features, or may adopt innovations that Drivers, consumers, restaurants, shippers, and carriers value more highly than ours, which would render our products less attractive or reduce our ability to differentiate our products. Increased competition could result in, among other things, a reduction of the revenue we generate from the use of our platform, the number of platform users, the frequency of use of our platform, and our margins.
+# Competition
 
 We face competition in each of our offerings, including:
 
-|Rides|Our Rides offering competes with personal vehicle ownership and usage, which accounts for the majority of passenger miles in the markets that we serve, and traditional transportation services, including taxicab companies and taxi-hailing services, and livery services. In addition, public transportation can be a superior substitute to our Rides offering and in many cases, offers a faster and lower-cost travel option in many cities. We also compete with other ridesharing companies, including certain of our minority-owned affiliates, for Drivers and riders, including Lyft, OLA, Didi, Taxify, and our Yandex.Taxi joint venture.|
+|Rides|Our Rides offering competes with personal vehicle ownership and usage, traditional transportation services, public transportation, and other ridesharing companies.|
 |---|---|
-|Eats|Our Eats offering competes with numerous companies in the meal delivery space in various regions for Drivers, consumers, and restaurants, including GrubHub, DoorDash, Deliveroo, Postmates, Delivery Hero, Just Eat, Takeaway.com, and Amazon. Our Eats offering also competes with restaurants, including those that offer their own delivery and/or take-away, meal kit delivery services, grocery delivery services, and traditional grocers.|
-|Freight|Our Freight offering competes with global and North American freight brokers such as C.H. Robinson, Total Quality Logistics, XPO Logistics, Convoy, Echo Global Logistics, Coyote, Transfix, DHL, and NEXT Trucking, among others.|
-|Other Bets|Our New Mobility offering, included in our Other Bets segment, competes for riders in the bike and scooter space, including Motivate (an affiliate of Lyft), Lime, Bird, and Skip.|
-|ATG and Other Technology Programs|Our ATG and Other Technology Programs segment competes with OEMs and other technology companies in the development of autonomous vehicle technologies and the deployment of autonomous vehicles, including Waymo, Cruise Automation, Tesla, Apple, Zoox, Aptiv, Aurora, and Nuro.|
+|Eats|Our Eats offering competes with numerous companies in the meal delivery space, as well as restaurants and grocery delivery services.|
+|Freight|Our Freight offering competes with global and North American freight brokers.|
+|Other Bets|Our New Mobility offering competes in the bike and scooter space.|
+|ATG and Other Technology Programs|Our ATG and Other Technology Programs segment competes in the development of autonomous vehicle technologies.|
 
-Many of our competitors are well-capitalized and offer discounted services, Driver incentives, consumer discounts and promotions, innovative products and offerings, and alternative pricing models, which may be more attractive to consumers than those that we offer. Further, some of our current or potential competitors have, and may in the future continue to have, greater resources and access to larger Driver, consumer, restaurant, shipper, or carrier bases in a particular geographic market. In addition, our competitors in certain geographic markets enjoy substantial competitive advantages such as greater brand recognition, longer operating histories, larger marketing budgets, better localized knowledge, and more supportive regulatory regimes. As a result, such competitors may be able to respond more quickly and effectively than us in such markets to new or changing opportunities, technologies, consumer preferences, regulations, or standards, which may render our products or offerings less attractive. In addition, future competitors may share in the effective benefit of any regulatory or governmental approvals and litigation victories we may achieve, without having to incur the costs we have incurred to obtain such benefits.
+Many of our competitors offer discounted services, incentives, consumer discounts, and alternative pricing models. Some competitors have greater resources and access to larger customer bases, which may impact our competitiveness.
 
-We are contractually restricted from competing with our minority-owned affiliates with respect to certain aspects of our business, including in China through August 2023, Russia/CIS through February 2025, Southeast Asia through the later of March 2023 or one year after we dispose of all interests in Grab, and India with respect to meal delivery through January 2023, while none of our minority-owned affiliates are restricted from competing with us anywhere in the world. Didi currently competes with us in certain countries in Latin America and in Australia, and in 2018 made significant investments to gain or maintain category position in certain markets in Latin America. In addition, our Yandex.Taxi joint venture currently competes with us in certain countries in Europe and Africa. As Didi and our other minority-owned affiliates continue to expand their businesses, they may in the future compete with us in additional geographic markets.
+We are contractually restricted from competing with our minority-owned affiliates in certain regions for specific periods. Competitors may gain advantages in different geographic markets, affecting our ability to respond effectively.
 
-Additionally, although we have closed our acquisition of Careem as to most countries in January 2020, we may not ultimately consummate the transaction in countries where antitrust approval has not yet been granted. Further, we may be required in some or all of such countries where antitrust approval has not yet been obtained to divest all or part of our or Careem’s operations. Any such divestiture could bring additional competition to these markets.
+Our acquisition of Careem may face challenges in countries where antitrust approval is pending, potentially leading to divestiture and increased competition.
 
-For all of these reasons, we may not be able to compete successfully against our current and future competitors. Our inability to compete effectively would have an adverse effect on, or otherwise harm, our business, financial condition, and operating results.
-
-To remain competitive in certain markets, we have in the past lowered, are currently lowering, and may continue to lower, fares or service fees, and we have in the past offered, and may continue to offer, significant Driver incentives and consumer discounts and promotions, which has adversely affected and may continue to adversely affect our financial performance.
-
-To remain competitive in certain markets and generate network scale and liquidity, we have in the past lowered, and expect in the future to continue to lower, fares or service fees, and we have offered and expect to continue to offer significant Driver incentives and consumer discounts and promotions. At times, in certain geographic markets, we have offered, and expect to continue to offer, Driver incentives that cause the total amount of the fare that a Driver retains, combined with the Driver incentives a Driver receives from us, to increase, at times meeting or exceeding the amount of Gross Bookings we generate for a given Trip. In certain geographic markets and
-
+Lowering fares, offering incentives, and discounts to drivers and consumers have impacted our financial performance. We continue to adjust pricing and incentives to remain competitive and maintain network scale and liquidity.
 regions, we do not have a leading category position, which may result in us choosing to further increase the amount of Driver incentives and consumer discounts and promotions that we offer in those geographic markets and regions. We cannot assure you that offering such Driver incentives and consumer discounts and promotions will be successful. Driver incentives, consumer discounts, promotions, and reductions in fares and our service fee have negatively affected, and will continue to negatively affect, our financial performance. Additionally, we rely on pricing models to calculate consumer fares and Driver earnings, which have been modified over time and will likely in the future be modified, and pricing models at times vary based upon jurisdiction. We cannot assure you that our pricing models or strategies will be successful in attracting consumers and Drivers. For example, recent changes we have made in California to the information that Drivers see in the application, as well as pricing and offer structure changes, have adversely impacted usage of the application. If we are unable to successfully manage these and similar kinds of changes in the future, our business may be adversely impacted.
 
 The markets in which we compete have attracted significant investments from a wide range of funding sources, and we anticipate that many of our competitors will continue to be highly capitalized. Moreover, certain of our stockholders, including SoftBank (our largest stockholder), Alphabet, and Didi, have made substantial investments in certain of our competitors and may increase such investments, make new investments in other competitors, or enter into strategic transactions with competitors in the future. These investments or strategic transactions, along with other competitive advantages discussed above, may allow our competitors to compete more effectively against us and continue to lower their prices, offer Driver incentives or consumer discounts and promotions, or otherwise attract Drivers, consumers, restaurants, shippers, and carriers to their platform and away from ours. Such competitive pressures may lead us to maintain or lower fares or service fees or maintain or increase our Driver incentives and consumer discounts and promotions. Ridesharing and other categories in which we compete are nascent, and we cannot guarantee that they will stabilize at a competitive equilibrium that will allow us to achieve profitability.
@@ -319,7 +302,6 @@ We have incurred significant losses since inception, including in the United Sta
 We have incurred significant losses since inception. We incurred operating losses of $4.1 billion, $3.0 billion and $8.6 billion in the years ended December 31, 2017, 2018 and 2019, and as of December 31, 2019, we had an accumulated deficit of $16.4 billion. We will need to generate and sustain increased revenue levels and decrease proportionate expenses in future periods to achieve profitability in many of our largest markets, including in the United States, and even if we do, we may not be able to maintain or increase profitability. We anticipate that we will continue to incur losses in the near term as a result of expected substantial increases in our operating expenses, as we continue to invest in order to: increase the number of Drivers, consumers, restaurants, shippers, and carriers using our platform through incentives, discounts, and promotions; expand within existing or into new markets; increase our research and development expenses; invest in ATG and Other Technology Programs; expand marketing channels and operations; hire additional employees; and add new products and offerings to our platform. These efforts may prove more expensive than we anticipate, and we may not succeed in increasing our revenue sufficiently to offset these expenses. Many of our efforts to generate revenue are new and unproven, and any failure to adequately increase revenue or contain the related costs could prevent us from attaining or increasing profitability. In addition, we sometimes introduce new products, such as UberPOOL, that we expect to add value to our overall platform and network but which we expect will generate lower Gross Bookings per Trip or a lower Take Rate. Further, we charge a lower service fee to certain of our largest chain restaurant partners on our Eats offering to grow the number of Eats consumers, which may at times result in a negative take rate with respect to those transactions after considering amounts collected from consumers and paid to Drivers. As we expand our offerings to additional cities, our offerings in these cities may be less profitable than the markets in which we currently operate. As such, we may not be able to achieve or maintain profitability in the near term, in accordance with our expectations, or at all. Additionally, we may not realize the operating efficiencies we expect to achieve as a result of our acquisition of Careem and may continue to incur significant operating losses in the Middle East, North Africa, and Pakistan in the future. Even if we do experience operating efficiencies, our operating results may not improve, at least in the near term.
 
 Our business would be adversely affected if Drivers were classified as employees. The classification of Drivers is currently being challenged in courts, by legislators and by government agencies in the United States and abroad. We are involved in numerous legal proceedings globally, including putative class and collective class action lawsuits, demands for arbitration, charges and claims before administrative agencies, and investigations or audits by labor, social security, and tax authorities that claim that Drivers should be treated as our employees (or as workers or quasi-employees where those statuses exist), rather than as independent contractors. We believe that Drivers are independent contractors because, among other things, they can choose whether, when, and where to provide services on our platform, are free to provide services on our competitors’ platforms, and provide a vehicle to perform services on our platform. Nevertheless, we may not be successful in defending the classification of Drivers in some or all jurisdictions. Furthermore, the costs associated with defending, settling, or resolving pending and future lawsuits (including demands for arbitration) relating to the classification of Drivers could be material to our business. For example, in March 2019, we reached a preliminary settlement in the O’Connor, et al., v. Uber Technologies, Inc. and Yucesoy v. Uber Technologies, Inc., et al., class actions, pursuant to which we agreed to pay $20 million to Drivers who contracted with us in California and Massachusetts but with whom we have not entered into arbitration agreements, and who sought damages against us based on misclassification, among other claims. The settlement was approved by the court in September 2019. In addition, more than 100,000 Drivers in the United States who have entered into arbitration agreements with us have filed (or
-
 # expressed an intention to file) arbitration demands against us that assert similar classification claims.
 
 We have resolved the classification claims of a majority of these Drivers under individual settlement agreements. We anticipate the aggregate amount of payments to Drivers under these individual settlement agreements, together with attorneys’ fees, will fall within an approximate range of $149 million to $170 million, of which approximately $149 million has been paid as of December 31, 2019.
@@ -342,13 +324,9 @@ In addition, if we are required to classify Drivers as employees, this may impac
 
 We cannot predict whether Assembly Bill 5, or legislation in other jurisdictions, may lead to similar legislation being enacted elsewhere. Although we have filed a ballot initiative in California with other companies to address Assembly Bill 5, we may be unsuccessful in our efforts and the measure may not pass.
 
-# Recent Judicial Decisions
+# Impact on Business Model
 
-Other examples of recent judicial decisions relating to Driver classification include the Aslam, Farrar, Hoy and Mithu v. Uber B.V., et al. ruling by the Employment Appeal Tribunal in the United Kingdom that found that Drivers are workers (rather than self-employed) and a decision by the French Supreme Court that a driver for a third-party meal delivery service was under a “subordinate relationship” of the service, indicating an employment relationship.
-
-In Razak v. Uber Technologies, Inc., the Third Circuit Court of Appeals is reviewing misclassification claims by UberBLACK Drivers in Philadelphia following a summary judgment order in our favor at the district court level, and we expect a decision in the near term.
-
-If, as a result of legislation or judicial decisions, we are required to classify Drivers as employees (or as workers or quasi-employees where those statuses exist), we would incur significant additional expenses for compensating Drivers, potentially including expenses associated with the application of wage and hour laws (including minimum wage, overtime, and meal and rest period requirements), employee benefits, social security contributions, taxes (direct and indirect), and penalties. Further, any such reclassification would require us to fundamentally change our business model, and consequently have an adverse effect on our business and financial condition.
+Other examples of recent judicial decisions relating to Driver classification include various rulings in different jurisdictions. If, as a result of legislation or judicial decisions, we are required to classify Drivers as employees (or as workers or quasi-employees where those statuses exist), we would incur significant additional expenses for compensating Drivers, potentially including expenses associated with the application of wage and hour laws (including minimum wage, overtime, and meal and rest period requirements), employee benefits, social security contributions, taxes (direct and indirect), and penalties. Further, any such reclassification would require us to fundamentally change our business model, and consequently have an adverse effect on our business and financial condition.
 
 # Impact on Platform Users
 
@@ -363,7 +341,6 @@ Similarly, if carriers choose not to offer their services through our platform o
 A significant amount of our Eats Gross Bookings come from a limited number of large restaurant groups, and this concentration increases the risk of fluctuations in our operating results and our sensitivity to any material adverse developments experienced by our significant restaurant partners.
 
 If platform users choose to use other ridesharing, meal delivery, or logistics services, we may lack sufficient opportunities for Drivers to earn a fare, carriers to book a shipment, or restaurants to provide a meal, which may reduce the perceived utility of our platform. An insufficient supply of platform users would decrease our network liquidity and adversely affect our revenue and financial results. Although we may benefit from having larger network scale and liquidity than some competitors, those network effects may not result in competitive advantages or may be overcome by smaller competitors. Maintaining a balance between supply and demand for rides in any given area at any given time and our ability to execute operationally may be more important.
-
 to service quality than the absolute size of the network. If our service quality diminishes or our competitors’ products achieve greater market adoption, our competitors may be able to grow at a quicker rate than we do and may diminish our network effect.
 
 Our number of platform users may decline materially or fluctuate as a result of many factors, including, among other things, dissatisfaction with the operation of our platform, the price of fares, meals, and shipments (including a reduction in incentives), dissatisfaction with the quality of service provided by the Drivers and restaurants on our platform, quality of platform user support, dissatisfaction with the restaurant selection on Eats, negative publicity related to our brand, including as a result of safety incidents and corporate reporting related to safety, perceived political or geopolitical affiliations, a pandemic or an outbreak of disease or similar public health concern, such as the recent coronavirus outbreak, or fear of such an event, treatment of Drivers, perception of a toxic work culture, perception that our culture has not fundamentally changed, dissatisfaction with changes we make to our products and offerings, or dissatisfaction with our products and offerings in general. For example, in January 2017, a backlash against us in response to accusations that we intended to profit from a protest against an executive order banning certain refugees and immigrants from entering the United States spurred #DeleteUber, a social media campaign that encouraged platform users to delete our app and cease use of our platform. As a result of the #DeleteUber campaign, hundreds of thousands of consumers stopped using our platform within days of the campaign. In addition, if we are unable to provide high-quality support to platform users or respond to reported incidents, including safety incidents, in a timely and acceptable manner, our ability to attract and retain platform users could be adversely affected. If Drivers, consumers, restaurants, shippers, and carriers do not establish or maintain active accounts with us, if a campaign similar to #DeleteUber occurs, if we fail to provide high-quality support, or if we cannot otherwise attract and retain a large number of Drivers, consumers, restaurants, shippers, and carriers, our revenue would decline, and our business would suffer.
@@ -377,7 +354,6 @@ In addition, changes in Driver qualification and background-check requirements m
 Our workplace culture and forward-leaning approach created operational, compliance, and cultural challenges, and a failure to address these challenges would adversely impact our business, financial condition, operating results, and prospects.
 
 Our workplace culture and forward-leaning approach created significant operational and cultural challenges that have in the past harmed, and may in the future continue to harm, our business results and financial condition. Our focus on aggressive growth and intense competition, and our prior failure to prioritize compliance, has led to increased regulatory scrutiny globally. Recent changes in our company’s cultural norms and composition of our leadership team, together with our ongoing commitment to address and resolve our
-
 # historical cultural and compliance problems and promote transparency and collaboration
 
 may not be successful, and regulators may continue to perceive us negatively, which would adversely impact our business, financial condition, operating results, and prospects.
@@ -405,29 +381,19 @@ While we have taken significant steps to rehabilitate our brand and reputation, 
 Our workforce and operations have grown substantially since our inception and we expect that they will continue to do so. If we are unable to effectively manage that growth, our financial performance and future prospects will be adversely affected.
 
 Since our inception, we have experienced rapid growth in the United States and internationally. This expansion increases the complexity of our business and has placed, and will continue to place, significant strain on our management, personnel, operations.
+systems, technical performance, financial resources, and internal financial control and reporting functions. We may not be able to manage our growth effectively, which could damage our reputation and negatively affect our operating results.
 
-# systems, technical performance, financial resources, and internal financial control and reporting functions. We may not be able to manage our growth effectively, which could damage our reputation and negatively affect our operating results.
-
-As our operations have expanded, we have grown from 159 employees as of December 31, 2012 to approximately 26,900 global employees as of December 31, 2019, of whom approximately 16,200 were located outside the United States. We expect the total number of our employees located outside the United States to increase significantly as we expand globally, including as a result of our acquisition of Careem. Properly managing our growth will require us to continue to hire, train, and manage qualified employees and staff, including engineers, operations personnel, financial and accounting staff, and sales and marketing staff, and to improve and maintain our technology. If our new hires perform poorly, if we are unsuccessful in hiring, training, managing, and integrating these new employees and staff, or if we are not successful in retaining our existing employees and staff, our business may be harmed.
-
-Moreover, in order to optimize our organizational structure, we have recently implemented reductions in force and may in the future implement other reductions in force. Any reduction in force may yield unintended consequences and costs, such as attrition beyond the intended reduction in force, the distraction of employees, reduced employee morale and could adversely affect our reputation as an employer, which could make it more difficult for us to hire new employees in the future and the risk that we may not achieve the anticipated benefits from the reduction in force. Properly managing our growth will require us to establish consistent policies across regions and functions, and a failure to do so could likewise harm our business.
-
-# Failure to Upgrade Technology and Network Infrastructure
+As our operations have expanded, we have grown from 159 employees as of December 31, 2012 to approximately 26,900 global employees as of December 31, 2019, of whom approximately 16,200 were located outside the United States. We expect the total number of our employees located outside the United States to increase significantly as we expand globally, including as a result of our acquisition of Careem. Properly managing our growth will require us to continue to hire, train, and manage qualified employees and staff, including engineers, operations personnel, financial and accounting staff, and sales and marketing staff, and to improve and maintain our technology. If our new hires perform poorly, if we are unsuccessful in hiring, training, managing, and integrating these new employees and staff, or if we are not successful in retaining our existing employees and staff, our business may be harmed. Moreover, in order to optimize our organizational structure, we have recently implemented reductions in force and may in the future implement other reductions in force. Any reduction in force may yield unintended consequences and costs, such as attrition beyond the intended reduction in force, the distraction of employees, reduced employee morale and could adversely affect our reputation as an employer, which could make it more difficult for us to hire new employees in the future and the risk that we may not achieve the anticipated benefits from the reduction in force. Properly managing our growth will require us to establish consistent policies across regions and functions, and a failure to do so could likewise harm our business.
 
 Our failure to upgrade our technology or network infrastructure effectively to support our growth could result in unanticipated system disruptions, slow response times, or poor experiences for Drivers, consumers, restaurants, shippers, and carriers. To manage the growth of our operations and personnel and improve the technology that supports our business operations, as well as our financial and management systems, disclosure controls and procedures, and internal controls over financial reporting, we will be required to commit substantial financial, operational, and technical resources. In particular, we will need to improve our transaction processing and reporting, operational, and financial systems, procedures, and controls. For example, due to our significant growth, especially with respect to our high-growth emerging offerings like Eats and Freight, we face challenges in timely and appropriately designing controls in response to evolving risks of material misstatement. These improvements will be particularly challenging if we acquire new businesses with different systems, such as Careem. Our current and planned personnel, systems, procedures, and controls may not be adequate to support our future operations. If we are unable to expand our operations and hire additional qualified personnel in an efficient manner, or if our operational technology is insufficient to reliably service Drivers, consumers, restaurants, shippers, or carriers, platform user satisfaction will be adversely affected and may cause platform users to switch to our competitors’ platforms, which would adversely affect our business, financial condition, and operating results.
 
-# Complex Organizational Structure
-
 Our organizational structure is complex and will continue to grow as we add additional Drivers, consumers, restaurants, carriers, shippers, employees, products and offerings, and technologies, and as we continue to expand globally (including as a result of our acquisition of Careem). We will need to improve our operational, financial, and management controls as well as our reporting systems and procedures to support the growth of our organizational structure. We will require capital and management resources to grow and mature in these areas. If we are unable to effectively manage the growth of our business, the quality of our platform may suffer, and we may be unable to address competitive challenges, which would adversely affect our overall business, operations, and financial condition.
 
-# Platform User Safety and Criminal Activity
+If platform users engage in, or are subject to, criminal, violent, inappropriate, or dangerous activity that results in major safety incidents, our ability to attract and retain Drivers, consumers, restaurants, shippers, and carriers may be harmed, which could have an adverse impact on our reputation, business, financial condition, and operating results.
 
-If platform users engage in, or are subject to, criminal, violent, inappropriate, or dangerous activity that results in major safety incidents, our ability to attract and retain Drivers, consumers, restaurants, shippers, and carriers may be harmed, which could have an adverse impact on our reputation, business, financial condition, and operating results. We are not able to control or predict the actions of platform users and third parties, either during their use of our platform or otherwise, and we may be unable to protect or provide a safe environment for Drivers and consumers as a result of certain actions by Drivers, consumers, restaurants, carriers, and third parties. Such actions may result in injuries, property damage, or loss of life for consumers and third parties, or business interruption, brand and reputational damage, or significant liabilities for us.
+We are not able to control or predict the actions of platform users and third parties, either during their use of our platform or otherwise, and we may be unable to protect or provide a safe environment for Drivers and consumers as a result of certain actions by Drivers, consumers, restaurants, carriers, and third parties. Such actions may result in injuries, property damage, or loss of life for consumers and third parties, or business interruption, brand and reputational damage, or significant liabilities for us. Although we administer certain qualification processes for users of our platform, including background checks on Drivers through third-party service providers, these qualification processes and background checks may not expose all potentially relevant information and are limited in certain jurisdictions according to national and local laws, and our third-party service providers may fail to conduct such background checks adequately or disclose information that could be relevant to a determination of eligibility. Further, the qualification and background check standards for Eats Delivery People are generally less extensive than those conducted for Rides Drivers. In addition, we do not independently test Drivers’ driving skills. Consequently, we expect to continue to receive complaints from riders and other consumers, as well as actual or threatened legal action against us related to Driver conduct. We have also faced civil litigation alleging, among other things, inadequate Driver qualification processes and background checks, and general misrepresentations regarding the safety of our platform.
 
-Although we administer certain qualification processes for users of our platform, including background checks on Drivers through third-party service providers, these qualification processes and background checks may not expose all potentially relevant information and are limited in certain jurisdictions according to national and local laws, and our third-party service providers may fail to conduct such background checks adequately or disclose information that could be relevant to a determination of eligibility. Further, the qualification and background check standards for Eats Delivery People are generally less extensive than those conducted for Rides Drivers. In addition, we do not independently test Drivers’ driving skills. Consequently, we expect to continue to receive complaints from riders and other consumers, as well as actual or threatened legal action against us related to Driver conduct. We have also faced civil litigation alleging, among other things, inadequate Driver qualification processes and background checks, and general misrepresentations regarding the safety of our platform.
-
-If Drivers or carriers, or individuals impersonating Drivers or carriers, engage in criminal activity, misconduct, or inappropriate conduct or use our platform as a conduit for criminal activity, consumers and shippers may not consider our products and offerings safe, and we may receive negative press coverage as a result of our business relationship with such Driver or carrier, which would adversely impact our brand, reputation, and business. There have been numerous incidents and allegations worldwide of Drivers, or individuals impersonating Drivers, sexually assaulting, abusing, kidnapping and/or fatally injuring consumers, or otherwise engaging in criminal activity while using our platform or claiming to use our platform. Furthermore, if consumers engage in criminal activity or misconduct while using our platform, Drivers and restaurants may be unwilling to continue using our platform. In addition, certain regions where we operate have high rates of violent crime, which has impacted Drivers and consumers in those regions. For example, in Latin America.
-
+If Drivers or carriers, or individuals impersonating Drivers or carriers, engage in criminal activity, misconduct, or inappropriate conduct or use our platform as a conduit for criminal activity, consumers and shippers may not consider our products and offerings safe, and we may receive negative press coverage as a result of our business relationship with such Driver or carrier, which would adversely impact our brand, reputation, and business. There have been numerous incidents and allegations worldwide of Drivers, or individuals impersonating Drivers, sexually assaulting, abusing, kidnapping and/or fatally injuring consumers, or otherwise engaging in criminal activity while using our platform or claiming to use our platform. Furthermore, if consumers engage in criminal activity or misconduct while using our platform, Drivers and restaurants may be unwilling to continue using our platform. In addition, certain regions where we operate have high rates of violent crime, which has impacted Drivers and consumers in those regions. For example, in Latin America,
 There have been numerous and increasing reports of Drivers and consumers being victimized by violent crime, such as armed robbery, violent assault, and rape, while taking or providing a trip on our platform. If other criminal, inappropriate, or other negative incidents occur due to the conduct of platform users or third parties, our ability to attract platform users may be harmed, and our business and financial results could be adversely affected.
 
 Public reporting or disclosure of reported safety information, including information about safety incidents reportedly occurring on or related to our platform, whether generated by us or third parties such as media or regulators, may adversely impact our business and financial results.
@@ -448,7 +414,6 @@ Conducting our business internationally, particularly in countries in which we h
 
 - operational and compliance challenges caused by distance, language, and cultural differences;
 - the resources required to localize our business, which requires the translation of our mobile app and website into foreign languages and the adaptation of our operations to local practices, laws, and regulations and any changes in such practices, laws, and regulations;
-
 laws and regulations more restrictive than those in the United States, including laws governing competition, pricing, payment methods, Internet activities, transportation services (such as taxis and vehicles for hire), transportation network companies (such as ridesharing), logistics services, payment processing and payment gateways, real estate tenancy laws, tax and social security laws, employment and labor laws, driver screening and background checks, licensing regulations, email messaging, privacy, location services, collection, use, processing, or sharing of personal information, ownership of intellectual property, and other activities important to our business;
 
 competition with companies or other services (such as taxis or vehicles for hire) that understand local markets better than we do, that have pre-existing relationships with potential platform users in those markets, or that are favored by government or regulatory authorities in those markets;
@@ -490,7 +455,6 @@ We have limited influence over our minority-owned affiliates, which subjects us 
 Our international growth strategy has included the restructuring of our business and assets in certain jurisdictions by partnering with and investing in local ridesharing and meal delivery companies to participate in those markets rather than operate in those markets independently. As a result, a significant portion of our assets includes minority ownership positions in each of Didi, Grab, our Yandex.Taxi joint venture and Zomato. Each of Didi, Grab and our Yandex.Taxi joint venture operates ridesharing, meal delivery, and related logistics businesses in their respective primary markets in China, Southeast Asia, Russia/CIS, and Zomato operates a meal delivery business in India.
 
 Our ownership in these entities involves significant risks that are outside our control. We are not represented on the management team or board of directors of Didi or Zomato, and therefore we do not participate in the day-to-day management of Didi or Zomato or the actions taken by the board of directors of Didi and Zomato. We are not represented on the management teams of Grab or our Yandex.Taxi joint venture, and therefore do not participate in the day-to-day management of Grab or our Yandex.Taxi joint venture. Although we are represented on each of the boards of directors of Grab and our Yandex.Taxi joint venture, we do not have a controlling influence on those boards, other than with respect to certain approval rights over material corporate actions. As a result, the boards of directors or management teams of these companies may make decisions or take actions with which we disagree or that may be harmful to the value of our ownership in these companies. Additionally, these companies have expanded their offerings, and we expect them to continue to expand their offerings
-
 in the future, to compete with us in various markets throughout the world such as in certain countries in Latin America and in Australia where we compete with Didi and certain countries in Europe where we compete with our Yandex.Taxi joint venture. While this could enhance the value of our ownership interest in these companies, our business, financial condition, operating results, and prospects would be adversely affected by such expansion into markets in which we operate. Any material decline in the business of these entities would adversely affect the value of our assets and our financial results. Furthermore, the value of these assets is based in part on the market valuations of these entities, and weakened financial markets may adversely affect such valuations. These positions could expose us to risks, litigation, and unknown liabilities because, among other things, these companies have limited operating histories in an evolving industry and may have less predictable operating results; are privately owned and, as a result, limited public information is available and we may not learn all the material information regarding these businesses; are domiciled and operate in countries with particular economic, tax, political, legal, safety, regulatory and public health risks, including impact of the recent outbreak of coronavirus to their business; depend on the management talents and efforts of a small group of individuals, and, as a result, the death, disability, resignation, or termination of one or more of these individuals could have an adverse effect on the relevant company’s operations; and will likely require substantial additional capital to support their operations and expansion and to maintain their competitive positions. Any of these risks could materially affect the value of our assets, which could have an adverse effect on our business, financial condition, operating results, or the trading price of our common stock.
 
 Further, we are contractually limited in our ability to sell or transfer these assets. Until February 2021, we are prohibited from transferring any shares in our Yandex.Taxi joint venture without the consent of Yandex, and for a period of time thereafter any transfer is subject to a right of first refusal in favor of Yandex. While we are not prohibited from transferring our shares in Didi or Grab, the transferability of such shares are subject to both a right of first refusal and a co-sale right in favor of certain shareholders of each of Didi and Grab. There is currently no public market for any of these securities, and there may be no market in the future if and when we decide to sell such assets. Furthermore, we may be required to sell these assets at a time at which we would not be able to realize what we believe to be the long-term value of these assets. For example, if we were deemed an investment company under the Investment Company Act of 1940, as amended (the “Investment Company Act”), we may be required to sell some or all of such assets so that we would not be subject to the requirements of the Investment Company Act. Additionally, we may have to pay significant taxes upon the sale or transfer of these assets. Accordingly, we may never realize the value of these assets relative to the contributions we made to these businesses.
@@ -503,7 +467,6 @@ If our growth slows more significantly than we currently expect, we may not be a
 - increase existing platform users’ activity on our platform;
 - continue to introduce our platform to new markets;
 - provide high-quality support to Drivers, consumers, restaurants, shippers, and carriers;
-
 • expand our business and increase our market share and category position;
 
 • compete with the products and offerings of, and pricing and incentives offered by, our competitors;
@@ -524,30 +487,30 @@ If our growth slows more significantly than we currently expect, we may not be a
 
 We may not successfully accomplish any of these objectives. A softening of Driver, consumer, restaurant, shipper, or carrier demand, whether caused by changes in the preferences of such parties, failure to maintain our brand, changes in the U.S. or global economies, licensing fees in various jurisdictions, competition, or other factors, may result in decreased revenue or growth and our financial results and future prospects would be adversely impacted. We expect to continue to incur significant expenses, and if we cannot increase our revenue at a faster rate than the increase in our expenses, we will not achieve profitability. We generate a significant percentage of our Gross Bookings from trips in large metropolitan areas and trips to and from airports. If our operations in large metropolitan areas or ability to provide trips to and from airports are negatively affected, our financial results and future prospects would be adversely impacted.
 
-In 2019, we derived 23% of our Rides Gross Bookings from five metropolitan areas—Chicago, Los Angeles, New York City, and the San Francisco Bay Area in the United States; and London in the United Kingdom. We experience greater competition in large metropolitan areas than we do in other markets in which we operate, which has led us to offer significant Driver incentives and consumer discounts and promotions in these large metropolitan areas. As a result of our geographic concentration, our business and financial results are susceptible to economic, social, weather, and regulatory conditions or other circumstances in each of these large metropolitan areas. An economic downturn, increased competition, or regulatory obstacles in any of these key metropolitan areas would adversely affect our business, financial condition, and operating results to a much greater degree than would the occurrence of such events in other areas. In addition, any changes to local laws or regulations within these key metropolitan areas that affect our ability to operate or increase our operating expenses in these markets would have an adverse effect on our business. Furthermore, if we are unable to renew existing licenses or do not receive new licenses in key metropolitan areas where we operate or such licenses are terminated, any inability to operate in such metropolitan area, as well as the publicity concerning any such termination or non-renewal, could adversely affect our business, financial condition, and operating results. For example, Transport for London (“TfL”) denied our application for a new license on November 25, 2019. We are continuing operations in London, while we have appealed this decision and expect a hearing in Westminster Magistrates Court in mid-2020. If we are not granted a new license, any inability to operate in London could adversely affect our business, financial condition, and operating results.
-
-In addition, in August 2018, New York City approved regulations for the local for-hire market (which includes our Ridesharing products), including a cap on the number of new vehicle licenses issued to drivers who offer for-hire services. In December 2018, New York City also established a standard for time and distance designed to target minimum hourly earnings for drivers providing for-hire services in New York City and surrounding areas. These minimum rates took effect in February 2019, and the regulator will update them periodically. We continue to work through adjustments with respect to rider promotions, driver supply, and other aspects of our business in response to these regulations; however, these regulations had a negative impact on our financial performance in New York City throughout 2019 and may have a similar adverse impact in the future. In August 2019, New York City issued a regulation to limit how much time drivers providing ride-hailing services can spend cruising streets in busy areas of Manhattan without passengers. In December 2019, a New York state judge struck down this regulation, which was to come into effect in February 2020. New York City is appealing this ruling. Additionally, in November 2019, a ballot measure to impose a surcharge on ridesharing trips in San Francisco was approved by voters in San Francisco. This surcharge took effect on January 1, 2020. In addition, other jurisdictions such as Seattle have in the past considered or may consider regulations that would implement minimum wage requirements or permit drivers to negotiate for minimum wages while providing services on our platform. Further, we expect that we will continue to face challenges in penetrating lower-density suburban and rural areas, where our network is smaller and less liquid, the cost of personal vehicle ownership is lower, and personal vehicle ownership is more convenient. If we are not successful in penetrating suburban and rural areas, or if we are unable to operate in certain key metropolitan areas in the future, our ability to serve what we consider to be our total addressable market would be limited, and our business, financial condition, and operating results would suffer.
+In 2019, we derived 23% of our Rides Gross Bookings from five metropolitan areas—Chicago, Los Angeles, New York City, and the San Francisco Bay Area in the United States; and London in the United Kingdom. We experience greater competition in large metropolitan areas than we do in other markets in which we operate, which has led us to offer significant Driver incentives and consumer discounts and promotions in these large metropolitan areas. As a result of our geographic concentration, our business and financial results are susceptible to economic, social, weather, and regulatory conditions or other circumstances in each of these large metropolitan areas. An economic downturn, increased competition, or regulatory obstacles in any of these key metropolitan areas would adversely affect our business, financial condition, and operating results to a much greater degree than would the occurrence of such events in other areas. In addition, any changes to local laws or regulations within these key metropolitan areas that affect our ability to operate or increase our operating expenses in these markets would have an adverse effect on our business. Furthermore, if we are unable to renew existing licenses or do not receive new licenses in key metropolitan areas where we operate or such licenses are terminated, any inability to operate in such metropolitan area, as well as the publicity concerning any such termination or non-renewal, could adversely affect our business, financial condition, and operating results. For example, Transport for London (“TfL”) denied our application for a new license on November 25, 2019. We are continuing operations in London, while we have appealed this decision and expect a hearing in Westminster Magistrates Court in mid-2020. If we are not granted a new license, any inability to operate in London could adversely affect our business, financial condition, and operating results. In addition, in August 2018, New York City approved regulations for the local for-hire market (which includes our Ridesharing products), including a cap on the number of new vehicle licenses issued to drivers who offer for-hire services. In December 2018, New York City also established a standard for time and distance designed to target minimum hourly earnings for drivers providing for-hire services in New York City and surrounding areas. These minimum rates took effect in February 2019, and the regulator will update them periodically. We continue to work through adjustments with respect to rider promotions, driver supply, and other aspects of our business in response to these regulations; however, these regulations had a negative impact on our financial performance in New York City throughout 2019 and may have a similar adverse impact in the future. In August 2019, New York City issued a regulation to limit how much time drivers providing ride-hailing services can spend cruising streets in busy areas of Manhattan without passengers. In December 2019, a New York state judge struck down this regulation, which was to come into effect in February 2020. New York City is appealing this ruling. Additionally, in November 2019, a ballot measure to impose a surcharge on ridesharing trips in San Francisco was approved by voters in San Francisco. This surcharge took effect on January 1, 2020. In addition, other jurisdictions such as Seattle have in the past considered or may consider regulations that would implement minimum wage requirements or permit drivers to negotiate for minimum wages while providing services on our platform. Further, we expect that we will continue to face challenges in penetrating lower-density suburban and rural areas, where our network is smaller and less liquid, the cost of personal vehicle ownership is lower, and personal vehicle ownership is more convenient. If we are not successful in penetrating suburban and rural areas, or if we are unable to operate in certain key metropolitan areas in the future, our ability to serve what we consider to be our total addressable market would be limited, and our business, financial condition, and operating results would suffer.
 
 19
-
 # In 2019
 
 We generated 15% of our Rides Gross Bookings from trips that either started or were completed at an airport, and we expect this percentage to increase in the future. As a result of this concentration, our operating results are susceptible to existing regulations and regulatory changes that impact the ability of drivers using our platform to provide trips to and from airports. Certain airports currently regulate ridesharing within airport boundaries, including by mandating that ridesharing service providers obtain airport-specific licenses, and some airports, particularly those outside the United States, have banned ridesharing operations altogether. Despite such bans, some Drivers continue to provide Rides services, including trips to and from airports, despite lacking the requisite permits. Such actions may result in the imposition of fines or sanctions, including further bans on our ability to operate within airport boundaries, against us or Drivers. Additional bans on our airport operations, or any permitting requirements or instances of non-compliance by Drivers, would significantly disrupt our operations. In addition, if drop-offs or pick-ups of riders become inconvenient because of airport rules or regulations, or more expensive because of airport-imposed fees, the number of Drivers or consumers could decrease, which would adversely affect our business, financial condition, and operating results. While we have entered into agreements with most major U.S. airports as well as certain airports outside the United States to allow the use of our platform within airport boundaries, we cannot guarantee that we will be able to renew such agreements on favorable terms if at all, and we may not be successful in negotiating similar agreements with airports in all jurisdictions.
 
 # If we fail to develop and successfully commercialize autonomous vehicle technologies
 
-or fail to develop such technologies before our competitors, or if such technologies fail to perform as expected, are inferior to those of our competitors, or are perceived as less safe than those of our competitors or non-autonomous vehicles, our financial performance and prospects would be adversely impacted. We have invested, and we expect to continue to invest, substantial amounts in autonomous vehicle technologies. As discussed elsewhere in this Annual Report on Form 10-K, we believe that autonomous vehicle technologies may have the ability to meaningfully impact the industries in which we compete. While we believe that autonomous vehicles present substantial opportunities, the development of such technology is expensive and time-consuming and may not be successful. Several other companies, including Waymo, Cruise Automation, Tesla, Apple, Zoox, Aptiv, Aurora, and Nuro, are also developing autonomous vehicle technologies, either alone or through collaborations with car manufacturers, and we expect that they will use such technology to further compete with us in the personal mobility, meal delivery, or logistics industries. We expect certain competitors to commercialize autonomous vehicle technologies at scale before we do. Waymo has already introduced a commercialized ridehailing fleet of autonomous vehicles, and it is possible that other of our competitors could introduce autonomous vehicle offerings earlier than we will. In the event that our competitors bring autonomous vehicles to market before we do, or their technology is or is perceived to be superior to ours, they may be able to leverage such technology to compete more effectively with us, which would adversely impact our financial performance and our prospects. For example, use of autonomous vehicles could substantially reduce the cost of providing ridesharing, meal delivery, or logistics services, which could allow competitors to offer such services at a substantially lower price as compared to the price available to consumers on our platform. If a significant number of consumers choose to use our competitors’ offerings over ours, our financial performance and prospects would be adversely impacted.
+or fail to develop such technologies before our competitors, or if such technologies fail to perform as expected, are inferior to those of our competitors, or are perceived as less safe than those of our competitors or non-autonomous vehicles, our financial performance and prospects would be adversely impacted.
 
-# Autonomous vehicle technologies involve significant risks and liabilities
+# We have invested
+
+and we expect to continue to invest, substantial amounts in autonomous vehicle technologies. As discussed elsewhere in this Annual Report on Form 10-K, we believe that autonomous vehicle technologies may have the ability to meaningfully impact the industries in which we compete. While we believe that autonomous vehicles present substantial opportunities, the development of such technology is expensive and time-consuming and may not be successful. Several other companies, including Waymo, Cruise Automation, Tesla, Apple, Zoox, Aptiv, Aurora, and Nuro, are also developing autonomous vehicle technologies, either alone or through collaborations with car manufacturers, and we expect that they will use such technology to further compete with us in the personal mobility, meal delivery, or logistics industries. We expect certain competitors to commercialize autonomous vehicle technologies at scale before we do. Waymo has already introduced a commercialized ridehailing fleet of autonomous vehicles, and it is possible that other of our competitors could introduce autonomous vehicle offerings earlier than we will. In the event that our competitors bring autonomous vehicles to market before we do, or their technology is or is perceived to be superior to ours, they may be able to leverage such technology to compete more effectively with us, which would adversely impact our financial performance and our prospects. For example, use of autonomous vehicles could substantially reduce the cost of providing ridesharing, meal delivery, or logistics services, which could allow competitors to offer such services at a substantially lower price as compared to the price available to consumers on our platform. If a significant number of consumers choose to use our competitors’ offerings over ours, our financial performance and prospects would be adversely impacted.
+
+# Autonomous vehicle technologies involve significant risks and liabilities.
 
 We conduct real-world testing of our autonomous vehicles, which currently includes at least one trained driver in the driver’s seat monitoring operations while the vehicle is in autonomous mode. In March 2018, one such test vehicle struck and killed a pedestrian in Tempe, Arizona. Following that incident, we voluntarily suspended public-road testing of our autonomous vehicles for several months in all markets where we were conducting real-world testing, which was a setback for our autonomous vehicle technology efforts. The National Transportation Safety Board investigated the collision, and, in its conclusion, recommended that we implement certain safety risk management measures for autonomous driving system testing. While we continue to implement and monitor a safety risk management system, we cannot assure you that such a system will prevent additional collisions involving our autonomous vehicles. We currently test vehicles in autonomous mode on public roads in Pennsylvania, and, in February 2020, were issued a permit to test autonomous vehicles on California public roads with a trained driver in the vehicle. Failures of our autonomous vehicle technologies or additional crashes involving autonomous vehicles using our technology could generate substantial liability for us, create negative publicity about us, or result in regulatory scrutiny, all of which would have an adverse effect on our reputation, brand, business, prospects, and operating results.
 
-# The development of our autonomous vehicle technologies
+# The development of our autonomous vehicle technologies is highly dependent on internally developed software
 
-is highly dependent on internally developed software, as well as on partnerships with third parties such as OEMs and other suppliers, including Toyota and DENSO pursuant to the ATG Collaboration Agreement, and Volvo. We develop and integrate self-driving software into our autonomous vehicle technologies and work with OEMs and other suppliers to develop autonomous vehicle technology hardware. We partner with OEMs that will seek to manufacture vehicles capable of incorporating our autonomous vehicle technologies. The timely development and performance of our autonomous vehicle programs is dependent on the materials, cooperation, and quality delivered by our partners and suppliers. Our dependence on these relationships exposes us to the risk that components manufactured by OEMs or other suppliers could contain defects that would cause our autonomous vehicle technologies to not operate as intended. Further, reliance on these relationships exposes us to risks beyond our control, such as third-party software or manufacturing defects, which would substantially impair our ability to deploy autonomous vehicles. If our autonomous vehicle technologies were to contain design or manufacturing defects that caused such technology to not perform as expected, or if we were unable to deploy autonomous vehicles as a result of manufacturing delays by OEMs, our financial performance and our prospects could be harmed.
+as well as on partnerships with third parties such as OEMs and other suppliers, including Toyota and DENSO pursuant to the ATG Collaboration Agreement, and Volvo. We develop and integrate self-driving software into our autonomous vehicle technologies and work with OEMs and other suppliers to develop autonomous vehicle technology hardware. We partner with OEMs that will seek to manufacture vehicles capable of incorporating our autonomous vehicle technologies. The timely development and performance of our autonomous vehicle programs is dependent on the materials, cooperation, and quality delivered by our partners and suppliers. Our dependence on these relationships exposes us to the risk that components manufactured by OEMs or other suppliers could contain defects that would cause our autonomous vehicle technologies to not operate as intended. Further, reliance on these relationships exposes us to risks beyond our control, such as third-party software or manufacturing defects, which would substantially impair our ability to deploy autonomous vehicles. If our autonomous vehicle technologies were to contain design or manufacturing defects that caused such technology to not perform as expected, or if we were unable to deploy autonomous vehicles as a result of manufacturing delays by OEMs, our financial performance and our prospects could be harmed.
 
 # Federal and state government regulations specifically designed to govern autonomous vehicle operation, testing and/or manufacture
-
 are developing. These regulations could include requirements that significantly delay or narrowly limit the commercialization of autonomous vehicles, limit the number of autonomous vehicles that we can manufacture or use on our platform, or impose significant liabilities on manufacturers or operators of autonomous vehicles or developers of autonomous vehicle technologies. If regulations of this nature are implemented, we may not be able to commercialize our autonomous vehicle technologies in the manner we expect, or at all. Further, if we are unable to comply with existing or new regulations or laws applicable to autonomous vehicles, we could become subject to substantial fines or penalties.
 
 In 2019, we entered into an agreement with SoftBank, Toyota, and DENSO pursuant to which these investors invested an aggregate of $1.0 billion ($400 million from Toyota, $333 million from SoftBank, and $267 million from DENSO) in a newly formed corporate parent entity for ATG. This investment will enable us to raise dedicated capital to fund our ATG business and aims to accelerate the development and commercialization of automated ridesharing services. In connection with the investment, we have entered into the ATG Collaboration Agreement with Toyota, DENSO, and ATG with respect to next-generation self-driving hardware and the development of self-driving vehicles leveraging technology from each of the parties. The transaction closed in July 2019; however, we cannot assure you that the transaction will have the effects that we anticipate.
@@ -567,39 +530,28 @@ To attract and retain key personnel, we use equity incentives, among other measu
 The impact of economic conditions, including the resulting effect on discretionary consumer spending, may harm our business and operating results.
 
 Our performance is subject to economic conditions and their impact on levels of discretionary consumer spending. Some of the factors that have an impact on discretionary consumer spending include general economic conditions, unemployment, consumer debt, reductions in net worth, residential real estate and mortgage markets, taxation, energy prices, interest rates, consumer confidence, and other macroeconomic factors. Consumer preferences tend to shift to lower-cost alternatives during recessionary periods and other periods in which disposable income is adversely affected. In such circumstances, consumers may choose to use one of our lower price-point products, such as UberPOOL, over a higher Gross Bookings per Trip offering, may choose to forgo our offerings for lower-cost personal vehicle or public transportation alternatives, or may reduce total miles traveled as economic activity decreases. Such a shift in consumer behavior may reduce our network liquidity and may harm our business, financial condition, and operating results. Likewise, small
-
 # businesses that do not have substantial resources
 
 including many of the restaurants in our network, tend to be more adversely affected by poor economic conditions than large businesses. Further, because spending for food purchases from restaurants is generally considered discretionary, any decline in consumer spending may have a disproportionate effect on our Eats offering. If spending at many of the restaurants in our network declines, or if a significant number of these restaurants go out of business, consumers may be less likely to use our products and offerings, which could harm our business and operating results. Alternatively, if economic conditions improve, it could lead to Drivers obtaining additional or alternative opportunities for work, which could negatively impact the number of Drivers on our platform, and thereby reduce our network liquidity.
 
-# Increases in Costs
+# Increases in costs
 
 Increases in fuel, food, labor, energy, and other costs could adversely affect our operating results. Factors such as inflation, increased fuel prices, and increased vehicle purchase, rental, or maintenance costs may increase the costs incurred by Drivers and carriers when providing services on our platform. Similarly, factors such as inflation, increased food costs, increased labor and employee benefit costs, increased rental costs, and increased energy costs may increase restaurant operating costs, particularly in certain international markets, such as Egypt. Many of the factors affecting Driver, restaurant, and carrier costs are beyond the control of these parties. In many cases, these increased costs may cause Drivers and carriers to spend less time providing services on our platform or to seek alternative sources of income. Likewise, these increased costs may cause restaurants to pass costs on to consumers by increasing prices, which would likely cause order volume to decline, may cause restaurants to cease operations altogether, or may cause carriers to pass costs on to shippers, which may cause shipments on our platform to decline. A decreased supply of Drivers, consumers, restaurants, shippers, or carriers on our platform would decrease our network liquidity, which could harm our business and operating results.
 
-# Additional Capital Requirement
+# Additional capital requirements
 
 We will require additional capital to support the growth of our business, and this capital might not be available on reasonable terms or at all. To continue to effectively compete, we will require additional funds to support the growth of our business and allow us to invest in new products, offerings, and markets. In particular, our dockless e-bike and e-scooter products and autonomous vehicle development efforts are capital and operations intensive. While we closed the investment in ATG from the ATG Investors for an aggregate of $1.0 billion, we will likely require additional capital to expand these products or continue these development efforts. If we raise additional funds through further issuances of equity or convertible debt securities, our existing stockholders may suffer significant dilution, and any new equity securities we issue may have rights, preferences, and privileges superior to those of existing stockholders. Certain of our existing debt instruments contain, and any debt financing we secure in the future could contain, restrictive covenants relating to our ability to incur additional indebtedness and other financial and operational matters that make it more difficult for us to obtain additional capital with which to pursue business opportunities. For example, our existing debt instruments contain significant restrictions on our ability to incur additional secured indebtedness. We may not be able to obtain additional financing on favorable terms, if at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us when required, our ability to continue to support our business growth and to respond to business challenges and competition may be significantly limited.
 
-# Security and Data Privacy Concerns
+# Security and data privacy concerns
 
 If we experience security or data privacy breaches or other unauthorized or improper access to, use of, disclosure of, alteration of or destruction of our proprietary or confidential data, employee data, or platform user data, we may face loss of revenue, harm to our brand, business disruption, and significant liabilities. We collect, use, and process a variety of personal data, such as email addresses, mobile phone numbers, profile photos, location information, drivers’ license numbers and Social Security numbers of Drivers, consumer payment card information, and Driver and restaurant bank account information. As such, we are an attractive target of data security attacks by third parties. Any failure to prevent or mitigate security breaches or improper access to, use of, disclosure, alteration or destruction of any such data could result in significant liability and a material loss of revenue resulting from the adverse impact on our reputation and brand, a diminished ability to retain or attract new platform users, and disruption to our business. We rely on third-party service providers to host or otherwise process some of our data and that of platform users, and any failure by such third party to prevent or mitigate security breaches or improper access to, disclosure, alteration or destruction of, such information could have similar adverse consequences for us. Because the techniques used to obtain unauthorized access, disable or degrade services, or sabotage systems change frequently and are often unrecognizable until launched against a target, we may be unable to anticipate these techniques and implement adequate preventative measures. Our servers and platform may be vulnerable to computer viruses or physical or electronic break-ins that our security measures may not detect. Individuals able to circumvent our security measures may misappropriate confidential, proprietary, or personal information held by or on behalf of us, disrupt our operations, damage our computers, or otherwise damage our business. In addition, we may need to expend significant resources to protect against security breaches or mitigate the impact of any such breaches, including potential liability that may not be limited to the amounts covered by our insurance. Security breaches could also expose us to liability under various laws and regulations across jurisdictions and increase the risk of litigation and governmental investigation. We have been subject to security and data privacy incidents in the past and may be again in the future. For example, in May 2014, we experienced a data security incident in which an outside actor gained access to certain personal information belonging to Drivers through an access key written into code that an employee had unintentionally posted publicly on a code-sharing website used by software developers (the “2014 Breach”). In October and November of 2016, outside actors downloaded the personal data of approximately 57 million Drivers and consumers worldwide (the “2016 Breach”). The accessed data included the names,
-
 email addresses, mobile phone numbers, and drivers’ license numbers of approximately 600,000 Drivers, among other information. For further information on this incident, see the risk factors titled “—We currently are subject to a number of inquiries, investigations, and requests for information from the DOJ, the SEC and other U.S. and foreign government agencies, the adverse outcomes of which could harm our business” and “—We face risks related to our collection, use, transfer, disclosure, and other processing of data, which could result in investigations, inquiries, litigation, fines, legislative, and regulatory action, and negative press about our privacy and data protection practices,” below. In November 2018, a third-party assessor ranked our maturity level for all but two security capabilities as below or at the minimum maturity end of our industry maturity range, which purports to be a composite range derived from the minimum and maximum maturity ratings across related industry sections in consumer products, travel and hospitality, banking and securities, and technology. As we expand our operations, we may also assume liabilities for breaches experienced by the companies we acquire. For example, in April 2018, Careem publicly disclosed and notified relevant regulatory authorities that it had been subject to a data security breach that allowed access to certain personal information of riders and drivers on its platform, as of January 14, 2018. If Careem becomes subject to liability as a result of this or other data security breaches, or if we fail to remediate this or any other data security breach that Careem or we experience, we may face harm to our brand, business disruption, and significant liabilities.
 
 If we are unable to successfully introduce new or upgraded products, offerings, or features for Drivers, consumers, restaurants, shippers, and carriers, we may fail to retain and attract such users to our platform and our operating results would be adversely affected.
 
 To continue to retain and attract Drivers, consumers, restaurants, shippers, and carriers to our platform, we will need to continue to invest in the development of new products, offerings, and features that add value for Drivers, consumers, restaurants, shippers, and carriers and that differentiate us from our competitors. For example, in 2018, we redesigned our Driver application with features that better anticipate Driver needs, such as improved real-time communication and updates on the availability of riders and consumers and the pricing of fares and deliveries, and we acquired orderTalk to better integrate Eats with restaurant point-of-sale systems. In addition, in January 2020, we introduced a number of product changes in California intended to, among other things, provide Drivers with more information about rider destinations, trip distance, and expected fares, display prices more clearly, and allow users to select preferred Drivers, all of which are intended to further strengthen the independence of Drivers in California and protect their ability to work flexibly when using the Uber platform. Developing and delivering these new or upgraded products, offerings, and features is costly, and the success of such new products, offerings, and features depends on several factors, including the timely completion, introduction, and market acceptance of such products, offerings, and features. Moreover, any such new or upgraded products, offerings, or features may not work as intended or may not provide intended value to platform users. For example, our recent product changes in California have resulted in, and may continue to result in, reduced demand for rides and reduced supply of Drivers on our platform, Driver dissatisfaction, and adverse impacts on the operation of our platform. If we are unable to continue to develop new or upgraded products, offerings, and features, or if platform users do not perceive value in such new or upgraded products, offerings, and features, platform users may choose not to use our platform, which would adversely affect our operating results.
 
-If we are unable to manage supply chain risks related to New Mobility products such as dockless e-bikes and e-scooters and advanced technologies such as autonomous vehicles, our operations may be disrupted. Our New Mobility products include dockless e-bikes and e-scooters and we are developing advanced technologies for autonomous vehicles. These products require and rely on hardware and other components that we source from third-party suppliers. The continued development of dockless e-bikes and e-scooters, autonomous vehicle technologies, and other products depends on our ability to implement and manage supply chain logistics to secure the necessary components and hardware. We do not have significant experience in managing supply chain risks. We depend on a limited number of suppliers for our dockless e-bikes, and on a single supplier for our e-scooters that also supplies our primary competitors. It is possible that we may not be able to obtain a sufficient supply of dockless e-bikes and e-scooters in a timely manner, or at all. The timely development and performance of our New Mobility products is dependent on the materials, cooperation, and quality delivered by our suppliers. Further, we source certain specialized or custom-made components for our autonomous vehicle and other advanced technologies from a small number of specialized suppliers, and we may not be able to secure substitutes in a timely manner, on reasonable terms, or at all. Events that could disrupt our supply chain include, but are not limited to:
-
-- the imposition of trade laws or regulations;
-- the imposition of duties, tariffs, and other charges on imports and exports, including with respect to imports and exports of dockless e-bikes and e-scooters from China;
-- disruption in the supply of certain hardware and components from our international suppliers, particularly those in China;
-- public health concerns or epidemics, such as the recent coronavirus outbreak, affecting the production capabilities of our suppliers, including by resulting in quarantines or closures;
-- foreign currency fluctuations;
-- theft; and
-- restrictions on the transfer of funds.
-
+If we are unable to manage supply chain risks related to New Mobility products such as dockless e-bikes and e-scooters and advanced technologies such as autonomous vehicles, our operations may be disrupted. Our New Mobility products include dockless e-bikes and e-scooters and we are developing advanced technologies for autonomous vehicles. These products require and rely on hardware and other components that we source from third-party suppliers. The continued development of dockless e-bikes and e-scooters, autonomous vehicle technologies, and other products depends on our ability to implement and manage supply chain logistics to secure the necessary components and hardware. We do not have significant experience in managing supply chain risks. We depend on a limited number of suppliers for our dockless e-bikes, and on a single supplier for our e-scooters that also supplies our primary competitors. It is possible that we may not be able to obtain a sufficient supply of dockless e-bikes and e-scooters in a timely manner, or at all. The timely development and performance of our New Mobility products is dependent on the materials, cooperation, and quality delivered by our suppliers. Further, we source certain specialized or custom-made components for our autonomous vehicle and other advanced technologies from a small number of specialized suppliers, and we may not be able to secure substitutes in a timely manner, on reasonable terms, or at all. Events that could disrupt our supply chain include, but are not limited to: the imposition of trade laws or regulations; the imposition of duties, tariffs, and other charges on imports and exports, including with respect to imports and exports of dockless e-bikes and e-scooters from China; disruption in the supply of certain hardware and components from our international suppliers, particularly those in China; public health concerns or epidemics, such as the recent coronavirus outbreak, affecting the production capabilities of our suppliers, including by resulting in quarantines or closures; foreign currency fluctuations; theft; and restrictions on the transfer of funds.
 # The occurrence of any of the foregoing could materially increase the cost and reduce or delay the supply of dockless e-bikes and e-scooters available on our platform and could materially delay our progress towards introducing autonomous vehicles onto our platform, all of which could adversely affect our business, financial condition, operating results, and prospects.
 
 We track certain operational metrics and our category position with internal systems and tools, and our equity stakes in minority-owned affiliates with information provided by such minority-owned affiliates, and do not independently verify such metrics. Certain of our operational metrics are subject to inherent challenges in measurement, and real or perceived inaccuracies in such metrics may harm our reputation and negatively affect our business.
@@ -615,7 +567,6 @@ In addition, establishing the proper infrastructure to ensure that we receive th
 Loss or material modification of our credit card acceptance privileges could have an adverse effect on our business and operating results.
 
 In 2019, 89% of our Gross Bookings were paid by either credit card or debit card. As such, the loss of our credit card acceptance privileges would significantly limit our business model. We are required by our payment processors to comply with payment card network operating rules, including the Payment Card Industry (“PCI”) and Data Security Standard (the “Standard”). The Standard is a comprehensive set of requirements for enhancing payment account data security developed by the PCI Security Standards Council to help facilitate the broad adoption of consistent data security measures. Our failure to comply with the Standard and other network operating rules could result in fines or restrictions on our ability to accept payment cards. Under certain circumstances specified in the payment
-
 # card network rules
 
 we may be required to submit to periodic audits, self-assessments, or other assessments of our compliance with the Standard. Such activities may reveal that we have failed to comply with the Standard. If an audit, self-assessment, or other test determines that we need to take steps to remediate any deficiencies, such remediation efforts may distract our management team and require us to undertake costly and time-consuming remediation efforts. In addition, even if we comply with the Standard, there is no assurance that we will be protected from a security breach. Moreover, the payment card networks could adopt new operating rules or interpret existing rules that we or our processors might find difficult or even impossible to follow, or costly to implement. In addition to violations of network rules, including the Standard, any failure to maintain good relationships with the payment card networks could impact our ability to receive incentives from them, could increase our costs, or could otherwise harm our business. The loss of our credit card acceptance privileges for any one of these reasons, or the significant modification of the terms under which we obtain credit card acceptance privileges, may have an adverse effect on our business, revenue, and operating results.
@@ -637,7 +588,6 @@ One of the most important features of our platform is its broad interoperability
 # We rely on third parties for elements of the payment processing infrastructure underlying our platform. If these third-party elements become unavailable or unavailable on favorable terms, our business could be adversely affected.
 
 The convenient payment mechanisms provided by our platform are key factors contributing to the development of our business. We rely on third parties for elements of our payment-processing infrastructure to remit payments to Drivers, restaurants, and carriers using
-
 our platform, and these third parties may refuse to renew our agreements with them on commercially reasonable terms or at all. If these companies become unwilling or unable to provide these services to us on acceptable terms or at all, our business may be disrupted. For certain payment methods, including credit and debit cards, we generally pay interchange fees and other processing and gateway fees, and such fees result in significant costs. In addition, online payment providers are under continued pressure to pay increased fees to banks to process funds, and there is no assurance that such online payment providers will not pass any increased costs on to merchant partners, including us. If these fees increase over time, our operating costs will increase, which could adversely affect our business, financial condition, and operating results.
 
 In addition, system failures have at times prevented us from making payments to Drivers in accordance with our typical timelines and processes, and have caused substantial Driver dissatisfaction and generated a significant number of Driver complaints. Future failures of the payment processing infrastructure underlying our platform could cause Drivers to lose trust in our payment operations and could cause them to instead use our competitors’ platforms. If the quality or convenience of our payment processing infrastructure declines as a result of these limitations or for any other reason, the attractiveness of our business to Drivers, restaurants, and carriers could be adversely affected. If we are forced to migrate to other third-party payment service providers for any reason, the transition would require significant time and management resources, and may not be as effective, efficient, or well-received by platform users.
@@ -649,7 +599,6 @@ We rely heavily on information technology systems across our operations. Our inf
 Our platform is highly technical, and any undetected errors could adversely affect our business.
 
 Our platform is a complex system composed of many interoperating components and incorporates software that is highly complex. Our business is dependent upon our ability to prevent system interruption on our platform. Our software, including open source software that is incorporated into our code, may now or in the future contain undetected errors, bugs, or vulnerabilities. Some errors in our software code may only be discovered after the code has been released. Bugs in our software, third-party software including open source software that is incorporated into our code, misconfigurations of our systems, and unintended interactions between systems could result in our failure to comply with certain federal, state, or foreign reporting obligations, or could cause downtime that would impact the availability of our service to platform users. We have from time to time found defects or errors in our system and may discover additional defects in the future that could result in platform unavailability or system disruption. In addition, we have experienced outages on our platform due to circumstances within our control, such as outages due to software limitations. We rely on co-located data centers for the operation of our platform. If our co-located data centers fail, our platform users may experience down time. If sustained or repeated, any of these outages could reduce the attractiveness of our platform to platform users. For example, as a result of an error with one of our routine maintenance releases in February 2018, we experienced an outage on our platform for 28 minutes, resulting in Drivers, consumers, restaurants, shippers, and carriers being unable to log on to our platform in major cities, including Las Vegas, Atlanta, New York, and Washington D.C. In addition, our release of new software in the past has inadvertently caused, and may in the future cause, interruptions in the availability or functionality of our platform. Any errors, bugs, or vulnerabilities discovered in our code or systems after release could result in an interruption in the availability of our platform or a negative experience for Drivers, consumers, restaurants, shippers, and carriers, and could also result in negative publicity and unfavorable media coverage, damage to our reputation, loss of platform users, loss of revenue or liability for damages, regulatory inquiries, or other proceedings, any of which could adversely affect our business and financial results.
-
 We currently rely on a small number of third-party service providers to host a significant portion of our platform, and any interruptions or delays in services from these third parties could impair the delivery of our products and offerings and harm our business.
 
 We use a combination of third-party cloud computing services and co-located data centers in the United States and abroad. We do not control the physical operation of any of the co-located data centers we use or the operations of our third-party service providers. These third-party operations and co-located data centers may experience break-ins, computer viruses, denial-of-service attacks, sabotage, acts of vandalism, and other misconduct. These facilities may also be vulnerable to damage or interruption from power loss, telecommunications failures, fires, floods, earthquakes, hurricanes, tornadoes, and similar events. Our systems do not provide complete redundancy of data storage or processing, and as a result, the occurrence of any such event, a decision by our third-party service providers to close our co-located data centers without adequate notice, or other unanticipated problems may result in our inability to serve data reliably or require us to migrate our data to either a new on-premise data center or cloud computing service. This could be time consuming and costly and may result in the loss of data, any of which could significantly interrupt the provision of our products and offerings and harm our reputation and brand. We may not be able to easily switch to another cloud or data center provider in the event of any disruptions or interference to the services we use, and even if we do, other cloud and data center providers are subject to the same risks. Additionally, our co-located data center facility agreements are of limited durations, and our co-located data center facilities have no obligation to renew their agreements with us on commercially reasonable terms or at all. If we are unable to renew our agreements with these facilities on commercially reasonable terms, we may experience delays in the provision of our products and offerings until an agreement with another co-located data center is arranged. Interruptions in the delivery of our products and offerings may reduce our revenue, cause Drivers, restaurants, and carriers to stop offering their services through our platform, and reduce use of our platform by consumers and shippers. Our business and operating results may be harmed if current and potential Drivers, consumers, restaurants, shippers, and carriers believe our platform is unreliable. In addition, if we are unable to scale our data storage and computational capacity sufficiently or on commercially reasonable terms, our ability to innovate and introduce new products on our platform may be delayed or compromised, which would have an adverse effect on our growth and business.
@@ -665,8 +614,7 @@ We have incurred a significant amount of debt and may in the future incur additi
 As of December 31, 2019, we had total outstanding indebtedness of $5.8 billion aggregate principal amount. In addition, approximately $1.7 billion of the Careem Convertible Notes were issued to Careem stockholders upon the closing of our acquisition of Careem. The Careem Convertible Notes do not bear interest and will mature 90 days after their respective dates of issuance. Subject to the limitations in the terms of our existing and future indebtedness, we and our subsidiaries may incur additional debt, secure existing or future debt, or refinance our debt. In particular, we may need to incur additional debt to finance the purchase of dockless e-bikes and e-scooters or autonomous vehicles, and such financing may not be available to us on attractive terms or at all.
 
 We may be required to use a substantial portion of our cash flows from operations to pay interest and principal on our indebtedness.
-
-# Such payments will reduce the funds available to us for working capital, capital expenditures, and other corporate purposes and limit our ability to obtain additional financing for working capital, capital expenditures, expansion plans, and other investments, which may in turn limit our ability to implement our business strategy, heighten our vulnerability to downturns in our business, the industry, or in the general economy, limit our flexibility in planning for, or reacting to, changes in our business and the industry, and prevent us from taking advantage of business opportunities as they arise. For example, the Careem Convertible Notes are convertible into shares of our common stock at the election of each note holder at a price of$55per share. Some or all of the holders of the Careem Convertible Notes may not elect to convert their notes prior to their maturity, in which case we will be required to repay such notes in cash. We cannot assure you that our business will generate sufficient cash flow from operations or that future financing will be available to us in amounts sufficient to enable us to make required and timely payments on our indebtedness, or to fund our operations. To date, we have used a substantial amount of cash for operating activities, and we cannot assure you when we will begin to generate cash from operating activities in amounts sufficient to cover our debt service obligations.
+# Such payments will reduce the funds available to us for working capital, capital expenditures, and other corporate purposes and limit our ability to obtain additional financing for working capital, capital expenditures, expansion plans, and other investments, which may in turn limit our ability to implement our business strategy, heighten our vulnerability to downturns in our business, the industry, or in the general economy, limit our flexibility in planning for, or reacting to, changes in our business and the industry, and prevent us from taking advantage of business opportunities as they arise. For example, the Careem Convertible Notes are convertible into shares of our common stock at the election of each note holder at a price of $55 per share. Some or all of the holders of the Careem Convertible Notes may not elect to convert their notes prior to their maturity, in which case we will be required to repay such notes in cash. We cannot assure you that our business will generate sufficient cash flow from operations or that future financing will be available to us in amounts sufficient to enable us to make required and timely payments on our indebtedness, or to fund our operations. To date, we have used a substantial amount of cash for operating activities, and we cannot assure you when we will begin to generate cash from operating activities in amounts sufficient to cover our debt service obligations.
 
 In addition, under certain of our existing debt instruments, we and certain of our subsidiaries are subject to limitations regarding our business and operations, including limitations on incurring additional indebtedness and liens, limitations on certain consolidations, mergers, and sales of assets, and restrictions on the payment of dividends or distributions. Any debt financing secured by us in the future could involve additional restrictive covenants relating to our capital-raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital to pursue business opportunities, including potential acquisitions or divestitures. Any default under our debt arrangements could require that we repay our loans immediately, and may limit our ability to obtain additional financing, which in turn may have an adverse effect on our cash flows and liquidity.
 
@@ -674,12 +622,13 @@ In addition, we are exposed to interest rate risk related to some of our indebte
 
 The tax laws applicable to our global business activities are subject to uncertainty and can be interpreted differently by different companies. For example, we may become subject to sales tax rates in certain jurisdictions that are significantly greater than the rates we currently pay in those jurisdictions. Like many other multinational corporations, we are subject to tax in multiple U.S. and foreign jurisdictions and have structured our operations to reduce our effective tax rate. Currently, certain jurisdictions are investigating our compliance with tax rules. If it is determined that we are not compliant with such rules, we could owe additional taxes. Additionally, the taxing authorities of the jurisdictions in which we operate have in the past, and may in the future, examine or challenge our methodologies for valuing developed technology, which could increase our worldwide effective tax rate and harm our financial position and operating results. Furthermore, our future income taxes could be adversely affected by earnings being lower than anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in jurisdictions that have higher statutory tax rates, changes in the valuation of our deferred tax assets and liabilities, or changes in tax laws, regulations, or accounting principles. We are subject to regular review and audit by both U.S. federal and state tax authorities, as well as foreign tax authorities, and currently face numerous audits in the United States and abroad. Any adverse outcome of such reviews and audits could have an adverse effect on our financial position and operating results. In addition, the determination of our worldwide provision for income taxes and other tax liabilities requires significant judgment by our management, and we have engaged in many transactions for which the ultimate tax determination remains uncertain. The ultimate tax outcome may differ from the amounts recorded in our financial statements and may materially affect our financial results in the period or periods for which such determination is made. Our tax positions or tax returns are subject to change, and therefore we cannot accurately predict whether we may incur material additional tax liabilities in the future, which could impact our financial position. In addition, in connection with any planned or future acquisitions, we may acquire businesses that have differing licenses and other arrangements that may be challenged by tax authorities for not being at arm’s-length or that are otherwise potentially less tax efficient than our licenses and arrangements. Any subsequent integration or continued operation of such acquired businesses may result in an increased effective tax rate in certain jurisdictions or potential indirect tax costs, which could result in us incurring additional tax liabilities or having to establish a reserve in our consolidated financial statements, and could adversely affect our financial results.
 
-Changes in global and U.S. tax legislation may adversely affect our financial condition, operating results, and cash flows. We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions. U.S. tax legislation enacted in 2017 has significantly changed the U.S. federal income taxation of U.S. corporations, including reducing the U.S. corporate income tax rate, revising the rules governing net operating losses effective for tax years beginning after December 31, 2017, providing a transition of U.S. international taxation from a worldwide tax system to a modified territorial system, imposing a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017, and imposing new limitations on the deductibility of interest. Many of these changes were effective immediately, without any transition periods or grandfathering for existing transactions. The legislation is unclear in many respects and could be subject to potential amendments and technical corrections, as well as interpretations and implementing regulations by the U.S. Treasury and U.S. Internal Revenue Service (the “IRS”), any of which could lessen or increase certain adverse impacts of the legislation. In addition, it is unclear how these U.S. federal income tax changes will affect state and local taxation, which often uses federal taxable income as a starting point for computing state and local tax liabilities.
+Changes in global and U.S. tax legislation may adversely affect our financial condition, operating results, and cash flows.
+
+We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions. U.S. tax legislation enacted in 2017 has significantly changed the U.S. federal income taxation of U.S. corporations, including reducing the U.S. corporate income tax rate, revising the rules governing net operating losses effective for tax years beginning after December 31, 2017, providing a transition of U.S. international taxation from a worldwide tax system to a modified territorial system, imposing a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017, and imposing new limitations on the deductibility of interest. Many of these changes were effective immediately, without any transition periods or grandfathering for existing transactions. The legislation is unclear in many respects and could be subject to potential amendments and technical corrections, as well as interpretations and implementing regulations by the U.S. Treasury and U.S. Internal Revenue Service (the “IRS”), any of which could lessen or increase certain adverse impacts of the legislation. In addition, it is unclear how these U.S. federal income tax changes will affect state and local taxation, which often uses federal taxable income as a starting point for computing state and local tax liabilities.
 
 We are unable to predict what global or U.S. tax reforms may be proposed or enacted in the future or what effects such future changes
 
-# 28
-
+28
 # Our ability to use our net operating loss carryforwards and certain other tax attributes may be limited.
 
 As of December 31, 2019, we had net operating loss carryforwards for U.S. federal income tax purposes and state income tax purposes of $8.8 billion and $8.3 billion, respectively, available to offset future taxable income. If not utilized, the federal net operating loss carryforward amounts generated prior to January 1, 2018 will begin to expire in 2031, and the state net operating loss carryforward amounts will begin to expire in 2020. As of December 31, 2019, we also had foreign net operating loss carryforwards of $2.7 billion that will begin to expire in 2024. Realization of these net operating loss carryforwards depends on our future taxable income, and there is a risk that our existing carryforwards could expire unused and be unavailable to offset future income tax liabilities, which could materially and adversely affect our operating results. In addition, under Sections 382 and 383 of the Internal Revenue Code of 1986, as amended (the “Code”), if a corporation undergoes an “ownership change,” generally defined as a greater than 50% change (by value) in its equity ownership over a three-year period, the corporation’s ability to use its pre-change net operating loss carryforwards and other pre-change tax attributes, such as research tax credits, to offset its post-change income may be limited. We may experience ownership changes in the future because of subsequent shifts in our stock ownership. As a result, if we earn net taxable income, our ability to use our pre-change net operating loss carry-forwards and other tax attributes to offset U.S. federal taxable income may be subject to limitations, which could potentially result in increased future tax liability to us.
@@ -697,7 +646,6 @@ We acquired substantially all of the assets and assumed substantially all of the
 In addition, some or all of the holders of the Careem Convertible Notes may not elect to convert their notes into shares of our common stock at any time prior to their maturity 90 days after issuance, in which case we will be required to repay their notes in cash.
 
 Pursuant to our agreement with Careem, the Careem brand and ridesharing, meal delivery, and payments apps will continue to operate in parallel with Uber’s apps following the closing of the acquisition. Careem’s Chief Executive Officer will continue to be the Chief
-
 # Executive Officer of Careem and will report to an Uber-controlled board of directors.
 
 Although we will integrate certain general and administrative functions at the Uber parent level, Careem’s engineering, human resources, and operations teams will continue to operate independently and report to Careem’s Chief Executive Officer. This structure may delay the efficiencies that we expect to gain from the acquisition and our brand and reputation could be impacted by any damage or reputational harm to the Careem brand.
@@ -718,16 +666,21 @@ If we are unable to identify and successfully acquire suitable businesses, our o
 
 we have entered into, and expect to continue to enter into, agreements to acquire companies, form joint ventures, divest portions or aspects of our business, sell minority stakes in portions or aspects of our business, and acquire complementary companies or technologies, including divestitures in China, Southeast Asia and India, our Yandex.Taxi joint venture in Russia/CIS, our acquisition of Careem, and the investment by SoftBank, Toyota, and DENSO in ATG (the “ATG Investment Transaction”). Competition within our industry for acquisitions of businesses, technologies, and assets is intense. As such, even if we are able to identify a target for acquisition, we may not be able to complete the acquisition on commercially reasonable terms, we may not be able to receive approval from the applicable competition authorities, or such target may be acquired by another company, including one of our competitors. For example, our acquisition of Careem continues to be subject to approval from the regional competition authorities in certain markets in which Careem operates. Pursuant to the terms of our agreement with Careem, failure to obtain approval in one or more of these countries could require us to divest our or Careem’s business in that country. Moreover, the ATG Investment Transaction is subject to a number of risks and uncertainties. For example, if the Committee on Foreign Investment in the United States (“CFIUS”) unwinds the ATG Collaboration Agreement or requires mitigation measures that materially and adversely affect the strategic benefits of the ATG Collaboration Agreement, SoftBank, Toyota, and DENSO will each have the right to require ATG to redeem some or all of their preferred units at a price equal to their respective initial investment amounts.
 
-# Further, negotiations for potential acquisitions or other transactions may result in the diversion of our management’s time and significant out-of-pocket costs.
-
-We may expend significant cash or incur substantial debt to finance such acquisitions, and such indebtedness may restrict our business or require the use of available cash to make interest and principal payments. In addition, we may finance or otherwise complete acquisitions by issuing equity or convertible debt securities, which may result in dilution to our stockholders, or if such convertible debt securities are not converted, significant cash outlays. If we fail to evaluate and execute acquisitions successfully or fail to successfully address any of these risks, our business, financial condition, and operating results may be harmed.
+Further, negotiations for potential acquisitions or other transactions may result in the diversion of our management’s time and significant out-of-pocket costs. We may expend significant cash or incur substantial debt to finance such acquisitions, and such indebtedness may restrict our business or require the use of available cash to make interest and principal payments. In addition, we may finance or otherwise complete acquisitions by issuing equity or convertible debt securities, which may result in dilution to our stockholders, or if such convertible debt securities are not converted, significant cash outlays. If we fail to evaluate and execute acquisitions successfully or fail to successfully address any of these risks, our business, financial condition, and operating results may be harmed.
 
 # In addition, any businesses we acquire may not perform as well as we expect.
 
 Failure to manage and successfully integrate recently acquired businesses and technologies, including managing any privacy or data security risks associated with such acquisitions, may harm our operating results and expansion prospects. The process of integrating an acquired company, business, or technology or acquired personnel into our company is subject to various risks and challenges, including:
 
-• diverting management time and focus from operating our business to acquisition integration;• disrupting our ongoing business operations;• platform user acceptance of the acquired company’s offerings;• implementing or remediating the controls, procedures, and policies of the acquired company;• integrating the acquired business onto our systems and ensuring the acquired business meets our financial reporting requirements and timelines;• retaining and integrating acquired employees, including aligning incentives between acquired employees and existing employees, as well as managing costs associated with eliminating redundancies or transferring employees on acceptable terms with minimal business disruption;• maintaining important business relationships and contracts of the acquired business;• liability for pre-acquisition activities of the acquired company;• litigation or other claims or liabilities arising in connection with the acquisition or the acquired company; and
-
+- diverting management time and focus from operating our business to acquisition integration;
+- disrupting our ongoing business operations;
+- platform user acceptance of the acquired company’s offerings;
+- implementing or remediating the controls, procedures, and policies of the acquired company;
+- integrating the acquired business onto our systems and ensuring the acquired business meets our financial reporting requirements and timelines;
+- retaining and integrating acquired employees, including aligning incentives between acquired employees and existing employees, as well as managing costs associated with eliminating redundancies or transferring employees on acceptable terms with minimal business disruption;
+- maintaining important business relationships and contracts of the acquired business;
+- liability for pre-acquisition activities of the acquired company;
+- litigation or other claims or liabilities arising in connection with the acquisition or the acquired company; and
 # impairment charges associated with goodwill, long-lived assets, investments, and other acquired intangible assets.
 
 We may not receive a favorable return on investment for prior or future business combinations, including with respect to ATG, Careem or our minority-owned affiliates, and we cannot predict whether these transactions will be accretive to the value of our common stock. It is also possible that acquisitions, combinations, divestitures, joint ventures, or other strategic transactions we announce could be viewed negatively by the press, investors, platform users, or regulators, any or all of which may adversely affect our reputation and our business. Any of these factors may adversely affect our ability to consummate a transaction, our financial condition, and our operating results.
@@ -741,7 +694,6 @@ In certain jurisdictions, including key markets such as Argentina, Germany, Ital
 Traditional taxicab and car service operators in various jurisdictions continue to lobby legislators and regulators to block our Rides products or to require us to comply with regulatory, insurance, record-keeping, licensing, and other requirements to which taxicab and car services are subject. For example, in January 2019, we suspended our Rides products in Barcelona after the regional government enacted regulations mandating minimum wait times before riders could be picked up by ridesharing drivers. In December 2018, New York City’s Taxi and Limousine Commission implemented a per-mile and per-minute minimum trip payment formula, designed to establish a minimum pay standard, for drivers providing for-hire services in New York City, such as those provided by Drivers on our platform. These minimum rates took effect in February 2019. We are still working through adjustments to be made with respect to rider promotions, driver supply, and other aspects of our business in response to these regulations; however, these regulations had a negative impact on our financial performance in New York City in the first quarter of 2019 and may have a similar adverse impact in the future. In August 2018, the New York City Council voted to approve various measures to further regulate our business, including driver earning rules, licensing requirements, and a one-year freeze on new for-hire vehicle licenses for ridesharing services like those enabled via our platform, while the city studies whether a permanent freeze would help reduce congestion. In August 2019, New York City’s Taxi and Limousine Commission voted to extend such freeze on for-hire vehicle licenses and also voted to enact a new “cruising cap,” intended to reduce the number of for-hire vehicles operating without passengers on platforms like ours in the central business district of New York City. Although such “cruising cap” was struck down by a New York state judge in December 2019, the freeze on for-hire vehicle licenses remains. Additionally, in November 2019, a ballot measure to impose a surcharge on ridesharing trips in San Francisco was passed by voters in San Francisco and such surcharge took effect on January 1, 2020. Also in January 2020, a new tax went into effect in Chicago that imposes a surcharge of up to $3 per ridesharing trip taken in Chicago. In addition, other jurisdictions such as Seattle have in the past considered or may consider regulations which would implement minimum wage requirements or permit drivers to negotiate for minimum wages while providing services on our platform. Similar legislative or regulatory initiatives are being considered or have been enacted in countries outside the United States. If other jurisdictions impose similar regulations, our business growth could be adversely affected.
 
 In certain jurisdictions, we are subject to national, state, local, or municipal laws and regulations that are ambiguous in their application or enforcement or that we believe are invalid or inapplicable. In such jurisdictions, we may be subject to regulatory fines and proceedings and, in certain cases, may be required to cease operations altogether if we continue to operate our business as currently conducted, unless and until such laws and regulations are reformed to clarify that our business operations are fully compliant. For example, on January 31, 2020, we ceased offering our Rides products in Colombia after a Colombian court ruled that we violated local competition laws. We have appealed the decision, which does not suspend its enforceability, and although the Colombian courts have not ruled on the appeal, we have made certain changes to our Rides products in Colombia and re-launched Rides in Colombia in February 2020. Furthermore, in certain of these jurisdictions, we continue to provide our products and offerings while we assess the applicability of these laws and regulations to our products and offerings or while we seek regulatory or policy changes to address concerns with respect to our ability
-
 to comply with these laws and regulations. Our decision to continue operating in these instances has come under investigation or has otherwise been subject to scrutiny by government authorities. Our continuation of this practice and other past practices may result in fines or other penalties against us and Drivers imposed by local regulators, potentially increasing the risk that our licenses or permits that are necessary to operate in such jurisdictions will not be renewed. Such fines and penalties have in the past been, and may in the future continue to be, imposed solely on Drivers, which may cause Drivers to stop providing services on our platform. In many instances, we make the business decision as a gesture of goodwill to pay the fines on behalf of Drivers or to pay Drivers’ defense costs, which, in the aggregate, can be in the millions of dollars. Furthermore, such business practices may also result in negative press coverage, which may discourage Drivers and consumers from using our platform and could adversely affect our revenue. In addition, we face regulatory obstacles, including those lobbied for by our competitors or from local governments globally, that have favored and may continue to favor local or incumbent competitors, including obstacles for potential Drivers seeking to obtain required licenses or vehicle certifications. We have incurred, and expect that we will continue to incur, significant costs in defending our right to operate in accordance with our business model in many jurisdictions. To the extent that efforts to block or limit our operations are successful, or we or Drivers are required to comply with regulatory and other requirements applicable to taxicab and car services, our revenue and growth would be adversely affected. Our business is subject to numerous legal and regulatory risks that could have an adverse impact on our business and future prospects.
 
 Our platform is available in approximately 10,000 cities across 69 countries. We are subject to differing, and sometimes conflicting, laws and regulations in the various jurisdictions in which we provide our offerings. A large number of proposals are before various national, regional, and local legislative bodies and regulatory entities, both within the United States and in foreign jurisdictions, regarding issues related to our business model. Certain proposals, if adopted, could significantly and materially harm our business, financial condition, and operating results by restricting or limiting how we operate our business, increasing our operating costs, and decreasing our number of platform users. We cannot predict whether or when such proposals may be adopted.
@@ -750,8 +702,7 @@ Further, existing or new laws and regulations could expose us to substantial lia
 
 Additionally, effective January 31, 2020, the United Kingdom commenced an exit from the European Union (“EU”), commonly referred to as Brexit. During a transition period that is set to expire on December 31, 2020, the British government will continue to negotiate the terms of the United Kingdom's future relationship with the EU. The outcome of these negotiations is uncertain, and we do not know to what extent Brexit will ultimately impact the business and regulatory environment in the United Kingdom, the rest of the EU, or other countries. Lack of clarity about future U.K. laws and regulations as the United Kingdom determines which EU rules and regulations to replace or replicate, including financial laws and regulations (including relating to payment processing), tax and free trade agreements, intellectual property rights, supply chain logistics, environmental, health and safety laws and regulations, immigration laws, and employment laws, could decrease foreign direct investment in the United Kingdom, increase costs, depress economic activity, and restrict access to capital.
 
-In addition, we are currently involved in litigation in a number of the jurisdictions in which we operate. We initiated some of these legal challenges to contest the application of certain laws and regulations to our business. Others have been brought by taxicab owners, local regulators, local law enforcement, and platform users, including Drivers and consumers. These include individual, multiple plaintiff, and putative class and class action claims for alleged violation of laws related to, among other things, transportation, competition, advertising, consumer protection, fee calculations, personal injuries, privacy, intellectual property, product liability, discrimination, safety, and employment. For example, in May 2019, a class action was filed against us and certain of our subsidiaries in the Supreme Court of Victoria, Australia on behalf of participants in the taxi, hire-car, limousine, and charter vehicle industry who were licensed to operate in particular regions of Australia during certain periods between April 2014 and August 2017. The class action alleges that we operated unlawfully in such regions during such periods. These legislative and regulatory proceedings, allegations, and lawsuits are expensive and time-consuming to defend, and, if resolved adversely to us, could result in financial damages or penalties, including criminal penalties, incarceration, and sanctions for individuals employed by us or parties with whom we contract, which could harm our ability to operate
-
+In addition, we are currently involved in litigation in a number of the jurisdictions in which we operate. We initiated some of these legal challenges to contest the application of certain laws and regulations to our business. Others have been brought by taxicab owners, local regulators, local law enforcement, and platform users, including Drivers and consumers. These include individual, multiple plaintiff, and putative class and class action claims for alleged violation of laws related to, among other things, transportation, competition, advertising, consumer protection, fee calculations, personal injuries, privacy, intellectual property, product liability, discrimination, safety, and employment. For example, in May 2019, a class action was filed against us and certain of our subsidiaries in the Supreme Court of Victoria, Australia on behalf of participants in the taxi, hire-car, limousine, and charter vehicle industry who were licensed to operate in particular regions of Australia during certain periods between April 2014 and August 2017. The class action alleges that we operated unlawfully in such regions during such periods. These legislative and regulatory proceedings, allegations, and lawsuits are expensive and time-consuming to defend, and, if resolved adversely to us, could result in financial damages or penalties, including criminal penalties, incarceration, and sanctions for individuals employed by us or parties with whom we contract, which could harm our ability to operate.
 # our business as planned in one or more of the jurisdictions in which we operate, which could adversely affect our business, revenue, and operating results.
 
 We face legal risks specific to our new dockless e-bike and e-scooter products, including those that result from quality problems that may arise with our hardware products, which may result in product recalls, litigation, enforcement actions, or regulatory proceedings, and could adversely affect our business, brand, financial condition, and results of operations.
@@ -771,21 +722,25 @@ Our dockless e-bikes and e-scooters are currently subject to operating restricti
 # Compliance with Competition Laws
 
 Changes in, or failure to comply with, competition laws could adversely affect our business, financial condition, or operating results. Competition authorities closely scrutinize us under U.S. and foreign antitrust and competition laws. An increasing number of governments are enforcing competition laws and are doing so with increased scrutiny, including governments in large markets such as the EU, the United States, Brazil, and India, particularly surrounding issues of predatory pricing, price-fixing, and abuse of market power. Many of these jurisdictions also allow competitors or consumers to assert claims of anti-competitive conduct. For example, complaints have been filed in several jurisdictions, including in the United States and India, alleging that our prices are too high (surge pricing) or too low (discounts or predatory pricing), or both. In February 2020, a purported assignee of Sidecar, an early competitor in the ridesharing business, re-filed a lawsuit against us asserting claims under both federal and California law based on allegations that we engaged in anti-competitive conduct.
+# competitive conduct
 
-competitive conduct, after a federal judge dismissed Sidecar’s original lawsuit against us, which was based on similar allegations. If one jurisdiction imposes or proposes to impose new requirements or restrictions on our business, other jurisdictions may follow. Further, any new requirements or restrictions, or proposed requirements or restrictions, could result in adverse publicity or fines, whether or not valid or subject to appeal.
+after a federal judge dismissed Sidecar’s original lawsuit against us, which was based on similar allegations. If one jurisdiction imposes or proposes to impose new requirements or restrictions on our business, other jurisdictions may follow. Further, any new requirements or restrictions, or proposed requirements or restrictions, could result in adverse publicity or fines, whether or not valid or subject to appeal.
 
-In addition, governmental agencies and regulators may, among other things, prohibit future acquisitions, divestitures, or combinations we plan to make, impose significant fines or penalties, require divestiture of certain of our assets, or impose other restrictions that limit or require us to modify our operations, including limitations on our contractual relationships with platform users or restrictions on our pricing models. For example, while our acquisition of Careem has been approved in Egypt, Jordan, KSA, UAE and Pakistan, it continues to be subject to approval in Morocco and Qatar and a failure to obtain approval in one or more of these remaining markets could require us to divest our or Careem’s business in those markets. We cannot guarantee that we will be able to obtain competition authority approval in any or all of these markets. Such rulings may alter the way in which we do business and, therefore, may continue to increase our costs or liabilities or reduce demand for our platform, which could adversely affect our business, financial condition, or operating results.
+# governmental regulation and oversight
 
-Our business is subject to extensive government regulation and oversight relating to the provision of payment and financial services.
+governmental agencies and regulators may, among other things, prohibit future acquisitions, divestitures, or combinations we plan to make, impose significant fines or penalties, require divestiture of certain of our assets, or impose other restrictions that limit or require us to modify our operations, including limitations on our contractual relationships with platform users or restrictions on our pricing models. For example, while our acquisition of Careem has been approved in Egypt, Jordan, KSA, UAE and Pakistan, it continues to be subject to approval in Morocco and Qatar and a failure to obtain approval in one or more of these remaining markets could require us to divest our or Careem’s business in those markets. We cannot guarantee that we will be able to obtain competition authority approval in any or all of these markets. Such rulings may alter the way in which we do business and, therefore, may continue to increase our costs or liabilities or reduce demand for our platform, which could adversely affect our business, financial condition, or operating results.
+
+# government regulation of payment and financial services
 
 Most jurisdictions in which we operate have laws that govern payment and financial services activities. Regulators in certain jurisdictions may determine that certain aspects of our business are subject to these laws and could require us to obtain licenses to continue to operate in such jurisdictions. Our subsidiary in the Netherlands, Uber Payments B.V., is registered and authorized by its competent authority, De Nederlandsche Bank, as an electronic money institution. This authorization permits Uber Payments B.V. to provide payment services (including acquiring and executing payment transactions and money remittances, as referred to in the Revised Payment Services Directive (2015/2366/EU)) and to issue electronic money in the Netherlands. In addition, Uber Payments B.V. has notified De Nederlandsche Bank that it will provide such services on a cross-border passport basis into other countries within the EEA. We continue to critically evaluate our options for seeking additional licenses and approvals in several other jurisdictions to optimize our payment solutions and support the future growth of our business. We could be denied such licenses, have existing licenses revoked, or be required to make significant changes to our business operations before being granted such licenses. For example, it is prohibited for persons to hold, acquire, or increase a “qualifying holding” in an electronic money institution with a corporate seat in the Netherlands, such as Uber Payments B.V., prior to receiving a declaration of no objection (“DNO”) from De Nederlandsche Bank. A “qualifying holding” is a direct or indirect holding of 10% or more of the issued share capital of an electronic money institution, the ability to exercise directly or indirectly 10% or more of the voting rights in an electronic money institution, or the ability to exercise directly or indirectly a similar influence over an electronic money institution. We cannot guarantee that a person intending to hold, acquire, or increase a qualifying holding in us will receive a DNO in the future, and a failure of such person to receive a DNO could expose that person to financial regulatory enforcement action in the Netherlands and could cause our electronic money institution license to be negatively impacted or revoked. If we are denied payment or other financial licenses or such licenses are revoked, we could be forced to cease or limit business operations in certain jurisdictions, including in the EEA, and even if we are able to obtain such licenses, we could be subject to fines or other enforcement action, or stripped of such licenses, if we are found to violate the requirements of such licenses. In some countries, it is not clear whether we are required to be licensed as a payment services provider. Were local regulators to determine that such arrangements require us to be so licensed, such regulators may block payments to Drivers, restaurants, shippers or carriers. Such regulatory actions, or the need to obtain regulatory approvals, could impose significant costs and involve substantial delay in payments we make in certain local markets, any of which could adversely affect our business, financial condition, or operating results.
 
+# Strong Customer Authentication (SCA) regulatory requirements
+
 Effective September 2019, payments made by platform users with payment accounts in the EEA for services provided through our platform are subject to Strong Customer Authentication (“SCA”) regulatory requirements. In many cases, SCA will require a platform user to engage in additional steps to authenticate each payment transaction. These additional authentication requirements may make our platform user experience in the EEA substantially less convenient, and such loss of convenience could meaningfully reduce the frequency with which platform users use our platform or could cause some platform users to stop using our platform entirely, which could adversely affect our business, financial condition, operating results, and prospects. Further, once SCA is implemented, many payment transactions on our platform may fail to be authenticated due to platform users not completing all necessary authentication steps. Thus, in some cases, we may not receive payment from consumers in advance of paying Drivers for services received by those users. A substantial increase in the frequency with which we make Driver payments without having received corresponding payments from consumers could adversely affect our business, financial condition, operating results, and prospects.
 
-In addition, laws related to money transmission and online payments are evolving, and changes in such laws could affect our ability to provide payment processing on our platform in the same form and on the same terms as we have historically, or at all. For example, changes to our business in Europe, combined with changes to the EU Payment Services Directive, caused aspects of our payment operations in the EEA to fall within the scope of European payments regulation. As a result, one of our subsidiaries, Uber Payments B.V., is directly subject to financial services regulations (including those relating to anti-money laundering, terrorist financing, and sanctioned or prohibited persons) in the Netherlands and in other countries in the EEA where it conducts business. Our payment operations in the EEA are in the process of transitioning to the Uber Payments B.V. regulated entity in order to comply with the European payments regulations.
+# evolving laws related to money transmission and online payments
 
-In addition, as we evolve our business or make changes to our business structure, we may be subject to additional laws or requirements related to money transmission, online payments, and financial regulation. These laws govern, among other things, money transmission, prepaid access instruments, electronic funds transfers, anti-money laundering, counter-terrorist financing, banking, systemic integrity
-
+laws related to money transmission and online payments are evolving, and changes in such laws could affect our ability to provide payment processing on our platform in the same form and on the same terms as we have historically, or at all. For example, changes to our business in Europe, combined with changes to the EU Payment Services Directive, caused aspects of our payment operations in the EEA to fall within the scope of European payments regulation. As a result, one of our subsidiaries, Uber Payments B.V., is directly subject to financial services regulations (including those relating to anti-money laundering, terrorist financing, and sanctioned or prohibited persons) in the Netherlands and in other countries in the EEA where it conducts business. Our payment operations in the EEA are in the process of transitioning to the Uber Payments B.V. regulated entity in order to comply with the European payments regulations. In addition, as we evolve our business or make changes to our business structure, we may be subject to additional laws or requirements related to money transmission, online payments, and financial regulation. These laws govern, among other things, money transmission, prepaid access instruments, electronic funds transfers, anti-money laundering, counter-terrorist financing, banking, systemic integrity.
 # risk assessments, security of payment processes, and import and export restrictions. Our business operations, including our payments to Drivers and restaurants, may not always comply with these financial laws and regulations. Historical or future non-compliance with these laws or regulations could result in significant criminal and civil lawsuits, penalties, forfeiture of significant assets, or other enforcement actions. Costs associated with fines and enforcement actions, as well as reputational harm, changes in compliance requirements, or limits on our ability to expand our product offerings, could harm our business.
 
 Further, our payment system is susceptible to illegal and improper uses, including money laundering, terrorist financing, fraudulent sales of goods or services, and payments to sanctioned parties. We have invested and will need to continue to invest substantial resources to comply with applicable anti-money laundering and sanctions laws, and in the EEA to conduct appropriate risk assessments and implement appropriate controls as a regulated financial service provider. Government authorities may seek to bring legal action against us if our payment system is used for improper or illegal purposes or if our enterprise risk management or controls in the EEA are not adequately assessed, updated, or implemented, and any such action could result in financial or reputational harm to our business.
@@ -805,7 +760,6 @@ The nature of our business exposes us to claims, including civil lawsuits in the
 | | | |
 |---|---|---|
 | | | |
-
 enforcement agencies. In January 2016, we entered into a settlement with the Office of the New York State Attorney General under which we agreed to enhance our data security practices. In September 2018, we entered into stipulated judgments with the state attorneys general of all 50 U.S. states and the District of Columbia relating to the 2016 Breach, which involved payment of $148 million and assurances that we would enhance our data security and privacy practices. Failure to comply with these and other orders could result in substantial fines, enforcement actions, injunctive relief, and other penalties that may be costly or that may impact our business. We may also assume liabilities for breaches experienced by the companies we acquire as we expand our operations. For example, in April 2018, Careem publicly disclosed and notified relevant regulatory authorities that it had been subject to a data security breach that allowed access to certain personal information of riders and drivers on its platform as of January 14, 2018. If Careem becomes subject to liability as a result of this or other data security breaches or if we fail to remediate this or any other data security breach that Careem or we experience, we may face harm to our brand, business disruption, and significant liabilities. Our general liability insurance and corporate risk program may not cover all potential claims to which we are exposed and may not be adequate to indemnify us for the full extent of our potential liabilities.
 
 This risk is enhanced in certain jurisdictions with stringent data privacy laws and, as we expand our products, offerings, and operations domestically and internationally, we may become subject to amended or additional laws that impose substantial additional obligations related to data privacy. The EU adopted the GDPR in 2016, and it became effective in May 2018. The GDPR applies extraterritorially and imposes stringent requirements for controllers and processors of personal data. Such requirements include higher consent standards to process personal data, robust disclosures regarding the use of personal data, strengthened individual data rights, data breach requirements, limitations on data retention, strengthened requirements for special categories of personal data and pseudonymised (i.e., key-coded) data, and additional obligations for contracting with service providers that may process personal data. The GDPR further provides that EU member states may institute additional laws and regulations impacting the processing of personal data, including (i) special categories of personal data (e.g., racial or ethnic origin, political opinions, and religious or philosophical beliefs) and (ii) profiling of individuals and automated individual decision-making. Such additional laws and regulations could limit our ability to use and share personal or other data, thereby increasing our costs and harming our business and financial condition. Non-compliance with the GDPR (including any non-compliance by any acquired business) is subject to significant penalties, including fines of up to the greater of €20 million or 4% of total worldwide revenue, and injunctions against the processing of personal data. Other jurisdictions outside the EU are similarly introducing or enhancing privacy and data security laws, rules, and regulations, which will increase our compliance costs and the risks associated with non-compliance. For example, the CCPA, which provides new data privacy rights for consumers and new operational requirements for businesses, went into effect in January 2020. The CCPA includes a statutory damages framework and private rights of action against businesses that fail to comply with certain CCPA terms or implement reasonable security procedures and practices to prevent data breaches. Brazil provides another example, having passed the General Data Protection Law (Lei Geral de Proteção de Dados Pessaoais, or LGPD) in 2018, which is expected to go into effect in August 2020.
@@ -814,30 +768,28 @@ Additionally, we are subject to laws, rules, and regulations regarding cross-bor
 
 Such data protection laws, rules, and regulations are complex and their interpretation is rapidly evolving, making implementation and enforcement, and thus compliance requirements, ambiguous, uncertain, and potentially inconsistent. Compliance with such laws may require changes to our data collection, use, transfer, disclosure, and other processing and certain other related business practices and may thereby increase compliance costs. Additionally, any failure or perceived failure by us to comply with privacy and data protection policies, notices, laws, rules, and regulations could result in proceedings or actions against us by individuals, consumer rights groups, governmental entities or agencies, or others. We could incur significant costs investigating and defending such claims and, if found liable, significant damages. Further, these proceedings and any subsequent adverse outcomes may subject us to significant penalties and negative publicity. If any of these events were to occur, our business and financial results could be significantly disrupted and adversely affected.
 
-| | |
-|---|---|
-|36| |
+| | | |
+|---|---|---|
+| | |36|
+# Adverse Litigation Judgments and Settlements
 
-# Adverse Litigation and Legal Proceedings
-
-Adverse litigation judgments or settlements resulting from legal proceedings could expose the company to monetary damages or limit its ability to operate the business. The company has been involved in various legal proceedings in the past and may continue to face actions by different parties such as drivers, consumers, restaurants, shippers, carriers, employees, and government agencies. Legal matters include issues related to driver classification, tips and taxes, Americans with Disabilities Act, antitrust, intellectual property infringement, data privacy, workplace culture, safety practices, and employment practices. The outcomes of such legal proceedings are uncertain and costly, and any claims, regardless of merit, could be damaging to the company's reputation and require significant management attention and resources. Adverse determinations or settlements could result in monetary damages or operational changes that may impact the business negatively.
+Adverse litigation judgments or settlements resulting from legal proceedings could expose the company to monetary damages or limit its ability to operate the business. The company has been involved in various legal proceedings in the past and may face such situations in the future. Legal matters include Driver classification, tips and taxes, Americans with Disabilities Act, antitrust, intellectual property infringement, data privacy, unfair competition, workplace culture, safety practices, and employment practices. The outcomes of these legal proceedings are unpredictable and costly, potentially impacting the company's reputation, financial condition, and operating results.
 
 # Arbitration Provisions
 
-The company includes arbitration provisions in its terms of service with end-users to streamline the litigation process, although arbitration may become more costly or burdensome over time. Public scrutiny of arbitration provisions may lead to reputational risks, prompting potential limitations on their use. Conflicting rules at the state and federal levels could challenge the enforceability of arbitration agreements, potentially increasing litigation costs and time to resolve disputes. Non-enforceability of arbitration agreements could expose the company to costly lawsuits and operational disruptions.
+The company includes arbitration provisions in its terms of service with end-users to streamline the litigation process. While arbitration can be faster and less costly than litigating in court, it may still pose risks to the company's reputation and brand. Changes in arbitration laws or challenges to the enforceability of arbitration agreements could increase litigation costs and exposure, affecting the company's financial condition and prospects.
 
-# Anti-Corruption Compliance
+# Compliance with Anti-Corruption Laws
 
-The company operates in countries with high corruption levels and is under scrutiny for compliance with anti-corruption laws. Operations in such countries increase the risk of unauthorized payments by various parties, including drivers, consumers, and business partners, violating anti-corruption laws like the FCPA. The acquisition of Careem further heightens this risk, necessitating training and compliance programs to prevent violations. Additional compliance requirements may lead to program revisions and increased monitoring of transactions to mitigate corruption risks.
+The company operates in countries with high levels of corruption and is subject to inquiries regarding compliance with anti-corruption laws. Activities in such countries increase the risk of unauthorized payments by various parties, potentially violating anti-corruption laws. The acquisition of Careem may further enhance this risk, requiring the company to provide training and implement compliance programs to prevent such practices.
 
 # DOJ Investigation
 
-The company received inquiries from the DOJ regarding small payments to police in Indonesia and potential improper payments in other countries. The Fraud Section of the DOJ closed its inquiry in December 2019 without pursuing enforcement action against the company.
+The company received requests from the Department of Justice (DOJ) regarding investigations into small payments to police in Indonesia and other potential improper payments in countries where the company operates. In December 2019, the DOJ closed its inquiry without pursuing enforcement action against the company.
 
 # Licensing Requirements for Drivers
 
-Drivers may face increased licensing requirements, prompting the company to obtain additional licenses or restrict the number of drivers on its platform. Some jurisdictions have enforced licensing rules, while others have proposed new regulations requiring driver licensing or company licensing. These regulations could impact the company's ability to expand its operations. Caps on licensed drivers or vehicles and limitations on driver working hours could affect business growth prospects.
-
+Drivers may face increased licensing requirements in various jurisdictions, potentially impacting the company's operations. Some regions have enforced existing licensing rules, while others have introduced new laws requiring Drivers to be licensed with local authorities. Caps on the number of licensed Drivers or vehicles could affect the company's ability to scale its business and operations.
 # We may be subject to liability for the means we use to attract and onboard Drivers.
 
 We operate in an industry in which the competition for Drivers is intense. In this highly competitive environment, the means we use to onboard and attract Drivers may be challenged by competitors, government regulators, or individual plaintiffs. For example, putative class actions have been filed by individual plaintiffs against us for alleged violation of the Telephone Consumer Protection Act of 1991, alleging, among other things, that plaintiffs received text messages from us regarding our Driver program without their consent or after indicating to us they no longer wished to receive such text messages. In addition, in early 2017, we settled an investigation by the FTC into statements we made regarding potential Driver earnings and third-party vehicle leasing and financing programs. In connection with this matter, we agreed, among other things, to pay $20 million to the FTC for Driver redress. These lawsuits are expensive and time consuming to defend, and, if resolved adversely to us, could result in material financial damages and penalties, costly adjustments to our business practices, and negative publicity. In addition, we could incur substantial expense and possible loss of revenue if competitors file additional lawsuits or other claims challenging these practices.
@@ -846,18 +798,25 @@ We operate in an industry in which the competition for Drivers is intense. In th
 
 If insurance carriers change the terms of such insurance in a manner not favorable to Drivers or to us, if we are required to purchase additional insurance for other aspects of our business, or if we fail to comply with regulations governing insurance coverage, our business could be harmed.
 
+# Insurance Coverage
+
 We use a combination of third-party insurance and self-insurance mechanisms, including a wholly owned captive insurance subsidiary. Insurance related to our Rides products may include third-party automobile, automobile comprehensive and collision, physical damage, and uninsured and underinsured motorist coverage. We require Drivers to carry automobile insurance in most countries, and in many cases we also maintain insurance on behalf of Drivers. We rely on a limited number of ridesharing insurance providers, particularly internationally, and should such providers discontinue or increase the cost of coverage, we cannot guarantee that we would be able to secure replacement coverage on reasonable terms or at all. For example, one of our insurance providers recently announced early termination of coverage and was replaced with other insurance providers. In addition to insurance related to our Rides products, we maintain other automobile insurance coverage for owned vehicles and employee activity, as well as insurance coverage for non-automotive corporate risks including general liability, workers’ compensation, property, cyber liability, and director and officers’ liability. If our insurance carriers change the terms of our policies in a manner unfavorable to us or Drivers, our insurance costs could increase. The cost of insurance that we maintain on behalf of Drivers is higher in the United States and Canada than in other geographies. Further, if the insurance coverage we maintain is not adequate to cover losses that occur, we could be liable for significant additional costs.
 
-In addition, we and our captive insurance subsidiary are party to certain reinsurance and indemnification arrangements that transfer a significant portion of the risk from the insurance provider to us or our captive insurance subsidiary, which could require us to pay out material amounts that may be in excess of our insurance reserves, resulting in harm to our financial condition. Our insurance reserves account for unpaid losses and loss adjustment expenses for risks retained by us through our captive insurance subsidiary and other risk retention mechanisms. Such amounts are based on actuarial estimates, historical claim information, and industry data. While management believes that these reserve amounts are adequate, the ultimate liability could be in excess of our reserves.
+# Risk Transfer and Reserves
+
+We and our captive insurance subsidiary are party to certain reinsurance and indemnification arrangements that transfer a significant portion of the risk from the insurance provider to us or our captive insurance subsidiary, which could require us to pay out material amounts that may be in excess of our insurance reserves, resulting in harm to our financial condition. Our insurance reserves account for unpaid losses and loss adjustment expenses for risks retained by us through our captive insurance subsidiary and other risk retention mechanisms. Such amounts are based on actuarial estimates, historical claim information, and industry data. While management believes that these reserve amounts are adequate, the ultimate liability could be in excess of our reserves.
+
+# Potential Liability
 
 We may be subject to claims of significant liability based on traffic accidents, injuries, or other incidents that are claimed to have been caused by Drivers who use our platform, even when those Drivers are not actively using our platform or when an individual impersonates a Driver. As we expand to include more offerings on our platform, our insurance needs will likely extend to those additional offerings, including Freight, autonomous vehicles, and dockless e-bikes and e-scooters. As a result, our automobile liability and general liability insurance policies may not cover all potential claims related to traffic accidents, injuries, or other incidents that are claimed to have been caused by Drivers who use our platform, and may not be adequate to indemnify us for all liability that we could face. Even if these claims do not result in liability, we could incur significant costs in investigating and defending against them. If we are subject to claims of liability relating to the acts of Drivers or others using our platform, we may be subject to negative publicity and incur additional expenses, which could harm our business, financial condition, and operating results.
 
-In addition, we are subject to local laws, rules, and regulations relating to insurance coverage which could result in proceedings or actions against us by governmental entities or others. Legislation has been passed in many U.S. jurisdictions that codifies these insurance requirements with respect to ridesharing. Additional legislation has been proposed in other jurisdictions that seeks to codify or change insurance requirements with respect to ridesharing. Further, various municipalities have imposed or are considering legislation mandating certain levels of insurance for dockless e-bikes and e-scooters, and service providers and business customers of Freight and Uber for Business may require higher levels of coverage as a condition to entering into certain key contracts with us. Any failure, or perceived failure, by us to comply with local laws, rules, and regulations or contractual obligations relating to insurance coverage could result in proceedings or actions against us by governmental entities or others. These lawsuits, proceedings, or actions may subject us to significant penalties and negative publicity, require us to increase our insurance coverage, require us to amend our insurance policy disclosure, increase our costs, and disrupt our business.
+# Regulations and Compliance
+
+We are subject to local laws, rules, and regulations relating to insurance coverage which could result in proceedings or actions against us by governmental entities or others. Legislation has been passed in many U.S. jurisdictions that codifies these insurance requirements with respect to ridesharing. Additional legislation has been proposed in other jurisdictions that seeks to codify or change insurance requirements with respect to ridesharing. Various municipalities have imposed or are considering legislation mandating certain levels of insurance for dockless e-bikes and e-scooters, and service providers and business customers of Freight and Uber for Business may require higher levels of coverage as a condition to entering into certain key contracts with us. Any failure, or perceived failure, by us to comply with local laws, rules, and regulations or contractual obligations relating to insurance coverage could result in proceedings or actions against us by governmental entities or others. These lawsuits, proceedings, or actions may subject us to significant penalties and negative publicity, require us to increase our insurance coverage, require us to amend our insurance policy disclosure, increase our costs, and disrupt our business.
 
 # We may be subject to pricing regulations, as well as related litigation or regulatory inquiries.
 
 Our revenue is dependent on the pricing models we use to calculate consumer fares and Driver earnings. Our pricing models, including
-
 dynamic pricing, have been, and will likely continue to be, challenged, banned, limited in emergencies, and capped in certain jurisdictions. For example, in 2016, following the filing of a petition in the Delhi High Court relating to surge pricing, we agreed to not calculate consumer fares in excess of the maximum government-mandated fares in New Delhi, India. This practice has now been adopted in all major Indian cities where legal proceedings have limited the use of surge pricing. Further, in 2018, Honolulu, Hawaii became the first U.S. city to pass legislation to cap surge pricing if increased rates exceed the maximum fare set by the city. Additional regulation of our pricing models could increase our operating costs and adversely affect our business. Furthermore, our pricing model has been the subject of litigation and regulatory inquiries related to, among other things, the calculation of and statements regarding consumer fares and Driver earnings (including rates, fees, surcharges, and tolls), as well as the use of surge pricing during emergencies and natural disasters. As a result, we may be forced to change our pricing models in certain jurisdictions, which could harm our revenue or result in a sub-optimal tax structure.
 
 If we are unable to protect our intellectual property, or if third parties are successful in claiming that we are misappropriating the intellectual property of others, we may incur significant expense and our business may be adversely affected.
@@ -871,7 +830,6 @@ Companies in the Internet and technology industries, and other patent and tradem
 Furthermore, from time to time we may introduce or acquire new products, including in areas in which we historically have not operated, which could increase our exposure to patent and other intellectual property claims. In addition, we have been sued, and we may in the future be sued, for allegations of intellectual property infringement or threats of trade secret misappropriation. For example, in February 2017, Waymo filed a lawsuit against us alleging, among other things, theft of trade secrets and patent infringement arising from our acquisition of Ottomotto LLC. In February 2018, we entered into a settlement agreement with Waymo. This agreement resolved Waymo’s claims and provided for certain measures, including the joint retention of an independent software expert, to ensure that our autonomous vehicle hardware and software do not misappropriate Waymo intellectual property. In response to certain adverse findings by the independent software expert, we have made design changes to our autonomous vehicle software, which have been reviewed and approved by the independent software expert as embodying no misappropriation of Waymo trade secrets. This review and approval resolves the independent software review process set out in the settlement agreement with Waymo. In addition, in August 2019, a federal grand jury indicted Anthony Levandowski, a co-founder of Ottomotto LLC and a former employee of ours, on charges of theft of trade secrets from Waymo.
 
 Any intellectual property claim against us, regardless of merit, could be time-consuming and expensive to settle or litigate, could divert our management’s attention and other resources, and could hurt goodwill associated with our brand. These claims may also subject us to significant liability for damages and may result in us having to stop using technology, content, branding, or business methods found to be in violation of another party’s rights. Further, certain adverse outcomes of such proceedings could adversely affect our ability to compete effectively in existing or future businesses.
-
 # Risks Related to Intellectual Property
 
 We may be required or may opt to seek a license for the right to use intellectual property held by others, which may not be available on commercially reasonable terms, or at all. Even if a license is available, we may be required to pay significant royalties, which may increase our operating expenses. We may also be required to develop alternative non-infringing technology, content, branding, or business methods, which could require significant effort and expense and make us less competitive. If we cannot license or develop alternative technology, content, branding, or business methods for any allegedly infringing aspect of our business, we may be unable to compete effectively or we may be prevented from operating our business in certain jurisdictions. Any of these results could harm our operating results.
@@ -882,9 +840,7 @@ If we are deemed an investment company under the Investment Company Act, applica
 
 # Risks Related to Ownership of Our Common Stock
 
-The market price of our common stock has been, and may continue to be, volatile or may decline steeply or suddenly regardless of our operating performance, and we may not be able to meet investor or analyst expectations. You may not be able to resell your shares at or above the price you paid and may lose all or part of your investment.
-
-If you purchase shares of our common stock, you may not be able to resell those shares at or above the price you paid. The market price of our common stock may fluctuate or decline significantly in response to numerous factors, many of which are beyond our control, including:
+The market price of our common stock has been, and may continue to be, volatile or may decline steeply or suddenly regardless of our operating performance, and we may not be able to meet investor or analyst expectations. You may not be able to resell your shares at or above the price you paid and may lose all or part of your investment. If you purchase shares of our common stock, you may not be able to resell those shares at or above the price you paid. The market price of our common stock may fluctuate or decline significantly in response to numerous factors, many of which are beyond our control, including:
 
 - actual or anticipated fluctuations in MAPCs, Trips, Adjusted EBITDA, Adjusted Net Revenue, Gross Bookings, revenue, or other operating and financial results;
 - announcements by us or estimates by third parties of actual or anticipated changes in the number of Drivers and consumers on our platform;
@@ -896,7 +852,6 @@ If you purchase shares of our common stock, you may not be able to resell those 
 - price and volume fluctuations in the overall stock market, including as a result of trends in the economy as a whole;
 - lawsuits threatened, filed, or decided against us;
 - developments in legislation or regulatory actions, including interim or final rulings by judicial or regulatory bodies.
-
 any competition authorities blocking, delaying, or subjecting our acquisition of Careem to significant limitations or restrictions on our ability to operate in one or more markets, or requiring us to divest our or Careem’s business in one or more markets);
 
 changes in accounting standards, policies, guidelines, interpretations, or principles;
@@ -926,7 +881,6 @@ Any provision of our amended and restated certificate of incorporation, amended 
 Sales, directly or indirectly, of shares of our common stock by existing equityholders could cause our stock price to decline.
 
 Sales, directly or indirectly, of a substantial number of shares of our common stock, or the public perception that these sales might occur, could depress the market price of our common stock and could impair our ability to raise capital through the sale of additional equity securities.
-
 # Concentration of Ownership
 
 Concentration of ownership of our common stock among our existing executive officers, directors, and principal stockholders may prevent new investors from influencing significant corporate decisions, including mergers, consolidations, or the sale of us or all or substantially all of our assets.
@@ -945,13 +899,13 @@ If securities or industry analysts either do not publish research about us, or p
 
 The trading market for our common stock will be influenced in part by the research and reports that securities or industry analysts may publish about us, our business, our market, or our competitors. If one or more of the analysts initiate research with an unfavorable rating or downgrade our common stock, provide more favorable recommendations about our competitors, or publish inaccurate or unfavorable research about our business, our common stock price would likely decline. If any analyst who may cover us were to cease coverage of us or fail to regularly publish reports on us, we could lose visibility in the financial markets, which in turn could cause the trading price or trading volume of our common stock to decline.
 
-# Dividends Policy
+# Dividends
 
 We do not intend to pay cash dividends for the foreseeable future.
 
 We have never declared or paid cash dividends on our capital stock. We currently intend to retain any future earnings to finance the operation and expansion of our business, and we do not expect to declare or pay any cash dividends in the foreseeable future. In addition, certain of our existing debt instruments include restrictions on our ability to pay cash dividends. As a result, you may only receive a return on your investment in our common stock if the market price of our common stock increases.
 
-# Challenges of Being a Public Company
+# Public Company Obligations
 
 The requirements of being a public company may strain our resources, result in more litigation, and divert management’s attention from operating our business.
 
@@ -964,7 +918,6 @@ By disclosing information in this Annual Report on Form 10-K and in filings requ
 As a result of being a public company, we are obligated to develop and maintain proper and effective internal controls over financial reporting, and any failure to maintain the adequacy of these internal controls may adversely affect investor confidence in our company and, as a result, the value of our common stock.
 
 We are required, pursuant to Section 404 of the Sarbanes-Oxley Act (“Section 404”), to furnish a report by management on, among other things, the effectiveness of our internal control over financial reporting as of December 31, 2020. This assessment will need to include disclosure of any material weaknesses identified by our management in our internal control over financial reporting. In addition, our independent registered public accounting firm will be required to attest to the effectiveness of our internal control over financial reporting as of December 31, 2020. We currently are required to disclose changes in internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting on a quarterly basis.
-
 We have commenced the costly and challenging process of compiling the system and processing documentation necessary to perform the evaluation needed to comply with Section 404, and we may not be able to complete our evaluation, testing, and any required remediation in a timely fashion. Our compliance with Section 404 will require that we incur substantial accounting expense and expend significant management efforts. In addition, as our business continues to grow in size and complexity, we are improving our processes and infrastructure to help ensure we can prepare financial reporting and disclosures within the timeline required for a public company. We may need to hire additional accounting and financial staff with appropriate public company experience and technical accounting knowledge to compile the system and process documentation necessary to perform the evaluation needed to comply with Section 404. In addition, prior to completing our internal control assessment under Section 404, we may become aware of and disclose material weaknesses that will require timely remediation. Due to our significant growth, especially with respect to high-growth offerings like Eats, Freight, and NewMobility, we face challenges in consistent performance of controls in response to evolving risks of misstatement. In addition, due to our continuous development of new products and technology solutions, we face challenges in timely and appropriately designing or executing controls. Our financial reporting infrastructure, including our information technology general computer systems and controls, is also evolving in support of our growing business activities and continued enhancement and automation of our internal control over financial reporting, which results in challenges in the design and consistent execution of such controls. During the evaluation and testing process of our internal controls, if we identify one or more material weaknesses in our internal control over financial reporting, we will be unable to assert that our internal control over financial reporting is effective.
 
 We cannot assure you that there will not be material weaknesses in our internal control over financial reporting in the future. Any failure to maintain internal control over financial reporting could severely inhibit our ability to accurately report our financial condition or operating results. If we are unable to conclude that our internal control over financial reporting is effective, or if we or our independent registered public accounting firm determines we have a material weakness in our internal control over financial reporting, we could lose investor confidence in the accuracy and completeness of our financial reports, the market price of our common stock could decline, and we could be subject to sanctions or investigations by the stock exchange on which our securities are listed, the SEC or other regulatory authorities. Failure to remedy any material weakness in our internal control over financial reporting, or to implement or maintain these and other effective control systems required of public companies, could also restrict our future access to the capital markets.
@@ -979,7 +932,6 @@ This provision would not apply to suits brought to enforce a duty or liability c
 Our amended and restated certificate of incorporation will provide that the federal district courts of the United States of America will be the exclusive forum for resolving any complaint asserting a cause of action arising under the Securities Act of 1933, as amended (the “Securities Act”), subject to and contingent upon a final adjudication in the State of Delaware of the enforceability of such exclusive forum provision.
 
 These exclusive-forum provisions may limit a stockholder’s ability to bring a claim in a judicial forum that it finds favorable for disputes with us or our directors, officers, or other employees, which may discourage lawsuits against us and our directors, officers, and other employees. If any other court of competent jurisdiction were to find either exclusive-forum provision in our amended and restated certificate of incorporation to be inapplicable or unenforceable, we may incur additional costs associated with resolving the dispute in other jurisdictions, which could seriously harm our business. For example, the Court of Chancery of the State of Delaware recently determined that a provision stating that U.S. federal district courts are the exclusive forum for resolving any complaint asserting a cause of action arising under the Securities Act is not enforceable. However, this decision may be reviewed and ultimately overturned by the Delaware Supreme Court.
-
 # ITEM 1B. UNRESOLVED STAFF COMMENTS
 
 Not applicable.
@@ -1016,9 +968,6 @@ In May 2019, an Australian law firm filed a class action in the Supreme Court of
 Other Legal Proceedings
 
 While it is not possible to determine the outcome of the legal actions, investigations, and proceedings brought against us, we believe that, except for the matters described above, the resolution of all such matters will not have a material adverse effect on our consolidated financial position or liquidity, but could be material to our consolidated results of operations in any one accounting period. We are currently involved in, and may in the future be involved in, legal proceedings, litigation, claims, and government investigations in the ordinary course of business. In addition, the nature of our business exposes us to claims related to the classification of Drivers and the compliance of our business with applicable law. This risk is enhanced in certain jurisdictions outside the United States where we may be less protected under local laws than we are in the United States. Although the results of the legal proceedings, claims, and government investigations in which we are involved cannot be predicted with certainty, we do not believe that the final outcome of these matters is reasonably likely to have a material adverse effect on our business, financial condition, or operating results. Regardless of final outcomes, however, any such legal proceedings, claims, and government investigations may nonetheless impose a significant burden on management and employees and may come with costly defense costs or unfavorable preliminary and interim rulings.
-
-44
-
 # ITEM 4. MINE SAFETY DISCLOSURES
 
 Not applicable.
@@ -1051,16 +1000,14 @@ The foregoing transaction(s) did not involve any underwriters, any underwriting 
 
 Use of Proceeds
 
-|On May 14, 2019|We closed our initial public offering (“IPO”), in which we sold 180 million shares of our common stock at a price of $45.00 per share. The offer and sale of the shares in the IPO were registered under the Securities Act pursuant to an effective registration statement on Form S-1 (File No. 333-230812).|
-|---|---|
-|We raised approximately $8.0 billion in net proceeds after deducting underwriting discounts and commissions of $106 million and offering expenses.| |
-|We have used a portion of the net proceeds, and intend to use the remainder of the net proceeds, from our IPO for general corporate purposes, including working capital, operating expenses and capital expenditures. Additionally, we may use a portion of the net proceeds we received from our IPO to acquire businesses, products, services, or technologies.| |
-|The representatives of the underwriters of our IPO were Morgan Stanley & Co. LLC and Goldman Sachs & Co. LLC. No payments were made by us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates, other than payments in the ordinary course of business to officers for salaries and to non-employee directors pursuant to our director compensation policy.| |
+On May 14, 2019
+We closed our initial public offering (“IPO”), in which we sold 180 million shares of our common stock at a price of $45.00 per share. The offer and sale of the shares in the IPO were registered under the Securities Act pursuant to an effective registration statement on Form S-1 (File No. 333-230812).
+
+We raised approximately $8.0 billion in net proceeds after deducting underwriting discounts and commissions of $106 million and offering expenses. We have used a portion of the net proceeds, and intend to use the remainder of the net proceeds, from our IPO for general corporate purposes, including working capital, operating expenses and capital expenditures. Additionally, we may use a portion of the net proceeds we received from our IPO to acquire businesses, products, services, or technologies. The representatives of the underwriters of our IPO were Morgan Stanley & Co. LLC and Goldman Sachs & Co. LLC. No payments were made by us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates, other than payments in the ordinary course of business to officers for salaries and to non-employee directors pursuant to our director compensation policy.
 
 Performance Graph
 
 This performance graph shall not be deemed “soliciting material” or to be “filed” with the SEC for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities under that Section, and shall not be deemed to be incorporated by reference into any filing of Uber Technologies, Inc. under the Securities Act, or the Exchange Act.
-
 # The following graph compares the cumulative total return to stockholders on our common stock relative to the cumulative total returns of the Standard & Poor’s 500 Index, (“S&P 500”), and the S&P 500 Information Technology Sector Index (“S&P 500 IT”). An investment of $100 (with reinvestment of all dividends) is assumed to have been made in our common stock and in each index on May 10, 2019, the date our common stock began trading on the NYSE, and its relative performance is tracked through December 31, 2019. The returns shown are based on historical results and are not intended to suggest future performance.
 
 |SZO|7|Su|
@@ -1076,7 +1023,6 @@ This performance graph shall not be deemed “soliciting material” or to be �
 The following selected consolidated financial data should be read in conjunction with Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our consolidated financial statements and the related notes appearing in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K. The selected audited consolidated financial data in this section are not intended to replace our audited consolidated financial statements and the related notes and are qualified in their entirety by the audited consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. Our historical results are not necessarily indicative of our results in any future period.
 
 The selected consolidated statement of operations and comprehensive loss data for the year ended December 31, 2015 and the selected consolidated balance sheet data as of December 31, 2015 have been derived from our accounting records and have been prepared on the same basis as the audited consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
-
 # Year Ended December 31,
 
 | |2015(1)|2016(1)|2017|2018|2019|
@@ -1112,19 +1058,18 @@ The selected consolidated statement of operations and comprehensive loss data fo
 (4) In 2016, income (loss) from discontinued operations, net of income taxes reflects a gain on disposition of discontinued operations related to the divestiture of Uber China, partially offset by the loss from operations from Uber China.
 
 (5) For a description of our computation of basic and diluted net income (loss) per common share see Note 1 - Description of Business and Summary of Significant Accounting Policies and Note 13 - Net Income (Loss) Per Share to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
-
 # As of December 31, 2015(1) 2016(1) 2017 2018 2019(2), (3) (Unaudited) (In millions)
 
 | |2015|2016|2017|2018|2019|
 |---|---|---|---|---|---|
 |Cash and cash equivalents|$4,188|$6,241|$4,393|$6,406|$10,873|
-|Short-term investments| | | | |$440|
+|Short-term investments|-|-|-|-|440|
 |Working capital(3)|4,644|4,589|2,990|4,399|8,286|
 |Total assets|6,740|15,713|15,426|23,988|31,761|
 |Long-term debt, net of current portion|1,423|3,087|3,048|6,869|5,707|
-|Redeemable convertible preferred stock warrant liability|3|211|125|52| |
+|Redeemable convertible preferred stock warrant liability|3|211|125|52|-|
 |Total liabilities|4,078|9,198|11,773|17,196|16,578|
-|Redeemable convertible preferred stock|6,256|11,111|12,210|14,177| |
+|Redeemable convertible preferred stock|6,256|11,111|12,210|14,177|-|
 |Additional paid-in capital|120|209|320|668|30,739|
 |Accumulated deficit|(4,265)|(4,806)|(8,874)|(7,865)|(16,362)|
 |Total equity (deficit)|(4,146)|(4,596)|(8,557)|(7,385)|14,872|
@@ -1143,23 +1088,22 @@ The following discussion and analysis of our financial condition and results of 
 
 In addition to our historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. You should review the sections titled “Special Note Regarding Forward-Looking Statements” for a discussion of forward-looking statements and in Part I, Item 1A, “Risk Factors”, for a discussion of factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis and elsewhere in this Annual Report on Form 10-K.
 
-# Overview
+Overview
 
 We are a technology platform that uses a massive network, leading technology, operational excellence and product expertise to power movement from point A to point B. We develop and operate proprietary technology applications supporting a variety of offerings on our platform. We connect consumers with providers of ride services, restaurants and food delivery services, public transportation networks, e-bikes, e-scooters and other personal mobility options. We use this same network, technology, operational excellence and product expertise to connect shippers with carriers in the freight industry. We are also developing technologies that provide autonomous driving vehicle solutions to consumers, networks of vertical take-off and landing vehicles and new solutions to solve everyday problems.
-
 # Financial and Operational Highlights
 
-| |Year Ended December 31, 2017|Year Ended December 31, 2018|Year Ended December 31, 2019|% Change 2017 to 2018|% Change 2018 to 2019| | | |(Constant Currency(1))% Change|
+| |Year Ended December 31, 2018 to 2019| | | | | |2017 to 2018|2018 to 2019|(Constant Currency(1))% Change|
 |---|---|---|---|---|---|---|---|---|---|
 |(In millions, except percentages)| |2017| |2018| |2019|% Change|% Change| |
-|Monthly Active Platform Consumers (“MAPCs”)(2), (3)| |68| |91| |111|34%|22%| |
+|Monthly Active Platform Consumers (“MAPCs”)(2),| |68| |91| |111|34%|22%| |
 |Trips(2)| |3,736| |5,220| |6,904|40%|32%| |
 |Gross Bookings(2)|$34,409|$49,799|$65,001| | | |45%|31%|35%|
 |Revenue|$7,932|$11,270|$14,147| | | |42%|26%|28%|
 |Adjusted Net Revenue(1), (2)|$7,203|$10,297|$12,897| | | |43%|25%|28%|
 |Net income (loss) attributable to Uber Technologies, Inc.(4)|$(4,033)|$997|$(8,506)| | | |125%|**| |
 |Rides Adjusted EBITDA|$388|$1,541|$2,071| | | |297%|34%| |
-|Adjusted EBITDA (1), (2)|$(2,642)|$(1,847)|$(2,725)| | | |30%|(48%)| |
+|Adjusted EBITDA (1), (2)|$(2,642)|$(1,847)|$(2,725)| | | |30%|(48)%| |
 
 (1) See the section titled “Reconciliations of Non-GAAP Financial Measures” for more information and reconciliations to the most directly comparable GAAP financial measure.
 
@@ -1194,41 +1138,39 @@ In April 2019, we paid a $299 million Driver appreciation award to Drivers who m
 Initial Public Offering
 
 On May 9, 2019, our registration statement on Form S-1 (File No. 333-230812) related to our initial public offering (“IPO”) was declared effective by the SEC, and our common stock began trading on the NYSE on May 10, 2019. Our IPO closed on May 14, 2019. For additional information, see Note 1 - Description of Business and Summary of Significant Accounting Policies included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
-
-PayPal, Inc. (“PayPal”) Private Placement
+# PayPal, Inc. (“PayPal”) Private Placement
 
 On May 16, 2019, we closed a private placement by PayPal in which we issued and sold 11 million shares of our common stock at a purchase price of $45.00 per share and received aggregate proceeds of $500 million. Additionally, we and PayPal agreed to extend our global partnership, including a commitment to jointly explore certain commercial collaborations.
 
-Segment Change
+# Segment Change
 
 During the third quarter of 2019, following a number of leadership and organizational changes, the chief operating decision maker (“CODM”) changed how he assesses performance and allocates resources to a more disaggregated level in order to optimize utilization of the Company’s platform as well as manage research and development of new technologies. Based on this change, in the third quarter of 2019, we determined that we have five operating and reportable segments: Rides, Eats, Freight, Other Bets, and ATG and Other Technology Programs. For additional information, see Note 14 - Segment Information and Geographic Information included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-ATG Investment: Preferred Unit Purchase Agreement
+# ATG Investment: Preferred Unit Purchase Agreement
 
 In July 2019, the investment by the ATG Investors in ATG was consummated. We received, in aggregate, consideration of $1.0 billion from Softbank, Toyota, and DENSO (collectively the “ATG Investors”). For additional information, see Note 17 - Non-Controlling Interests to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-2027 Senior Notes
+# 2027 Senior Notes
 
 In September 2019, we issued 7.5% senior unsecured notes with an aggregate principal amount of $1.2 billion due on September 15, 2027 in a private placement offering. For additional information, see Note 8 - Long-Term Debt and Revolving Credit Arrangements to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-Pending Acquisition of Majority Ownership in Cornershop
+# Pending Acquisition of Majority Ownership in Cornershop
 
 In October 2019, we agreed to purchase a controlling interest in Cornershop, an online grocery delivery platform operating primarily in Chile and Mexico. For additional information, see Note 1 - Description of Business and Summary of Significant Accounting Policies to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-U.S. Insurance Carrier Changes
+# U.S. Insurance Carrier Changes
 
 In October 2019, James River Group companies (“James River”) delivered a notice of early cancellation of all insurance policies (primarily auto insurance policies) issued to one of our wholly-owned subsidiaries, effective December 31, 2019, two months earlier than the contractual expiration on February 29, 2020. In the fourth quarter of 2019, James River withdrew all funds previously held in a trust account. These funds continue to serve as collateral for our current and future claim settlement obligations under the indemnification agreements for these insurance policies issued by James River. Effective December 31, 2019, we executed insurance policies with new and existing carriers to provide the same coverage as provided under the James River policies. For additional information, see Note 1 - Description of Business and Summary of Significant Accounting Policies to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-Recent Developments
+# Recent Developments
 
-Acquisition of Careem
+# Acquisition of Careem
 
 On January 2, 2020, we acquired all entities of Careem Inc. and its subsidiaries, (collectively “Careem”) in jurisdictions where we received regulatory approval or did not require regulatory approval. For additional information, see Note 20 - Subsequent Events to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
-Divestiture of Uber Eats India to Zomato
+# Divestiture of Uber Eats India to Zomato
 
 On January 21, 2020, we entered into a definitive agreement and completed the divestiture of our food delivery operations in India (“Uber Eats India”) to Zomato Media Private Limited (“Zomato”). For additional information, see Note 20 - Subsequent Events to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
-
 # Legal and Regulatory Developments
 
 California State Assembly Bill 5 (“AB5”)
@@ -1260,6 +1202,7 @@ Adjusted Net Revenue and Adjusted EBITDA, as well as revenue and ANR growth rate
 
 # Monthly Active Platform Consumers
 
+Monthly Active Platform Consumers (
 # Monthly Active Platform Consumers (in millions)
 
 | |2048|Z0iS|20s|Z0S|20|20io|20"|201"|
@@ -1286,17 +1229,16 @@ We define Gross Bookings as the total dollar value, including any applicable tax
 
 | |Rides|Eats|Freight|Other Bets|
 |---|---|---|---|---|
-|Q1 2018|$9,380|$1,473|$40| |
-|Q2 2018|$10,166|$1,774|$70|$2|
-|Q3 2018|$10,488|$2,111|$123|$3|
-|Q4 2018|$11,479|$2,561|$126|$3|
-|Q1 2019|$11,446|$3,071|$128|$4|
-|Q2 2019|$12,188|$3,386|$167|$15|
-|Q3 2019|$12,554|$3,658|$223|$30|
-|Q4 2019|$13,512|$4,374|$219|$26|
+|Q1 2018|$ 9,380|1,473|40| |
+|Q2 2018|$ 10,166|1,774|70|2|
+|Q3 2018|$ 10,488|2,111|123|3|
+|Q4 2018|$ 11,479|2,561|126|3|
+|Q1 2019|$ 11,446|3,071|128|4|
+|Q2 2019|$ 12,188|3,386|167|15|
+|Q3 2019|$ 12,554|3,658|223|30|
+|Q4 2019|$ 13,512|4,374|219|26|
 
 Adjusted Net Revenue. See the section titled “Reconciliations of Non-GAAP Financial Measures” for our definition and a reconciliation to the most directly comparable GAAP financial measure.
-
 # Take Rate
 
 Take Rate is defined as Adjusted Net Revenue as a percentage of Gross Bookings. For purposes of Take Rate, Gross Bookings include the impact of our 2018 Divested Operations, defined as operations in (i) Southeast Asia prior to the sale of those operations to Grab and (ii) Russia/CIS prior to the formation of our Yandex.Taxi joint venture.
@@ -1332,7 +1274,6 @@ Cost of Revenue, Exclusive of Depreciation and Amortization
 Cost of revenue, exclusive of depreciation and amortization, consists primarily of insurance costs, credit card processing fees, hosting and co-located data center expenses, mobile device and service expenses, amounts related to fare chargebacks and other credit card losses, excess Driver incentives, and costs incurred with carriers for Freight transportation. Insurance expenses include coverage for auto liability, general liability, uninsured and underinsured motorist liability, and auto physical damage related to our Rides products and Eats offering. Excess Driver incentives are primarily related to our Rides products in emerging markets and our Eats offering.
 
 We expect that cost of revenue, exclusive of depreciation and amortization, will increase on an absolute dollar basis for the foreseeable future to the extent we continue to see growth on the platform. As Trips increase, we expect related increases for insurance costs, credit card processing fees, hosting and co-located data center expenses, and other cost of revenue, exclusive of depreciation and amortization. Cost of revenue, exclusive of depreciation and amortization, may vary as a percentage of revenue from period to period based on our investments in our business, including excess Driver incentives, and our Freight offering and New Mobility products, each of which have higher costs as a percentage of revenue than our Rides and Eats products, as we are the principal in these arrangements, as well as the cost of scooters, which are expensed once placed in service.
-
 # Operations and Support
 
 Operations and support expenses consist primarily of compensation expenses, including stock-based compensation to employees who support operations in cities, Driver operations employees, community management employees, and platform user support representatives, as well as costs for allocated overhead and those associated with Driver background checks.
@@ -1373,7 +1314,6 @@ Other income (expense), net primarily includes the following items:
 
 - Interest income, which consists primarily of interest earned on our cash and cash equivalents and restricted cash and cash equivalents.
 - Gain on business divestitures, which consists of gain on sale of divested operations.
-
 # Results of Operations
 
 | |Year Ended December 31,|2017|2018|2019|
@@ -1396,7 +1336,6 @@ Other income (expense), net primarily includes the following items:
 |Net income (loss) including non-controlling interests|($4,033)|$987|($8,512)| |
 |Less: net income (loss) attributable to non-controlling interests, net of tax| |($10)|($6)| |
 |Net income (loss) attributable to Uber Technologies, Inc.|($4,033)|$997|($8,506)| |
-
 # Consolidated Statements of Operations
 
 | |Year Ended December 31, 2017|2018|2019|
@@ -1442,10 +1381,9 @@ Other income (expense), net primarily includes the following items:
 # 2019 Compared to 2018
 
 Revenue increased $2.9 billion, or 26%, primarily attributable to an increase in Gross Bookings of 31% which was made up of a 20% increase in Rides, an 83% increase in Eats, and a 121% increase in other offerings including Freight and Other Bets. The overall increase in Gross Bookings was driven by a 22% increase in MAPCs due to global expansion of our Eats product offerings combined with wider market adoption of our Rides product, and overall growth in our other offerings.
-
 # 2018 Compared to 2017
 
-Revenue increased $3.3 billion, or 42%, primarily attributable to an increase in Gross Bookings of 45% which was made up of a 32% increase in Rides, a 168% increase in Eats, as well as an increase in other offerings including Freight and Other Bets. The overall increase in Gross Bookings was driven by a 34% increase in MAPCs primarily due to an increase in booking fees in Rides and expansion in Eats.
+Revenue increased $3.3 billion, or 42%, primarily attributable to an increase in Gross Bookings of 45% which was made up of a 32% increase in Rides, an 168% increase in Eats, as well as an increase in other offerings including Freight and Other Bets. The overall increase in Gross Bookings was driven by a 34% increase in MAPCs primarily due to an increase in booking fees in Rides and expansion in Eats.
 
 | |Year Ended December 31|2017 to 2018|2018 to 2019|
 |---|---|---|---|
@@ -1491,7 +1429,6 @@ Sales and marketing expenses increased $1.5 billion, or 47%, primarily attributa
 # 2018 Compared to 2017
 
 Sales and marketing expenses increased by $627 million, or 25%, primarily attributable to an increase in consumer discounts, promotions, credits and refunds, and consumer advertising and other marketing programs. Additionally, we had a 27% increase in sales.
-
 # Research and Development
 
 | |Year Ended December 31|2017 to 2018|2018 to 2019|
@@ -1539,7 +1476,6 @@ Depreciation and amortization expenses increased $46 million, or 11%, primarily 
 2018 Compared to 2017
 
 Depreciation and amortization decreased by $84 million, or 16%. This decrease was primarily due to a $198 million decrease in Vehicle Solutions depreciation as the vehicles were held for sale as of December 31, 2017 and no longer subject to depreciation. The decrease was partially offset by increased depreciation of leased computer equipment of $75 million, a $21 million increase in data center equipment depreciation, and a $12 million increase in leasehold improvements depreciation. There was also a $6 million increase in developed technology amortization as a result of the acquisition of JUMP in 2018.
-
 # Interest Expense
 
 | | |Year Ended December 31| | |2017 to 2018|2018 to 2019|
@@ -1558,20 +1494,16 @@ Interest expense increased by $169 million, or 35%. This increase was primarily 
 
 # Other Income (Expense), Net
 
-| | |Year Ended December 31| | |2017 to 2018|2018 to 2019|
-|---|---|---|---|---|---|---|
-|(In millions, except percentages)|2017| |2018|2019|% Change|% Change|
-|Interest income|$ 71|$ 104|$ 234| |46%|125%|
-|Foreign currency exchange gains (losses), net|42| |(45)|(40)|(207)%|11%|
-|Gain on business divestitures| | |3,214| |**|(100)%|
-|Gain (loss) on debt and equity securities, net| | |1,996|2|**|(100)%|
-|Change in fair value of embedded derivatives|(173)| |(501)|58|(190)%|112%|
-|Gain on extinguishment of convertible notes and settlement of derivatives| | | |444|**|**|
-|Other|44| |225|24|**|(89)%|
-|Other income (expense), net|$ (16)|$ 4,993|$ 722| |**|(86)%|
-|Percentage of revenue| | |44%|5%| | |
-
-** Percentage not meaningful.
+| | |Year Ended December 31| |2017 to 2018|2018 to 2019|
+|---|---|---|---|---|---|
+|(In millions, except percentages)|2017|2018|2019|% Change|% Change|
+|Interest income|$ 71|$ 104|$ 234|46%|125%|
+|Foreign currency exchange gains (losses), net|42|(45)|(40)|(207)%|11%|
+|Gain on business divestitures|—|3,214|—|**|(100)%|
+|Gain (loss) on debt and equity securities, net|—|1,996|2|**|(100)%|
+|Change in fair value of embedded derivatives|(173)|(501)|58|(190)%|112%|
+|Gain on extinguishment of convertible notes and settlement of derivatives|—|—|444|**|**|
+|Other|44|225|24|**|(89)%|
 
 2019 Compared to 2018
 
@@ -1588,7 +1520,6 @@ Change in fair value of embedded derivatives increased by $559 million as a resu
 Gain on extinguishment of convertible notes and settlement of derivatives increased by $444 million due to the conversion of our 2021 Convertible Notes and the 2022 Convertible Notes and settlement of the related derivative in connection with our IPO during the second quarter of 2019.
 
 Other decreased by $201 million primarily due to non-recurrence in 2019 of income from forfeitures of warrants during the year ended December 31, 2018.
-
 # 2018 Compared to 2017
 
 Interest income increased by $33 million, or 46%, from 2017 to 2018. This increase was primarily due to higher average cash balances in 2018 from the proceeds from our entry into our 2018 Senior Secured Term Loan, the issuance of our 2023 and 2026 Senior Notes, and the issuance of shares of our Series G-1 redeemable convertible preferred stock.
@@ -1607,7 +1538,7 @@ Other increased by $181 million from 2017 to 2018. This increase was primarily d
 
 | | |Year Ended December 31| | |2017 to 2018|2018 to 2019|
 |---|---|---|---|---|---|---|
-|Provision for (benefit from) income taxes|$ (542)|$ 283|$ 45| | |(84)%|
+|Provision for (benefit from) income taxes|$ (542)|$ 283|$ 45| |**|(84)%|
 |Effective tax rate| |11.8%|21.6%|(0.5)%| | |
 
 ** Percentage not meaningful.
@@ -1624,13 +1555,12 @@ Provision for income taxes increased by $825 million. This increase was primaril
 
 # Loss from Equity Method Investment, Net of Tax
 
-| |Year Ended December 31|2017 to 2018|2018 to 2019| | |
-|---|---|---|---|---|---|
-|Loss from equity method investment, net of tax|$ —|$ (42)|$ (34)| |19%|
-|Percentage of revenue|—%|—%|—%| | |
+| |Year Ended December 31|2017 to 2018|2018 to 2019| | | |
+|---|---|---|---|---|---|---|
+|Loss from equity method investment, net of tax|$ —|$ (42)|$ (34)| |**|19%|
+|Percentage of revenue|—%|—%|—%| | | |
 
 ** Percentage not meaningful.
-
 # 2019Compared to2018
 
 Loss from equity method investment, net of taxdecreasedby$8 millionprimarily due to a decrease in our portion of the net loss from our Yandex.Taxi joint venture and amortization expense on intangible assets resulting from the basis difference in this investment.
@@ -1663,7 +1593,6 @@ We operate our business asfiveoperating and reportable segments: Rides, Eats, Fr
 # Segment Adjusted EBITDA
 
 Segment Adjusted EBITDA is defined as revenue less the following expenses: cost of revenue, operations and support, sales and marketing, and general and administrative and research and development expenses associated with our segments. Segment adjusted EBITDA also excludes any non-cash items, certain transactions that are not indicative of ongoing segment operating performance and / or items that management does not believe are reflective of our ongoing core operations. Our segment adjusted EBITDA measures replace what was previously reported as contribution profit (loss) and maintains the same definition. Previously reported Core Platform contribution profit (loss) is the sum of Rides adjusted EBITDA and Eats adjusted EBITDA, and previously reported Other Bets contribution profit (loss) is the sum of Freight adjusted EBITDA and Other Bets adjusted EBITDA.
-
 # Year Ended December 31, 2017 vs. 2018 2018 vs. 2019
 
 | |2017|2018|2019|% Change|% Change|
@@ -1712,7 +1641,6 @@ For the year ended December 31, 2018 compared to the same period in 2017, Eats a
 Eats adjusted net revenue increased primarily attributable to an increase in gross bookings of 164% as we worked to expand the business. Our Eats Take Rate declined to 9.6% in 2018 compared to 12.1% in 2017 as a result of increased Driver incentives, expansion into new regions, and lower average basket sizes.
 
 Eats adjusted EBITDA loss increased on a dollar basis although Eats adjusted EBITDA margin as a percentage of Eats Adjusted Net Revenue improved as we worked to scale the business.
-
 # Freight Segment
 
 For the year ended December 31, 2019 compared to the same period in 2018, Freight revenue increased $375 million (105%) and Freight adjusted EBITDA loss increased $115 million (113%).
@@ -1758,7 +1686,6 @@ We collect and analyze operating and financial data to evaluate the health of ou
 We define Adjusted Net Revenue as revenue less (i) excess Driver incentives and (ii) Driver referrals. We define Rides Adjusted Net Revenue as Rides revenue less (i) excess Driver incentives and (ii) Driver referrals. We define Eats Adjusted Net Revenue as Eats revenue less (i) excess Driver incentives and (ii) Driver referrals. We believe that this measure is informative of our top line performance because it measures the total net financial activity reflected in the amount earned by us after taking into account all Driver and restaurant earnings, Driver incentives, and Driver referrals. Adjusted Net Revenue is lower than revenue in all reported periods.
 
 Excess Driver incentives refer to cumulative payments, including incentives but excluding Driver referrals, to Drivers that exceed the cumulative revenue that we recognize from Drivers with no future guarantee of additional revenue. Cumulative payments to Drivers
-
 # Adjusted Net Revenue reconciliation:
 
 | |2017|2018|2019|
@@ -1790,7 +1717,6 @@ Excess Driver incentives refer to cumulative payments, including incentives but 
 |Eats Adjusted Net Revenue|$363|$759|$1,383|
 
 The comparability of the results for the periods presented above was impacted by our 2018 Divested Operations. The 2018 Divested Operations decreased Adjusted Net Revenue by $55 million and $4 million during the years ended December 31, 2017 and 2018, respectively, due to excess Driver incentives and Driver referrals for the 2018 Divested Operations being greater than revenue for the 2018 Divested Operations in these periods.
-
 # Adjusted EBITDA
 
 We define Adjusted EBITDA as net income (loss), excluding:
@@ -1823,14 +1749,12 @@ Adjusted EBITDA has limitations as a financial measure, should be considered as 
 The following table presents a reconciliation of net income (loss) attributable to Uber Technologies, Inc., the most directly comparable GAAP financial measure, to Adjusted EBITDA for each of the periods indicated:
 
 65
-
 # Year Ended December 31
 
 | |2017|2018|2019|
 |---|---|---|---|
 |Adjusted EBITDA reconciliation:| | | |
 |Net income (loss) attributable to Uber Technologies, Inc.|$(4,033)|$997|$(8,506)|
-|Add (deduct):| | | |
 |Net income (loss) attributable to non-controlling interests, net of tax| |$(10)|$(6)|
 |Provision for (benefit from) income taxes|$(542)|$283|$45|
 |(Income) loss from equity method investment, net of tax| |$42|$34|
@@ -1860,7 +1784,6 @@ We compare the percent change in our current period results from the correspondi
 # Selected Quarterly Financial Data
 
 The following tables set forth our unaudited selected quarterly financial data for each of the quarters indicated. This unaudited selected quarterly financial data has been prepared on the same basis as our audited consolidated financial statements included elsewhere in this Annual Report on Form 10-K. In the opinion of management, the financial data set forth in the tables below reflect all normal recurring adjustments necessary for the fair statement of results of operations for these periods. Our historical results are not necessarily indicative of the results that may be expected in the future and the results of a particular quarter or other interim period are not necessarily indicative of the results for a full year. This financial data should be read in conjunction with the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K.
-
 # Quarterly Consolidated Statements of Operations
 
 | |March 31, 2018|June 30, 2018|Sept. 30, 2018|Dec. 31, 2018|March 31, 2019|June 30, 2019|Sept. 30, 2019|Dec. 31, 2019|
@@ -1890,7 +1813,6 @@ The following tables set forth our unaudited selected quarterly financial data f
 (1) The three months ended June 30, 2019 includes $3.6 billion of stock-based compensation expense for awards with a performance-based vesting condition satisfied upon our IPO. For additional information on our IPO, see Note 11 - Redeemable Convertible Preferred Stock, Common Stock, and Equity (Deficit) in the notes to the consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
 The following table sets forth the stock-based compensation expense for each of the quarters indicated:
-
 # Three Months Ended
 
 | |March 31, 2018|June 30, 2018|Sept. 30, 2018|Dec. 31, 2018|March 31, 2019|June 30, 2019|Sept. 30, 2019|Dec. 31, 2019|
@@ -1916,25 +1838,24 @@ The following table sets forth the stock-based compensation expense for each of 
 |General and administrative|17%|23%|16%|19%|14%|52%|15%|16%|
 |Depreciation and amortization|3%|4%|4%|4%|5%|4%|3%|2%|
 |Total costs and expenses|118%|127%|126%|135%|133%|273%|129%|124%|
-|Loss from operations|(18)%|(27)%|(26)%|(35)%|(33)%|(173)%|(29)%|(24)%|
-|Interest expense|(5)%|(6)%|(5)%|(7)%|(7)%|(5)%|(2)%|(2)%|
-|Other income (expense), net|191%|2%|(2)%|2%|8%|13%|1%|—%|
-|Income (loss) before income taxes and loss from equity method investment|167%|(30)%|(33)%|(40)%|(32)%|(165)%|(30)%|(26)%|
-|Provision for (benefit from) income taxes|22%|1%|—%|(11)%|1%|—%|—%|1%|
-|Loss from equity method investment, net of tax|—%|(1)%|(1)%|—%|—%|—%|—%|—%|
-|Net income (loss) including non-controlling interests|145%|(32)%|(34)%|(30)%|(33)%|(166)%|(30)%|(27)%|
+|Loss from operations|(18%)|(27%)|(26%)|(35%)|(33%)|(173%)|(29%)|(24%)|
+|Interest expense|(5%)|(6%)|(5%)|(7%)|(7%)|(5%)|(2%)|(2%)|
+|Other income (expense), net|191%|2%|(2%)|2%|8%|13%|1%|—%|
+|Income (loss) before income taxes and loss from equity method investment|167%|(30%)|(33%)|(40%)|(32%)|(165%)|(30%)|(26%)|
+|Provision for (benefit from) income taxes|22%|1%|—%|(11%)|1%|—%|—%|1%|
+|Loss from equity method investment, net of tax|—%|(1%)|(1%)|—%|—%|—%|—%|—%|
+|Net income (loss) including non-controlling interests|145%|(32%)|(34%)|(30%)|(33%)|(166%)|(30%)|(27%)|
 |Less: net income (loss) attributable to non-controlling interests, net of tax|—%|—%|—%|—%|—%|—%|—%|—%|
-|Net income (loss) attributable to Uber Technologies, Inc.|145%|(32)%|(33)%|(30)%|(33)%|(165)%|(30)%|(27)%|
+|Net income (loss) attributable to Uber Technologies, Inc.|145%|(32%)|(33%)|(30%)|(33%)|(165%)|(30%)|(27%)|
 
 (1)Totals of percentage of revenues may not foot due to rounding.
-
 # Liquidity and Capital Resources
 
-| |Year Ended December 31,|2017|2018|2019|
-|---|---|---|---|---|
-|Net cash used in operating activities| |$(1,418)|$(1,541)|$(4,321)|
-|Net cash used in investing activities| |$(487)|$(695)|$(790)|
-|Net cash provided by financing activities| |$1,015|$4,640|$8,939|
+| |Year Ended December 31,|2017| |2018| |2019|
+|---|---|---|---|---|---|---|
+|Net cash used in operating activities|$ (1,418)|$ (1,541)|$ (4,321)| | | |
+|Net cash used in investing activities|$ (487)|$ (695)|$ (790)| | | |
+|Net cash provided by financing activities|$ 1,015|$ 4,640|$ 8,939| | | |
 
 Operating Activities
 
@@ -1963,7 +1884,6 @@ Net cash provided by financing activities was $1.0 billion in 2017, primarily co
 Other Information
 
 As of December 31, 2019, $1.4 billion of our $10.9 billion in cash and cash equivalents was held by our foreign subsidiaries. Cash held outside the United States may be repatriated, subject to certain limitations, and would be available to be used to fund our domestic
-
 # Off-Balance Sheet Arrangements
 
 As of December 31, 2019, we did not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in our financial condition, revenue, or expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors.
@@ -1998,7 +1918,6 @@ For additional discussion on our operating and finance leases as well as purchas
 # Critical Accounting Policies and Estimates
 
 We believe that the following accounting policies involve a high degree of judgment and complexity and are critical to understanding and evaluating our consolidated financial condition and results of our operations. An accounting policy is considered to be critical if it requires judgment on a significant accounting estimate to be made based on assumptions about matters that are uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact the reported amounts of assets, liabilities, revenue and expenses, and related disclosures in our audited consolidated financial statements. We have based our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Although we believe that the estimates we use are reasonable, due to the inherent uncertainty involved in making those estimates, actual results reported in future periods could differ from those estimates.
-
 # We believe that the following critical accounting policies reflect the more significant judgments, estimates and assumptions used in the preparation of our consolidated financial statements.
 
 For additional information, see the disclosure included in Note 1 - Description of Business and Summary of Significant Accounting Policies in the notes to the consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
@@ -2030,12 +1949,15 @@ We offer discounts and promotions to end-users to encourage use of our platform.
 # Embedded Derivatives
 
 We have issued Convertible Notes that contain embedded features subject to derivative accounting. These embedded features are composed of conversion options that have the economic characteristics of a contingent early redemption feature settled in shares of our
+# stock rather than cash
 
-# stock rather than cash, because the total number of shares of our common stock delivered to settle these embedded features will have a fixed value. These conversion options are bifurcated from the underlying instrument and accounted for and valued separately from the host instrument. Embedded derivatives are recognized as derivative liabilities on our consolidated balance sheet. We measure these instruments at their estimated fair value and recognize changes in their estimated fair value in other income (expense), net in our consolidated statement of operations and comprehensive loss during the period of change.
+because the total number of shares of our common stock delivered to settle these embedded features will have a fixed value. These conversion options are bifurcated from the underlying instrument and accounted for and valued separately from the host instrument. Embedded derivatives are recognized as derivative liabilities on our consolidated balance sheet. We measure these instruments at their estimated fair value and recognize changes in their estimated fair value in other income (expense), net in our consolidated statement of operations and comprehensive loss during the period of change.
 
-# We value these embedded derivatives as the difference between the estimated value of the Convertible Notes with and without the Qualified Initial Public Offering (“QIPO”) conversion option (“QIPO Conversion Option”). The fair value of the Convertible Notes with and without the QIPO Conversion Option is estimated utilizing a discounted cash flow model to discount the expected payoffs at various potential QIPO dates to the valuation date. The key inputs to the valuation model include the probability of a QIPO occurring at various points in time and the discount yield, which was derived by imputing the fair value as equal to the face value on the issuance date of the Convertible Notes. The discount rate is updated during each period to reflect the yield of a comparable instrument issued as of the valuation date.
+# We value these embedded derivatives
 
-# Upon closing of the IPO in May 2019, holders of these Convertible Notes elected to convert all outstanding notes into shares of common stock. For additional information, see Note 1 - Description of Business and Summary of Significant Accounting Policies and Note 3 - Investments and Fair Value Measurement included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
+as the difference between the estimated value of the Convertible Notes with and without the Qualified Initial Public Offering (“QIPO”) conversion option (“QIPO Conversion Option”). The fair value of the Convertible Notes with and without the QIPO Conversion Option is estimated utilizing a discounted cash flow model to discount the expected payoffs at various potential QIPO dates to the valuation date. The key inputs to the valuation model include the probability of a QIPO occurring at various points in time and the discount yield, which was derived by imputing the fair value as equal to the face value on the issuance date of the Convertible Notes. The discount rate is updated during each period to reflect the yield of a comparable instrument issued as of the valuation date.
+
+Upon closing of the IPO in May 2019, holders of these Convertible Notes elected to convert all outstanding notes into shares of common stock. For additional information, see Note 1 - Description of Business and Summary of Significant Accounting Policies and Note 3 - Investments and Fair Value Measurement included in Part II, Item 8, “Financial Statements and Supplementary Data”, of this Annual Report on Form 10-K.
 
 # Investments—Non-Marketable Equity and Debt Securities
 
@@ -2054,8 +1976,9 @@ We review our equity method investments for impairment whenever events or change
 # Loss Contingencies
 
 We are involved in legal proceedings, claims, and regulatory, non-income tax, or government inquiries and investigations that arise in the ordinary course of business. Certain of these matters include claims for substantial or indeterminate amounts of damages. We record
-
-a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is reasonably possible and the loss or range of loss can be reasonably estimated, we disclose the possible loss in the accompanying notes to the consolidated financial statements.
+# a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably estimated. If we determine that a loss is
+reasonably possible and the loss or range of loss can be reasonably estimated, we disclose the possible loss in the accompanying notes to the consolidated financial
+statements.
 
 We review the developments in our contingencies that could affect the amount of the provisions that have been previously recorded, and the matters and related reasonably possible losses disclosed. We make adjustments to our provisions and changes to our disclosures accordingly to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and updated information. Significant judgment is required to determine both the probability and the estimated amount of loss. These estimates have been based on our assessment of the facts and circumstances at each balance sheet date and are subject to change based on new information and future events.
 
@@ -2080,9 +2003,6 @@ While management believes that the insurance reserve amount is adequate, the ult
 # Stock-Based Compensation
 
 We have granted stock-based awards consisting primarily of stock options, restricted common stock, RSUs, warrants, and SARs to employees, members of our board of directors, and non-employee advisors. The substantial majority of our stock-based awards have been made to employees. The majority of our outstanding RSUs, as well as certain options, SARs, and shares of restricted common stock,
-
-&nbsp;
-
 contain both a service-based vesting condition and a liquidity-event based vesting condition. The service-based vesting condition for the majority of these awards is satisfied over four years. The liquidity event-based vesting condition is satisfied upon the occurrence of a qualifying event, which is generally defined as a change in control transaction or the effective date of an initial public offering. Prior to our IPO in May 2019, no qualifying event had occurred, and we did not recognize any stock-based compensation expense for the RSUs and other awards with both a service-based vesting condition and a liquidity event-based vesting condition.
 
 We account for stock-based employee compensation under the fair value recognition and measurement provisions, in accordance with applicable accounting standards, which requires compensation expense for the grant-date fair value of stock-based awards to be recognized over the requisite service period. We account for forfeitures when they occur.
@@ -2118,7 +2038,6 @@ Prior to our IPO, given the absence of a public trading market for our common st
 - the relative lack of marketability of our common stock;
 - industry information such as market growth and volume and macro-economic events; and
 - additional objective and subjective factors relating to our business.
-
 # In valuing our common stock prior to our IPO
 
 our board of directors determined the fair value of our common stock using both the income and market approach valuation methods, in addition to giving consideration to recent secondary sales of our common stock. The income approach estimates value based on the expectation of future cash flows that a company will generate. These future cash flows are discounted to their present values using a discount rate based on our weighted-average cost of capital, and is adjusted to reflect the risks inherent in our cash flows. The market approach estimates value based on a comparison of our company to comparable public companies in a similar line of business. From the comparable companies, a representative market value multiple is determined and then applied to our company’s financial forecasts to estimate the value of the subject company.
@@ -2148,7 +2067,6 @@ We have significant risk related to the carrying amounts of investments in other
 We transact business globally in multiple currencies. Our international revenue, as well as costs and expenses denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the U.S. dollar. We are exposed to foreign currency risks related to our revenue and operating expenses denominated in currencies other than the U.S. dollar. Accordingly, changes in exchange rates may negatively affect our future revenue and other operating results as expressed in U.S. dollars. Our foreign currency risk is partially mitigated as our revenue recognized in currencies other than the U.S. dollar is diversified across geographic regions and we incur expenses in the same currencies in such regions.
 
 We have experienced and will continue to experience fluctuations in our net income/(loss) as a result of transaction gains or (losses) related to remeasurement of our asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they are recorded. Foreign currency rates may also impact the value of our equity method investment in our Yandex. Taxi joint venture. At this time, we do not, but we may in the future, enter into derivatives or other financial instruments in an attempt to hedge our foreign currency exchange risk. It is difficult to predict the impact hedging activities would have on our results of operations.
-
 # ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
 
 | |INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULE| | |
@@ -2164,20 +2082,19 @@ We have experienced and will continue to experience fluctuations in our net inco
 |Financial Statement Schedule| | | |
 | |Schedule II - Valuation and Qualifying Accounts for the Years Ended December 31, 2017, 2018 and 2019|Pages 139| |
 | |The supplementary financial information required by this Item 8 is included in Item 7 under the caption “Selected Quarterly Financial Data.”| | |
-
 # Report of Independent Registered Public Accounting Firm
 
 To the Board of Directors and Stockholders of Uber Technologies, Inc.
 
-Opinion on the Financial Statements
+# Opinion on the Financial Statements
 
 We have audited the accompanying consolidated balance sheets of Uber Technologies, Inc. and its subsidiaries (the “Company”) as of December 31, 2019 and 2018, and the related consolidated statements of operations, of comprehensive income (loss), of mezzanine equity and equity (deficit) and of cash flows for each of the three years in the period ended December 31, 2019, including the related notes and financial statement schedule listed in the accompanying index (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2019 and 2018, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2019 in conformity with accounting principles generally accepted in the United States of America.
 
-Changes in Accounting Principles
+# Changes in Accounting Principles
 
 As discussed in Note 1 and Note 3 to the consolidated financial statements, respectively, the Company changed the manner in which it accounts for leases in 2019 and the manner in which it accounts for non-marketable equity securities in 2018.
 
-Basis for Opinion
+# Basis for Opinion
 
 These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
 
@@ -2190,64 +2107,55 @@ San Francisco, California
 March 2, 2020
 
 We have served as the Company’s auditor since 2014.
-
 # UBER TECHNOLOGIES, INC. CONSOLIDATED BALANCE SHEETS
 
-(In millions, except share amounts which are reflected in thousands, and per share amounts)
-
-|Assets|As of December 31, 2018|As of December 31, 2019|
+| |As of December 31, 2018|As of December 31, 2019|
 |---|---|---|
+|Assets| | |
 |Cash and cash equivalents|$6,406|$10,873|
-|Short-term investments|--|$440|
-|Restricted cash and cash equivalents|67|99|
-|Accounts receivable, net of allowance of $34 for both years|919|1,214|
-|Prepaid expenses and other current assets|860|1,299|
-|Assets held for sale|406|--|
-|Total current assets|8,658|13,925|
-|Restricted cash and cash equivalents|1,736|1,095|
-|Collateral held by insurer|--|1,199|
-|Investments|10,355|10,527|
-|Equity method investments|1,312|1,364|
-|Property and equipment, net|1,641|1,731|
-|Operating lease right-of-use assets|--|1,594|
-|Intangible assets, net|82|71|
-|Goodwill|153|167|
-|Other assets|51|88|
+|Short-term investments|-|$440|
+|Restricted cash and cash equivalents|$67|$99|
+|Accounts receivable, net of allowance of $34 for both years|$919|$1,214|
+|Prepaid expenses and other current assets|$860|$1,299|
+|Assets held for sale|$406|-|
+|Total current assets|$8,658|$13,925|
+|Restricted cash and cash equivalents|$1,736|$1,095|
+|Collateral held by insurer|-|$1,199|
+|Investments|$10,355|$10,527|
+|Equity method investments|$1,312|$1,364|
+|Property and equipment, net|$1,641|$1,731|
+|Operating lease right-of-use assets|-|$1,594|
+|Intangible assets, net|$82|$71|
+|Goodwill|$153|$167|
+|Other assets|$51|$88|
 |Total assets|$23,988|$31,761|
-
-|Liabilities, mezzanine equity and equity (deficit)|As of December 31, 2018|As of December 31, 2019|
-|---|---|---|
+|Liabilities, mezzanine equity and equity (deficit)| | |
 |Accounts payable|$150|$272|
-|Short-term insurance reserves|941|1,121|
-|Operating lease liabilities, current|--|196|
-|Accrued and other current liabilities|3,157|4,050|
-|Liabilities held for sale|11|--|
-|Total current liabilities|4,259|5,639|
-|Long-term insurance reserves|1,996|2,297|
-|Long-term debt, net of current portion|6,869|5,707|
-|Operating lease liabilities, non-current|--|1,523|
-|Other long-term liabilities|4,072|1,412|
-|Total liabilities|17,196|16,578|
-
-|Mezzanine equity|As of December 31, 2018|As of December 31, 2019|
-|---|---|---|
-|Redeemable non-controlling interests|--|311|
-|Redeemable convertible preferred stock, $0.00001 par value, 946,246 and zero shares authorized, 903,607 and zero shares issued and outstanding, respectively; aggregate liquidation preference of $14 and $0, respectively|14,177|--|
-
-|Equity (deficit)|As of December 31, 2018|As of December 31, 2019|
-|---|---|---|
-|Common stock, $0.00001 par value, 2,696,114 and 5,000,000 shares authorized, 457,189 and 1,716,681 shares issued and outstanding, respectively|--|--|
-|Additional paid-in capital|668|30,739|
-|Accumulated other comprehensive loss|(188)|(187)|
-|Accumulated deficit|(7,865)|(16,362)|
-|Total Uber Technologies, Inc. stockholders' equity (deficit)|(7,385)|14,190|
-|Non-redeemable non-controlling interests|--|682|
-|Total equity (deficit)|(7,385)|14,872|
-
-Total liabilities, mezzanine equity and equity (deficit): $23,988 (2018) and $31,761 (2019)
+|Short-term insurance reserves|$941|$1,121|
+|Operating lease liabilities, current|-|$196|
+|Accrued and other current liabilities|$3,157|$4,050|
+|Liabilities held for sale|$11|-|
+|Total current liabilities|$4,259|$5,639|
+|Long-term insurance reserves|$1,996|$2,297|
+|Long-term debt, net of current portion|$6,869|$5,707|
+|Operating lease liabilities, non-current|-|$1,523|
+|Other long-term liabilities|$4,072|$1,412|
+|Total liabilities|$17,196|$16,578|
+|Commitments and contingencies (Note 15)| | |
+|Mezzanine equity| | |
+|Redeemable non-controlling interests|-|$311|
+|Redeemable convertible preferred stock, $0.00001 par value, 946,246 and zero shares authorized, 903,607 and zero shares issued and outstanding, respectively; aggregate liquidation preference of $14 and $0, respectively|$14,177|-|
+|Equity (deficit)| | |
+|Common stock, $0.00001 par value, 2,696,114 and 5,000,000 shares authorized, 457,189 and 1,716,681 shares issued and outstanding, respectively|-|-|
+|Additional paid-in capital|$668|$30,739|
+|Accumulated other comprehensive loss|($188)|($187)|
+|Accumulated deficit|($7,865)|($16,362)|
+|Total Uber Technologies, Inc. stockholders' equity (deficit)|($7,385)|$14,190|
+|Non-redeemable non-controlling interests|-|$682|
+|Total equity (deficit)|($7,385)|$14,872|
+|Total liabilities, mezzanine equity and equity (deficit)|$23,988|$31,761|
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # UBER TECHNOLOGIES, INC.
 
 # CONSOLIDATED STATEMENTS OF OPERATIONS
@@ -2256,33 +2164,32 @@ The accompanying notes are an integral part of these consolidated financial stat
 
 | |Year Ended December 31,|2017|2018|2019|
 |---|---|---|---|---|
-|Revenue| |$7,932|$11,270|$14,147|
+|Revenue|$ 7,932|$ 11,270|$ 14,147| |
 |Costs and expenses| | | | |
-|Cost of revenue, exclusive of depreciation and amortization shown separately below| |4,160|5,623|7,208|
-|Operations and support| |1,354|1,516|2,302|
-|Sales and marketing| |2,524|3,151|4,626|
-|Research and development| |1,201|1,505|4,836|
-|General and administrative| |2,263|2,082|3,299|
-|Depreciation and amortization| |510|426|472|
-|Total costs and expenses| |12,012|14,303|22,743|
-|Loss from operations| |(4,080)|(3,033)|(8,596)|
-|Interest expense| |(479)|(648)|(559)|
-|Other income (expense), net| |(16)|4,993|722|
-|Income (loss) before income taxes and loss from equity method investment| |(4,575)|1,312|(8,433)|
-|Provision for (benefit from) income taxes| |(542)|283|45|
+|Cost of revenue, exclusive of depreciation and amortization shown separately below|4,160| |5,623|7,208|
+|Operations and support|1,354| |1,516|2,302|
+|Sales and marketing|2,524| |3,151|4,626|
+|Research and development|1,201| |1,505|4,836|
+|General and administrative|2,263| |2,082|3,299|
+|Depreciation and amortization|510| |426|472|
+|Total costs and expenses|12,012| |14,303|22,743|
+|Loss from operations|(4,080)| |(3,033)|(8,596)|
+|Interest expense|(479)| |(648)|(559)|
+|Other income (expense), net|(16)| |4,993|722|
+|Income (loss) before income taxes and loss from equity method investment|(4,575)| |1,312|(8,433)|
+|Provision for (benefit from) income taxes|(542)| |283|45|
 |Loss from equity method investment, net of tax| | |(42)|(34)|
-|Net income (loss) including non-controlling interests| |(4,033)|987|(8,512)|
+|Net income (loss) including non-controlling interests|(4,033)| |987|(8,512)|
 |Less: net loss attributable to non-controlling interests, net of tax| | |(10)|(6)|
-|Net income (loss) attributable to Uber Technologies, Inc.| |$(4,033)|$997|$(8,506)|
+|Net income (loss) attributable to Uber Technologies, Inc.|$ (4,033)|$ 997|$ (8,506)| |
 |Net income (loss) per share attributable to Uber Technologies, Inc. common stockholders:| | | | |
-|Basic| |$(9.46)|—|$(6.81)|
-|Diluted| |$(9.46)|—|$(6.81)|
+|Basic|$ (9.46)|$ -|$ (6.81)| |
+|Diluted|$ (9.46)|$ -|$ (6.81)| |
 |Weighted-average shares used to compute net income (loss) per share attributable to common stockholders:| | | | |
-|Basic| |426,360|443,368|1,248,353|
-|Diluted| |426,360|478,999|1,248,353|
+|Basic|426,360| |443,368|1,248,353|
+|Diluted|426,360| |478,999|1,248,353|
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
 # UBER TECHNOLOGIES, INC.
 
 # CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
@@ -2294,37 +2201,37 @@ The accompanying notes are an integral part of these consolidated financial stat
 |Change in foreign currency translation adjustment| |(4)|(225)|(3)|
 |Change in unrealized gain on investments in available-for-sale securities| | |40|4|
 |Other comprehensive income (loss), net of tax| |(4)|(185)|1|
-|Comprehensive income (loss) including non-controlling interests| |(4,037)|802|(8,511)|
+|Comprehensive income (loss) including non-controlling interests|$ (4,037)|$ 802|$ (8,511)| |
 |Less: comprehensive loss attributable to non-controlling interests| | |(10)|(6)|
 |Comprehensive income (loss) attributable to Uber Technologies, Inc.|$ (4,037)|$ 812|$ (8,505)| |
 
 The accompanying notes are an integral part of these consolidated financial statements.
 
 80
-
 # UBER TECHNOLOGIES, INC.
 
 # CONSOLIDATED STATEMENTS OF MEZZANINE EQUITY AND EQUITY (DEFICIT)
 
-| |Redeemable Convertible Preferred Stock| |Common Stock|Additional Paid-In Capital|Other Comprehensive Income (Loss)|Accumulated Deficit|Total Equity (Deficit)| | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Balance as of December 31, 2016|840,859|$11,111|455,051|$—|$209|$1|$4,806|$(4,596)| | | |
-|Issuance of Series G redeemable convertible preferred stock, net of issuance costs|20,667|$1,008|—|$—|$—|$—|$—| | | | |
-|Exercise of warrants|1,779|$87|—|$—|$—|$—|$—| | | | |
-|Vesting of common stock warrants|—|$—|—|$—|$1|$—|$1| | | | |
-|Lapsing of repurchase option related to Series E redeemable convertible preferred stock issued to a non-employee service provider|—|$4|—|$—|$—|$—|$—| | | | |
-|Repurchase of outstanding shares|—|$—|(11,016)|$—|$—|$—|$(32)|$(32)| | | |
-|Exercise of stock options|—|$—|2,897|$—|$4|$—|$4| | | | |
-|Repurchase of unvested early-exercised stock options|—|$—|(3,538)|$—|$(1)|$—|$(1)| | | | |
-|Reclassification of early-exercised stock options from liability, net|—|$—|—|$—|$6|$—|$6| | | | |
-|Stock-based compensation|—|$—|—|$—|$97|$—|$97| | | | |
-|Issuance and repayment of employee loans collateralized by outstanding common stock| | | |—|$—|—|$—|$4|$—|$3|$1|
-|Foreign currency translation adjustment|—|$—|—|$—|$—|$(4)|$—|$(4)| | | |
-|Net loss|—|$—|—|$—|$—|$—|$4,033|$4,033| | | |
-|Balance as of December 31, 2017|863,305|$12,210|443,394|$—|$320|$(3)|$8,874|$8,557| | | |
+| |Redeemable Convertible Preferred Stock| |Common Stock|Additional Paid-In Capital|Other Comprehensive Income (Loss)|Accumulated Deficit|Total Equity (Deficit)| |
+|---|---|---|---|---|---|---|---|---|
+|Balance as of December 31, 2016|840,859|$11,111|455,051|$—|$209|$1|$(4,806)|$(4,596)|
+|Issuance of Series G redeemable convertible preferred stock, net of issuance costs|20,667|$1,008|—|$—|$—|$—|$—| |
+|Exercise of warrants|1,779|$87|—|$—|$—|$—|$—| |
+|Vesting of common stock warrants|—|$—|—|$—|$1|$—|$1| |
+|Lapsing of repurchase option related to Series E redeemable convertible preferred stock issued to a non-employee service provider|—|$4|—|$—|$—|$—|$—| |
+|Repurchase of outstanding shares|—|$—|(11,016)|$—|$—|$(32)|$(32)| |
+|Exercise of stock options|—|$—|2,897|$—|$4|$—|$4| |
+|Repurchase of unvested early-exercised stock options|—|$—|(3,538)|$—|$(1)|$—|$(1)| |
+|Reclassification of early-exercised stock options from liability, net|—|$—|—|$—|$6|$—|$6| |
+|Stock-based compensation|—|$—|—|$—|$97|$—|$97| |
+|Issuance and repayment of employee loans collateralized by outstanding common stock|—|$—|—|$—|$4|$(3)|$1| |
+|Foreign currency translation adjustment|—|$—|—|$—|$—|$(4)|$(4)| |
+|Net loss|—|$—|—|$—|$—|$(4,033)|$(4,033)| |
+|Balance as of December 31, 2017|863,305|$12,210|443,394|$—|$320|$(3)|$(8,874)|$(8,557)|
 
 The accompanying notes are an integral part of these consolidated financial statements.
 
+81
 # UBER TECHNOLOGIES, INC.
 
 | |Redeemable Convertible Preferred Stock| | |Common Stock|Additional Paid-In Capital|Other Comprehensive Income (Loss)|Accumulated Deficit|Total Equity (Deficit)| | | |
@@ -2350,9 +2257,6 @@ The accompanying notes are an integral part of these consolidated financial stat
 |Balance as of December 31, 2018|-|903,607|$14,177|457,189|$668|($188)|($7,865)|($7,385)| | | |
 
 The accompanying notes are an integral part of these consolidated financial statements.
-
-82
-
 # UBER TECHNOLOGIES, INC.
 
 # CONSOLIDATED STATEMENTS OF MEZZANINE EQUITY AND EQUITY (DEFICIT)
@@ -2367,7 +2271,7 @@ The accompanying notes are an integral part of these consolidated financial stat
 |Conversion of convertible notes to common stock in connection with initial public offering| | | | |93,978|$4,229| | | |$4,229|
 |Repurchase of outstanding shares| | | |$(1)| | | | | | |
 |Exercise of stock options| | | |6,924|$21| | | | |$21|
-|Exercise of put option on common stock held by Yandex| | | |$(1,528)|$47| | | | |$(47)|
+|Exercise of put option on common stock held by Yandex| | | |$(1,528)|$(47)| | | | |$(47)|
 |Repurchase of unvested early-exercised stock options| | | |$(32)| | | | | | |
 |Stock-based compensation| | | | | |$4,634| | | |$4,634|
 |Issuance of common stock under the Employee Stock Purchase Plan| | | |2,076|$49| | | | |$49|
@@ -2375,11 +2279,11 @@ The accompanying notes are an integral part of these consolidated financial stat
 |Conversion of redeemable convertible preferred stock to common stock in connection with initial public offering| | |(904,530)|$14,224|904,530|$14,224| | | |$14,224|
 |Issuance of common stock in private placement| | | |11,111|$500| | | | |$500|
 |Issuance of common stock for settlement of RSUs| | | |98,328| | | | | | |
-|Shares withheld related to net share settlement| | | |(36,249)| |$(1,573)| | | |$(1,573)|
+|Shares withheld related to net share settlement| | | |(36,249)|$(1,573)| | | | |$(1,573)|
 |Reclassification of share-based award liability to additional paid-in capital| | | | | |$21| | | |$21|
 |Repayment of employee loans collateralized by outstanding common stock| | | | | |$14| | | |$14|
 |Issuance of common stock as consideration for investment and acquisition| | | |205|$9| | | | |$9|
-|Issuance of non-controlling interests|333| | | | | | | |667|$667|
+|Issuance of non-controlling interests|333| | | | | | |667| |$667|
 |Unrealized gain on available-for-sale securities, net of tax| | | | | | |$4| | |$4|
 |Foreign currency translation adjustment| | | | | | |$(3)| | |$(3)|
 |Net loss|$(22)| | | | | | |$(8,506)|15|$(8,491)|
@@ -2388,7 +2292,6 @@ The accompanying notes are an integral part of these consolidated financial stat
 The accompanying notes are an integral part of these consolidated financial statements.
 
 83
-
 # UBER TECHNOLOGIES, INC.
 
 # CONSOLIDATED STATEMENTS OF CASH FLOWS
@@ -2439,141 +2342,51 @@ The accompanying notes are an integral part of these consolidated financial stat
 |Net cash used in investing activities|(487)|(695)|(790)| |
 |Cash flows from financing activities| | | | |
 |Proceeds from issuance of common stock upon initial public offering, net of offering costs| | |7,973| |
+| | | |Taxes paid related to net share settlement of equity awards| |(1,573)|
+|---|---|---|---|---|---|
+| | | |Proceeds from issuance of common stock in private placement| |500|
+| | | |Proceeds from issuance of subsidiary preferred stock units| |1,000|
+| | |3|Proceeds from exercise of stock options, net of repurchases|27|19|
+| | | |Proceeds from the issuance of common stock under the Employee Stock Purchase Plan| |49|
+| |(131)|(10)|Repurchase of outstanding shares| | |
+| | |3,466|Issuance of term loan and senior notes, net of issuance costs| |1,189|
+| |(12)|(19)|Principal repayment on term loan| |(27)|
+|202| | |Proceeds from revolving lines of credit| | |
+|(76)|(491)| |Principal repayment on revolving lines of credit| | |
+| |(89)|(138)|Principal payments on capital and finance leases| | |
+|1,008|1,750| |Proceeds from issuance of redeemable convertible preferred stock, net of issuance costs| | |
+|19|38| |Dissolution of joint venture and subsequent proceeds| | |
+| | |(74)|Repurchase of stock subject to put options related to Yandex| | |
+|2|(32)|21|Other| | |
 
-# Taxes paid related to net share settlement of equity awards
-
-(1,573)
-
-# Proceeds from issuance of common stock in private placement
-
-500
-
-# Proceeds from issuance of subsidiary preferred stock units
-
-1,000
-
-# Proceeds from exercise of stock options, net of repurchases
-
-3
-27
-19
-
-# Proceeds from the issuance of common stock under the Employee Stock Purchase Plan
-
-49
-
-# Repurchase of outstanding shares
-
-(131)
-(10)
-
-# Issuance of term loan and senior notes, net of issuance costs
-
-3,466
-1,189
-
-# Principal repayment on term loan
-
-(12)
-(19)
-(27)
-
-# Proceeds from revolving lines of credit
-
-202
-
-# Principal repayment on revolving lines of credit
-
-(76)
-(491)
-
-# Principal payments on capital and finance leases
-
-(89)
-(138)
-
-# Proceeds from issuance of redeemable convertible preferred stock, net of issuance costs
-
-1,008
-1,750
-
-# Dissolution of joint venture and subsequent proceeds
-
-19
-38
-
-# Repurchase of stock subject to put options related to Yandex
-
-(74)
-
-# Other
-
-2
-(32)
-21
-
-# Net cash provided by financing activities
-
-1,015
-4,640
-8,939
-
-# Effect of exchange rate changes on cash and cash equivalents, and restricted cash and cash equivalents
-
-22
-(119)
-(4)
-
-# Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents
-
-(868)
-2,285
-3,824
-
-# Cash and cash equivalents, and restricted cash and cash equivalents Beginning of period
-
-6,826
-5,828
-8,209
-
-# Reclassification from (to) assets held for sale during the period
-
-(130)
-96
-34
-
-# End of period, excluding cash classified within assets held for sale
-
-$ 5,828
-$ 8,209
-$ 12,067
-
-# Supplemental disclosures of cash flow information
-
-# Cash paid for:
-
-|Interest, net of amount capitalized|$ 61|$ 124|$ 332|
+|Net cash provided by financing activities|1,015|4,640|8,939|
 |---|---|---|---|
-|Income taxes, net of refunds|153|289|133|
+|Effect of exchange rate changes on cash and cash equivalents, and restricted cash and cash equivalents|22|(119)|(4)|
+|Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents|(868)|2,285|3,824|
 
-# Non-cash investing and financing activities:
-
-|Conversion of redeemable convertible preferred stock to common stock upon initial public offering| | |14,224|
+| |Cash and cash equivalents, and restricted cash and cash equivalents| | |
 |---|---|---|---|
-|Conversion of convertible notes to common stock upon initial public offering| | |4,229|
-|Stock-based compensation capitalized as software development costs|1| |61|
-|Changes in purchases of property, equipment and software recorded in accounts payable and accrued liabilities|(4)|14|52|
-|Changes in share repurchase commitment made in each period|(44)|(13)| |
-|Financed construction projects|214|177| |
-|Capital and finance lease obligations|124|165|251|
-|Deferred unpaid offering costs| |4| |
-|Settlement of litigation through issuance of redeemable convertible preferred stock| |250| |
-|Common stock issued in connection with acquisitions| |93|9|
-|Ownership interest in MLU B.V. received in connection with the disposition of Uber Russia/CIS operations| |1,410| |
-|Grab debt security received in exchange for the sale of Southeast Asia operations| |2,275| |
+|Beginning of period|6,826|5,828|8,209|
+|Reclassification from (to) assets held for sale during the period|(130)|96|34|
+|End of period, excluding cash classified within assets held for sale|$ 5,828|$ 8,209|$ 12,067|
 
-The accompanying notes are an integral part of these consolidated financial statements.
+|Cash paid for:|Interest, net of amount capitalized|$ 61|$ 124|$ 332|
+|---|---|---|---|---|
+| |Income taxes, net of refunds|153|289|133|
 
+|Non-cash investing and financing activities:|Conversion of redeemable convertible preferred stock to common stock upon initial public offering| | |14,224|
+|---|---|---|---|---|
+| |Conversion of convertible notes to common stock upon initial public offering| | |4,229|
+| |Stock-based compensation capitalized as software development costs|1| |61|
+| |Changes in purchases of property, equipment and software recorded in accounts payable and accrued liabilities|(4)|14|52|
+| |Changes in share repurchase commitment made in each period|(44)|(13)| |
+| |Financed construction projects|214|177| |
+| |Capital and finance lease obligations|124|165|251|
+| |Deferred unpaid offering costs| |4| |
+| |Settlement of litigation through issuance of redeemable convertible preferred stock| |250| |
+| |Common stock issued in connection with acquisitions| |93|9|
+| |Ownership interest in MLU B.V. received in connection with the disposition of Uber Russia/CIS operations| |1,410| |
+| |Grab debt security received in exchange for the sale of Southeast Asia operations| |2,275| |
 # UBER TECHNOLOGIES, INC. NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 
 # Note 1 - Description of Business and Summary of Significant Accounting Policies
@@ -2600,6 +2413,7 @@ Pending Acquisition of Majority Ownership in Cornershop
 
 In October 2019, the Company agreed to purchase a controlling interest in Cornershop, an online grocery delivery platform operating primarily in Chile and Mexico. The Company agreed to pay up to approximately $459 million for its controlling interest in Cornershop, which amount is payable in cash and shares of the Company’s common stock as defined in the agreement. In October 2019, the Company made an initial investment of $50 million for a 7.1% ownership interest, on a fully-diluted basis, in Cornershop. The Company expects to pay the remaining portion of the purchase price and acquire the controlling interest during 2020, subject to the receipt of regulatory approvals and other closing conditions. Refer to Note 3 - Investments and Fair Value Measurement for further information on the accounting for the initial investment.
 
+86
 # Basis of Presentation
 
 The accompanying consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (“GAAP”). The Company consolidates its wholly-owned subsidiaries and majority-owned subsidiaries over which it exercises control, as well as variable interest entities (“VIE”) where it is deemed to be the primary beneficiary. Refer to Note 16 - Variable Interest Entities ("VIEs") for further information. All intercompany balances and transactions have been eliminated.
@@ -2628,7 +2442,6 @@ Restricted cash and cash equivalents is pledged as security for letters of credi
 |---|---|---|
 |Current Assets| | |
 |Non-Current Assets| | |
-
 # As of December 31, 2017 2018 2019
 
 | |2017|2018|2019|
@@ -2666,7 +2479,6 @@ Property and equipment are stated at cost, net of accumulated depreciation and a
 |Leasehold improvements|Shorter of estimated useful life or lease term|
 
 When assets are retired or otherwise disposed of, the cost, accumulated depreciation and amortization are removed from the accounts and any resulting gain or loss is reflected in the consolidated statements of operations in the period realized. Maintenance and repairs that do not enhance or extend the asset’s useful life are charged to operating expenses as incurred.
-
 # The Company capitalizes certain costs
 
 The Company capitalizes certain costs, such as compensation costs, including stock-based compensation, and interest incurred in developing internal-use software once planning has been completed, management has authorized and committed project funding, and it is probable that the project will be completed and the software will function as intended. Amortization of such costs occurs on a straight-line basis over the estimated useful life of the related asset and begins once the asset is ready for its intended use. Costs incurred prior to meeting these criteria, together with costs incurred for training and maintenance, are expensed as incurred.
@@ -2679,22 +2491,13 @@ Leased vehicle assets are stated at cost, net of accumulated depreciation. The v
 
 Prior to adoption of Accounting Standards Codification (“ASC“) 842, “Leases” (“ASC842”), as of December 31, 2018 and periods before the Company was involved in the construction of certain office buildings and research facilities and was under lease agreements for certain of the constructed or under construction facilities. In such arrangements, the Company capitalized construction costs, whether expended by the Company or the builder/lessor, in property and equipment, net. The Company recorded a corresponding financing obligation for amounts expended by the builder/lessor in other long-term liabilities. During the construction period, interest was accrued on the financing obligation and costs of construction were capitalized as a component of the building asset. These assets often did not qualify for derecognition under sales-leaseback accounting guidance as a result of continuing involvement in the property. These assets and obligations were amortized in depreciation and amortization and interest expense, respectively, in the consolidated statement of operations based on the terms of the related lease agreements. As of December 31, 2018, the gross carrying value of assets related to build-to-suit lease arrangements was $392 million with a corresponding financing obligation of $350 million. Upon adoption of the ASC842, the Company derecognized building asset and financing obligation liability balances associated with the construction projects as these were not build-to-suit leases under ASC842.
 
-# ASC842 Adoption
-
 The Company adopted ASC842 on January 1, 2019, using the modified retrospective transition method and used the effective date as the date of initial application. Consequently, financial information is not updated and the disclosures required under ASC 842 are not provided for dates and periods before January 1, 2019. ASC 842 provides a number of optional practical expedients in transition. The Company elected the “package of practical expedients,” which permits the Company not to reassess under ASC 842 its prior conclusions about lease identification, lease classification and initial direct costs. The Company made a policy election not to separate non-lease components from lease components, therefore, it accounts for lease and non-lease components as a single lease component. The Company also elected the short-term lease recognition exemption for all leases that qualify.
-
-# Lease Contracts
 
 The Company determines if a contract contains a lease at inception of the arrangement based on whether it has the right to obtain substantially all of the economic benefits from the use of an identified asset and whether it has the right to direct the use of an identified asset in exchange for consideration, which relates to an asset which the Company does not own. Right of use (“ROU”) assets represent the Company’s right to use an underlying asset for the lease term and lease liabilities represent the Company’s obligation to make lease payments arising from the lease. ROU assets are recognized as the lease liability, adjusted for lease incentives received. Lease liabilities are recognized at the present value of the future lease payments at the lease commencement date. The interest rate used to determine the present value of the future lease payments is the Company’s IBR, because the interest rate implicit in most of the Company’s leases is not readily determinable. The IBR is a hypothetical rate based on the Company’s understanding of what its credit rating would be to borrow and resulting interest the Company would pay to borrow an amount equal to the lease payments in a similar economic environment over the lease term on a collateralized basis. Lease payments may be fixed or variable; however, only fixed payments or in-substance fixed payments are included in the Company’s lease liability calculation. Variable lease payments may include costs such as common area maintenance, utilities, real estate taxes or other costs. Variable lease payments are recognized in operating expenses in the period in which the obligation for those payments are incurred.
 
-# Lease Terms
-
 The Company’s leases primarily include corporate offices, data centers, and servers. The lease term of operating and finance leases vary from less than a year to 76 years. The Company has leases that include one or more options to extend the lease term for up to 14 years as well as options to terminate the lease within one year. The Company’s lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise such options. The Company’s lease agreements generally do not contain any residual value guarantees or restrictive covenants.
 
-# Lease Accounting
-
 Operating leases are included in operating lease ROU assets, operating lease liabilities, current and operating lease liabilities, non-current on the Company’s consolidated balance sheets. Finance leases are included in property and equipment, net, accrued and other current liabilities, and other long-term liabilities on the Company’s consolidated balance sheets. For operating leases, lease expense is recognized on a straight-line basis in operations over the lease term. For finance leases, lease expense is recognized as
-
 depreciation and interest; depreciation on a straight-line basis over the lease term and interest using the effective interest method. As of December 31, 2019, less than 13% of the Company’s operating lease ROU assets related to leased assets outside of the U.S.
 
 # Acquisitions
@@ -2720,7 +2523,6 @@ Accounting for the Company's equity securities varies depending on the marketabi
 # Debt Securities
 
 Accounting for the Company’s debt securities varies depending on the legal form of the security, the Company’s intended holding period for the security, and the nature of the transaction. Investments in debt securities are classified as available-for-sale and are initially recorded at fair value. Investments in marketable debt securities include commercial paper, U.S. government and agency securities and corporate bonds. Certain investments in non-marketable equity securities with redemption, interest, or other debt-like
-
 features are classified as available-for-sale debt securities. Subsequent changes in fair value of available-for-sale debt securities are recorded in other comprehensive income (loss), net of tax. The Company records certain of its debt securities at fair value with the changes in fair value recorded in earnings under the fair value option of accounting for financial instruments. The Company evaluates its available-for-sale debt securities for impairment at each reporting period. This evaluation consists of several qualitative and quantitative factors regarding the severity and duration of the unrealized loss as well as the Company’s ability and intent to hold the investment until a forecasted recovery occurs. Factors considered include: recent financial results and operating trends; implied values in recent transactions of investee securities; other publicly available information that may affect the value of the Company’s investments; severity and length of the decline in value; and the Company’s strategy and intentions for holding the investment.
 
 Impairment of the Company’s debt securities is recognized in earnings when a decline in value has occurred that is deemed to be other than temporary, and the current fair value becomes the new cost basis for the security. If the Company does not intend to sell a security and it is not more likely than not that it will be required to sell the security before recovery, the unrealized loss is separated into an amount representing the credit loss, which is recognized in earnings, and the amount related to all other factors, which is recorded in accumulated other comprehensive income (loss). The Company considers its marketable debt securities as available for use in current operations, including those with maturity dates beyond one year, and therefore classifies these securities as short-term investments on the consolidated balance sheets. Certain investments in non-marketable debt securities classified as available-for-sale debt securities are included in investments on the consolidated balance sheets.
@@ -2743,18 +2545,15 @@ Fair value is defined as the price that would be received to sell an asset or pa
 |Level 3|Unobservable inputs in which there is little or no market data and that are significant to the fair value of the assets or liabilities.|
 
 The Company’s primary financial instruments include cash equivalents, marketable debt securities, restricted cash and cash equivalents, accounts receivable, investments, accounts payable, accrued liabilities, long-term debt, and embedded derivatives and warrants. The estimated fair value of cash equivalents, accounts receivable, accounts payable and accrued liabilities approximates
-
-their carrying value due to the short-term maturities of these instruments. Refer to Note 3 - Investments and Fair Value Measurement and Note 8 - Long-Term Debt and Revolving Credit Arrangements for further information.
-
-Variable Interest Entities
+# Variable Interest Entities
 
 The Company evaluates its ownership, contractual and other interests in entities to determine if it has a variable interest in an entity. These evaluations are complex, involve judgment, and the use of estimates and assumptions based on available historical and prospective information, among other factors. If the Company determines that an entity for which it holds a contractual or ownership interest in is a VIE and that the Company is the primary beneficiary, the Company consolidates such entity in its consolidated financial statements. The primary beneficiary of a VIE is the party that meets both of the following criteria: (1) has the power to make decisions that most significantly affect the economic performance of the VIE; and (2) has the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the VIE. Periodically, the Company determines whether any changes in the interest or relationship with the entity impacts the determination of whether the Company is still the primary beneficiary. If the Company is not deemed to be the primary beneficiary in a VIE, the Company accounts for the investment or other variable interests in a VIE in accordance with applicable GAAP. Refer to Note 16 - Variable Interest Entities ("VIEs") for further information.
 
-Revenue Recognition
+# Revenue Recognition
 
 The Company recognizes revenue when or as it satisfies its obligation. The Company derives its revenues principally from Drivers and Restaurants’ use of the Company’s platform and related service which includes on-demand lead generation, and related activities, including facilitating payments from end-users, that enable Drivers and Restaurants to seek, receive and fulfill on-demand requests from end-users seeking Rides services and Eats services (the “Uber Service”) and from customers' use of Freight, Other Bets, and ATG and Other Technology Programs. The Company periodically reassesses its revenue recognition policies as new offering become materials, and business models and other factors evolve.
 
-Rides and Eats Master Services Agreements
+# Rides and Eats Master Services Agreements
 
 The Company enters into Master Services Agreements (“MSA”) with Drivers and Restaurants to use the platform. The MSA defines the service fee the Company charges Drivers and Restaurants for each transaction. Upon acceptance of a transaction, the Drivers and Restaurants agree to perform the Rides or Eats services as requested by an end-user. The acceptance of a transaction request combined with the MSA establishes enforceable rights and obligations for each transaction. A contract exists between the Company and the Drivers and Restaurants after the Drivers and Restaurants accept a transaction request and the Drivers' and Restaurants' ability to cancel the transaction lapses. End-users access the Platform for free and the Company has no performance obligation to end-users. As a result, end-users are not the Company's customers.
 
@@ -2763,9 +2562,6 @@ The Uber Service activities are performed to satisfy the Company’s sole perfor
 Judgment is required in determining whether the Company is the principal or agent in transactions with Drivers and Restaurants and end-users. The Company evaluates the presentation of revenue on a gross or net basis based on whether it controls the service provided to the end-user and is the principal (i.e. "gross"), or the Company arranges for other parties to provide the service to the end-user and is an agent (i.e. "net"). This determination also impacts the presentation of incentives provided to Drivers and discounts and promotions offered to end-users. For Rides and Eats transactions, the Company's role is to provide the service to Drivers and Restaurants to facilitate a successful trip or Eats service to end-users. The Company concluded it does not control the good or service provided by Drivers and Restaurants to end-users as (i) the Company does not pre-purchase or otherwise obtain control of the Drivers' and Restaurants' goods or services prior to its transfer to the end-user; (ii) the Company does not direct Drivers and Restaurants to perform the service on the Company’s behalf, and Drivers and Restaurants have the sole ability to decline a transaction request and (iii) the Company does not integrate services provided by Drivers and Restaurants with its other services and then provide them to end-users. As part of the Company's evaluation of control, the Company reviews other specific indicators to assist in the principal versus agent conclusions. The Company is not primarily responsible for Rides and Eats services provided to end-users, nor does it have inventory risk related to these services. While the Company facilitates setting the price for Rides and Eats services, the Drivers and Restaurants and end-users have the ultimate discretion in accepting the transaction price and this indicator alone does not result in the Company controlling the services provided to end-users.
 
 Drivers and Restaurants are the Company's customers and pay the Company a service fee for each successfully completed transaction with end-users. The Company's obligation in the transaction is satisfied upon completion by Drivers and Restaurants of a transaction. In the vast majority of transactions with end-users, the Company acts as an agent by connecting end-users seeking Rides and Eats services with Drivers and Restaurants looking to provide these services. Accordingly, the Company recognizes revenue on a net basis, representing the fee the Company expects to receive in exchange for the Company providing the service to Drivers and Restaurants. The Company records refunds to end-users that it recovers from Drivers and Restaurants as a reduction to revenue. Refunds to end-users due to end-user dissatisfaction with the Platform are recorded as marketing expenses and reduce the accounts receivable amount associated with the corresponding transaction.
-
-92
-
 # Rides
 
 The Company derives its Rides revenue primarily from service fees paid by Rides Drivers for use of the platform and related service to connect with Riders and successfully complete a trip via the Platform. The Company recognizes revenue when a trip is complete.
@@ -2795,7 +2591,6 @@ In consideration for the Company’s Freight services, Shippers pay the Company 
 E-Bikes and Scooters
 
 The Company derives its New Mobility revenue from operating leases as defined within ASC 842, "Leases" ("ASC 842"). New Mobility refers to offerings and products that provide users with access to rides through a variety of modes, including dockless e-
-
 # bikes and e-scooters (“New Mobility”)
 
 New Mobility also includes Transit, UberWorks and the Company’s Platform Incubator group, which is responsible for innovating new services and use cases on the Company’s platform to drive long-term growth and cross-platform customer engagement. Users contract with the Company via a rental agreement at the inception of each trip. The Company is responsible for providing access to the e-bikes and scooters over the user’s desired period of use. The Company records lease payments received upon completion of each trip.
@@ -2818,7 +2613,7 @@ Incentives provided to Drivers, who are the Company’s customers, are recorded 
 
 Incentives earned by Drivers for referring new Drivers are paid in exchange for a distinct service and are accounted for as customer acquisition costs. The Company expenses such referral payments as incurred in sales and marketing expenses in the consolidated statements of operations. The Company applied the practical expedient under ASC 340-40-25-4 and expenses costs to acquire new customer contracts as incurred because the amortization period would be one year or less. The amount recorded as an expense is the lesser of the amount of the incentive paid or the established fair value of the service received. Fair value of the service is established using amounts paid to vendors for similar services. The amounts paid to Drivers presented as sales and marketing expenses for the years ended December 31, 2017, 2018 and 2019 were $199 million, $136 million, and $103 million, respectively.
 
-The Company evaluates whether the cumulative amount of payments, including incentives, to Drivers that are not in exchange for a distinct good or service received from Drivers exceeds the cumulative revenue earned since inception of the Drivers relationships. Any cumulative payments in excess of cumulative revenue are presented as cost of revenue in the consolidated statements of operations. The amounts presented as cost of revenue for the years ended December 31, 2017, 2018 and 2019 were $530 million, $837 million and $1.1 billion, respectively.
+The Company evaluates whether the cumulative amount of payments, including incentives, to Drivers that are not in exchange for a distinct good or service received from Drivers exceeds the cumulative revenue earned since inception of the Drivers relationships. Any cumulative payments in excess of cumulative revenue are presented as cost of revenue in the consolidated statements of operations. The amounts presented as cost of revenue for the years ended December 31, 2017, 2018 and 2019 were $530 million, $837 million, and $1.1 billion, respectively.
 
 # End-User Discounts and Promotions
 
@@ -2827,7 +2622,6 @@ The Company offers discounts and promotions to end-users to encourage use of the
 - Targeted end-user discounts and promotions: These discounts and promotions are offered to a limited number of end-users in a market to acquire, re-engage, or generally increase end-users use of the platform, and are akin to a coupon. An example is an offer providing a discount on a limited number of rides or meal deliveries during a limited time period. The Company records the cost of these discounts and promotions as sales and marketing expenses at the time they are redeemed by the end-user.
 - End-user referrals: These referrals are earned when an existing end-user (the referring end-user) refers a new end-user (the referred end-user) to the platform and the new end-user takes their first ride on the platform. These referrals are typically paid in the form of a credit given to the referring end-user. These referrals are offered to attract new end-users to the Platform. The Company records the liability for these referrals and corresponding expense as sales and marketing expenses at the time the referral is earned by the referring end-user.
 - Market-wide promotions: These promotions are pricing actions in the form of discounts that reduce the end-user fare charged by Drivers and Restaurants to end-users for all or substantially all rides or meal deliveries in a specific market. This also includes any discounts offered under the Rides Pass and certain discounts within the Uber Rewards programs, which enable End-users to receive
-
 # a fixed fare or a discount on all eligible rides. Accordingly, the Company records the cost of these promotions as a reduction of revenue at the time the trip is completed.
 
 Other
@@ -2862,6 +2656,7 @@ Market-Based Awards
 
 The Company has granted RSUs and stock options that vest only upon the satisfaction of all the following conditions: service-based service conditions, performance-based conditions, and market-based conditions. The service-based condition for these awards generally is satisfied over five years. The performance-based conditions generally are satisfied upon achieving specified performance
 
+95
 # targets, such as the occurrence of a qualifying event, as described above for performance-based awards. The market-based conditions are satisfied upon the Company's achievement of specified fully-diluted equity values, as determined based on the Company's stock price.
 
 For market-based awards, the Company determines the grant-date fair value utilizing a Monte Carlo valuation model, which incorporates various assumptions including expected stock price volatility, expected term, risk-free interest rates, expected date of a qualifying event, and expected capital raise percentage. The Company estimates the volatility of common stock on the date of grant based on the weighted-average historical stock price volatility of comparable publicly-traded companies in its industry group. The Company estimates the expected term based on various exercise scenarios. The risk-free interest rate is based on the U.S.Treasury yield curve in effect at the time of grant. Prior to the Company’s IPO in May 2019, the Company estimated the expected date of a qualifying event based on third-party valuations of the Company's common stock and estimated the expected capital raise percentage based on management's expectations at the time of measurement of the award's value.
@@ -2894,7 +2689,6 @@ Subsequent to the Company’s IPO in May 2019, the fair value of common stock wa
 # Income Taxes
 
 The Company accounts for income taxes using the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been recognized in the Company’s consolidated financial statements. In estimating future tax consequences, generally all expected future events other than enactments or changes in the tax law or rates are considered. The Company accounts for uncertainty in tax positions recognized in the consolidated financial statements by recognizing a tax benefit from an uncertain tax position when it is more likely than not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, based on the technical merits. Income tax positions must meet a more-likely-than-not recognition threshold at the effective date to be recognized. Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more-likely-than-not expected to be realized based on the weighting of positive and negative evidence. Future realization of deferred tax assets ultimately
-
 depends on the existence of sufficient taxable income of the appropriate character (for example, ordinary income or capital gain) within the carryback or carryforward periods available under the applicable tax law. The Company regularly reviews the deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. The Company’s judgment regarding future profitability may change due to many factors, including future market conditions and the ability to successfully execute the business plans and/or tax planning strategies. Should there be a change in the ability to recover deferred tax assets, the Company’s income tax provision would increase or decrease in the period in which the assessment is changed. The Company elected the tax law ordering approach in assessing the realizability of net operating losses expected to offset future Global Intangible Low-taxed Income (“GILTI”).
 
 The establishment of deferred tax assets from intra-entity transfers of intangible assets requires management to make significant estimates and assumptions to determine the fair value of such intangible assets. Significant estimates in valuing intangible assets may include, but are not necessarily limited to, internal revenue and expense forecasts, the estimated life of the intangible assets, comparable transaction values, and / or discount rates. The discount rates used to discount expected future cash flows to present value are derived from a weighted-average cost of capital analysis and are adjusted to reflect the inherent risks related to the cash flow. Although the Company believes the assumptions and estimates utilized are reasonable and appropriate, they are based, in part, on historical experience, internal and external comparable data and are inherently uncertain. Unanticipated events and circumstances may occur that could affect either the accuracy or validity of such assumptions, estimates or actual results.
@@ -2917,9 +2711,10 @@ Foreign Currency
 
 The functional currency of the Company’s foreign subsidiaries is the local currency or U.S. dollar depending on the nature of the subsidiaries’ activities. Monetary assets and liabilities, and transactions denominated in currencies other than the functional currency are remeasured to the functional currency at the exchange rate in effect at the end of the period and are recorded in the current period consolidated statement of operations. Gains and losses resulting from remeasurement are recorded in foreign exchange gains (losses), net within other income (expense), net in the consolidated statement of operations. Subsidiary assets and liabilities with non-U.S. dollar functional currencies are translated at the month-end rate, retained earnings and other equity items are translated at historical
 
+97
 # rates, and revenues and expenses are translated at average exchange rates during the year. Cumulative translation adjustments are recorded within accumulated other comprehensive income (loss), a separate component of total equity (deficit).
 
-Net Income (Loss) Per Share Attributable to Common Stockholders
+# Net Income (Loss) Per Share Attributable to Common Stockholders
 
 The Company computes net income (loss) per share using the two-class method required for participating securities. The two-class method requires income available to common stockholders for the period to be allocated between common stock and participating securities based upon their respective rights to receive dividends as if all income for the period had been distributed.
 
@@ -2927,13 +2722,13 @@ The Company’s redeemable convertible preferred stock, restricted common stock,
 
 The holders of the redeemable convertible preferred stock would be entitled to dividends in preference to common shareholders, at specified rates, if declared. Then any remaining earnings would be distributed to the holders of common stock, restricted common stock, common stock issued upon early exercise of stock options, and the holders of the redeemable convertible preferred stock on a pro-rata basis assuming conversion of all redeemable convertible preferred stock into common stock. These participating securities do not contractually require the holders of such shares to participate in the Company’s losses. As such, net losses for the periods presented were not allocated to the Company’s participating securities.
 
-Insurance Reserves
+# Insurance Reserves
 
 The Company uses a combination of third-party insurance and self-insurance mechanisms, including a wholly-owned captive insurance subsidiary, to provide for the potential liabilities for certain risks, including auto liability, uninsured and underinsured motorist, auto physical damage, general liability, and workers’ compensation. The insurance reserves is the liability for unpaid losses and loss adjustment expenses, which represents the estimate of the ultimate unpaid obligation for risks retained by the Company and includes an amount for case reserves related to reported claims and an amount for losses related to events incurred but not reported as of the balance sheet date. The estimate of the ultimate obligation utilizes generally accepted actuarial methods applied to historical claim and loss experience. In addition, the Company uses assumptions based on actuarial judgment with consideration toward relevant industry claim and loss development patterns, frequency trends, and severity trends. These reserves are continually reviewed and adjusted as experience develops and new information becomes known. Adjustments, if any, relating to accidents that occurred in prior years are reflected in the current year results of operations. Reserve amounts estimated to be settled within one year are recorded in short-term insurance reserves, with longer term settlements recorded in long-term insurance reserves on the consolidated balance sheets.
 
 While management believes that the insurance reserve amount is adequate, the ultimate liability may be in excess of, or less than, the amount provided. All estimates of ultimate losses and allocated loss adjustment expenses, and of resulting reserves, are subject to inherent variability caused by the nature of the insurance claim settlement process. Such variability is increased for the Company due to limited historical experience and the nature of the coverage provided. Actual results depend upon the outcome of future contingent events and can be affected by many factors, such as claims settlement processes and changes in the economic, legal, and social environments. As a result, the net amounts that will ultimately be paid to settle the liability and when these amounts will be paid may vary from the estimate provided on the consolidated balance sheets.
 
-Loss Contingencies
+# Loss Contingencies
 
 The Company is involved in legal proceedings, claims, and regulatory, indirect tax examinations or government inquiries and investigations that may arise in the ordinary course of business. Certain of these matters include speculative claims for substantial or indeterminate amounts of damages. The Company records a liability when the Company believes that it is both probable that a loss has been incurred and the amount can be reasonably estimated. If the Company determines that a loss is reasonably possible and the loss or range of loss can be estimated, the Company discloses the possible loss in the consolidated financial statements.
 
@@ -2941,10 +2736,7 @@ The Company reviews the developments in contingencies that could affect the amou
 
 The outcome of litigation, indirect tax examinations and investigations are inherently uncertain. Therefore, if one or more of these matters were resolved against the Company for amounts in excess of management's expectations, the Company’s results of operations and financial condition, including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely affected.
 
-The Company recognizes estimated losses from contingencies that relate to proceedings in which Drivers are the plaintiffs, or proceedings and regulatory penalties against Drivers for which the Company elects to either pay on behalf of or reimburse Drivers,
-
-98
-
+The Company recognizes estimated losses from contingencies that relate to proceedings in which Drivers are the plaintiffs, or proceedings and regulatory penalties against Drivers for which the Company elects to either pay on behalf of or reimburse Drivers.
 # as a reduction of revenue in the consolidated statements of operations.
 
 All other estimated losses from contingencies are recognized in general and administrative expenses.
@@ -2970,7 +2762,6 @@ In June 2016, the FASB issued ASU 2016-13, “Financial Instruments - Credit Los
 In August 2018, the FASB issued ASU 2018-13, “Fair Value Measurement (Topic 820): Disclosure Framework - Changes to the Disclosure Requirements for Fair Value Measurement,” which modifies the disclosure requirements in ASC 820, “Fair Value Measurement” (“ASC 820”). The new standard is effective for all entities for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted. An entity is permitted to early adopt any removed or modified disclosures upon issuance of this ASU and delay adoption of the additional disclosures until their effective date. The Company does not expect the adoption of this standard to have a material impact on its consolidated financial statements.
 
 In August 2018, the FASB issued ASU 2018-15, “Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract,” which aligns the requirements for capitalizing implementation costs incurred in a cloud computing arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use-software. The standard is effective for public companies for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. Early adoption is permitted. The Company will adopt the new standard on January 1, 2020 and apply the changes prospectively.
-
 # Company Evaluation of Accounting Standard Updates
 
 Company is currently evaluating the impact of this accounting standard update on its consolidated financial statements, however, it does not expect the adoption of this standard to have a material impact on its consolidated financial statements.
@@ -3016,41 +2807,27 @@ The following tables present the Company’s revenues disaggregated by offering 
 |Total revenue|$7,932|$11,270|$14,147|
 
 (1) Excluding China and, as of May 2018, also excludes Southeast Asia.
-
 # Revenue from Contracts with Customers
 
-Rides Revenue
+|Category|Description|
+|---|---|
+|Rides Revenue|The Company derives revenue primarily from fees paid by Rides Drivers for the use of the Company’s platform(s) and related service to facilitate and complete ridesharing services.|
+|Other Revenue|Other revenue consists primarily of revenue from the Company’s U4B, financial partnerships products and other immaterial revenue streams.|
+|Eats Revenue|The Company derives revenue for Eats from Restaurants’ and Delivery People’s use of the Eats platform and related service to facilitate and complete Eats transactions.|
+|Freight Revenue|Freight revenue consists primarily of revenue from freight transportation services provided to shippers.|
+|Other Bets Revenue|Other Bets revenue consists primarily of revenue from New Mobility products, including dockless e-bikes, Platform Incubator group offerings and other immaterial revenue streams.|
 
-The Company derives revenue primarily from fees paid by Rides Drivers for the use of the Company’s platform(s) and related service to facilitate and complete ridesharing services.
-
-Other Revenue
-
-Other revenue consists primarily of revenue from the Company’s U4B, financial partnerships products and other immaterial revenue streams.
-
-Eats Revenue
-
-The Company derives revenue for Eats from Restaurants’ and Delivery People’s use of the Eats platform and related service to facilitate and complete Eats transactions.
-
-Freight Revenue
-
-Freight revenue consists primarily of revenue from freight transportation services provided to shippers.
-
-Other Bets Revenue
-
-Other Bets revenue consists primarily of revenue from New Mobility products, including dockless e-bikes, Platform Incubator group offerings and other immaterial revenue streams.
-
-Contract Balances
+# Contract Balances
 
 The Company’s contract assets for performance obligations satisfied prior to payment or contract liabilities for consideration collected prior to satisfying the performance obligations are not material in 2019.
 
-Remaining Performance Obligations
+# Remaining Performance Obligations
 
 As a result of a single contract entered into with a customer during 2018, the Company had $87 million of consideration allocated to an unfulfilled performance obligation as of December 31, 2019. The Company recognized $52 million in 2019 related to the contract.
 
 | |Less Than or Equal To 12 Months|Greater Than 12 Months|Total|
 |---|---|---|---|
 |As of December 31, 2019|$52|$35|$87|
-
 # Note 3 - Investments and Fair Value Measurement
 
 | |As of December 31, 2018|As of December 31, 2019|
@@ -3079,7 +2856,6 @@ As a result of a single contract entered into with a customer during 2018, the C
 (4) Recorded at fair value with changes in fair value recorded in other comprehensive income (loss), net of tax.
 
 (5) Recorded at fair value with changes in fair value recorded in earnings due to the election of the fair value option of accounting for financial instruments.
-
 # Assets and Liabilities Measured at Fair Value on a Recurring Basis
 
 | | | | |As of December 31, 2018| | | | | |As of December 31, 2019| | | |
@@ -3107,7 +2883,7 @@ The Company did not make any transfers between the levels of the fair value hier
 |One year through five years|Amortized Cost: $2,456|Fair Value: $2,513| | | | | | | | | | |
 | | | | | | | |Total|Amortized Cost: $2,864|Fair Value: $2,921| | | |
 
-# Summary of Amortized Cost, Unrealized Gains and Losses, and Fair Value of Debt Securities
+# Summary of Amortized Cost, Unrealized Gains and Losses, and Fair Value of Marketable and Non-Marketable Debt Securities
 
 | |As of December 31, 2018| | | |As of December 31, 2019| | | |
 |---|---|---|---|---|---|---|---|---|
@@ -3121,7 +2897,6 @@ The Company did not make any transfers between the levels of the fair value hier
 The Company measures its cash equivalents, certain investments, warrants, and derivative financial instruments at fair value. Level 1 instrument valuations are based on quoted market prices of the identical underlying security. Level 2 instrument valuations are obtained from readily available pricing sources for comparable instruments, identical instruments in less active markets, or models using market observable inputs. Level 3 instrument valuations are valued based on unobservable inputs and other estimation techniques due to the absence of quoted market prices, inherent lack of liquidity and the long-term nature of such financial instruments.
 
 The Company’s Level 3 non-marketable debt securities as of December 31, 2018 and 2019 primarily consist of redeemable preferred stock investments in privately held companies without readily determinable fair values.
-
 # The Company's Fair Value Determination Process
 
 The Company uses a third-party valuation specialist to assist management in its determination of the fair value of its Level 3 debt securities. The fair value of these debt securities is based on valuation techniques appropriate for the nature of such investments and the information available about the investees’ valuation.
@@ -3147,16 +2922,17 @@ The Company determines realized gains or losses on the sale of equity and debt s
 | |Non-marketable Debt Securities|Non-marketable Equity Securities|
 |---|---|---|
 |Balance as of December 31, 2018|$2,370|$—|
-|Total net gains (losses) Included in earnings|(8)|11|
-|Total net gains (losses) Included in other comprehensive income (loss)|4|—|
+|Total net gains (losses) included in earnings|(8)|11|
+|Total net gains (losses) included in other comprehensive income (loss)|4|—|
 |Purchases|4|56|
 |Transfers|—|31|
 |Balance as of December 31, 2019|$2,370|$98|
 
+Notes:
+
 (1) Purchases of non–marketable equity security include warrants to purchase shares of a private company that vest as certain performance criteria are met during the period.
 
 (2) Transfers include a non-marketable equity security that was previously measured at fair value on a non-recurring basis as of December 31, 2018 for which the Company elected to apply the fair value option during the year ended December 31, 2019. Management’s key inputs and assumptions used to determine an estimate of fair value for this investment is based on an option-pricing model and price of the underlying security in recent financing transactions.
-
 # The following table presents a rollforward of the Company’s financial liabilities measured at fair value as of December 31, 2018 and 2019 using significant unobservable inputs (Level 3), and the change in fair value recorded in other income (expense), net in the consolidated statements of operations (in millions):
 
 | |Convertible Debt|Embedded Derivative|
@@ -3182,7 +2958,6 @@ Convertible debt embedded derivatives originated from the issuance of the 2021 c
 In February 2016, the Company issued two warrants to an investor advisor to purchase up to 205,034 shares and 820,138 shares of the Company’s Series G redeemable convertible preferred stock at an exercise price of $0.01 per share in exchange for advisory services. The warrants were liability-classified due to the contingent redemption features in the underlying preferred stock and were subject to fair value remeasurement each reporting period. The vested warrants were exercised during the first quarter of 2019, and the Company reclassified $45 million, which represents the fair value of the exercised warrants on the exercise date, to Series G redeemable convertible preferred stock. Upon closing of the IPO, the Series G redeemable convertible preferred stock were automatically converted to shares of common stock.
 
 In connection with the sale of Uber China to Didi in August 2016, the Company committed to issue to Didi a warrant for 4 million shares of Series G redeemable convertible preferred stock at an exercise price of $0.00001 per share (the "contingent warrant"), subject to the closing of Didi’s investment. The contingent warrant was subsequently issued to Didi in February 2017 upon the closing of Didi's investment. The vesting of the contingent warrant was subject to certain restrictions on Didi, including a restriction on certain investments outside of Asia in an aggregate amount in excess of certain U.S dollar threshold (the "Significant Investment Amount") for a period of six years (a four-year initial term plus two automatic one year extensions). The warrant was to vest on a monthly basis over a four-year period from the issuance date, provided Didi has not exceeded the Significant Investment Amount. Didi exercised all its vested warrants in 2017 and the fair value of the exercised and vested shares of $37 million was included in preferred stock as of December 31, 2017. On February 5, 2018, the Company was notified by Didi that Didi closed on an investment outside of Asia in an aggregate amount in excess of the Significant Investment Amount on January 26, 2018. Accordingly, the unvested shares related to the contingent warrant were forfeited in January 2018, and the vested and exercised shares were repurchased in May 2018 for an immaterial amount. As a result of the forfeitures and repurchases, the Company recognized a gain totaling $152 million in other income (expense), net in the consolidated statements of operations during the year ended December 31, 2018.
-
 # Assets Measured at Fair Value on a Non-Recurring Basis
 
 The Company’s non-financial assets, such as goodwill, intangible assets and property and equipment are adjusted to fair value when an impairment charge is recognized. Such fair value measurements are based predominately on Level 3 inputs.
@@ -3225,7 +3000,6 @@ The carrying value of the Company’s equity method investments as of December 3
 (1) Refer to Note 19 - Divestitures for further information.
 
 (2) Refer to Note 16 - Variable Interest Entities ("VIEs") for further information.
-
 # MLU B.V. and Uber Russia/CIS Operations
 
 During the first quarter of 2018, the Company closed a transaction that contributed the net assets of its Uber Russia/CIS operations into a newly formed private limited liability company (“MLU B.V.” or “Yandex.Taxi joint venture”), with Yandex and the Company holding ownership interests in MLU B.V. In exchange for consideration contributed, the Company received a seat on MLU B.V.’s board and a 38% equity ownership interest consisting of common stock in MLU B.V. Certain contingent equity issuances of MLU B.V. may dilute the Company’s equity ownership interest to approximately 35%. The investment was determined to be an equity method investment due to the Company’s ability to exercise significant influence over MLU B.V. The initial fair value of the Company’s equity method investment in MLU B.V. was estimated using discounted cash flows of MLU B.V. The equity ownership interest in MLU B.V. was 38% as of December 31, 2018 and 2019.
@@ -3247,7 +3021,6 @@ The Company amortizes the basis difference related to the intangible assets over
 The Mission Bay 3 & 4 JV refers to Event Center Office Partners, LLC (“ECOP”), a joint venture entity established in March 2018, by Uber and two companies (“LLC Partners”) to manage the construction and operation of two office buildings owned by two ECOP wholly-owned subsidiaries. The Company contributed $136 million cash in exchange for a 45% interest in ECOP. The two LLC Partners own 45% and 10%, respectively. As of December 31, 2018, the amount of contributed cash was recorded as an equity method investment of $78 million and $58 million was recorded as a defeasance of the financing liability. The financing liability was recorded in accordance with build-to-suit accounting guidance under ASC 840 to reflect the construction costs that the LLC Partners paid on Uber's behalf. Upon the adoption of ASC 842 on January 1, 2019, the Company derecognized building asset and financing obligation liability balances associated with the construction projects as these were not build-to-suit leases under ASC 842 and reclassified the initial cash contribution of $58 million to equity method investment. As of December 31, 2019, the equity method investment for Mission Bay 3 & 4 was $138 million. The equity ownership interest in ECOP was 45% as of December 31, 2018 and 2019.
 
 Uber has significant influence over ECOP and accounts for its investment in ECOP under the equity method. Once construction is complete, at each reporting period and a quarter in arrears, the Company will adjust the carrying value of its investment to reflect its proportionate share of ECOP’s income or loss, and any impairments, with a corresponding credit or debit, respectively, to income or loss from equity method investment, net of tax in the consolidated statements of operations. In 2018, no equity earnings were recognized since the sole activity of the ECOP consisted of construction of the assets and costs incurred are capitalized. During 2019, the construction was completed and leasing activities commenced, and an immaterial amount of equity earnings was recognized during the year ended December 31, 2019. As of December 31, 2018 and 2019, the Company determined that there was no impairment of its investment in ECOP.
-
 # Note 5 - Property and Equipment, Net
 
 | |As of December 31, 2018|As of December 31, 2019|
@@ -3263,7 +3036,11 @@ Uber has significant influence over ECOP and accounts for its investment in ECOP
 |Dockless e-bikes|10|78|
 |Construction in progress|832|863|
 |Total|2,587|3,105|
-|Less: Accumulated depreciation and amortization|(946)|(1,374)|
+
+Less: Accumulated depreciation and amortization
+
+| |As of December 31, 2018|As of December 31, 2019|
+|---|---|---|
 |Property and equipment, net|$1,641|$1,731|
 
 The Company capitalized $14 million and $76 million in internal-use software costs during the years ended December 31, 2018 and 2019, respectively, which is included in property and equipment, net on the consolidated balance sheets. Amortization of capitalized software development costs was $14 million, $12 million, and $22 million for the years ended December 31, 2017, 2018, and 2019, respectively.
@@ -3285,7 +3062,6 @@ In October 2017, the Company sold real estate in the United States resulting in 
 |Variable lease cost|$100|
 |Sublease income|($2)|
 |Total lease cost|$612|
-
 # Supplemental Cash Flow Information
 
 | |Year Ended December 31, 2019|
@@ -3306,7 +3082,7 @@ In October 2017, the Company sold real estate in the United States resulting in 
 
 # Operating Leases
 
-| |Amount|
+| |As of December 31, 2019|
 |---|---|
 |Operating lease right-of-use assets|$1,594 million|
 |Operating lease liability, current|$196 million|
@@ -3315,7 +3091,7 @@ In October 2017, the Company sold real estate in the United States resulting in 
 
 # Finance Leases
 
-| |Amount|
+| |As of December 31, 2019|
 |---|---|
 |Property and equipment, at cost|$539 million|
 |Accumulated depreciation|($247 million)|
@@ -3324,18 +3100,16 @@ In October 2017, the Company sold real estate in the United States resulting in 
 |Other long-term liabilities|$143 million|
 |Total finance leases liabilities|$308 million|
 
-# Weighted-Average Remaining Lease Term
+# Weighted-Average Lease Term and Discount Rate
 
+| |Years|
+|---|---|
+|Weighted-average remaining lease term| |
 |Operating leases|16 years|
-|---|---|
 |Finance leases|2 years|
-
-# Weighted-Average Discount Rate
-
+|Weighted-average discount rate| |
 |Operating leases|7.1%|
-|---|---|
 |Finance leases|5.0%|
-
 # Maturities of lease liabilities were as follows (in millions):
 
 | |As of December 31, 2019| |
@@ -3376,7 +3150,6 @@ In 2015, the Company entered into a joint venture (“JV”) agreement with a re
 In 2016, the Company and the JV Partner agreed to dissolve the JV and terminate the Company’s commitment to the lease of the Headquarters (together “the real estate transaction”) and the Company retained a 49% indirect interest in the Land (“Indirect Interest”). Under the terms of the real estate transaction, the Company obtained the rights and title to the partially constructed building, will complete the development of the two office buildings and retain a 100% ownership in the buildings. In connection with the real estate transaction, the Company also executed two 75-year land lease agreements (“Land Leases”). As of December 31, 2019, commitments under the Land Leases total $164 million until February 2032. After 2032, the annual rent amount will adjust annually based on the prevailing consumer price index.
 
 The real estate transaction is accounted for as a financing transaction of the Company’s 49% Indirect Interest due to the Company’s continuing involvement through a purchase option on the Indirect Interest. As a financing transaction, the cash and deferred sales proceeds received from the real estate transaction are recorded as a financing obligation. As of December 31, 2019, the Company’s Indirect Interest of $65 million is included in property and equipment, net and a corresponding financing obligation of $78 million is included in other long-term liabilities. Future land lease payments of $1.7 billion will be allocated 49% to the financing obligation of the Indirect Interest and 51% to the operating lease of land.
-
 # Future Minimum Payments
 
 |Fiscal Year Ending December 31|Future Minimum Payments|
@@ -3397,14 +3170,15 @@ In the third quarter of 2019, the Company determined it has five operating and r
 
 The following table presents the changes in the carrying value of goodwill by segment for the years ended December 31, 2018 and 2019 (in millions):
 
-|As Previously Reported|Core Platform|Other Bets|Rides|Eats|Freight|Other Bets|Technology Programs|Total Goodwill|
-|---|---|---|---|---|---|---|---|---|
-|Balance as of January 1, 2018|$39|$—|$—|$—|$—|$—|$—|$39|
-|Acquisitions|$14|$100|$—|$—|$—|$—|$—|$114|
-|Balance as of December 31, 2018|$53|$100|$—|$—|$—|$—|$—|$153|
-|Reallocation due to change in segments|($53)|($100)|$25|$13|$—|$100|$15|$—|
-|Acquisitions|$—|$—|$—|$—|$—|$—|$14|$14|
-|Balance as of December 31, 2019|$—|$—|$25|$13|$—|$100|$29|$167|
+|As Previously Reported|ATG and Other Technology Programs|
+|---|---|
+|Core Platform|$0|
+|Other Bets|$0|
+|Rides|$25|
+|Eats|$13|
+|Freight|$0|
+|Other Bets|$100|
+|Total Goodwill|$167|
 
 The Company performed an annual test for goodwill impairment in the fourth quarter of the fiscal years ended December 31, 2018 and 2019 and determined that goodwill was not impaired.
 
@@ -3412,22 +3186,21 @@ Intangible Assets
 
 The components of intangible assets, net as of December 31, 2018 and 2019 were as follows (in millions except years):
 
-| |Gross Carrying Value|Accumulated Amortization|Net Carrying Value|Weighted Average Remaining Useful Life - Years|
-|---|---|---|---|---|
-|Developed technology(1)|$90|($20)|$70|4|
-|Patents|$15|($3)|$12|9|
-|Other|$3|($3)|$—|—|
-|Intangible assets|$108|($26)|$82|111|
-
+| |Gross Carrying Value|Accumulated Amortization|Net Carrying Value|
+|---|---|---|---|
+|Developed technology(1)|$90|($20)|$70|
+|Patents|$15|($3)|$12|
+|Other|$3|($3)|$0|
+|Intangible assets|$108|($26)|$82|
 # Weighted Average Remaining Useful Life -
 
-| | |Gross Carrying Value| |Accumulated Amortization| |Net Carrying Value| |Years| |
-|---|---|---|---|---|---|---|---|---|---|
-|December 31, 2019| | | | | | | | | |
-|Developed technology (1)|$94|$(35)|$59|3| | | | | |
-|Patents|$16|$(4)|$12| | | | | |8|
-|Other|$3|$(3)|$0|$0| | | | | |
-|Intangible assets|$113|$(42)|$71| | | | | | |
+| | |Gross Carrying Value| |Accumulated Amortization| |Net Carrying Value| |Years|
+|---|---|---|---|---|---|---|---|---|
+|December 31, 2019| | | | | | | | |
+|Developed technology (1)|$ 94|$(35)|$ 59|3| | | | |
+|Patents|$ 16|$(4)|$ 12| | | | |8|
+|Other|$ 3|$(3)|$ -| | | | |-|
+|Intangible assets|$ 113|$(42)|$ 71| | | | | |
 
 (1) Developed technology intangible assets include in-process research and development (“IPR&D”), which is not subject to amortization, of $27 million and $31 million as of December 31, 2018 and 2019, respectively.
 
@@ -3439,39 +3212,37 @@ The estimated aggregate future amortization expense for intangible assets subjec
 
 |Year Ending December 31,|Estimated Future Amortization Expense|
 |---|---|
-|2020|$12|
-|2021|$10|
-|2022|$9|
-|2023|$4|
-|2024|$1|
-|Thereafter|$4|
-|Total|$40|
+|2020|$ 12|
+|2021|$ 10|
+|2022|$ 9|
+|2023|$ 4|
+|2024|$ 1|
+|Thereafter|$ 4|
+|Total|$ 40|
 
-# Note 8 - Long-Term Debt and Revolving Credit Arrangements
+Note 8 - Long-Term Debt and Revolving Credit Arrangements
 
 Components of debt, including the associated effective interest rates were as follows (in millions, except for percentages):
 
-| | |As of December 31,| | |Effective Interest Rate|
-|---|---|---|---|---|---|
-|2016 Senior Secured Term Loan|2018|2019| | | |
-|$1,124|$1,113| | | |6.1%|
-|2018 Senior Secured Term Loan|$1,493|$1,478| | |6.2%|
-|2021 Convertible Notes|$1,844|$0| | |23.5%|
-|2022 Convertible Notes|$1,030|$0| | |13.7%|
-|2023 Senior Note|$500|$500| | |7.7%|
-|2026 Senior Note|$1,500|$1,500| | |8.1%|
-|2027 Senior Note|$0|$1,200| | |7.7%|
-|Total debt|$7,491|$5,791| | | |
-|Less: unamortized discount and issuance costs|$595|$57| | | |
-|Less: current portion of long-term debt| |$27|$27| | |
-|Total long-term debt|$6,869|$5,707| | | |
+| |As of December 31, 2018|As of December 31, 2019| |Effective Interest Rate|
+|---|---|---|---|---|
+|2016 Senior Secured Term Loan|$ 1,124|$ 1,113| |6.1%|
+|2018 Senior Secured Term Loan|$ 1,493|$ 1,478| |6.2%|
+|2021 Convertible Notes|$ 1,844|$ -| |23.5%|
+|2022 Convertible Notes|$ 1,030|$ -| |13.7%|
+|2023 Senior Note|$ 500|$ 500| |7.7%|
+|2026 Senior Note|$ 1,500|$ 1,500| |8.1%|
+|2027 Senior Note|$ -|$ 1,200| |7.7%|
+|Total debt|$ 7,491|$ 5,791| | |
+|Less: unamortized discount and issuance costs|$ (595)|$ (57)| | |
+|Less: current portion of long-term debt|$ (27)|$ (27)| | |
+|Total long-term debt|$ 6,869|$ 5,707| | |
 
 2016 Senior Secured Term Loan
 
 In July 2016, the Company entered into a secured term loan agreement with a syndicate of lenders to issue senior secured floating-rate term loans for a total of $1.2 billion in proceeds, net of debt discount of $23 million and debt issuance costs of $13 million, with a maturity date of July 2023 (the “2016 Senior Secured Term Loan”).
 
 On June 13, 2018, the Company entered into an amendment to the 2016 Senior Secured Term Loan agreement which increased the effective interest rate to 6.1% on the outstanding balance of the 2016 Senior Secured Term Loan as of the amendment date.
-
 # maturity date for the 2016 Senior Secured Term Loan remains July 13, 2023.
 
 The amendment qualified as a debt modification that did not result in an extinguishment except for an immaterial syndicated amount of the loan.
@@ -3495,7 +3266,6 @@ The interest rate for the 2021 Convertible Notes was 2.5% per annum, payable sem
 The interest rate for the 2022 Convertible Notes was 2.5% per annum, compounded semi-annually and payable in PIK interest. If no conversion or settlement event was triggered prior to the 2022 Convertible Notes’ maturity, the 2022 Convertible Notes were to be redeemed at an 8.0% internal rate of return (“IRR”) either immediately or over a 3-year period, at the Company’s election. The 8.0% IRR payout at maturity was incorporated into the effective interest rate calculation.
 
 On May 14, 2019, the Company closed its IPO and the holders of 2021 and 2022 Convertible Notes elected to convert the outstanding notes into common stock. Refer to Note 1 - Description of Business and Summary of Significant Accounting Policies for further information. The 2021 and 2022 Convertible Notes also contained other embedded features, such as conversion options that were exercisable upon the occurrence of various contingencies. The conversion options for the 2021 Convertible Notes involved a discount to the conversion price, which ranged from 18.0% to 30.5% increasing with the passage of time. The conversion options for the 2022 Convertible Notes involved a discount to the conversion price, which ranged from 8.1% to 44.5% increasing with the passage of time. All of the embedded features were analyzed to determine whether they should be bifurcated and separately accounted for as a derivative. Pursuant to such analysis, the Company valued and bifurcated the QIPO Conversion Option, which enabled the holders to convert their 2021 and 2022 Convertible Notes to the shares offered in a QIPO at a predefined discount from the public offering price, and recorded its initial fair value of $1.1 billion and $312 million, respectively, as a discount on the 2021 and 2022 Convertible Notes face amount. The debt discount for the 2021 and 2022 Convertible Notes was amortized to interest expense at an effective interest rate of 23.5% and 13.7%, respectively. The Company was amortizing the discount over the period until the initial maturity date of the respective notes.
-
 # The fair value of the QIPO Conversion Option
 
 The fair value of the QIPO Conversion Option was determined in accordance with the methodology described in Note 3 - Investments and Fair Value Measurement, and the changes in fair value were recognized as a component of other income (expense), net in the consolidated statements of operations. The Company recorded $89 million and $434 million of expense for the years ended December 31, 2017 and 2018, respectively, and $20 million of income for the year ended December 31, 2019, related to the change in the fair value of the 2021 Convertible Notes embedded derivative liability, which was included in total other income (expense), net in the consolidated statements of operations. The Company recorded $84 million and $67 million of expense for the years ended December 31, 2017 and 2018, respectively, and $38 million of income for the year ended December 31, 2019, related to the change in the fair value of the 2022 Convertible Notes embedded derivative liability, which was included in total other income (expense), net in the consolidated statements of operations. No value was attributed to other embedded features as they are triggered by events with a remote probability of occurrence. The agreements contained customary covenants that restricted the Company’s ability to, among other things, declare dividends or make certain distributions.
@@ -3521,7 +3291,6 @@ The fair values of the Company’s 2023, 2026 and 2027 Senior Notes were $523 mi
 |2024|$15|
 |Thereafter|$4,102|
 |Total|$5,791|
-
 # The following table presents the amount of interest expense recognized relating to the contractual interest coupon, amortization of the debt discount and issuance costs, and the IRR payout with respect to the Senior Secured Term Loan, the Convertible Notes, and the Senior Notes for the years ended December 31, 2017, 2018 and 2019 (in millions):
 
 | |Year Ended December 31, 2017|Year Ended December 31, 2018|Year Ended December 31, 2019|
@@ -3554,7 +3323,6 @@ The LCR business was included within the Company’s Rides segment. The followin
 | |2018|
 |---|---|
 |Lion City Rentals|$115|
-
 # As of December 31, 2018
 
 |Assets held for sale| |
@@ -3606,8 +3374,7 @@ The LCR business was included within the Company’s Rides segment. The followin
 
 | |As of December 31, 2018|As of December 31, 2019|
 |---|---|---|
-|Other long-term liabilities|$116| |
-
+|Other long-term liabilities| |$116|
 # As of December 31, 2018 2019
 
 |Convertible debt embedded derivatives|$ 2,018|$ —|
@@ -3617,14 +3384,13 @@ The LCR business was included within the Company’s Rides segment. The followin
 |Income tax payable|80|70|
 |Other|466|237|
 
-Other long-term liabilities
+# Other long-term liabilities
 
-$ 4,072
-$ 1,412
+| |2018|2019|
+|---|---|---|
+|Accumulated Other Comprehensive Income (Loss)|$ 4,072|$ 1,412|
 
-# Accumulated Other Comprehensive Income (Loss)
-
-The changes in composition of accumulated other comprehensive income (loss), net of tax, for the years ended December 31, 2017, 2018 and 2019 were as follows (in millions):
+# The changes in composition of accumulated other comprehensive income (loss), net of tax, for the years ended December 31, 2017, 2018 and 2019 were as follows (in millions):
 
 | |Foreign Currency Translation|Unrealized Gains (Losses) on Available-for-Sale Securities, Net of Tax|Total|
 |---|---|---|---|
@@ -3646,7 +3412,6 @@ The changes in composition of accumulated other comprehensive income (loss), net
 |Other comprehensive income (loss) before reclassifications|(3)|4|1|
 |Other comprehensive income (loss)|(3)|4|1|
 |Balance as of December 31, 2019|$ (231)|$ 44|$ (187)|
-
 # Other Income (Expense), Net
 
 The components of other income (expense), net, for the years ended December 31, 2017, 2018 and 2019 were as follows (in millions):
@@ -3683,7 +3448,6 @@ Redeemable Convertible Preferred Stock
 Upon closing of the IPO, all shares of the Company’s outstanding redeemable convertible preferred stock automatically converted into 905 million shares of common stock.
 
 As of December 31, 2018, there were warrants to purchase 150,071 shares of Series E redeemable convertible preferred stock and 922,655 shares of Series G redeemable convertible preferred stock outstanding. During 2019, the warrant to purchase Series G redeemable convertible preferred stock was exercised in full and the fair value of the warrant was reclassified to redeemable convertible preferred.
-
 # stock. Also during 2019, the warrant to purchase Series E redeemable convertible preferred stock was exercised and automatically converted to shares of common stock as a result of the IPO.
 
 |Series|Shares Authorized|Shares Issued and Outstanding|Per Share Liquidation Preference|Aggregate Liquidation Preference|Per Share Dividend Per Annum|Per Share Initial Conversion Price|Carrying Value, Net of Issuance Costs|
@@ -3721,7 +3485,6 @@ The Company has granted restricted common stock to certain continuing employees,
 |Vested|(621)|$34.84|
 |Canceled and forfeited|(66)|$34.59|
 |Unvested restricted common stock as of December 31, 2019|211|$34.73|
-
 # Equity Incentive Plans
 
 The Company maintains three equity incentive plans: the 2019 Equity Incentive Plan (“2019 Plan”), the 2013 Equity Incentive Plan (“2013 Plan”) and the 2010 Stock Plan (“2010 Plan” and collectively, “Plans”). The 2013 Plan serves as the successor to the 2010 Plan and provides for the issuance of incentive stock options (“ISOs”), nonqualified stock options (“NSOs”), SARs, restricted stock and RSUs to employees, consultants and advisors of the Company.
@@ -3738,7 +3501,7 @@ The Company’s 2019 Plan provides for the grant of ISOs, NSOs, SARs, restricted
 |---|---|---|---|---|---|
 |As of December 31, 2018|758|42,936|$9.22|5.74|$1,456|
 |Granted|86|250|$43.00| | |
-|Exercised| | | | | |
+|Exercised|417|6,884|$2.85| | |
 |Canceled and forfeited|36|1,462|$33.29| | |
 |Expired|54|39|$26.49| | |
 |As of December 31, 2019|337|34,801|$9.79|4.75|$746|
@@ -3756,7 +3519,6 @@ The total intrinsic value of stock options and SARs exercised for the years ende
 |Vested|36,034|$37.87|
 |Canceled and forfeited|17,888|$40.53|
 |Unvested and outstanding as of December 31, 2019|84,743|$39.82|
-
 # The total fair value of RSUs vested for the years ended December 31, 2017, 2018 and 2019 was $486 million, $967 million, and $1.4 billion, respectively.
 
 Stock-Based Compensation Expense
@@ -3787,7 +3549,6 @@ The weighted-average fair values of common stock and redeemable convertible pref
 |Risk-free interest rate|1.8%|2.5%|
 |Expected volatility|28.3%|34.7%|
 |Expected dividend yield|—%|—%|
-
 # The weighted-average grant-date fair values of stock options and SARs granted to employees in the years ended December 31, 2017, 2018 and 2019 were
 
 | |2017|2018|2019|
@@ -3807,8 +3568,9 @@ The weighted-average fair values of common stock and redeemable convertible pref
 
 # Share Repurchases
 
-| |Year Ended December 31,| | |2017|2018| |
+| | | | |Year Ended December 31,| | |
 |---|---|---|---|---|---|---|
+|Common stock shares repurchased| | | |2017|2018| |
 |Common stock shares repurchased| | | |3,765| |286|
 |Common stock repurchase cost|$142|$11| | | | |
 | |Fair value of repurchase recorded as an increase in accumulated deficit|$32|$13| | | |
@@ -3820,7 +3582,6 @@ The weighted-average fair values of common stock and redeemable convertible pref
 In March 2019, the Company’s board of directors adopted the Company’s ESPP, and in April 2019, the Company’s stockholders approved the ESPP. The stock-based compensation expense recognized for the ESPP was not material during the year ended December 31, 2019. The ESPP became effective on May 9, 2019, the date of the underwriting agreement between the Company and the underwriters for the IPO. There are 25 million shares of common stock reserved for issuance under the ESPP. The number of shares of the Company’s common stock available for issuance under the ESPP automatically increases on January 1 of each year, beginning in 2020 and continuing through 2029, by the lesser of (a) 1.0% of the total number of shares of common stock outstanding on December 31 of the immediately preceding calendar year, and (b) 25,000,000 shares. However, the Company’s board of directors or compensation committee may reduce the amount of the increase in any particular year.
 
 As of December 31, 2019, 2 million shares of common stock were purchased under the ESPP at a weighted-average price of $23.83 per share, resulting in cash proceeds of $49 million. The Company selected the Black-Scholes option-pricing model as the method for determining the estimated fair value for the Company’s ESPP. As of December 31, 2019, total unrecognized compensation cost related to the ESPP was $43 million, which will be amortized over a period of 0.8 year. As of December 31, 2019, 23 million shares of the Company's common stock were reserved for future grants under the Company’s ESPP.
-
 # Note 12 - Income Taxes
 
 | |Year Ended December 31,|2017|2018|2019|
@@ -3829,7 +3590,7 @@ As of December 31, 2019, 2 million shares of common stock were purchased under t
 |Foreign|$ (1,374)|$ 4,038|$ (3,507)| |
 |Income (loss) before income taxes and loss from equity method investment|$ (4,575)|$ 1,312|$ (8,433)| |
 
-# The components of the provision for (benefit from) income taxes for the years ended December 31, 2017, 2018 and 2019 are as follows (in millions):
+# Components of the provision for (benefit from) income taxes:
 
 | |Year Ended December 31,|2017|2018|2019|
 |---|---|---|---|---|
@@ -3844,7 +3605,6 @@ As of December 31, 2019, 2 million shares of common stock were purchased under t
 |Foreign|$ (29)|$ 187|$ (19)| |
 |Total deferred tax expense (benefit)|$ (762)|$ 35|$ (88)| |
 |Total provision for (benefit from) income taxes|$ (542)|$ 283|$ 45| |
-
 # The following is a reconciliation of the statutory federal income tax rate to the Company’s effective tax rate for the years ended December 31, 2017, 2018 and 2019:
 
 | |Year Ended December 31,|2017|2018|2019|
@@ -3875,7 +3635,6 @@ As of December 31, 2019, 2 million shares of common stock were purchased under t
 (3) The 2018 rate impact for “Entity restructuring” was related to a transaction that resulted in the repatriation of assets from a foreign subsidiary to a domestic subsidiary. As a result of the repatriation, the deferred tax assets were recalculated at the U.S. statutory tax rate, resulting in a total deferred tax benefit of $275 million. The rate differential between the foreign subsidiary and the United States resulted in this deferred tax benefit.
 
 The 2019 rate impact for “Entity restructuring” is related to a series of transactions resulting in changes to the Company’s international legal structure, including a redomiciliation of a subsidiary to the Netherlands and a transfer of certain intellectual property rights among wholly owned subsidiaries, primarily to align its evolving operations. The redomiciliation resulted in a step-up in the tax basis of intellectual property rights and a correlated increase in foreign deferred tax assets in an amount of $6.4 billion, net of a reserve for uncertain tax positions of $1.4 billion (refer to the 2019 rate impact for “Change in unrecognized tax benefits”). Based on available objective evidence, management believes it is not more-likely-than-not that these additional foreign deferred tax assets will be realizable as of December 31, 2019 and, therefore, are offset by a full valuation allowance (refer to the 2019 rate impact for “Valuation allowance”) to the extent not offset by reserves for uncertain tax positions. The corresponding deferred tax asset and valuation allowance balance are included in the “Fixed assets and intangible assets” and “Valuation allowance” lines, respectively, in the table below.
-
 # The components of deferred tax assets and liabilities as of December 31, 2018 and 2019 are as follows (in millions):
 
 | |As of December 31, 2018|As of December 31, 2019|
@@ -3911,7 +3670,6 @@ As of December 31, 2019, the Company had U.S. federal NOL carryforwards of $2.9 
 The Company also had U.S. federal research tax credit carryforwards of $490 million that begin to expire in 2031. The Company had state research tax credit carryforwards of $10 million that begin to expire in 2033 and $262 million that have an unlimited carryover period.
 
 In the event the Company experiences an ownership change within the meaning of Section 382 of the Internal Revenue Code (“IRC”), the Company’s ability to utilize net operating losses, tax credits and other tax attributes may be limited. The most recent analysis of the
-
 # Company’s historical ownership changes was completed through December 31, 2019. Based on the analysis, the Company does not anticipate a current limitation on the tax attributes.
 
 | |Year Ended December 31,|2017| | |2018|2019| |
@@ -3950,7 +3708,6 @@ In 2019, the Company reevaluated its indefinite reinvestment assertion with rega
 # Note 13 - Net Income (Loss) Per Share
 
 During the year ended December 31, 2017, the rights, including the liquidation and dividend rights, of the holders of Class A and Class B common stock were identical, except with respect to voting. As the liquidation and dividend rights were identical, the undistributed earnings were allocated on a proportionate basis and the resulting net loss per share attributable to common stockholders were, therefore, the same for both Class A and Class B common stock on an individual or combined basis.
-
 On January 18, 2018, the Company converted 390 million shares of its Class B common stock into Class A common stock under the conditions of the SoftBank Investment, thereby increasing the total number of Class A common stock outstanding to 450 million shares and resulting in only one class of common stock.
 
 On May 14, 2019, the Company completed its IPO, in which it issued and sold 180 million shares of its common stock at a price of $45.00 per share. On that date, all of the Company’s outstanding redeemable convertible preferred stock automatically converted into 905 million shares of common stock, and the holders of the 2021 Convertible Notes and the 2022 Convertible Notes elected to convert the outstanding notes into common stock, resulting in the issuance of shares of common stock. These shares were included in the Company’s issued and outstanding common stock starting on that date. Refer to Note 1 - Description of Business and Summary of Significant Accounting Policies for further information.
@@ -3959,26 +3716,29 @@ The Company takes into account the effect on consolidated net income (loss) per 
 
 The following table sets forth the computation of basic and diluted net income (loss) per share attributable to common stockholders for the years ended December 31, 2017, 2018 and 2019 (in millions, except share amounts which are reflected in thousands, and per share amounts):
 
-| |Year Ended December 31,|2017|2018|2019| |
-|---|---|---|---|---|---|
-|Basic net income (loss) per share:|Numerator|Net income (loss) including non-controlling interests|$(4,033)|$987|$(8,512)|
-| |Less: net income (loss) attributable to non-controlling interests, net of tax| |10|6| |
-| |Less: noncumulative dividends to preferred stockholders| |$(997)| | |
-| |Net income (loss) attributable to common stockholders|$(4,033)|$0|$(8,506)| |
-|Denominator|Basic weighted-average common stock outstanding|426,360|443,368|1,248,353| |
-|Basic net income (loss) per share attributable to common stockholders(1)|$(9.46)|$0|$(6.81)| | |
-|Diluted net income (loss) per share:|Numerator|Net income (loss) attributable to common stockholders|$(4,033)|$0|$(8,506)|
-| |Add: Change in fair value of MLU B.V. put/call feature| |$(12)| | |
-| |Add: noncumulative dividends to preferred stockholders| |$12| | |
-| |Diluted net income (loss) attributable to common stockholders|$(4,033)|$0|$(8,506)| |
-|Denominator|Number of shares used in basic net income (loss) per share computation|426,360|443,368|1,248,353| |
-| |Weighted-average effect of potentially dilutive securities:| | | | |
-| |Common stock subject to a put/call feature| |407| | |
-| |Stock options| |33,528| | |
-| |RSUs to settle fixed monetary awards| |1,073| | |
-| |Other| |623| | |
-| |Diluted weighted-average common stock outstanding|426,360|478,999|1,248,353| |
-|Diluted net income (loss) per share attributable to common stockholders(1)|$(9.46)|$0|$(6.81)| | |
+| |Year Ended December 31, 2017|2018|2019| |
+|---|---|---|---|---|
+|Basic net income (loss) per share:| | | | |
+|Numerator|Net income (loss) including non-controlling interests|$(4,033)|$987|$(8,512)|
+| |Less: net income (loss) attributable to non-controlling interests, net of tax| |10|6|
+| |Less: noncumulative dividends to preferred stockholders| |$(997)| |
+| |Net income (loss) attributable to common stockholders|$(4,033)| |$(8,506)|
+|Denominator|Basic weighted-average common stock outstanding|426,360|443,368|1,248,353|
+|Basic net income (loss) per share attributable to common stockholders(1)|$(9.46)| |$(6.81)| |
+|Diluted net income (loss) per share:| | | | |
+|Numerator|Net income (loss) attributable to common stockholders|$(4,033)| |$(8,506)|
+| |Add: Change in fair value of MLU B.V. put/call feature| |$(12)| |
+| |Add: noncumulative dividends to preferred stockholders| |$12| |
+| |Diluted net income (loss) attributable to common stockholders|$(4,033)| |$(8,506)|
+|Denominator| | | | |
+| |Number of shares used in basic net income (loss) per share computation|426,360|443,368|1,248,353|
+| |Weighted-average effect of potentially dilutive securities:| | | |
+| |Common stock subject to a put/call feature| |407| |
+| |Stock options| |33,528| |
+| |RSUs to settle fixed monetary awards| |1,073| |
+| |Other| |623| |
+| |Diluted weighted-average common stock outstanding|426,360|478,999|1,248,353|
+|Diluted net income (loss) per share attributable to common stockholders(1)|$(9.46)| |$(6.81)| |
 
 (1) Per share amounts are calculated using unrounded numbers and therefore may not recalculate.
 
@@ -3987,8 +3747,7 @@ Since the Company was in a loss position for the years ended December 31, 2017 a
 The following potentially dilutive outstanding securities were excluded from the computation of diluted net income (loss) per share because their effect would have been anti-dilutive for the periods presented, or issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied by the end of the period (in thousands):
 
 127
-
-# Year Ended December 31
+# Year Ended December 31,
 
 | |2017|2018|2019|
 |---|---|---|---|
@@ -4022,7 +3781,6 @@ During the third quarter of 2019, following a number of leadership and organizat
 For information about how the Company’s reportable segments derive revenue, refer to Note 2 - Revenue.
 
 The Company’s segment operating performance measure is segment adjusted EBITDA. The CODM does not evaluate operating segments using asset information and, accordingly, the Company does not report asset information by segment. The Company’s segment adjusted EBITDA measures replace what was previously reported as contribution profit (loss) and maintain the same definition. Previously reported Core Platform contribution profit (loss) is the sum of Rides adjusted EBITDA and Eats adjusted EBITDA, and previously reported Other Bets contribution profit (loss) is the sum of Freight adjusted EBITDA and Other Bets adjusted EBITDA. Segment adjusted EBITDA is defined as revenue less the following expenses: cost of revenue, operations and support, sales and marketing, and general and administrative and research and development expenses associated with the Company’s segments. Segment adjusted EBITDA also excludes any non-cash items, certain transactions that are not indicative of ongoing segment operating performance and / or items that management does not believe are reflective of the Company’s ongoing core operations.
-
 # Segment Information and Reconciliation
 
 | |Year Ended December 31,|2017|2018|2019|
@@ -4061,10 +3819,9 @@ Revenue by geography is based on where the trip or shipment was completed or mea
 | |Year Ended December 31,|2017|2018|2019| |
 |---|---|---|---|---|---|
 |United States|$ 4,068|$ 6,077|$ 8,225| | |
-|Brazil|$ 831|$ 959|$ 918| | |
-|All other countries|$ 3,033|$ 4,234|$ 5,004| | |
+|Brazil| |831| |959|918|
+|All other countries| |3,033| |4,234|5,004|
 |Total Revenue|$ 7,932|$ 11,270|$ 14,147| | |
-
 # As of December 31, 2018 2019
 
 | |2018|2019|
@@ -4078,7 +3835,7 @@ Revenue grouped by offerings is included in Note 2 - Revenue.
 
 Note 15 - Commitments and Contingencies
 
-# Purchase Commitments
+Purchase Commitments
 
 The Company has commitments for network and cloud services, background checks, and other items in the ordinary course of business with varying expiration terms through 2024. These amounts are determined based on the non-cancelable quantities or termination amounts to which the Company is contractually obligated. Future minimum payments for purchase commitments as of December 31, 2019 are summarized below (in millions):
 
@@ -4089,10 +3846,10 @@ The Company has commitments for network and cloud services, background checks, a
 |2022|$19|
 |2023|$5|
 |2024|$1|
-|Thereafter|-|
+|Thereafter|—|
 |Total|$235|
 
-# Contingencies
+Contingencies
 
 From time to time, the Company may be a party to various claims, non-income tax audits and litigation in the normal course of business. As of December 31, 2018 and 2019, the Company had recorded aggregate liabilities of $1.1 billion and $1.5 billion, respectively, in accrued and other current liabilities on the consolidated balance sheets for all of its legal, regulatory and non-income tax matters that were probable and reasonably estimable.
 
@@ -4101,7 +3858,6 @@ The Company is currently party to various legal and regulatory matters that have
 AB5
 
 In January 2020, AB5 went into effect. AB5 codifies a test to determine whether a worker is an employee under California law. The test is referred to as the “ABC” test, and was originally handed down by the California Supreme Court in Dynamex Operations v. Superior Court in 2018. Under the ABC test, workers performing services for a hiring entity are considered employees unless the hiring entity can demonstrate three things: the worker (A) is free from the hiring entity’s control, (B) performs work that is outside the usual course of the hiring entity’s business, and (C) customarily engages in the independent trade, work or type of business performed for the hiring entity.
-
 # The Company's Legal Challenges
 
 The Company has received lawsuits and governmental inquiries relating to AB5, and anticipates - in California and in other jurisdictions - future claims, lawsuits, arbitration proceedings, administrative actions, and government investigations and audits challenging the Company’s classification of Drivers as independent contractors and not employees. The Company believes that its current and historical approach to classification is supported by the law and intends to continue to defend itself vigorously in these matters. However, the results of litigation and arbitration are inherently unpredictable and legal proceedings related to these claims, individually or in the aggregate, could have a material impact on the Company’s business, financial condition and results of operations. Regardless of the outcome, litigation and arbitration of these matters can have an adverse impact on the Company because of defense and settlement costs individually and in the aggregate, diversion of management resources and other factors. The Company cannot reasonably estimate a range of loss at this time.
@@ -4120,8 +3876,7 @@ In December 2016, following an audit opened in 2014 investigating whether Driver
 
 # Google v. Levandowski & Ron; Google v. Levandowski
 
-On October 28, 2016, Google filed arbitration demands against each of Anthony Levandowski and Lior Ron, former employees of Google, alleging breach of their respective employment agreements with Google, fraud and other state law violations (due to soliciting Google employees and starting a new venture to compete with Google’s business in contravention of their respective employment agreements). Google sought damages, injunctive relief, and restitution. The arbitration hearing was held from April 30 to May 11, 2018. On March 26, 2019, the arbitration panel issued an interim award, finding against each of Google’s former employees and awarding $127 million against Anthony Levandowski and $1 million for which both Anthony Levandowski and Lior Ron are liable.
-
+On October 28, 2016, Google filed arbitration demands against each of Anthony Levandowski and Lior Ron, former employees of Google, alleging breach of their respective employment agreements with Google, fraud and other state law violations (due to soliciting Google employees and starting a new venture to compete with Google’s business in contravention of their respective employment agreements). Google sought damages, injunctive relief, and restitution. The arbitration hearing was held from April 30 to May 11, 2018. On March 26, 2019, the arbitration panel issued an interim award, finding against each of Google’s former employees and awarding $127 million against Anthony Levandowski and $1 million for which both Anthony Levandowski and Lior Ron are.
 # jointly and severally liable.
 
 In July 2019, Google submitted its request for interest, attorneys fees, and costs related to these claims. The Panel’s Final Award was issued on December 6, 2019. Google and Lior Ron have entered into a settlement agreement which resolves the entirety of Ron’s liability. While Uber and Levandowski are parties to an indemnification agreement, whether Uber is ultimately responsible for such indemnification is subject to a dispute between the Company and Levandowski. The ultimate resolution of the matter could result in a possible loss of up to $64 million or more (depending on interest incurred) in excess of the amount accrued. Uber is not a party to either of these arbitrations.
@@ -4145,7 +3900,6 @@ Seven consolidated actions were filed in the U.S. District Court for the Distric
 # Swiss Social Security Reclassification
 
 Several Swiss government bodies currently classify Drivers as employees of Uber Switzerland, Rasier Operations B.V. or of Uber B.V. for social security or regulatory purposes. A number of such decisions have been made by these governmental bodies. The Company is challenging each of them. The Cantonal Court of Zurich issued a ruling with regard to certain test cases on July 20, 2018. The court canceled the decisions on the grounds that certain decisions were made against the Company’s Swiss local entity without proof that there is a contractual relationship between the Company’s Swiss local entity and the Drivers (who actually contract with Uber B.V.). This ruling was not appealed and the Swiss governmental bodies continue to investigate the identity of the employer. On July 5, 2019, the Swiss governmental bodies issued four decisions by which they reclassified four drivers as Uber B.V. and Rasier Operations B.V. employees and consider that Uber Switzerland should pay social security contributions. On August 19, 2019, Uber B.V. and Rasier Operations B.V. were notified of SVA Zurich’s decision to reclassify Drivers in 2014 as employees of these entities. The Company has appealed those decisions. Further, another Swiss governmental body ruled on October 30, 2019 that Uber B.V.
-
 # should be qualified as a transportation company based on the view that Uber B.V. is the employer of Drivers. The Company appealed this decision.
 
 The Company’s chances of success on the merits are still uncertain and any possible loss or range of loss cannot be estimated.
@@ -4173,7 +3927,6 @@ In the ordinary course of business, the Company often includes standard indemnif
 |Consolidated VIEs|Total assets included on the consolidated balance sheets for these VIEs as of December 31, 2018 and 2019 were|Total liabilities included on the consolidated balance sheet for VIEs as of December 31, 2018 were|
 |---|---|---|
 | |$115 million and $1.2 billion, respectively.|not material. Total liabilities included on the consolidated balance sheet for VIEs as of December 31, 2019 were $159 million.|
-
 # Freight Holding
 
 In July 2018, the Company created a new majority-owned subsidiary, Uber Freight Holding Corporation (“Freight Holding”). The purpose of Freight Holding is to perform the business activities of the Freight operating segment. The Freight Holding stock held by the Company was determined to be a variable interest. Freight Holding is also considered to be a VIE because it lacks sufficient equity to finance activities without future subordinated support. Given that the Company has the power to direct activities that most significantly impact the economic performance of Freight Holding, the Company is the primary beneficiary of Freight Holding. As a result, the Company consolidates Freight Holding’s assets and liabilities. As of December 31, 2019, Uber continues to own the majority of the issued and outstanding capital stock of Freight Holding and reports non-controlling interests as further described in Note 17 - Non-Controlling Interests.
@@ -4192,7 +3945,6 @@ The Mission Bay 3 & 4 JV refers to ECOP, a joint venture entity established in M
 |Additional cash contribution|$58|—|
 |Limited guarantee|$50|$50|
 |Maximum exposure to loss|$186|$186|
-
 # Note 17 - Non-Controlling Interests
 
 ATG Investment: Preferred Unit Purchase Agreement
@@ -4218,7 +3970,6 @@ In conjunction with the Preferred Unit Purchase Agreement discussed above, the C
 Freight Holding
 
 As of December 31, 2018 and 2019, the Company owned 89% of the issued and outstanding capital stock of its subsidiary Freight Holding, or 80% on a fully-diluted basis if all shares reserved for issuance under the Company’s Freight Holding employee incentive plan were issued and outstanding. Under the Freight Holding incentive plan, a total number of 99.8 million shares of Freight Holding are reserved and available for grant and issuance.
-
 # The minority stockholders of the Company’s subsidiary Freight Holding
 
 including any holders of equity awards issued under the employee equity incentive plans and employees who hold fully vested shares, have put rights to sell certain of their equity interests at fair value to the Company at specified periods of time that terminates upon the earliest of the closing of a liquidation transaction or an IPO of the subsidiary. Should the put rights be exercised, they can be satisfied in either cash, Uber stock, or a combination of cash and Uber stock based upon the Company’s election.
@@ -4250,7 +4001,6 @@ In exchange for consideration contributed, the Company received a seat on MLU B.
 As a result of the loss of control over Uber Russia/CIS resulting from the transaction, the Company derecognized the assets and liabilities of Uber Russia/CIS and recorded a $954 million gain during the year ended December 31, 2018 recognized in other income (expense), net in the consolidated statements of operations.
 
 The following table presents the gain on disposition related to the divestiture of Uber Russia/CIS during the year ended December 31, 2018 (in millions):136
-
 # Year Ended December 31, 2018
 
 |Fair value of consideration received|$1,410|
@@ -4279,7 +4029,6 @@ In August 2018, the Company entered into a purchase agreement (“Grab Vehicle P
 Xchange Leasing
 
 In August 2017, the Company began a reassessment of its U.S. based wholly-owned car leasing operations Xchange Leasing resulting in a plan to exit operations. The Company assessed the fair value of the leased vehicle assets held for sale at December 31, 2017, considering the potential sale transactions, expected future cash flows, and the cost to sell the assets. Based on this assessment, the Company recorded
-
 # an impairment loss of$166 millionfor theyear ended December 31, 2017as part of the fair value measurement to reduce the carrying amount of the leased vehicle assets to their estimated fair value less costs to sell. The impairment loss was included in general and administrative expenses in the consolidated statements of operations.
 
 In January 2018, the Company closed on a transaction with a third party to sell the beneficial interest of a trust owned by the Company that holds title of the leased vehicles and leased contracts. The transaction resulted in an immaterial loss on disposal. Purchase consideration included approximately $104 millionof cash and receivables, a $5 millionnote convertible into equity of the purchaser, and $20 millionin contingent consideration to be earned based on performance of the leases post-sale. The Company used part of the proceeds to pay down the outstanding $75 millionprincipal balance of the Xchange Leasing 2016 Secured Revolving Credit Facility, which was subsequently terminated in January 2018. The Company sold the remaining Xchange Leasing vehicle assets which were not part of this transaction during 2018. The Xchange Leasing business was included within the Company’s Rides segment.
@@ -4299,7 +4048,6 @@ Divestiture of Uber Eats India to Zomato
 On January 21, 2020, the Company entered into a definitive agreement and completed the divestiture of Uber’s food delivery operations in India (“Uber Eats India”) to Zomato Media Private Limited (“Zomato”) in exchange for (i) compulsorily convertible cumulative preference shares of Zomato convertible into ordinary shares representing, when converted, 9.99% of the total voting capital of Zomato and (ii) approximately $35 million in cash for reimbursement by Zomato of goods and services tax. The estimated fair value of the consideration received is $206 million, which includes the investment valued at $171 million and the $35 million of reimbursement of goods and services tax receivable from Zomato.
 
 The divestiture of Uber Eats India does not represent a strategic shift that will have a major effect on the Company's operations and financial results, and does therefore not qualify for reporting as a discontinued operation. As of December 31, 2019, the carrying values of the assets and liabilities of the Company’s Uber Eats India operations were not material to be separately reported as held for sale on the consolidated balance sheets.
-
 # Schedule II - Valuation and Qualifying Accounts
 
 |Year Ended December 31, 2017|Balance at Beginning of Period|Additions(1), (2)|Deductions|Balance at End of Period|
@@ -4320,7 +4068,7 @@ The divestiture of Uber Eats India does not represent a strategic shift that wil
 |Deferred tax assets valuation allowance|$1,294|$8,616|$(55)|$9,855|
 |Insurance reserves|$2,937|$1,451|$(970)|$3,418|
 
-(1) Additions to insurance reserves include $318 million, $(74) million and $9 million for the years ended December 31, 2017, 2018, and 2019 respectively, for changes in estimates resulting from new developments in prior period claims.
+(1) Additions to insurance reserves include $318 million, $(74) million and $9 million for the years ended December 31, 2017, 2018 and 2019 respectively, for changes in estimates resulting from new developments in prior period claims.
 
 (2) For the year ended December 31, 2019, the increase in valuation allowance was primarily attributable to a step-up in the tax basis of intellectual property rights, an increase in U.S. federal, state and Netherlands deferred tax assets resulting from loss from operations, and tax credits generated during the year.
 
@@ -4340,6 +4088,7 @@ There were no changes to our internal control over financial reporting that occu
 
 Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their objectives as specified above. However, our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within our company have been detected.
 
+139
 # Management's Report on Internal Control over Financial Reporting
 
 The Annual Report on Form 10-K does not include a report of management's assessment regarding internal control over financial reporting or an attestation report of our independent registered public accounting firm due to a transition period established by the rules of the SEC for newly public companies.
@@ -4384,7 +4133,6 @@ We have filed the following documents as part of this Annual Report on Form 10-K
 # ITEM 16. FORM 10-K SUMMARY
 
 None.
-
 # EXHIBIT INDEX
 
 |Exhibit No.|Exhibit Description|Provided Herewith|Form|File Number|Incorporated by Reference|Exhibit|Filing Date|
@@ -4414,148 +4162,119 @@ None.
 |10.13|Amendment No. 4 to Revolving Credit Agreement, by and among the Registrant, the Lenders party thereto, and Morgan Stanley Senior Funding, Inc., dated July 13, 2016.| |S-1|333-230812| |10.18|April 11, 2019|
 
 141
-
 # 10.14 Amendment No. 5 to Revolving Credit Agreement
 
-|Parties:|Registrant, Lenders, Morgan Stanley Senior Funding, Inc.|
+|Parties:|The Registrant, the Lenders party thereto, and Morgan Stanley Senior Funding, Inc.|
 |---|---|
 |Date:|June 13, 2018|
-|Filed:|S-1 333-230812 10.19 April 11, 2019|
 
 # 10.15 Amendment No. 6 to Revolving Credit Agreement
 
-|Parties:|Registrant, Lenders, Issuing Bank, Morgan Stanley Senior Funding, Inc.|
+|Parties:|The Registrant, the Lenders party thereto, each Issuing Bank party thereto, and Morgan Stanley Senior Funding, Inc.|
 |---|---|
 |Date:|October 25, 2018|
-|Filed:|S-1 333-230812 10.20 April 11, 2019|
 
 # 10.16 Term Loan Agreement
 
-|Parties:|Registrant, Lenders, Morgan Stanley Senior Funding, Inc.|
+|Parties:|The Registrant, the Lenders party thereto, and Morgan Stanley Senior Funding, Inc.|
 |---|---|
 |Date:|July 13, 2016|
-|Filed:|S-1 333-230812 10.21 April 11, 2019|
 
 # 10.17 Amendment No. 1 to Term Loan Agreement
 
-|Parties:|Registrant, Lenders, Morgan Stanley Senior Funding, Inc.|
+|Parties:|The Registrant, the Lenders party thereto, and Morgan Stanley Senior Funding, Inc.|
 |---|---|
 |Date:|June 13, 2018|
-|Filed:|S-1 333-230812 10.22 April 11, 2019|
 
 # 10.18 Term Loan Agreement
 
-|Parties:|Registrant, Lenders, Cortland Capital Market Services LLC|
+|Parties:|The Registrant, the Lenders party thereto, and Cortland Capital Market Services LLC|
 |---|---|
 |Date:|April 4, 2018|
-|Filed:|S-1 333-230812 10.23 April 11, 2019|
 
 # 10.19 Google Maps for Work Master Agreement
 
-|Parties:|Registrant, Google Inc.|
+|Parties:|The Registrant and Google Inc.|
 |---|---|
 |Date:|October 29, 2015|
-|Filed:|S-1 333-230812 10.24 April 11, 2019|
 
 # 10.20 Amendment No. 1 to Google Maps for Work Master Agreement
 
-|Parties:|Registrant, Google Inc.|
+|Parties:|The Registrant and Google Inc.|
 |---|---|
 |Date:|August 15, 2017|
-|Filed:|S-1 333-230812 10.25 April 11, 2019|
 
 # 10.21 Google Cloud Order Form
 
-|Parties:|Registrant, Google LLC|
+|Parties:|The Registrant and Google LLC|
 |---|---|
 |Date:|December 10, 2018|
-|Filed:|S-1 333-230812 10.26 April 11, 2019|
 
 # 10.22 Google Cloud Order Form
 
-|Parties:|Registrant, Google LLC|
+|Parties:|The Registrant and Google LLC|
 |---|---|
 |Date:|March 28, 2019|
-|Filed:|S-1 333-230812 10.27 April 11, 2019|
 
 # 10.23 Amendment No. 2 to Google Maps for Work Master Agreement
 
-|Parties:|Registrant, Google LLC|
+|Parties:|The Registrant and Google LLC|
 |---|---|
 |Date:|August 8, 2019|
-|Filed:|X|
 
 # 10.24 Google Cloud Order Form
 
-|Parties:|Registrant, Google LLC|
+|Parties:|The Registrant and Google LLC|
 |---|---|
 |Date:|November 18, 2019|
-|Filed:|X|
 
 # 10.25 Amendment No. 3 to Google Maps for Work Master Agreement
 
-|Parties:|Registrant, Google LLC|
+|Parties:|The Registrant and Google LLC|
 |---|---|
 |Date:|November 18, 2019|
-|Filed:|X|
 
 # 10.26 Employment Agreement
 
-|Parties:|Registrant, Dara Khosrowshahi|
+|Parties:|The Registrant and Dara Khosrowshahi|
 |---|---|
 |Date:|April 9, 2019|
-|Filed:|S-1 333-230812 10.28 April 11, 2019|
 
 # 10.27 Employment Agreement
 
-|Parties:|Registrant, Barney Harford|
+|Parties:|The Registrant and Barney Harford|
 |---|---|
 |Date:|April 10, 2019|
-|Filed:|S-1 333-230812 10.29 April 11, 2019|
 
 # 10.28 Employment Agreement
 
-|Parties:|Registrant, Nelson Chai|
+|Parties:|The Registrant and Nelson Chai|
 |---|---|
 |Date:|April 9, 2019|
-|Filed:|S-1 333-230812 10.30 April 11, 2019|
 
 # 10.29 Addendum to Employment Agreement
 
-|Parties:|Registrant, Nelson Chai|
+|Parties:|The Registrant and Nelson Chai|
 |---|---|
 |Date:|September 1, 2019|
-|Filed:|X|
 
 # 10.30 Addendum to Employment Agreement
 
-|Parties:|Registrant, Nelson Chai|
+|Parties:|The Registrant and Nelson Chai|
 |---|---|
 |Date:|February 28, 2020|
-|Filed:|X|
 
 # 10.31 Employment Agreement
 
-|Parties:|Registrant, Thuan Pham|
+|Parties:|The Registrant and Thuan Pham|
 |---|---|
 |Date:|April 9, 2019|
-|Filed:|S-1 333-230812 10.31 April 11, 2019|
 
 # 21.1 List of Subsidiaries of the Registrant
 
-Filed:
-X
+# 23.1 Consent of PricewaterhouseCoopers LLP, independent registered public accounting firm
 
-# 23.1 Consent of PricewaterhouseCoopers LLP
-
-Filed:
-X
-
-# 24.1 Power of Attorney
-
-Details:
-Contained on signature page hereto
-
+# 24.1 Power of Attorney (contained on signature page hereto)
 # 31.1 Certification of the Principal Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
 
 X
@@ -4607,7 +4326,6 @@ Chief Executive Officer and Director
 # POWER OF ATTORNEY
 
 KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoint Dara Khosrowshahi, Nelson Chai, and Tony West, and each one of them, as his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for him or her and in their name, place and stead, in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes
-
 # Signature Title Date
 
 |Signature|Title|Date|
@@ -4636,7 +4354,6 @@ KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears bel
 |David Trujillo| | |
 
 144
-
 # Exhibit 4.1
 
 # DESCRIPTION OF COMMON STOCK
@@ -4685,47 +4402,38 @@ our Chief Executive Officer. Our amended and restated bylaws establish an advanc
 meeting of our stockholders, including proposed nominations of persons for election to our board of directors. Our board of directors has the right to elect directors
 to fill vacancies created by the expansion of our board of directors or the resignation, death, or removal of a director, which prevents stockholders from being able
 to fill vacancies on our board of directors.
-
-Section 203 of the Delaware General Corporation Law
+# Section 203 of the Delaware General Corporation Law
 
 We are subject to, and have not opted out of, Section 203 of the Delaware General Corporation Law, which prohibits a Delaware corporation from engaging in any business combination with any interested stockholder for a period of three years after the date that such stockholder became an interested stockholder, with the following exceptions:
 
-- before such date, the board of directors of the corporation approved either the business combination or the transaction that resulted in the stockholder becoming an interested stockholder;
-- upon completion of the transaction that resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85 percent of the voting stock of the corporation outstanding at the time the transaction began, excluding for purposes of determining the voting stock outstanding (but not the outstanding voting stock owned by the interested stockholder) those shares owned (i) by persons who are directors and also officers and (ii) employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or
-- on or after such date, the business combination is approved by the board of directors and authorized at an annual or special meeting of the stockholders by the affirmative vote of at least 66 and 2⁄3 percent of the outstanding voting stock that is not owned by the interested stockholder.
+- Before such date, the board of directors of the corporation approved either the business combination or the transaction that resulted in the stockholder becoming an interested stockholder;
+- Upon completion of the transaction that resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85 percent of the voting stock of the corporation outstanding at the time the transaction began, excluding for purposes of determining the voting stock outstanding (but not the outstanding voting stock owned by the interested stockholder) those shares owned (i) by persons who are directors and also officers and (ii) employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or
+- On or after such date, the business combination is approved by the board of directors and authorized at an annual or special meeting of the stockholders by the affirmative vote of at least 66 and 2⁄3 percent of the outstanding voting stock that is not owned by the interested stockholder.
 
 In general, Section 203 defines a “business combination” to include the following:
 
-- any merger or consolidation involving the corporation and the interested stockholder;
-- any sale, transfer, pledge or other disposition of 10 percent or more of the assets of the corporation involving the interested stockholder;
-- subject to certain exceptions, any transaction that results in the issuance or transfer by the corporation of any stock of the corporation to the interested stockholder;
-- any transaction involving the corporation that has the effect of increasing the proportionate share of the stock or any class or series of the corporation beneficially owned by the interested stockholder; or
-- the receipt by the interested stockholder of the benefit of any loans, advances, guarantees, pledges or other financial benefits by or through the corporation.
+- Any merger or consolidation involving the corporation and the interested stockholder;
+- Any sale, transfer, pledge or other disposition of 10 percent or more of the assets of the corporation involving the interested stockholder;
+- Subject to certain exceptions, any transaction that results in the issuance or transfer by the corporation of any stock of the corporation to the interested stockholder;
+- Any transaction involving the corporation that has the effect of increasing the proportionate share of the stock or any class or series of the corporation beneficially owned by the interested stockholder; or
+- The receipt by the interested stockholder of the benefit of any loans, advances, guarantees, pledges or other financial benefits by or through the corporation.
 
 In general, Section 203 defines an “interested stockholder” as an entity or person who, together with the person’s affiliates and associates, beneficially owns, or within three years prior to the time of determination of interested stockholder status did own, 15 percent or more of the outstanding voting stock of the corporation.
-
 # Exhibit 10.23
 
 This Amendment Number Two (“Amendment 2”), dated as of the Amendment Effective Date (as defined below) amends the Google Maps for Work Master Agreement and Service Addendum for Google Maps APIs entered into between Google LLC (“Google”) and Uber Technologies, Inc. (“Customer”) on October 28, 2015 (Master Agreement and Service Addendum collectively constituting the “Agreement”). Terms defined in the Agreement apply to this Amendment 2.
 
 The parties agree to the following modifications to the Agreement:
 
-|1. 4.6 Intellectual Property Restrictions|Google Maps for Work Master Agreement Section 4.6(E) (No Caching or Storage) is amended by adding the following subsection:|
-|---|---|
-| |“4.6 (E) (3). Exception for End User Map Usage. Subject to the conditions described below, Customer can save latitude and longitude coordinates, during the term of this Amendment 2, only:|
-| |(i) when an Uber Consumer moves a pin on a Google Map within the Uber Consumer App and saves the pin location in their Uber Consumer account; or|
-| |(ii) when an Uber Consumer selects a previously saved pin location, provides user-provided content like name (or label) to the saved pin, or any optional metadata associated with the pin in their Uber Consumer account;|
-| |(iii) for as long as the Uber Consumer retains the saved locations within their Uber Consumer Account;|
-| |(iv) when an Uber consumer saves the user-provided content like name and any optional metadata associated with a pin location to their Uber Consumer account from within the Uber Consumer App.|
-| |(v) in the countries listed in Attachment A of this Amendment 2.|
-| |(vi) For the purposes of this Amendment, restaurants utilizing the Uber Eats Applications will be considered End Users.|
-|2. Google reserves the right to modify Attachment A upon 30 days written notice to Customer.| |
-|3. General. Except as expressly modified herein, the terms and conditions of the Agreement remain in full force and effect. If there is a conflict between the Agreement and this Amendment 2, then this Amendment 2 will control. The parties may execute this Amendment in counterparts, including facsimile, PDF, or other electronic copies, which taken together will constitute one instrument.| |
+1. 4.6 Intellectual Property RestrictionsGoogle Maps for Work Master Agreement Section 4.6(E) (No Caching or Storage) is amended by adding the following subsection:“4.6 (E) (3). Exception for End User Map Usage. Subject to the conditions described below, Customer can save latitude and longitude coordinates, during the term of this Amendment 2, only:(i) when an Uber Consumer moves a pin on a Google Map within the Uber Consumer App and saves the pin location in their Uber Consumer account; or(ii) when an Uber Consumer selects a previously saved pin location, provides user-provided content like name (or label) to the saved pin, or any optional metadata associated with the pin in their Uber Consumer account;(iii) for as long as the Uber Consumer retains the saved locations within their Uber Consumer Account;(iv) when an Uber consumer saves the user-provided content like name and any optional metadata associated with a pin location to their Uber Consumer account from within the Uber Consumer App.(v) in the countries listed in Attachment A of this Amendment 2.(vi) For the purposes of this Amendment, restaurants utilizing the Uber Eats Applications will be considered End Users.
+
+2. Google reserves the right to modify Attachment A upon 30 days written notice to Customer.
+
+3. General. Except as expressly modified herein, the terms and conditions of the Agreement remain in full force and effect. If there is a conflict between the Agreement and this Amendment 2, then this Amendment 2 will control. The parties may execute this Amendment in counterparts, including facsimile, PDF, or other electronic copies, which taken together will constitute one instrument.
 
 HMP090
 
 oogi
-
 Signed by the parties’ authorized representatives on the dates written below.
 
 |GOOGLE:|CUSTOMER:|
@@ -4738,7 +4446,6 @@ Signed by the parties’ authorized representatives on the dates written below.
 HMP090
 
 oogi
-
 |Argentina|Honduras|Paraguay|
 |---|---|---|
 |Bahrain|Hong Kong|Peru|
@@ -4760,49 +4467,41 @@ oogi
 |Guatemala|Nigeria|Uruguay|
 | |Pakistan|Venezuela|
 | |Panama| |
-
 # Exhibit 10.24
 
 |Google Cloud Order Form|Google Maps APIs (Renewal)|
 |---|---|
-|Uber Technologies, Inc.| |
-
-Prepared by
-
-[***]
-
-Google LLC
-
-1600 Amphitheatre Parkway
-
-Mountain View, California 94043
-
-United States
-
-[***]@google.com
-
-Prepared for
-
-|Contact Name|Technical|Contact Email|Technical|Contact Phone|Technical|
-|---|---|---|---|---|---|
-|[***]| |[***]@uber.com| |[***]| |
-
-Customer Name: Uber Technologies, Inc.
-
-Contact Address: 155 Market Street, San Francisco, CA 94103
-
-|Bill To Contact|Ship To Contact|
-|---|---|
+|Prepared by|Google LLC|
+|1600 Amphitheatre Parkway|Mountain View, California 94043|
+|[***]@google.com|United States|
+|Prepared for| |
+|Contact Name|[***]|
+|Contact Email|[***]@uber.com|
+|Contact Phone|[***]|
+|Customer Name|Uber Technologies, Inc.|
+|Contact Address|155 Market Street|
+| |San Francisco, CA 94103|
+|Bill To Contact|Ship To|
 |[***]|[***]|
-|Bill To Name|Ship To Name|
-|Uber Technologies, Inc.|Uber Technologies, Inc.|
-|Contact Name|Contact Name|
+|Bill To Name|Uber Technologies, Inc.|
+| |Uber Technologies, Inc.|
+| |Contact Name|
+| |[***]|
+| |Ship To|
+| |Uber Technologies, Inc.|
+| |Contact Email|
+| |[***]@uber.com|
+| |Technical|
+| |Contact Phone|
+| |[***]|
+| |Technical|
+| |[***]@uber.com|
+| |Technical|
+| |[***]|
 | | |
-
-HHP090
-
-oogi
-
+| | |
+| |HHP090|
+| |oogi|
 Google
 
 |Bill To Address|155 Market St|Ship To|155 Market St|
@@ -4816,45 +4515,34 @@ Google
 HMP090
 
 oogi
-
 |SKU|Product Description|Notes|License Term|Quantity|Fees per Unit|Total Fees|
 |---|---|---|---|---|---|---|
-|GM-UBER|Google Places API, Google Maps API Services (JavaScript API (maploads), Static Maps, Android Maps API, iOS Mobile SDK), Google Maps API Web Services (Geocoding API, Directions API, Distance Matrix API); through [***]| |[***]|[***]|[***]|[***]|
-|GM-INT250K-OEM|Google Maps for Work license for EXT, INT, OEM use. Includes Directions API, Distance Matrix API, and Geocoding API. [***] map loads per sku unit.|Renew ID: gme-ubertechnologies1 Support End date: [***]|[***]|[***]|[***]|[***]|
-|GPB-ZGT-INT-500K-OEM|Google Places API for Business: [***] license/support term; up to [***] private queries|GAIA Account: [***]@gmail.com Upgrade Project ID: 391705301268 Support End date: [***]|[***]|[***]|[***]|[***]|
+|GM-UBER|Google Places API, Google Maps API Services|[***] queries), Google Maps API Services (JavaScript API (maploads), Static Maps, Android Maps API, iOS Mobile SDK) ([***] queries), and Google Maps API Web Services (Geocoding API, Directions API, Distance Matrix API) ([***] queries); through [***]|[***]|[***]|[***]|[***]|
+|GM-INT250K|Google Maps for Work license for EXT, INT, OEM|Renew ID: gme-ubertechnologies1 Support End date: [***]|[***]|[***]|[***]|[***]|
+|GPB-ZGT-INT-500K-OEM|Google Places API for Business: [***]|GAIA Account: [***]@gmail.com Upgrade Project ID: 391705301268 Support End date: [***]|[***]|[***]|[***]|[***]|
 
 Total Fees Due (excluding Taxes): [***]
 
 HHP090 oogi
-
 # Terms and Conditions
 
 This Order Form incorporates by reference the Google Maps for Work Agreement between Google LLC and Uber Technologies, Inc. (“Customer”) dated October 29, 2015 (collectively, this Order Form, Master Terms, Service Addendum, and Amendment 3 are the “Agreement”) for the applicable Service(s) listed in the Order Form above.
 
-# Capitalized Terms
+# All capitalized terms used in this Order Form have the meanings given to them in the Agreement.
 
-All capitalized terms used in this Order Form have the meanings given to them in the Agreement.
+# Subject to the terms and conditions in the Agreement, Google will continue to provide Customer the Services through [***].
 
-# Services Provided
+# Each Party represents and warrants that
 
-Subject to the terms and conditions in the Agreement, Google will continue to provide Customer the Services through [***].
+(a) it has read and understands the Agreement (including documents attached to this Order Form), and (b) it has full power and authority to enter into the Agreement.
 
-# Representations and Warranties
+# If Customer executes an agreement covering Google Maps services with Google during this Order Form’s License Term (a “New Agreement”), then the unused portion of any prepaid Fees to Google under this Order Form will be applied as a credit against the Fees owed under the New Agreement.
 
-Each Party represents and warrants that (a) it has read and understands the Agreement (including documents attached to this Order Form), and (b) it has full power and authority to enter into the Agreement.
+# At the end of this Order Form’s License Term,
 
-# Unused Fees
+(a) the License Term for the Services may only be renewed under this Agreement with mutual written consent and (b) any unused billing units (including any upgrades) will automatically expire.
 
-If Customer executes an agreement covering Google Maps services with Google during this Order Form’s License Term (a “New Agreement”), then the unused portion of any prepaid Fees to Google under this Order Form will be applied as a credit against the Fees owed under the New Agreement.
-
-# License Term Renewal
-
-At the end of this Order Form’s License Term, (a) the License Term for the Services may only be renewed under this Agreement with mutual written consent and (b) any unused billing units (including any upgrades) will automatically expire.
-
-# Effective Date
-
-By signing this Order Form, each party will be bound by the Agreement. This Order Form will be effective as of the date of the last party’s signature (“Effective Date”).
-
+# By signing this Order Form, each party will be bound by the Agreement. This Order Form will be effective as of the date of the last party’s signature (“Effective Date”).
 Google
 
 |Google LLC:|Uber Technologies, Inc.|
@@ -4863,7 +4551,6 @@ Google
 |Print Name: Philipp Schindler|Print Name: Jennifer Vescio|
 |Title: Authorized Signatory|Title: Head of Business Development|
 |Date: 2019.11.18|Date: November 15, 2019|
-
 # Exhibit 10.25
 
 # Amendment 3
@@ -4877,23 +4564,15 @@ The parties agree to the following modifications to the Agreement:
 |1.|Term.|Subject to the terms and conditions in the Agreement, Google will continue to provide Customer the Services from the Amendment Effective Date through [***].|
 |---|---|---|
 |2.|Data Protection Law:|Under this Amendment, Master Terms Section 3.7 is deleted in its entirety and replaced with the following:|
-| | |(1) Section 3.7 Privacy.|
-| | |(A) General Privacy Requirements.|
-| | |(1)End User Privacy. Customer will obtain and maintain all required consents from End Users In connection with the Customer Implementation, in accordance with applicable data protection law.|
-| | |(2)No Personally Identifiable Information. Customer will not provide to Google any End User’s personally identifiable information or device identifiers; Google will not (i) otherwise obtain or infer any personally identifiable information or device identifiers from Customer or End Users (or their devices) in connection with this Agreement, including Service Addendum A, Section 4.3 (Data Reporting), or (ii) attempt to associate trip origins with trip destinations, except that for either (i) or (ii), Google may use anonymized, randomized, temporary (not more than seven days) identifiers (for example, the Google Location Services identifier) solely to prevent abuse such as spamming and scraping by the same device and to collect anonymous, aggregate information as part of Google’s standard practices in compliance with applicable law.|
-| | |(3) No Personal Data. Neither Party will disclose Personal Data to the other Party in the provision and use of the Services. If either Party determines that the Services require the disclosure of Personal Data, the Parties agree to meet within 30 days of such determination to discuss in good faith measures to comply with applicable data protection law. Personal Data has the meaning provided in the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016).|
-| | |(4)Cookies. As noted in the Service Documentation, certain Services store and access cookies and other information on End Users’ devices. If Customer uses any of these cookie-enabled Services in the Customer Implementation, then for End Users in the European Union, Customer must comply with the EU End User Consent Policy at http://www.google.com/about/company/user-consent-policy.html.|
 
+Section 3.7 Privacy.
+
+- General Privacy Requirements:
 (B) Geolocation Privacy Requirements.
 
-|(1) End User Notification.|Customer will ensure that the Customer Implementation(s) notify End Users in advance of the type(s) of data that Customer intends to collect from the End Users or the End Users’ devices. If Customer intends to obtain the End User’s location and use it with any other data provider’s data, Customer must disclose this fact to the End User.|
-|---|---|
-|(2) End User Consent.|Customer will ensure that the Customer Implementation(s) (a) do not obtain or cache any End User’s location in any manner except with the End User’s prior consent; and (b) will let the End User revoke that consent at any time.|
-|(3) No Geolocation Data that identifies individual End Users.|If the Customer Implementation(s) provide Google with geolocation data, the Customer Data must not also include unique device identifiers associated with individual End Users.|
+(1) End User Notification. Customer will ensure that the Customer Implementation(s) notify End Users in advance of the type(s) of data that Customer intends to collect from the End Users or the End Users’ devices. If Customer intends to obtain the End User’s location and use it with any other data provider’s data, Customer must disclose this fact to the End User.(2) End User Consent. Customer will ensure that the Customer Implementation(s) (a) do not obtain or cache any End User’s location in any manner except with the End User’s prior consent; and (b) will let the End User revoke that consent at any time.(3) No Geolocation Data that identifies individual End Users. If the Customer Implementation(s) provide Google with geolocation data, the Customer Data must not also include unique device identifiers associated with individual End Users.
 
-(C) European Data Protection Terms.
-
-Google and Customer agree to the Google Maps Controller-Controller Data Protection Terms at https://privacy.google.com/businesses/mapscontrollerterms/, except that Section 9.2(c) of such terms shall not apply.
+(C) European Data Protection Terms. Google and Customer agree to the Google Maps Controller-Controller Data Protection Terms at https://privacy.google.com/businesses/mapscontrollerterms/, except that Section 9.2(c) of such terms shall not apply.
 
 All other terms and conditions of the Master Terms will remain unchanged and in full force and effect. To the extent the Master Terms conflict with this Addendum, this Addendum will govern.
 
@@ -4905,7 +4584,6 @@ Signed by the parties’ authorized representatives on the dates written below.
 |Print Name: Philipp Schindler|Print Name: Jennifer Vescio|
 |Title: Authorized Signatory|Title: Head of Business Development|
 |Date: 2019.11.18|Date: November 15, 2019|
-
 # Exhibit 10.29
 
 Addendum to Employment Agreement
@@ -4943,7 +4621,6 @@ Uber Technologies, Inc.
 
 August 30, 2019                                                                                                                        August 30, 2019
 Date                                                                                                                                   Date
-
 # Exhibit 10.30
 
 Addendum to Employment Agreement
@@ -4959,8 +4636,7 @@ WHEREAS:
 
 EMPLOYEE AND THE COMPANY AGREE AS FOLLOWS, EFFECTIVE FEBRUARY 28, 2020:
 
-For good and valuable consideration, the sufficiency of which is hereby acknowledged by the parties, Section 2(c) of the Employment Agreement is hereby
-amended in its entirety to read as follows:
+For good and valuable consideration, the sufficiency of which is hereby acknowledged by the parties, Section 2(c) of the Employment Agreement is hereby amended in its entirety to read as follows:
 
 c. Equity Grants.1. Annual RSU Grant. Subject to the approval of the Company’s Board of Directors (or a duly constituted committee thereof), you will be eligible to receive an annual equity refresh grant (each grant, an “Annual Equity Refresh Grant”). Each Annual Equity Refresh Grant will be subject to the terms and conditions set forth (i) in the Company’s 2019 Equity Incentive Plan, as amended, or any applicable successor plan, and (ii) in the applicable award agreement. Equity refresh awards are subject to manager and Company discretion, based on your performance and the performance of the Company. The Company will determine the amount of each Annual Equity Refresh Grant, and the applicable vesting conditions, on an annual basis.
 
@@ -4987,22 +4663,18 @@ Title: Chief People Officer
 February 28, 2020
 
 Date
-
 Exhibit 21.1
 Subsidiaries of the Registrant
 Rasier, LLCUber B.V.Uber International B.V.Uber International C.V.Uber NL Holdings 1 B.V.Uber Singapore Technology Pte. Ltd.
-
 # Exhibit 23.1
 
 CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
-We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-231430 and 333-235776) of Uber Technologies, Inc. of
-our report dated March 2, 2020 relating to the financial statements and financial statement schedule, which appears in this Form 10-K.
+We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (Nos. 333-231430 and 333-235776) of Uber Technologies, Inc. of our report dated March 2, 2020 relating to the financial statements and financial statement schedule, which appears in this Form 10-K.
 
 /s/ PricewaterhouseCoopers LLP
 San Francisco, California
 March 2, 2020
-
 # Exhibit 31.1
 
 CERTIFICATION OF PRINICIPAL EXECUTIVE OFFICER
@@ -5033,7 +4705,6 @@ Dara Khosrowshahi
 Chief Executive Officer and Director
 
 (Principal Executive Officer)
-
 # Exhibit 31.2
 
 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
@@ -5048,12 +4719,12 @@ I, Nelson Chai, certify that:
 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
 4. The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
-- (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
-- (b) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
-- (c) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting; and
+- Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+- Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+- Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant’s internal control over financial reporting; and
 5. The registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):
-- (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and
-- (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting.
+- All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and
+- Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s internal control over financial reporting.
 
 Date: March 2, 2020
 
@@ -5064,21 +4735,11 @@ Nelson Chai
 Chief Financial Officer
 
 (Principal Financial Officer)
-
 # CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
 
-PURSUANT TO
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
 
-18 U.S.C. SECTION 1350,
-
-AS ADOPTED PURSUANT TO
-
-SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
-
-I, Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of
-the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Uber Technologies, Inc. for the fiscal year ended December 31, 2019, fully complies
-with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Annual Report on Form 10-K fairly
-presents, in all material respects, the financial condition and results of operations of Uber Technologies, Inc.
+I, Dara Khosrowshahi, the Chief Executive Officer of Uber Technologies Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Uber Technologies, Inc. for the fiscal year ended December 31, 2019, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Annual Report on Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Uber Technologies, Inc.
 
 Date: March 2, 2020
 
@@ -5090,10 +4751,7 @@ Chief Executive Officer and Director
 
 (Principal Executive Officer)
 
-I, Nelson Chai, the Chief Financial Officer of Uber Technologies Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
-Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Uber Technologies, Inc. for the fiscal year ended December 31, 2019, fully complies with
-the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and that information contained in such Annual Report on Form 10-K fairly
-presents, in all material respects, the financial condition and results of operations of Uber Technologies, Inc.
+I, Nelson Chai, the Chief Financial Officer of Uber Technologies Inc., certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Annual Report on Form 10-K of Uber Technologies, Inc. for the fiscal year ended December 31, 2019, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, and that information contained in such Annual Report on Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Uber Technologies, Inc.
 
 Date: March 2, 2020
 
@@ -5104,4 +4762,3 @@ Nelson Chai
 Chief Financial Officer
 
 (Principal Financial Officer)
-
