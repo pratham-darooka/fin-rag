@@ -1,9 +1,0 @@
-Note 1 - Description of Business and Summary of Significant Accounting Policies
-
-Description of Business
-
-Uber Technologies, Inc. (“Uber” or “the Company”) was incorporated in Delaware in July 2010, and is headquartered in San Francisco, California. Uber is a technology platform that uses a massive network, leading technology, operational excellence and product expertise to power movement from point A to point B. Uber develops and operates proprietary technology applications supporting a variety of offerings on its platform (“platform(s)” or “Platform(s)”). Uber connects consumers (“Rider(s)”) with independent providers of ride services (“Rides Driver(s)”) for ridesharing services, and connects consumers (“Eater(s)”) with restaurants (“Restaurant(s)”) and food delivery service providers (“Delivery People”) for meal preparation and delivery services. Riders and Eaters are collectively referred to as “end-user(s)” or “consumer(s).” Rides Drivers and Delivery People are collectively referred to as “Driver(s)”. Uber also connects consumers with public transportation networks, e-bikes, e-scooters and other personal mobility options. Uber uses this same network, technology, operational excellence and product expertise to connect shippers with carriers in the freight industry. Uber is also developing technologies that will provide autonomous driving vehicle solutions to consumers, networks of vertical take-off and landing vehicles and new solutions to solve everyday problems.
-
-The Company’s technology is used around the world, principally in the United States (“U.S.”) and Canada, Latin America, Europe, the Middle East, Africa, and Asia (excluding China and Southeast Asia).
-
-Segment Change
