@@ -115,6 +115,12 @@ async def setup_agent(settings):
 
 @cl.on_message
 async def main(message: cl.Message):    
+    # TODO
+    # add SQL integration
+    # add intent analysis
+    # add disambiguation
+    # question condensation (history)
+
     chain = cl.user_session.get("chain")  
         
     cb = cl.AsyncLangchainCallbackHandler()    

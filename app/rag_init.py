@@ -135,8 +135,8 @@ def process_file() -> list:
             all_docs.append(document)
 
     text_splitter = RecursiveCharacterTextSplitter(            
-        chunk_size=1024,            
-        chunk_overlap=128       
+        chunk_size=2048,            
+        chunk_overlap=256       
         )
     
     docs = text_splitter.split_documents(all_docs)
