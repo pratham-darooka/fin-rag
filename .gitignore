@@ -2,3 +2,5 @@ venv
 .chainlit
 .env
 app/__pycache__
+fin-rag-venv
+knowledge/*.md

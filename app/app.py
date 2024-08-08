@@ -1,7 +1,7 @@
 # next 3 lines for python <3.10, else uncomment
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # nltk data
 # import nltk
@@ -64,7 +64,7 @@ def process_file() -> list:
     for kb in pdf_files:
         cached[kb] = get_file_name_from_path(kb) in [get_file_name_from_path(cache) for cache in md_files]    
     
-    logger.info(cached)
+    logger.info(f"Cached: {cached}")
 
     input_files = [k for k, v in cached.items() if not v]
     logger.info(f"Found new documents: {input_files}") if len(input_files) > 0 else logger.info("No new documents found")
@@ -72,10 +72,11 @@ def process_file() -> list:
     documents = []
 
     if ic(os.getenv('RESET_CHROMA') != 'False'):
+        logger.critical("Removing parsing cache.")
         for md_file in md_files:
             os.remove(md_file)
 
-        logger.warning("Initializing DB")
+        logger.warning("Initializing parsing")
 
         # set up parser
         parser = LlamaParse(
@@ -92,8 +93,10 @@ def process_file() -> list:
         for document in documents:
             md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
 
-            with open(md_file_path, 'a') as md_file:
+            with open(md_file_path, encoding='utf-8', mode='a') as md_file:
                 md_file.write(document.text + '\n\n')
+        
+        logger.success("Cached")
     elif ic(len(input_files) > 0):
         logger.warning("Running incremental parsing for new documents.")
         # set up parser
@@ -113,7 +116,7 @@ def process_file() -> list:
 
         for document in documents:
             md_file_path = os.path.join(KNOWLEDGE_DIRECTORY, get_file_name_from_path(document.metadata['file_name']) + '.md')
-            with open(md_file_path, 'a') as md_file:
+            with open(md_file_path, encoding='utf-8', mode='a') as md_file:
                 md_file.write(document.text + '\n\n')
         
         updated_md_files = [os.path.join(KNOWLEDGE_DIRECTORY, f"{get_file_name_from_path(file)}.md") for file in pdf_files]
@@ -230,7 +233,7 @@ async def start():
                 label="Temperature",
                 initial=0,
                 min=0,
-                max=2,
+                max=1,
                 step=0.1,
             ),
         ]
@@ -240,44 +243,17 @@ async def start():
         msg = cl.Message(content=f"### Loading documents...")   
         await msg.send()
         logger.info("Creating search engine")
+        
         search_engine = await cl.make_async(create_search_engine)() 
+        cl.user_session.set("search_engine", search_engine)
+
         logger.success("### Chatbot ready!")
     except Exception as e:
         await cl.Message(content=f"Error: {e}").send()        
         raise SystemError
     
-    if settings['Model'] == 'Gemini':
-        llm = ChatGoogleGenerativeAI(        
-            model='gemini-pro',        
-            temperature=settings['Temperature'],        
-            streaming=settings['Streaming'],        
-            convert_system_message_to_human=True    
-            )
-    else:
-        llm = ChatGroq(        
-            model="mixtral-8x7b-32768",        
-            temperature=settings['Temperature'],        
-            streaming=settings['Streaming'],        
-            )
-    
-    logger.info(f"Using {settings['Model']} with temperature = {settings['Temperature']}.")
-    
-    memory = ConversationBufferMemory(
-        memory_key="chat_history",
-        output_key="answer",
-        chat_memory=message_history,
-        return_messages=True,
-    )
-
-    retriever = search_engine.as_retriever(
-                # max_tokens_limit=4097,
-                search_type="similarity_score_threshold",
-                search_kwargs={
-                    "score_threshold": 0.5, 
-                    "k": 5
-                    },
-            )
-
+    await setup_agent(settings)
+        
     # logger.critical(QUERY_PROMPT.format_prompt(chat_history=["meow"], question="{{question}}"))
 
     # Define the chain components
@@ -290,8 +266,51 @@ async def start():
     #     | StrOutputParser(),
     # )
 
-    # logger.critical(_inputs.invoke("question"))
+    # logger.critical(_inputs.invoke("question"))    
 
+    msg.content = f"Documents loaded! How can I help you?"  
+
+    await msg.update()
+    
+@cl.on_settings_update
+async def setup_agent(settings):
+    cl.user_session.set("settings", settings)
+    logger.critical(f"Config: {settings}")
+
+    if settings['Model'] == 'Gemini':
+        llm = ChatGoogleGenerativeAI(        
+            model='gemini-pro',        
+            temperature=settings['Temperature'],        
+            streaming=settings['Streaming'],        
+            convert_system_message_to_human=True    
+            )
+    else:
+        llm = ChatGroq(        
+            model="llama3-8b-8192",        
+            temperature=settings['Temperature'],        
+            streaming=settings['Streaming'],        
+            )
+    
+    logger.info(f"Using {settings['Model']} with temperature = {settings['Temperature']}.")
+
+    memory = ConversationBufferMemory(
+        memory_key="chat_history",
+        output_key="answer",
+        chat_memory=message_history,
+        return_messages=True,
+    )
+
+    search_engine = cl.user_session.get("search_engine")
+
+    retriever = search_engine.as_retriever(
+                # max_tokens_limit=4097,
+                search_type="similarity_score_threshold",
+                search_kwargs={
+                    "score_threshold": 0.5, 
+                    "k": 5
+                    },
+            )
+    
     retriever_from_llm = MultiQueryRetriever.from_llm(
             retriever=retriever,
             # prompt=QUERY_PROMPT.format(chat_history=message_history.messages, question="{question}"),
@@ -310,17 +329,10 @@ async def start():
                 },    
         )
 
-    msg.content = f"Documents loaded! How can I help you?"  
-
-    await msg.update()
-    
     cl.user_session.set("chain", chain)
 
-@cl.on_settings_update
-async def setup_agent(settings):
-    print("on_settings_update", settings)
-    cl.user_session.set("settings", settings)
-    logger.critical(settings)
+    logger.info("App setup using latest config.")
+
 
 @cl.on_message
 async def main(message: cl.Message):    
@@ -394,4 +406,10 @@ async def main(message: cl.Message):
 
 if __name__ == "__main__":
     # do process files, change env var reset chroma, do process files again and see difference in document parsing
-    create_search_engine()
+    with open('test-1.txt', 'w') as text_file1:
+        text_file1.write(process_file())
+
+    os.environ['RESET_CHROMA'] = 'True'
+    
+    with open('test-2.txt', 'w') as text_file2:
+        text_file2.write(process_file())
